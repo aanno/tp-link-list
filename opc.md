@@ -1,6 +1,20 @@
 # One platine computer
 
+* https://www.arrow.com/en/research-and-events/articles/top-ten-dev-boards-of-2016
+
 ## MCU
+
+
+## PC like
+
+* https://www.linux.com/news/raspberry-pi-stays-top-survey-81-open-spec-sbcs
+* http://linuxgizmos.com/open-spec-allwinner-a64-hacker-board-runs-linux-or-android/
+
+### DragonBoard 410c
+
+* https://developer.qualcomm.com/hardware/dragonboard-410c
+* http://www.96boards.org/product/dragonboard410c/
+* https://www.qualcomm.com/products/dragonboard-410c
 
 ### IDEs
 
@@ -14,6 +28,10 @@
 * https://sourceforge.net/projects/mcuoneclipse/
   + https://github.com/gnu-mcu-eclipse/eclipse-plugins
 
+### Other
+
+* http://www.codeblocks.org/
+
 ### Emulation
 
 * https://balau82.wordpress.com/arm-emulation/
@@ -26,6 +44,13 @@
 * http://www.kooltek.net/mikrocontroller/mp3-player-mit-dem-stm32
 * http://www.serasidis.gr/circuits/Arduino_WebRadio_player/Arduino_WebRadio_player.htm
 
+## Software
+
+### Linux Distros
+
+* https://github.com/Linaro/documentation/blob/master/Reference-Platform/CECommon/OE.md
+  + https://www.openembedded.org/wiki/Main_Page
+* http://www.ros.org/about-ros/
 
 ## Processors with MMU (~ can run Linux)
 
