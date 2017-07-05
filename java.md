@@ -1,5 +1,9 @@
 # Java
 
+## JavaEE
+
+* https://www.heise.de/developer/meldung/Java-EE-8-auf-der-Zielgeraden-3762047.html
+
 ## Libs
 
 * https://github.com/square/okio (io)

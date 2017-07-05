@@ -20,3 +20,17 @@
 * http://asciidoctor.org/docs/editing-asciidoc-with-live-preview/
 * https://asciidoclive.com/edit/scratch/1 (online)
 * https://remarkableapp.github.io/
+
+## Chat
+
+### XMPP
+
+#### JavaScript for XMPP
+
+* https://github.com/jcbrand/converse.js
+* https://www.jsxc.org/installation.html
+* https://github.com/movim/movim
+  + https://github.com/movim/movim/wiki
+* https://tlk.io/
+
+* https://github.com/jsxc/jsxc/wiki/Prepare-apache

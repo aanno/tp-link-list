@@ -16,10 +16,11 @@
 
 * https://stackoverflow.com/questions/526347/how-do-you-get-the-rendered-height-of-an-element
 
-### Progressive Web Apps
+## Frontend Frameworks
 
-* https://www.heise.de/developer/artikel/Progressive-Web-Apps-Teil-1-Das-Web-wird-nativ-er-3733624.html
-* https://www.heise.de/developer/artikel/Progressive-Web-Apps-Teil-2-Die-Macht-des-Service-Worker-3740464.html
+### Polymer
+
+* https://www.heise.de/developer/meldung/Polymer-2-0-Googles-JavaScript-Bibliothek-macht-den-naechsten-Schritt-3718020.html
 
 ## Immutable
 
