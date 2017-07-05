@@ -23,6 +23,8 @@
 
 ## Chat
 
+* https://zulip.org/
+
 ### XMPP
 
 #### JavaScript for XMPP
