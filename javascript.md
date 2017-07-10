@@ -53,6 +53,8 @@
 * http://numeraljs.com/#locales
 * https://www.npmjs.com/package/parse-decimal-number
 
+* https://hacks.mozilla.org/2017/06/introducing-humblenet-a-cross-platform-networking-library-that-works-in-the-browser/
+
 ## Forms and JS
 
 * https://stackoverflow.com/questions/764427/how-to-capture-enter-key-being-pressed-on-pages-containing-multiple-forms

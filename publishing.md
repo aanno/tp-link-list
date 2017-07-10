@@ -21,6 +21,11 @@
 * https://asciidoclive.com/edit/scratch/1 (online)
 * https://remarkableapp.github.io/
 
+## Static Generators
+
+* https://www.gatsbyjs.org/ (React based)
+  + https://www.heise.de/developer/meldung/JavaScript-Statische-Websites-mit-React-und-Gatsby-entwickeln-3766769.html
+
 ## Chat
 
 * https://zulip.org/

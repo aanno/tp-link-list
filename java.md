@@ -12,3 +12,4 @@
 
 * https://spring.io/blog/2013/11/01/exception-handling-in-spring-mvc
 * http://blog.codeleak.pl/2013/11/controlleradvice-improvements-in-spring.html
+* https://www.heise.de/developer/meldung/Spring-beginnt-Projekt-fuer-Serverless-Computing-3765938.html

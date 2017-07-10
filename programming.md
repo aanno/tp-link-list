@@ -3,6 +3,8 @@
 ## Vorgehen
 
 * https://www.heise.de/developer/artikel/Digital-Innovation-Model-In-neun-Schritten-zum-funktionierenden-Softwarekonzept-2792638.html
+* https://www.heise.de/developer/artikel/Gamification-als-Treiber-von-Codequalitaet-3759236.html
+* https://www.heise.de/developer/artikel/Klappt-bei-Facebook-klappt-bei-uns-3767162.html
 
 ## Pattern
 
@@ -19,6 +21,7 @@
 *
 * https://www.heise.de/developer/artikel/Progressive-Web-Apps-Teil-2-Die-Macht-des-Service-Worker-3740464.html
 * https://www.heise.de/developer/artikel/Progressive-Web-Apps-Teil-3-Wie-die-Web-App-zur-App-App-wird-3464603.htmlhttps://www.heise.de/developer/artikel/Progressive-Web-Apps-Teil-4-Eine-Frage-des-Geldes-3759686.html
+* https://www.heise.de/developer/artikel/Progressive-Web-Apps-Teil-5-Das-App-Modell-der-Zukunft-3767383.html
 
 Know-how
 * https://www.heise.de/developer/artikel/Zukunft-der-Webentwicklung-Webkomponenten-und-Progressive-Web-Apps-Teil-1-3355449.html
