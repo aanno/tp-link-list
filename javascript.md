@@ -22,6 +22,16 @@
 
 * https://www.heise.de/developer/meldung/Polymer-2-0-Googles-JavaScript-Bibliothek-macht-den-naechsten-Schritt-3718020.html
 
+### React
+
+### Redux
+
+* Redux Best Practice https://medium.com/@kylpo/redux-best-practices-eef55a20cc72
+  + https://github.com/reactjs/reselect (createSelector(Creator), createStructedSelector, defaultMemoize)
+  + https://github.com/acdlite/redux-actions (createAction(s), handleAction(s) (statt switch), combineActions)
+  + https://github.com/erikras/ducks-modular-redux (http://redux.js.org/docs/api/bindActionCreators.html) 
+
+
 ## Immutable
 
 * http://thomastuts.com/blog/immutable-js-101-maps-lists.html

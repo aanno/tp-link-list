@@ -51,6 +51,8 @@ Know-how
 * http://www.foundweekends.org/giter8/
 * http://www.scala-sbt.org/0.13/docs/sbt-new-and-Templates.html
 
+* https://chris-martin.org/2015/gradle-scala-repl
+
 ##### Scala for Web Server
 
 * https://github.com/ThoughtWorksInc/Binding.scala
@@ -70,7 +72,26 @@ Know-how
 ###### Lagom
 
 * https://www.lagomframework.com/documentation/1.3.x/scala/CoreConcepts.html
-* 
+* https://groups.google.com/forum/#!topic/lagom-framework/kpNCDCQgQp8
+
+* https://github.com/lagom/online-auction-scala/
+* https://www.lagomframework.com/get-started-scala.html
+  + https://github.com/lagom/lagom-scala.g8/tree/master/src/main/g8
+
+* https://www.lagomframework.com/documentation/1.2.x/java/ServiceLocator.html#default-port
+* https://www.lagomframework.com/documentation/1.3.x/java/KafkaServer.html
+* https://www.lagomframework.com/documentation/1.3.x/java/CassandraServer.html
+
+* https://stackoverflow.com/questions/41902036/lagom-lagomservicelocatorstart-failed-to-start-embedded-service-locator-or-ser
+* https://stackoverflow.com/questions/42675442/lagoms-embedded-kafka-fails-to-start-after-killing-lagom-process-once
+* https://github.com/lagom/online-auction-scala/issues/4
+* https://stackoverflow.com/questions/42675442/lagoms-embedded-kafka-fails-to-start-after-killing-lagom-process-once
+
+* https://www.lagomframework.com/documentation/1.3.x/java/Logging.html
+* https://www.lagomframework.com/documentation/1.3.x/java/SettingsLogger.html
+
+* http://cqrs.nu/tutorial/cs/01-design
+* http://cqrs.nu/Faq/aggregates
 
 ###### Play
 
