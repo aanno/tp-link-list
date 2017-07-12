@@ -6,9 +6,17 @@
 * https://www.heise.de/developer/artikel/Gamification-als-Treiber-von-Codequalitaet-3759236.html
 * https://www.heise.de/developer/artikel/Klappt-bei-Facebook-klappt-bei-uns-3767162.html
 
+## Architektur
+
+* https://ordina-jworks.github.io/architecture/2017/06/21/pragmatic-architecture-today.html
+
 ## Pattern
 
 * https://www.heise.de/developer/artikel/DDD-Co-Teil-1-Was-an-CRUD-falsch-ist-3756224.html
+
+## Blogs
+
+* https://ordina-jworks.github.io/
 
 ## Emerging Technologies
 
@@ -49,6 +57,7 @@ Know-how
 ##### Build
 
 * http://www.foundweekends.org/giter8/
+* https://github.com/foundweekends/giter8/wiki/giter8-templates/30ac1007438f6f7727ea98c19db1f82ea8f00ac8
 * http://www.scala-sbt.org/0.13/docs/sbt-new-and-Templates.html
 
 * https://chris-martin.org/2015/gradle-scala-repl
@@ -69,10 +78,14 @@ Know-how
 * http://bhashitparikh.com/2014/10/28/hibernate-with-scala-options-with-less-pain.html (Scala and Hibernate)
 * https://stackoverflow.com/questions/1494792/hibernate-and-scala
 
+* https://www.lightbend.com/activator/template/activator-akka-scala-guice
+
 ###### Lagom
 
 * https://www.lagomframework.com/documentation/1.3.x/scala/CoreConcepts.html
+* https://ordina-jworks.github.io/microservices/2016/04/22/Lagom-First-Impressions-and-Initial-Comparison-to-Spring-Cloud.html
 * https://groups.google.com/forum/#!topic/lagom-framework/kpNCDCQgQp8
+* https://gitter.im/lagom/lagom
 
 * https://github.com/lagom/online-auction-scala/
 * https://www.lagomframework.com/get-started-scala.html
@@ -82,6 +95,12 @@ Know-how
 * https://www.lagomframework.com/documentation/1.3.x/java/KafkaServer.html
 * https://www.lagomframework.com/documentation/1.3.x/java/CassandraServer.html
 
+* https://www.lagomframework.com/blog/announcing-lagom-code-generator.html
+  + https://github.com/lagom/sbt-lagom-descriptor-generator
+
+* https://www.lagomframework.com/documentation/1.3.x/scala/ReadSide.html
+* https://www.lagomframework.com/documentation/1.3.x/scala/PersistentEntity.html
+
 * https://stackoverflow.com/questions/41902036/lagom-lagomservicelocatorstart-failed-to-start-embedded-service-locator-or-ser
 * https://stackoverflow.com/questions/42675442/lagoms-embedded-kafka-fails-to-start-after-killing-lagom-process-once
 * https://github.com/lagom/online-auction-scala/issues/4
@@ -90,8 +109,7 @@ Know-how
 * https://www.lagomframework.com/documentation/1.3.x/java/Logging.html
 * https://www.lagomframework.com/documentation/1.3.x/java/SettingsLogger.html
 
-* http://cqrs.nu/tutorial/cs/01-design
-* http://cqrs.nu/Faq/aggregates
+* https://github.com/jboner/lagom-service-locator-consul
 
 ###### Play
 
@@ -121,17 +139,48 @@ Go is well suited also for web development. Gogs has been implemented in Go and 
 
 ### Emerging Microservices
 
+* http://cqrs.nu/tutorial/cs/01-design
+* http://cqrs.nu/Faq/aggregates
+* https://msdn.microsoft.com/en-us/library/jj554200.aspx
+* https://jazzy.id.au/2016/10/08/cqrs-increases-consistency.html
+
 * https://www.heise.de/developer/artikel/Aus-der-Werkzeugkiste-Teil-4-Adam-Bien-3755575.html?artikelseite=2
   + https://prometheus.io
   + https://github.com/AdamBien/porcupine
   + http://zipkin.io/
   + https://johnragan.wordpress.com/2009/12/08/release-it-stability-patterns-and-best-practices/
 
+* https://www.lagomframework.com/documentation/1.3.x/scala/ConductR.html (scala)
+  + https://www.lightbend.com/platform/production
+
+#### Service Locator for Microservices
+
+* http://microservices.io/patterns/service-registry.html (pattern)
+* https://www.consul.io/
+  + https://www.consul.io/intro/index.html
+  + https://www.consul.io/api/
+* https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance
+
 #### C++
 
 * https://github.com/fffaraz/awesome-cpp
 * https://github.com/schlangster/cpp.react
 
+## Swagger
+
+Tool für polyglotte API Entwicklung und Dokumentation, insbesondere im JSON REST Bereich.
+
+* https://swagger.io/
+* https://github.com/swagger-api/swagger-codegen
+* https://github.com/swagger-api/swagger-codegen/tree/master/samples/client/petstore/typescript-fetch
+* https://blog.codecentric.de/en/2016/04/swagger-akka-http/ 
+
+### Springfox = Swagger + Spring
+
+* http://springfox.github.io/springfox/docs/current/
+* https://github.com/springfox/springfox/blob/master/docs/transitioning-to-v2.md
+* https://github.com/springfox/springfox
+* https://github.com/springfox/springfox-demos
 
 # Copied
 
@@ -298,17 +347,6 @@ Modernes CSS und die Neuerungen der letzten Jahre
 Programmierung Allgemein und Polyglott
 
 Generatoren
-
-Swagger
-
-Tool für polyglotte API Entwicklung und Dokumentation, insbesondere im JSON REST Bereich.
-
-Links
-
-    https://swagger.io/
-    https://github.com/swagger-api/swagger-codegen
-    https://github.com/swagger-api/swagger-codegen/tree/master/samples/client/petstore/typescript-fetch
-    https://blog.codecentric.de/en/2016/04/swagger-akka-http/ 
 
 MPS
 
