@@ -7,7 +7,7 @@
 * https://meta.stackexchange.com/questions/72395/is-it-possible-to-have-definition-lists-in-markdown
 * https://pythonhosted.org/Markdown/extensions/definition_lists.html
 
-### References
+#### References
 
 * https://en.support.wordpress.com/markdown-quick-reference/
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
@@ -21,10 +21,36 @@
 * https://asciidoclive.com/edit/scratch/1 (online)
 * https://remarkableapp.github.io/
 
+#### Tooling
+
+* http://pandoc.org/epub.html (epub)
+* https://github.com/paulfurley/markdown-to-epub-mobi (epub)
+
+
+### Asciidoctor (and Asciidoc)
+
+#### References
+
+* http://asciidoctor.org/docs/asciidoc-writers-guide/
+* http://asciidoctor.org/docs/user-manual/#introduction-to-asciidoctor
+
+#### Tooling
+
+* http://asciidoctor.org/docs/install-toolchain/
+* http://asciidoctor.org/docs/convert-asciidoc-to-epub/ (epub)
+* http://theantway.com/2017/06/how-to-convert-asciidoc-book-to-epubmobi-formats/ (epub, mobi)
+* http://www.methods.co.nz/asciidoc
+  + http://www.methods.co.nz/asciidoc/publishing-ebooks-with-asciidoc.html (epub)
+  + http://asciidoc.org/epub-notes.html (epub)
+
 ## Static Generators
 
 * https://www.gatsbyjs.org/ (React based)
   + https://www.heise.de/developer/meldung/JavaScript-Statische-Websites-mit-React-und-Gatsby-entwickeln-3766769.html
+
+## Dynamic Generators
+
+* http://jupyter.org/
 
 ## Chat
 

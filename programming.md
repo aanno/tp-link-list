@@ -18,6 +18,11 @@
 
 * https://ordina-jworks.github.io/
 
+## Lang
+
+* http://opalang.org/
+* https://www.meteor.com
+
 ## Emerging Technologies
 
 ### Emerging Web
@@ -137,11 +142,22 @@ Go is well suited also for web development. Gogs has been implemented in Go and 
 * http://www.mono-project.com/news/
 * http://www.mono-project.com/docs/advanced/garbage-collector/sgen/
 
+###### Vert.x 3
+
+* https://www.informatik-aktuell.de/entwicklung/programmiersprachen/vertx-3-reactive-microservices.html
+* https://github.com/vert-x3/vertx-awesome
+* https://github.com/vert-x3
+* https://github.com/eclipse/vert.x
+* https://github.com/vert-x3/vertx-codegen
+
+* https://github.com/kohesive/kovert
+
 ### Emerging Microservices
 
 * http://cqrs.nu/tutorial/cs/01-design
 * http://cqrs.nu/Faq/aggregates
 * https://msdn.microsoft.com/en-us/library/jj554200.aspx
+* https://msdn.microsoft.com/en-us/library/jj591573.aspx
 * https://jazzy.id.au/2016/10/08/cqrs-increases-consistency.html
 
 * https://www.heise.de/developer/artikel/Aus-der-Werkzeugkiste-Teil-4-Adam-Bien-3755575.html?artikelseite=2
@@ -181,6 +197,10 @@ Tool für polyglotte API Entwicklung und Dokumentation, insbesondere im JSON RES
 * https://github.com/springfox/springfox/blob/master/docs/transitioning-to-v2.md
 * https://github.com/springfox/springfox
 * https://github.com/springfox/springfox-demos
+
+## RPC and Remoting
+
+* https://grpc.io/
 
 # Copied
 
