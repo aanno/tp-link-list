@@ -101,3 +101,11 @@
 
 * https://blog.mariusschulz.com/2017/01/06/typescript-2-1-keyof-and-lookup-types
 * http://www.chriskrycho.com/2016/keyof-and-mapped-types-in-typescript-21.html
+
+## JS alternative languages
+
+### Java on JS
+
+* https://github.com/konsoletyper/teavm-flavour
+* https://github.com/konsoletyper/teavm
+* https://github.com/konsoletyper/teavm-flavour-examples-todomvc

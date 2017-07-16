@@ -37,11 +37,20 @@
 #### Tooling
 
 * http://asciidoctor.org/docs/install-toolchain/
+  + http://asciidoctor.org/docs/editing-asciidoc-with-live-preview/
+  + https://asciidoclive.com/
+  + https://github.com/asciidoctor/asciidoctor-epub3/blob/master/data/samples/asciidoctor-js-browser-extension.adoc
 * http://asciidoctor.org/docs/convert-asciidoc-to-epub/ (epub)
 * http://theantway.com/2017/06/how-to-convert-asciidoc-book-to-epubmobi-formats/ (epub, mobi)
 * http://www.methods.co.nz/asciidoc
   + http://www.methods.co.nz/asciidoc/publishing-ebooks-with-asciidoc.html (epub)
   + http://asciidoc.org/epub-notes.html (epub)
+
+## Formats
+
+### Epub
+
+* https://github.com/idpf/epubcheck
 
 ## Static Generators
 
