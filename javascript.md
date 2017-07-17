@@ -31,6 +31,11 @@
   + https://github.com/acdlite/redux-actions (createAction(s), handleAction(s) (statt switch), combineActions)
   + https://github.com/erikras/ducks-modular-redux (http://redux.js.org/docs/api/bindActionCreators.html) 
 
+## Angular
+
+* https://stackoverflow.com/questions/35368633/angular-2-download-pdf-from-api-and-display-it-in-view (pdf in view)
+
+* https://github.com/angular/angular-cli
 
 ## Immutable
 

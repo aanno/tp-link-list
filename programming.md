@@ -9,6 +9,8 @@
 ## Architektur
 
 * https://ordina-jworks.github.io/architecture/2017/06/21/pragmatic-architecture-today.html
+* https://de.m.wikipedia.org/wiki/Ressourcenbelegung_ist_Initialisierung
+* https://de.m.wikipedia.org/wiki/Communicating_Sequential_Processes
 
 ## Pattern
 

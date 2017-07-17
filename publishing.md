@@ -46,11 +46,22 @@
   + http://www.methods.co.nz/asciidoc/publishing-ebooks-with-asciidoc.html (epub)
   + http://asciidoc.org/epub-notes.html (epub)
 
+## Book Converter
+
+* https://github.com/phxql/kotlin-one-epub
+  + md -> epub of https://github.com/JetBrains/kotlin-web-site/tree/master/pages/docs/reference
+  + pdf generation is part of the web site
+* https://gittobook.org (online, pandoc based)
+  + https://gittobook.org/books/47/git-to-book-docs
+  + https://gittobook.org/books/92/lagom (lagom as example)
+* https://github.com/akka/akka/tree/master/akka-docs (md to web site)
+
 ## Formats
 
 ### Epub
 
 * https://github.com/idpf/epubcheck
+* https://github.com/futurepress/epub.js/
 
 ## Static Generators
 
@@ -60,6 +71,11 @@
 ## Dynamic Generators
 
 * http://jupyter.org/
+
+## Html Bundlers
+
+* http://devdocs.io/
+  + https://github.com/Thibaut/devdocs
 
 ## Chat
 
