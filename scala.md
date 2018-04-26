@@ -9,6 +9,18 @@ Scala ist eine funktionale Alternative zu Java auf der JVM, die mittlerweile in 
 
 prinzipiell der klassischen Programmierung überlegen ist.
 
+## Spezielle Themen
+
+* https://docs.scala-lang.org/tutorials/FAQ/yield.html
+
+## Libs
+
+* https://github.com/functional-streams-for-scala/fs2 (functional streams)
+* https://doc.akka.io/docs/akka/2.4/scala/stream/ (akka streams)
+* https://monix.io/docs/3x/ (concurrency lib)
+* https://typelevel.org/cats/
+* https://github.com/scalaz/scalaz (fp, obsolete, use cats)
+
 ## Links
 
 * https://www.scala-lang.org/

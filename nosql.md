@@ -1,5 +1,14 @@
 # No SQL
 
+* http://nosql-database.org/
+* https://de.wikipedia.org/wiki/NoSQL
+* http://bigdata-madesimple.com/18-free-and-widely-used-open-source-nosql-databases/
+
+## Products
+
+* https://www.mongodb.com/
+* https://redis.io/
+
 ## Cassandra
 
 * https://cassandra.apache.org/
