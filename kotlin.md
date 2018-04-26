@@ -14,6 +14,10 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 
 * https://github.com/Kotlin/KEEP/blob/master/proposals/sealed-class-inheritance.md
 
+## Articles
+
+* https://hellsoft.se/simple-asynchronous-loading-with-kotlin-coroutines-f26408f97f46
+
 ## Examples
 
 * https://github.com/ebean-orm-examples/example-kotlin-web (guice, REST, Ebean)

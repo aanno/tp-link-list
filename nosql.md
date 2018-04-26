@@ -13,3 +13,7 @@
 * http://orientdb.com/orientdb/
 * https://github.com/xvik/guice-persist-orient (guice integration)
 
+## Graph
+
+* http://janusgraph.org/
+
