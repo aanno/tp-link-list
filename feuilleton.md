@@ -15,4 +15,8 @@
 * https://www.theguardian.com/music/2017/may/25/beatles-sgt-pepper-50th-anniversary-edition-review-lonely-hearts-club-band-remix-album
 * http://www.deutschlandfunk.de/50-jahre-sgt-peppers-lonely-hearts-club-band-ein-monument.871.de.html?dram:article_id=387578
 * http://www.rollingstone.com/music/news/beatles-prep-massive-sgt-pepper-50th-anniversary-sets-w474974
-* 
+
+
+### Wissen
+
+* https://www.spektrum.de/kolumne/die-beulen-der-erde/1559254

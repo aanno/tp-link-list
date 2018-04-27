@@ -18,9 +18,11 @@
 ## Key-value DB
 
 * http://geode.apache.org/
+  + http://geode.apache.org/docs/guide/15/developing/book_intro.html
 * https://pivotal.io/de/pivotal-gemfire
 
 ## Hardware related
 
 * https://opencord.org/
 * https://fd.io/
+* https://github.com/stratis-storage/stratisd

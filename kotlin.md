@@ -17,6 +17,7 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 ## Articles
 
 * https://hellsoft.se/simple-asynchronous-loading-with-kotlin-coroutines-f26408f97f46
+* https://www.informatik-aktuell.de/entwicklung/programmiersprachen/ist-kotlin-das-bessere-java-eine-einfuehrung.html
 
 ## Examples
 

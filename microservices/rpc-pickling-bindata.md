@@ -10,6 +10,11 @@
 ## Rpc 
 
 * https://grpc.io/
+* https://twitter.github.io/finagle/
+  + https://github.com/twitter/finagle
+  + https://github.com/novus/unfinagled
+  + https://github.com/twitter/finatra
+  + https://github.com/finagle/finch
 
 ## Pickling
 
