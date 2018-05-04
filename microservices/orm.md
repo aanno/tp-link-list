@@ -8,6 +8,8 @@
 
 ### Java
 
+* https://github.com/Ryan-ZA/async-elastic-orm
+
 #### JPA compatible
 
 #### non-JPA
@@ -44,9 +46,20 @@
 + https://stackoverflow.com/questions/38343372/generate-generic-crud-operationsinsert-delete-update-with-slick
 + https://www.becompany.ch/en/blog/2016/12/15/slick-dos-and-donts
 + https://codewithstyle.info/slick-vs-anorm-choosing-db-framework-scala-application/
+* http://tpolecat.github.io/doobie/
+  + https://github.com/tpolecat/doobie
+* http://getquill.io/
   
 ### Kotlin
 
 #### Implementations
 
 * https://github.com/JetBrains/Exposed
+* https://github.com/requery/requery (SQL level but cool)
+* https://github.com/SubiyaCryolite/jds (I don't understand the design)
+
+### Access to JPA
+
+* https://dev.to/livioribeiro/mapping-jpa-entities-with-kotlin-36d
+* http://www.baeldung.com/kotlin-jpa
+* https://github.com/consoleau/kotlin-jpa-specification-dsl (spring-data)

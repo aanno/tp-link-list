@@ -10,6 +10,10 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 
 * http://kotlinlang.org/docs/tutorials/koans.html
 
+## Link lists
+
+* https://github.com/KotlinBy/awesome-kotlin
+
 ## language feature
 
 * https://github.com/Kotlin/KEEP/blob/master/proposals/sealed-class-inheritance.md

@@ -21,6 +21,8 @@
 * https://javalin.io/
 * https://ktor.io/index.html
   + https://github.com/kotlin/ktor
+* http://hexagonkt.com/
+  + https://github.com/hexagonkt/hexagon
 
 ### Libs 
 
@@ -35,7 +37,7 @@
 ### Self-written
 
 * https://nordicapis.com/building-a-rest-api-in-java-scala-using-play-framework-2-part-1/
-* https://medium.com/software-engineering-for-the-real-world/how-to-build-fast-and-robust-rest-api-with-scala-24e50621fe61
+* https://medium.cforom/software-engineering-for-the-real-world/how-to-build-fast-and-robust-rest-api-with-scala-24e50621fe61
 
 #### Akka based
 
@@ -46,6 +48,8 @@
 
 * https://www.playframework.com/
   + https://www.playframework.com/documentation/2.6.x/ScalaAsync
+  + https://www.playframework.com/documentation/2.6.x/JavaJPA
+  + http://www.jamesward.com/2012/05/08/play-2-java-tutorial
 * https://www.lagomframework.com
   + https://www.lagomframework.com/documentation/1.4.x/java/ReadSideJPA.html
   + https://www.lagomframework.com/documentation/1.4.x/java/PersistentEntity.html
@@ -62,3 +66,12 @@
 ### Libs
 
 * https://github.com/scalaj/scalaj-http
+* https://github.com/twitter/finatra
+* http://scalatra.org/
+  + https://github.com/scalatra/scalatra
+  
+### Scala-Spring (obsolete!)
+
+* https://dzone.com/articles/akka-samples-scala-and-spring
+* https://hub.darcs.net/psnively/spring-scala
+* https://github.com/dnvriend/spring-boot-with-scala

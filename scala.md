@@ -9,7 +9,10 @@ Scala ist eine funktionale Alternative zu Java auf der JVM, die mittlerweile in 
 
 prinzipiell der klassischen Programmierung überlegen ist.
 
-## Special interest
+## Link lists
+
+* https://github.com/lauris/awesome-scala
+
 
 * https://docs.scala-lang.org/tutorials/FAQ/yield.html
   + https://alvinalexander.com/scala/scala-for-loop-yield-examples-yield-tutorial
