@@ -23,6 +23,13 @@
   + https://github.com/kotlin/ktor
 * http://hexagonkt.com/
   + https://github.com/hexagonkt/hexagon
+  
+### Kotlin with Spring
+
+* https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0
+* https://github.com/konrad-kaminski/spring-kotlin-coroutine
+* http://blog.alexnesterov.com/post/kotlin-coroutines-in-spring/
+* https://moelholm.com/2017/03/19/spring-boot-a-bit-more-cool-with-kotlin/
 
 ### Libs 
 
