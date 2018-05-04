@@ -9,6 +9,8 @@
 ## Libs
 
 * https://github.com/square/okio (io)
+* https://github.com/JetBrains/intellij-deps-trove4j (high performance collection api)
+  + https://bitbucket.org/trove4j/trove
 
 ## Spring
 

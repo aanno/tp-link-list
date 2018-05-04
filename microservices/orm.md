@@ -24,9 +24,26 @@
 #### Implementations
 
 * http://squeryl.org/using-in-java.html (also with java)
+* https://github.com/tpolecat/doobie
+  + http://tpolecat.github.io/presentations/doobie1.html#1 
+
+##### Slick
+
 * http://slick.lightbend.com/
-  + https://www.becompany.ch/en/blog/2016/12/15/slick-dos-and-donts
-  + https://codewithstyle.info/slick-vs-anorm-choosing-db-framework-scala-application/
+
+###### Extensions
+
+* https://github.com/smootoo/freeslick (slick free drivers for DBs)
+* https://github.com/gonmarques/slick-repo (slick DDD repositories and DAOs)
+* http://www.strongtyped.io/active-slick/ (active records for slick)
+  + https://github.com/strongtyped/active-slick
+
+
+###### Articles
+
++ https://stackoverflow.com/questions/38343372/generate-generic-crud-operationsinsert-delete-update-with-slick
++ https://www.becompany.ch/en/blog/2016/12/15/slick-dos-and-donts
++ https://codewithstyle.info/slick-vs-anorm-choosing-db-framework-scala-application/
   
 ### Kotlin
 

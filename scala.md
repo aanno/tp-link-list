@@ -9,9 +9,28 @@ Scala ist eine funktionale Alternative zu Java auf der JVM, die mittlerweile in 
 
 prinzipiell der klassischen Programmierung überlegen ist.
 
-## Spezielle Themen
+## Special interest
 
 * https://docs.scala-lang.org/tutorials/FAQ/yield.html
+  + https://alvinalexander.com/scala/scala-for-loop-yield-examples-yield-tutorial
+  + https://stackoverflow.com/questions/48700846/scala-for-comprehension-yielding-result-from-multiple-variable-bindings
+* Ternary operator
+  + https://stackoverflow.com/questions/2705920/how-to-define-a-ternary-operator-in-scala-which-preserves-leading-tokens
+  + https://stackoverflow.com/questions/4947535/ternary-operator-similar-to/4949295
+  
+### Using together with Java 8
+
+* https://stackoverflow.com/questions/24369449/scala-using-java-libraries-taking-advantage-of-lambda-expressions-support-in-ja
+* https://github.com/scala/scala-java8-compat
+* https://blog.takipi.com/compiling-lambda-expressions-scala-vs-java-8/
+
+## Extensions
+
+* https://scalameta.org/
+
+### Dotty
+
+* http://dotty.epfl.ch/#getting-started
 
 ## Libs
 
