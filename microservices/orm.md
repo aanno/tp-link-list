@@ -8,7 +8,11 @@
 
 ### Java
 
+#### SQL wrapper
+
 * https://github.com/Ryan-ZA/async-elastic-orm
+* https://github.com/j256/ormlite-core (SQL level)
+* http://jdbi.org/ (SQL level)
 
 #### JPA compatible
 
@@ -28,6 +32,7 @@
 * http://squeryl.org/using-in-java.html (also with java)
 * https://github.com/tpolecat/doobie
   + http://tpolecat.github.io/presentations/doobie1.html#1 
+* https://github.com/njeuk/dbmapper (SQL level)
 
 ##### Slick
 
@@ -57,6 +62,8 @@
 * https://github.com/JetBrains/Exposed
 * https://github.com/requery/requery (SQL level but cool)
 * https://github.com/SubiyaCryolite/jds (I don't understand the design)
+* https://github.com/jayrave/falkon (SQL level)
+* https://github.com/andrewoma/kwery (SQL level)
 
 ### Access to JPA
 

@@ -13,6 +13,7 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 ## Link lists
 
 * https://github.com/KotlinBy/awesome-kotlin
+* http://www.baeldung.com/category/kotlin/
 
 ## language feature
 
@@ -22,6 +23,7 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 
 * https://hellsoft.se/simple-asynchronous-loading-with-kotlin-coroutines-f26408f97f46
 * https://www.informatik-aktuell.de/entwicklung/programmiersprachen/ist-kotlin-das-bessere-java-eine-einfuehrung.html
+* http://www.baeldung.com/java-to-kotlin
 
 ## Examples
 

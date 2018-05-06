@@ -7,9 +7,26 @@
 
 ## Java
 
+* https://ratpack.io/ (non-blocking)
+  + https://github.com/pledbrook/lazybones
+* Netflix OSS: https://github.com/Netflix
+  + https://github.com/Netflix/Hystrix/wiki (resilient cloud)
+  + https://github.com/Netflix/ribbon (rpc)
+* http://www.dropwizard.io (also for scala)
+* http://undertow.io/ (blocking and non-blocking)
+  + http://www.baeldung.com/jboss-undertow
+  + https://examples.javacodegeeks.com/enterprise-java/spring/tomcat-vs-jetty-vs-undertow-comparison-of-spring-boot-embedded-servlet-containers/
+  + https://github.com/undertow-io/undertow-docs/blob/master/src/main/asciidoc/servlet-using-non-blocking-handlers.asciidoc
+  + https://github.com/undertow-io/undertow-docs/blob/master/src/main/asciidoc/undertow-handler-guide.asciidoc
+  + https://github.com/armdev/micro-undertow-rest
+  + https://stackoverflow.com/questions/39697332/simple-rest-with-undertow
+  + https://stackoverflow.com/questions/25204887/how-to-send-a-asynchronous-response-in-an-undertow-httphandler
+  
 ## Libs
 
-* http://www.baeldung.com/rxjava-jdbc
+* http://www.baeldung.com/rxjava-jdbc (jdbc)
+* http://square.github.io/retrofit/ (http)
+* https://github.com/pac4j/pac4j (authentication, authorization)
 
 ### Spring
 
@@ -23,6 +40,10 @@
   + https://github.com/kotlin/ktor
 * http://hexagonkt.com/
   + https://github.com/hexagonkt/hexagon
+* http://www.fireflysource.com/index.html (also for java)
+  + https://github.com/hypercube1024/firefly
+  + http://www.fireflysource.com/docs/database-access-kotlin.html 
+  (includes a ASYNC JDBC layer, and a AsyncTransactionalManager (since 4.8))
   
 ### Kotlin with Spring
 
@@ -30,6 +51,7 @@
 * https://github.com/konrad-kaminski/spring-kotlin-coroutine
 * http://blog.alexnesterov.com/post/kotlin-coroutines-in-spring/
 * https://moelholm.com/2017/03/19/spring-boot-a-bit-more-cool-with-kotlin/
+* http://www.baeldung.com/kotlin-mongodb-spring-webflux
 
 ### Libs 
 
@@ -76,6 +98,7 @@
 * https://github.com/twitter/finatra
 * http://scalatra.org/
   + https://github.com/scalatra/scalatra
+* https://github.com/mauricio/postgresql-async (async jdbc driver)
   
 ### Scala-Spring (obsolete!)
 

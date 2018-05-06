@@ -14,6 +14,8 @@
 * https://hazelcast.com/
 * https://memcached.org/
 * http://www.terracotta.org/
+* http://www.paralleluniverse.co/spacebase/
+* http://www.paralleluniverse.co/galaxy/
 
 ## Key-value DB
 

@@ -15,6 +15,7 @@
   + https://github.com/novus/unfinagled
   + https://github.com/twitter/finatra
   + https://github.com/finagle/finch
+* https://github.com/Netflix/ribbon
 
 ## Pickling
 
