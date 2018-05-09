@@ -13,6 +13,7 @@
   + https://github.com/Netflix/Hystrix/wiki (resilient cloud)
   + https://github.com/Netflix/ribbon (rpc)
 * http://www.dropwizard.io (also for scala)
+* https://www.rapidoid.org/
 * http://undertow.io/ (blocking and non-blocking)
   + http://www.baeldung.com/jboss-undertow
   + https://examples.javacodegeeks.com/enterprise-java/spring/tomcat-vs-jetty-vs-undertow-comparison-of-spring-boot-embedded-servlet-containers/
@@ -43,7 +44,9 @@
 * http://www.fireflysource.com/index.html (also for java)
   + https://github.com/hypercube1024/firefly
   + http://www.fireflysource.com/docs/database-access-kotlin.html 
-  (includes a ASYNC JDBC layer, and a AsyncTransactionalManager (since 4.8))
+    (includes a ASYNC JDBC layer, and a AsyncTransactionalManager (since 4.8))
+* https://www.http4k.org/
+* https://github.com/drmaas/ratpack-kotlin
   
 ### Kotlin with Spring
 
@@ -52,6 +55,7 @@
 * http://blog.alexnesterov.com/post/kotlin-coroutines-in-spring/
 * https://moelholm.com/2017/03/19/spring-boot-a-bit-more-cool-with-kotlin/
 * http://www.baeldung.com/kotlin-mongodb-spring-webflux
+* http://www.baeldung.com/spring-boot-kotlin
 
 ### Libs 
 

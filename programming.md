@@ -145,6 +145,17 @@ Tool für polyglotte API Entwicklung und Dokumentation, insbesondere im JSON RES
 * http://www.querydsl.com/ (JPA, JDO, SQL, MongoDB, typesafe, ...)
 * https://github.com/timmolter/Yank (simplistic)
 
+## SCM
+
+### git
+
+* https://stackoverflow.com/questions/4126300/git-how-to-get-all-the-files-changed-and-new-files-in-a-folder-or-zip
+
+#### Extensions
+
+* https://git-annex.branchable.com/
+* https://git-lfs.github.com/
+
 # Copied
 
 Spring Projects

@@ -35,8 +35,34 @@
 * https://spring.io/blog/2013/11/01/exception-handling-in-spring-mvc
 * http://blog.codeleak.pl/2013/11/controlleradvice-improvements-in-spring.html
 * https://www.heise.de/developer/meldung/Spring-beginnt-Projekt-fuer-Serverless-Computing-3765938.html
+* https://spring.io/guides/gs/accessing-data-jpa/
+
+### Reactive vs traditional
+
+* https://stackoverflow.com/questions/42299455/spring-webflux-and-reading-from-database
+
+### Quickstart 
+
+* https://start.spring.io/
+* https://github.com/spring-cloud-samples
+* https://github.com/hantsy/spring-reactive-sample (also for kotlin)
+* https://spring.io/blog/2015/07/14/microservices-with-spring
+  + https://github.com/paulc4/microservices-demo
+
+
+### Subprojects
+
+* https://projects.spring.io/spring-cloud/
+  + https://github.com/spring-cloud-samples
+* https://docs.spring.io/spring-cloud-dataflow-samples/docs/current/reference/htmlsingle/
+* http://www.baeldung.com/the-persistence-layer-with-spring-data-jpa
 
 ## Build tools
+
+### Mvn
+
+* https://bintray.com/docs/usermanual/formats/formats_mavenrepositories.html (adding bintray repo)
+* https://github.com/spring-cloud/spring-cloud-config/blob/master/.settings.xml (adding spring)
 
 ### Gradle
 
