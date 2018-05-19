@@ -29,13 +29,10 @@
   + https://bitbucket.org/trove4j/trove
 * https://github.com/oracle/oracle-db-examples/tree/master/java/AoJ (preview of oracle's async JDBC)
 
-## Spring
+## QS
 
-* https://ordina-jworks.github.io/spring/2017/06/07/Spring-IO-2017-The-Spring-ecosystem.html
-* https://spring.io/blog/2013/11/01/exception-handling-in-spring-mvc
-* http://blog.codeleak.pl/2013/11/controlleradvice-improvements-in-spring.html
-* https://www.heise.de/developer/meldung/Spring-beginnt-Projekt-fuer-Serverless-Computing-3765938.html
-* https://spring.io/guides/gs/accessing-data-jpa/
+* https://jqassistant.org/
+  + https://www.heise.de/developer/artikel/Dirk-Mahler-ueber-automatisierte-Codeanalyse-mit-jQAssistant-3884825.html
 
 ### Reactive vs traditional
 
@@ -72,3 +69,24 @@
   (download all dependencies of a gradle project)
 * https://docs.gradle.org/current/userguide/publishing_maven.html
   (could perhaps also be used to transform the gradle to a pom.xml dependency)
+  
+## JVM
+
+### Hot code swap
+
+* http://javacolors.blogspot.ch/2015/09/the-great-alternative-to-jrebel.html
+* https://dzone.com/articles/spring-boot-application-live-reload-hot-swap-with
+* https://docs.spring.io/spring-boot/docs/current/reference/html/howto-hotswapping.html
+* https://dzone.com/articles/spring-boot-application-live-reload-hot-swap-with
+* https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-devtools.html
+
+#### Implementations
+
+* https://github.com/spring-projects/spring-loaded
+* http://hotswapagent.org/
+  + https://github.com/HotswapProjects/HotswapAgent
+  + http://hotswapagent.org/mydoc_plugin_spring.html
+* https://github.com/dcevm/dcevm
+* https://github.com/fakereplace/fakereplace
+* https://github.com/ifedorenko/com.ifedorenko.m2e.sourcelookup (eclipse and maven)
+

@@ -19,3 +19,8 @@
 ## Ökologie
 
 * http://www.sueddeutsche.de/wissen/orang-utans-die-opfer-des-palmoel-booms-1.3950833
+
+## BND
+
+* http://notrustnonews.org/
+* https://www.stiftung-nv.de/de/news/transkript-zum-hintergrundgespraech-arbeitet-der-bnd-auf-dem-boden-der-verfassung

@@ -151,10 +151,23 @@ Tool für polyglotte API Entwicklung und Dokumentation, insbesondere im JSON RES
 
 * https://stackoverflow.com/questions/4126300/git-how-to-get-all-the-files-changed-and-new-files-in-a-folder-or-zip
 
+#### Server/GUI/Hosting
+
+* https://gitbucket.github.io/
+  + https://github.com/gitbucket/gitbucket
+  + https://github.com/gitbucket/gitbucket/wiki/Docker
+  + https://github.com/gitbucket/gitbucket/wiki/Enabling-SSH-access-to-repository
+  + https://github.com/gitbucket/gitbucket/wiki/External-database-configuration
+  + https://github.com/gitbucket/gitbucket/blob/master/doc/how_to_run.md
+  + https://gitbucket.herokuapp.com/
+
 #### Extensions
 
 * https://git-annex.branchable.com/
+  + http://joeyh.name/blog/entry/git-annex_v6/
 * https://git-lfs.github.com/
+  + https://github.com/git-lfs/git-lfs
+  + https://github.com/artemkin/git-lfs-server
 
 # Copied
 

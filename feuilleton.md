@@ -4,6 +4,7 @@
 
 * http://taz.de/Patience-von-Comiczeichner-Clowes/!5422682/
 * http://taz.de/Comic-Zeichner-Ralf-Koenig-uebers-Altern/!5422875/
+* http://www.faz.net/aktuell/feuilleton/kunst/lorenzo-mattotti-in-basel-meister-der-schwarzen-kunst-15440761.html
 
 ## Musik
 
@@ -20,3 +21,4 @@
 ### Wissen
 
 * https://www.spektrum.de/kolumne/die-beulen-der-erde/1559254
+* https://www.berliner-zeitung.de/kultur/interview-mit-richard-david-precht--philosophieren-ist-kein-ueberlebensvorteil--29412304

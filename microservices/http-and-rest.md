@@ -7,8 +7,11 @@
 
 ## Java
 
-* https://ratpack.io/ (non-blocking)
+* https://ratpack.io/ (non-blocking, netty-based?)
+  + http://www.baeldung.com/ratpack
+  + https://github.com/drmaas/ratpack-reactor
   + https://github.com/pledbrook/lazybones
+  + https://github.com/ratpack/example-ratpack-gradle-kotlin-app (kotlin)
 * Netflix OSS: https://github.com/Netflix
   + https://github.com/Netflix/Hystrix/wiki (resilient cloud)
   + https://github.com/Netflix/ribbon (rpc)
@@ -22,6 +25,7 @@
   + https://github.com/armdev/micro-undertow-rest
   + https://stackoverflow.com/questions/39697332/simple-rest-with-undertow
   + https://stackoverflow.com/questions/25204887/how-to-send-a-asynchronous-response-in-an-undertow-httphandler
+* https://github.com/buremba/netty-rest
   
 ## Libs
 
@@ -51,15 +55,25 @@
 ### Kotlin with Spring
 
 * https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0
+* https://spring.io/blog/2016/02/15/developing-spring-boot-applications-with-kotlin
 * https://github.com/konrad-kaminski/spring-kotlin-coroutine
 * http://blog.alexnesterov.com/post/kotlin-coroutines-in-spring/
 * https://moelholm.com/2017/03/19/spring-boot-a-bit-more-cool-with-kotlin/
 * http://www.baeldung.com/kotlin-mongodb-spring-webflux
 * http://www.baeldung.com/spring-boot-kotlin
 
+#### Example apps
+
+* https://github.com/sdeleuze/spring-kotlin-functional
+* https://github.com/spring-petclinic/spring-petclinic-kotlin
+* https://github.com/rechnerherz/demo-kotlin-gradle-spring-boot-starter
+* https://github.com/PacktPublishing/Building-Applications-with-Spring-5-and-Kotlin
+* https://github.com/k-tamura/easybuggy4kt
+
 ### Libs 
 
 * https://github.com/kittinunf/Fuel
+* https://github.com/consoleau/kotlin-jpa-specification-dsl
 
 ## Scala
 
@@ -95,6 +109,8 @@
   + https://github.com/http4s/http4s
 * http://unfiltered.ws/
   + https://github.com/unfiltered/unfiltered
+* http://reactivecouchbase.org/
+  + https://github.com/ReactiveCouchbase/reactivecouchbase-rs-core
   
 ### Libs
 

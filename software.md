@@ -15,3 +15,7 @@
 ## Money
 
 * https://de.wikipedia.org/wiki/Ethereum
+
+### Music and Pod Players
+
+* https://vocalproject.net/

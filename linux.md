@@ -10,7 +10,18 @@
 
 ### Administration
 
-* http://sdkman.io/
+* http://sdkman.io/ (jvm package manager)
+* https://www.fail2ban.org/wiki/index.php/Main_Page
+  + https://fedoraproject.org/wiki/Fail2ban_with_FirewallD
+  + https://serverfault.com/questions/646167/why-is-fail2ban-not-banning-this-attack
+  
+### Office 
+
+* http://wps-community.org/
+
+### Clustering
+
+* https://docs.linbit.com/docs/users-guide-8.4/#s-rhcs-config (DRBD)
 
 ## Distros
 
