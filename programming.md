@@ -168,6 +168,10 @@ Tool für polyglotte API Entwicklung und Dokumentation, insbesondere im JSON RES
 * https://git-lfs.github.com/
   + https://github.com/git-lfs/git-lfs
   + https://github.com/artemkin/git-lfs-server
+* https://www.agwa.name/projects/git-crypt/
+  + https://github.com/AGWA/git-crypt
+* https://spwhitton.name/tech/code/git-remote-gcrypt/
+  + https://github.com/spwhitton/git-remote-gcrypt
 
 # Copied
 
