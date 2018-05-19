@@ -8,8 +8,6 @@
 
 ## Musik
 
-* taz.de/Folk-mit-ironisch-ernsthaften-Texten/!5401362/
-
 ### St Pepper
 
 * https://www.welt.de/kultur/article165126193/Was-Sgt-Pepper-uns-mit-seinem-Cover-sagen-will.html
@@ -22,3 +20,4 @@
 
 * https://www.spektrum.de/kolumne/die-beulen-der-erde/1559254
 * https://www.berliner-zeitung.de/kultur/interview-mit-richard-david-precht--philosophieren-ist-kein-ueberlebensvorteil--29412304
+* https://www.spektrum.de/news/wie-real-ist-die-quantenverschraenkung/1445463

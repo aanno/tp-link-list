@@ -16,6 +16,16 @@
 
 * https://de.wikipedia.org/wiki/Ethereum
 
-### Music and Pod Players
+## Music and Pod Players
 
 * https://vocalproject.net/
+
+## Security
+
+* https://cryptomator.org/
+
+## Sync
+
+* https://www.slant.co/topics/1882/~open-source-alternatives-to-resilio
+  + https://syncthing.net/
+  + https://librevault.com/

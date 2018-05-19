@@ -15,6 +15,26 @@
   + https://fedoraproject.org/wiki/Fail2ban_with_FirewallD
   + https://serverfault.com/questions/646167/why-is-fail2ban-not-banning-this-attack
   
+#### Backup
+
+* https://www.backblaze.com/blog/backing-linux-backblaze-b2-duplicity-restic/
+* https://support.nine.ch/artikel/wie-erstelle-ich-ein-backup-meines-root-v-servers
+* https://www.datamate.org/duplicity-duply-datensicherung-auf-die-verlass-ist/
+
+##### Duplicity
+
+* http://duplicity.nongnu.org/
+* https://github.com/zertrin/duplicity-backup.sh
+
+##### Other
+
+* https://restic.net/
+  + https://github.com/restic/restic
+* https://bup.github.io/
+  + https://github.com/bup/bup
+* https://borgbackup.readthedocs.io/en/stable/
+* https://github.com/NaPs/Marty
+  
 ### Office 
 
 * http://wps-community.org/

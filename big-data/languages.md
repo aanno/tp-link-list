@@ -20,6 +20,7 @@
 ## Python
 
 * https://github.com/keras-team/keras
+* https://dask.pydata.org/en/latest/
 
 ## Julia
 
