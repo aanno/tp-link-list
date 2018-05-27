@@ -9,15 +9,24 @@
 
 * https://botpress.io/
 
-## Git
+## Business Automation
 
-* https://github.com/felipec/git-remote-hg
+### Activiti
+
+* https://www.activiti.org/
+* http://www.baeldung.com/activiti-kickstart-and-rest-apps
+* https://github.com/Activiti/Activiti-AngularApp
 
 ## Editor/IDE
 
 ### VS Code
 
 * https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
+
+#### based on VS Code
+
+* http://theia-ide.org/
+  + https://github.com/theia-ide/theia
 
 ## DB/SQL
 

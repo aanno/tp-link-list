@@ -150,6 +150,7 @@ Tool für polyglotte API Entwicklung und Dokumentation, insbesondere im JSON RES
 ### git
 
 * https://stackoverflow.com/questions/4126300/git-how-to-get-all-the-files-changed-and-new-files-in-a-folder-or-zip
+* https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html (new wire protocol)
 
 #### Server/GUI/Hosting
 
@@ -160,6 +161,7 @@ Tool für polyglotte API Entwicklung und Dokumentation, insbesondere im JSON RES
   + https://github.com/gitbucket/gitbucket/wiki/External-database-configuration
   + https://github.com/gitbucket/gitbucket/blob/master/doc/how_to_run.md
   + https://gitbucket.herokuapp.com/
+* http://gitblit.com/ (old)
 
 #### Extensions
 
@@ -172,6 +174,7 @@ Tool für polyglotte API Entwicklung und Dokumentation, insbesondere im JSON RES
   + https://github.com/AGWA/git-crypt
 * https://spwhitton.name/tech/code/git-remote-gcrypt/
   + https://github.com/spwhitton/git-remote-gcrypt
+* https://github.com/felipec/git-remote-hg
 
 # Copied
 
