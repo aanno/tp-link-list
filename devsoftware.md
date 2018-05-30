@@ -27,6 +27,10 @@
 
 * http://theia-ide.org/
   + https://github.com/theia-ide/theia
+  
+## Off-Heap DBs (and related)
+
+
 
 ## DB/SQL
 
@@ -44,16 +48,49 @@
 
 ## CMS (and related)
 
+* https://github.com/postlight/awesome-cms
+
 * https://enonic.com/
   + https://www.cmscritic.com/enonic-review/
 * https://www.jahia.com/de/home
 * https://www.nuxeo.com/de/
 
+### Headless CMS and API server
+
+* https://github.com/beachio/chisel
+  + based on parse platform
+  + https://github.com/parse-community/parse-server-example
+  + http://parseplatform.org
+  + server
+    - https://github.com/parse-community/parse-server
+    - http://docs.parseplatform.org/parse-server/guide/
+  + dashboard (admin)
+    - https://github.com/parse-community/parse-dashboard
+  + rest
+    - http://docs.parseplatform.org/rest/guide/
+  + js
+    - https://github.com/parse-community/Parse-SDK-JS
+    - http://docs.parseplatform.org/js/guide/
+    - http://parseplatform.org/Parse-SDK-JS/api/v1.11.1/
+* https://github.com/typicode/json-server
+* http://crudl.io/
+* https://strapi.io/
+  + https://github.com/strapi/strapi
+* http://keystonejs.com/
+
 ### Generators
+
+* https://www.staticgen.com/
 
 * https://gohugo.io/
 * https://jekyllrb.com/
   + http://jekyllbootstrap.com/
+* https://jbake.org/
+* https://www.gatsbyjs.org/
+  + https://github.com/gatsbyjs/gatsby
+  + https://github.com/gatsbyjs/gatsby/issues/1199
+* https://hexo.io/
+  + https://hexo.io/plugins/
 
 ### Dev-centric (blogs, markdown, asciidoctor)
 
@@ -61,6 +98,25 @@
 * https://opensource.com/article/17/8/asciidoc-web-development
   + https://github.com/opensourceway/asciidoc-blog
 * https://github.com/HubPress/hubpress.io
+* https://www.netlifycms.org/ (git and generator based)
+
+### Wiki
+
+* http://www.clickonf5.org/internet/10-free-opensource-wiki-software-engine/7599
+
+* https://wiki.js.org/
+  + https://github.com/Requarks/wiki
+  + https://docs.requarks.io/wiki/install/installation/configuration-file
+
+## Documentation and Books authoring
+
+## Asciidoc(tor) based
+
+* https://asciidoctor.org/docs/asciidoctor-pdf/
+
+## Markdown based
+
+* http://wereturtle.github.io/ghostwriter/
 
 ## SSO and related
 

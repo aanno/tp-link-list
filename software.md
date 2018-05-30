@@ -26,8 +26,10 @@
 
 ## Sync
 
+* https://nextcloud.com/
 * https://www.slant.co/topics/1882/~open-source-alternatives-to-resilio
   + https://syncthing.net/
+    - https://linuxctl.com/2017/04/syncthing---why-you-should-be-using-it/
   + https://librevault.com/
   
 ## project management
