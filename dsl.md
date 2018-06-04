@@ -19,6 +19,7 @@
 * https://www.eclipse.org/community/eclipse_newsletter/2017/may/article5.php
   + https://github.com/svenefftinge/xtext-lsp-workshop
   + https://github.com/theia-ide/theia-xtext
+  + https://typefox.io/tutorial-building-a-language-server-for-your-dsl
 
 ### Xtend
 
@@ -33,6 +34,19 @@
 * https://confluence.jetbrains.com/display/MPSD20181/MPS+User%27s+Guide
 
 * https://github.com/DSLFoundry/mps-examples
+* https://dzone.com/articles/antlr-and-jetbrains-mps-parsing-files-and-displayi
+* https://tomassetti.me/how-to-add-jars-and-resources-in-a-jetbrains-mps-project/
+* https://confluence.jetbrains.com/display/MPSD20181/Lightweight+DSL
+
+* https://mps-support.jetbrains.com/hc/en-us
+* https://www.jetbrains.com/mps/whatsnew/
+
+### MPS buid
+
+* https://confluence.jetbrains.com/display/MPSD20181/HowTo+--+MPS+and+ant
+  + https://confluence.jetbrains.com/plugins/servlet/mobile#content/view/49457895
+* https://github.com/mbeddr/mps-gradle-plugin 
+* http://jetbrains.github.io/mps-maven-plugin/
 
 ## mbeddr
 

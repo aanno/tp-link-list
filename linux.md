@@ -33,7 +33,13 @@
 * https://bup.github.io/
   + https://github.com/bup/bup
 * https://borgbackup.readthedocs.io/en/stable/
+  + https://github.com/borgbackup/borg
+  + https://github.com/borgbackup/community
 * https://github.com/NaPs/Marty
+
+##### Desaster recovery
+
+* https://github.com/rear/rear
   
 ### Office 
 

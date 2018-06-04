@@ -19,6 +19,7 @@
 ## Blogs
 
 * https://ordina-jworks.github.io/
+* http://concurrencyfreaks.blogspot.com/2018/?m=1
 
 ## Lang
 
@@ -26,6 +27,12 @@
 * https://www.meteor.com
 
 ## Emerging Technologies
+
+### CQRS and event sourcing
+
+* https://github.com/Chinchilla-Software-Com/CQRS/wiki/CQRS-Architecture
+  + https://github.com/Chinchilla-Software-Com
+* https://symfony.fi/entry/using-cqrs-es-for-content-management-systems-cms
 
 ### Emerging Web
 
@@ -175,6 +182,7 @@ Tool für polyglotte API Entwicklung und Dokumentation, insbesondere im JSON RES
 * https://spwhitton.name/tech/code/git-remote-gcrypt/
   + https://github.com/spwhitton/git-remote-gcrypt
 * https://github.com/felipec/git-remote-hg
+* https://www.perforce.com/blog/your-git-repository-database-pluggable-backends-libgit2
 
 # Copied
 

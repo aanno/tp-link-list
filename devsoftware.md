@@ -27,10 +27,15 @@
 
 * http://theia-ide.org/
   + https://github.com/theia-ide/theia
+  + https://typefox.io/
   
 ## Off-Heap DBs (and related)
 
-
+* http://www.mapdb.org/
+* https://github.com/RuedigerMoeller/fast-serialization/wiki/Off-Heap-Maps,-Persistent-Maps
+* https://github.com/snazy/ohc
+* https://github.com/airlift/slice
+* https://hollow.how/
 
 ## DB/SQL
 
@@ -46,16 +51,25 @@
 * http://www.oracle.com/technetwork/developer-tools/sql-developer/overview/index.html
 * http://squirrel-sql.sourceforge.net/
 
+## DMS 
+
+* https://github.com/bevuta/pepa
+
 ## CMS (and related)
 
 * https://github.com/postlight/awesome-cms
 
 * https://enonic.com/
   + https://www.cmscritic.com/enonic-review/
+  + http://xp.readthedocs.io/en/stable/developer/ssjs/index.html
+  + https://purplejs.io/
+    - https://github.com/purplejs/purplejs-examples
 * https://www.jahia.com/de/home
 * https://www.nuxeo.com/de/
 
 ### Headless CMS and API server
+
+* https://cmsstash.de/empfehlungen/headless-cms
 
 * https://github.com/beachio/chisel
   + based on parse platform
@@ -76,11 +90,14 @@
 * http://crudl.io/
 * https://strapi.io/
   + https://github.com/strapi/strapi
+  + https://blog.strapi.io/building-a-static-website-using-gatsby-and-strapi/
 * http://keystonejs.com/
 
 ### Generators
 
 * https://www.staticgen.com/
+* https://staticsitegenerators.net/
+* https://www.cmswire.com/digital-experience/15-static-site-generators-to-complement-your-headless-cms/
 
 * https://gohugo.io/
 * https://jekyllrb.com/
@@ -91,6 +108,17 @@
   + https://github.com/gatsbyjs/gatsby/issues/1199
 * https://hexo.io/
   + https://hexo.io/plugins/
+* https://nanoc.ws/
+* https://getnikola.com/
+  + https://getnikola.com/blog/a-cms-or-two-for-nikola-dato-cms-and-netlify-cms-integration.html
+* http://awestruct.org/
+
+#### Generators and CMS
+
+* https://graphcms.com/blog/static-site-generation-using-graphcms-spike-and-netlify/
+* https://blog.strapi.io/building-a-static-website-using-gatsby-and-strapi/
+* https://getnikola.com/blog/a-cms-or-two-for-nikola-dato-cms-and-netlify-cms-integration.html
+* https://www.cmswire.com/digital-experience/15-static-site-generators-to-complement-your-headless-cms/
 
 ### Dev-centric (blogs, markdown, asciidoctor)
 
@@ -99,6 +127,7 @@
   + https://github.com/opensourceway/asciidoc-blog
 * https://github.com/HubPress/hubpress.io
 * https://www.netlifycms.org/ (git and generator based)
+* http://openlivewriter.org/
 
 ### Wiki
 
@@ -107,16 +136,33 @@
 * https://wiki.js.org/
   + https://github.com/Requarks/wiki
   + https://docs.requarks.io/wiki/install/installation/configuration-file
+* https://github.com/gollum/gollum
+* https://github.com/Dynalon/mdwiki
+* https://tiki.org/tiki-index.php
+  + https://doc.tiki.org/Documentation
+* https://www.xwiki.com/en/
 
 ## Documentation and Books authoring
 
+* https://itsfoss.com/open-source-tools-writers/
+* https://blog.strapi.io/gitbook-open-source-documentation/
+
+* http://www.theologeek.ch/manuskript/
+* https://www.mkdocs.org/
+* https://docsify.js.org/#/?id=docsify
+
 ## Asciidoc(tor) based
+
+* http://www.vogella.com/tutorials/AsciiDoc/article.html
+* https://asciidoclive.com/
 
 * https://asciidoctor.org/docs/asciidoctor-pdf/
 
 ## Markdown based
 
 * http://wereturtle.github.io/ghostwriter/
+* https://www.madoko.net/
+  + http://madoko.org/reference.html
 
 ## SSO and related
 

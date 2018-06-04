@@ -8,6 +8,7 @@
 
 * https://www.mongodb.com/
 * https://redis.io/
+* https://github.com/OpenHFT/Chronicle-Map
 
 ## Cassandra
 
@@ -26,3 +27,13 @@
 
 * http://janusgraph.org/
 
+## Time Series DBs
+
+* https://blog.outlyer.com/top10-open-source-time-series-databases
+
+* https://www.influxdata.com/
+  + https://github.com/influxdata/influxdb
+* https://docs.timescale.com/v0.9/main
+* http://opentsdb.net/
+* https://dalmatiner.readme.io/docs
+* http://www.timescale.com/

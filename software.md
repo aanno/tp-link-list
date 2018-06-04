@@ -24,13 +24,30 @@
 
 * https://cryptomator.org/
 
+## Self-hosting
+
+* https://github.com/Kickball/awesome-selfhosted
+
+* https://sandstorm.io/
+* https://wikisuite.org/Software
+* https://www.bookstackapp.com/
+* https://www.casebox.org/
+
 ## Sync
+
+* https://wikisuite.org/Alternatives?highlight=alternative
 
 * https://nextcloud.com/
 * https://www.slant.co/topics/1882/~open-source-alternatives-to-resilio
   + https://syncthing.net/
     - https://linuxctl.com/2017/04/syncthing---why-you-should-be-using-it/
   + https://librevault.com/
+* https://wikisuite.org/Software
+
+### Binary diff
+
+* https://github.com/kansifang/jvcdiff
+* https://en.m.wikipedia.org/wiki/Xdelta
   
 ## project management
 

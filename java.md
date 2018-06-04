@@ -72,6 +72,21 @@
   
 ## JVM
 
+### Serialization
+
+* https://github.com/RuedigerMoeller/fast-serialization
+* https://github.com/EsotericSoftware/kryo
+
+### Reactive file handling
+
+* https://dzone.com/articles/rxjava-faq-loading-files-with-backpressure
+* https://simonbasle.github.io/2017/10/file-reading-in-reactor/
+
+### Process handling
+
+* https://github.com/brettwooldridge/NuProcess
+* https://github.com/okapies/rx-process
+
 ### Hot code swap
 
 * http://javacolors.blogspot.ch/2015/09/the-great-alternative-to-jrebel.html
