@@ -58,7 +58,12 @@
 ## CMS (and related)
 
 * https://github.com/postlight/awesome-cms
+* https://jamstack.org/
 
+* https://getcockpit.com/
+* https://docs.ponzu-cms.org/
+  + https://headlesscms.org/projects/ponzu/
+* https://www.sourcefabric.org/
 * https://enonic.com/
   + https://www.cmscritic.com/enonic-review/
   + http://xp.readthedocs.io/en/stable/developer/ssjs/index.html
@@ -70,7 +75,16 @@
 ### Headless CMS and API server
 
 * https://cmsstash.de/empfehlungen/headless-cms
+* https://headlesscms.org
 
+* https://sylvainleroy.com/2017/10/15/Headless-CMS-What-to-choose/
+* https://dev.acquia.com/blog/nodejs-and-headless-cms-the-backend-building-blocks/01/03/2018/19201
+
+* https://github.com/apostrophecms/apostrophe-headless
+  + https://apostrophecms.org/docs/technical-overviews/technical-overview.html
+  + https://apostrophecms.org/features
+* https://getmesh.io/Download (java)
+  + https://getmesh.io/docs/beta/
 * https://github.com/beachio/chisel
   + based on parse platform
   + https://github.com/parse-community/parse-server-example

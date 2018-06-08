@@ -33,6 +33,23 @@
 * https://www.bookstackapp.com/
 * https://www.casebox.org/
 
+## Collaboration
+
+* https://www.quora.com/What-are-the-most-useful-open-source-collaboration-tools
+* https://www.smallbusinesscomputing.com/slideshows/10-best-open-source-collaboration-software-tools.html
+
+* https://www.exoplatform.com/
+* https://open-paas.org/
+* https://cynapse.com/cyn-in/download/
+
+### Fediverse
+
+* https://fediverse.gitlab.io/
+* https://en.wikipedia.org/wiki/Fediverse
+
+* https://de.wikipedia.org/wiki/Mastodon_(Software)
+  + https://mastodon.social/about
+
 ## Sync
 
 * https://wikisuite.org/Alternatives?highlight=alternative
@@ -41,8 +58,10 @@
 * https://www.slant.co/topics/1882/~open-source-alternatives-to-resilio
   + https://syncthing.net/
     - https://linuxctl.com/2017/04/syncthing---why-you-should-be-using-it/
+    - https://docs.syncthing.net/
   + https://librevault.com/
 * https://wikisuite.org/Software
+* https://rclone.org/
 
 ### Binary diff
 

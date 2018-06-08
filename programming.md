@@ -161,6 +161,8 @@ Tool für polyglotte API Entwicklung und Dokumentation, insbesondere im JSON RES
 
 #### Server/GUI/Hosting
 
+* https://gitea.io/en-US/
+  + https://github.com/go-gitea/gitea
 * https://gitbucket.github.io/
   + https://github.com/gitbucket/gitbucket
   + https://github.com/gitbucket/gitbucket/wiki/Docker
