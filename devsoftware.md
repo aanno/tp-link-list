@@ -197,6 +197,27 @@
 * https://apereo.github.io/cas/
   + https://github.com/apereo/cas
   + https://github.com/apereo/cas-webapp-docker
+* https://apereo.github.io/cas/5.2.x/planning/Architecture.html
+  
+### CAS Installation
+
+* https://apereo.github.io/2018/06/09/cas53-gettingstarted-overlay/
+* https://apereo.github.io/cas/5.2.x/installation/Maven-Overlay-Installation.html
+* https://apereo.github.io/cas/5.2.x/installation/Configuring-Ticketing-Components.html
+* https://apereo.github.io/cas/5.2.x/installation/Troubleshooting-Guide.html
+  
+### CAS Authorization
+
+* https://apereo.github.io/2018/02/20/cas-service-rbac-attributeresolution/
+* https://apereo.github.io/cas/4.2.x/installation/Configuring-Service-Access-Strategy.html
+* https://github.com/apereo/person-directory
+  + https://groups.google.com/a/apereo.org/forum/#!topic/cas-user/VVaONIp1Ts0
+* https://apereo.github.io/cas/5.2.x/integration/Attribute-Resolution.html
+  + https://apereo.github.io/cas/5.2.x/integration/Attribute-Release.html
+
+### CAS Integration
+
+* OAuth2/OpenID: https://apereo.github.io/cas/5.0.x/installation/OAuth-OpenId-Authentication.html
 
 ### keycloak
 
