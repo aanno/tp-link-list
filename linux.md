@@ -56,7 +56,16 @@
 
 * https://docs.linbit.com/docs/users-guide-8.4/#s-rhcs-config (DRBD)
 
+### Monitoring
+
+* https://www.theforeman.org/
+* https://www.icinga.com/
+
 ## Distros
+
+### Firewall distros
+
+* http://www.koozali.org/home/about (SME Server)
 
 ### Fedora
 

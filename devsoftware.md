@@ -168,7 +168,84 @@
 
 ## SSO and related
 
+* https://nextcloud.com/blog/security-in-nextcloud-12-new-authentication-mechanisms/
+  (useful overview for SSO solutions)
+
 * https://www.privacyidea.org/ (2factor enhancer)
+
+## Big Ones
+
+### freeIPA
+
+* https://www.digitalocean.com/community/tutorials/how-to-set-up-centralized-linux-authentication-with-freeipa-on-centos-7
+  (featured)
+
+* https://en.m.wikipedia.org/wiki/FreeIPA
+* https://www.freeipa.org/page/Documentation
+* https://www.freeipa.org/page/HowTos
+* https://github.com/freeipa/freeipa-container
+
+#### freeIPA components
+
+* https://www.freeipa.org/page/Directory_Server
+  + https://www.freeipa.org/page/HowTo/LDAP
+* http://www.dogtagpki.org/wiki/PKI_Main_Page
+  + http://www.dogtagpki.org/wiki/IPA_Container
+  
+### CAS
+
+* https://apereo.github.io/cas/
+  + https://github.com/apereo/cas
+  + https://github.com/apereo/cas-webapp-docker
+
+### keycloak
+
+* https://www.keycloak.org/documentation.html
+
+#### keycloak integration
+
+* https://www.keycloak.org/docs/3.0/server_admin/topics/user-federation/sssd.html
+* freeIPA
+  + https://github.com/mposolda/keycloak-freeipa-docker
+  + https://github.com/keycloak/keycloak-test-docker-images/blob/master/keycloak-sssd-integration-tests/docker-compose.yml
+  
+### Shibboleth
+
+* https://www.shibboleth.net/
+  + https://wiki.shibboleth.net/confluence/display/SHIB2/Home
+  + https://wiki.shibboleth.net/confluence/display/CONCEPT
+
+## Backends
+
+### LDAP
+
+* https://docs.fedoraproject.org/f28/system-administrators-guide/servers/Directory_Servers.html (good overview)
+* https://www.howtoforge.com/linux_ldap_authentication (OpenLDAP and PAM client configuration)
+* https://wiki.gentoo.org/wiki/Centralized_authentication_using_OpenLDAP
+
+## Middleware
+
+## Language Middleware
+
+* http://shiro.apache.org/index.html
+  + https://github.com/bujiio/buji-pac4j
+* https://github.com/pac4j/pac4j
+* https://docs.spring.io/spring-security/site/docs/5.0.5.RELEASE/reference/htmlsingle/
+
+## Client
+
+### Apache httpd
+
+* https://github.com/apereo/mod_auth_cas
+* https://github.com/zmartzone/mod_auth_openidc
+
+### SSSD
+
+* https://fedoraproject.org/wiki/Features/SSSD
+* https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/system-level_authentication_guide/sssd
+* https://wiki.contribs.org/Client_Authentication:Fedora_via_sssd/ldap
+* http://www.admin-magazin.de/Das-Heft/2012/03/Der-System-Security-Services-Daemon
+* https://fedoraproject.org/wiki/How_to_debug_SSSD_problems
 
 
 ### Emerging SSO
