@@ -24,6 +24,17 @@
 
 ### React
 
+#### React themes
+
+* https://startreact.com/themes/
+* https://market.nativebase.io/
+
+#### React tools
+
+#### React Builder UIs...
+
+* https://github.com/ipselon/structor
+
 ### Redux
 
 * Redux Best Practice https://medium.com/@kylpo/redux-best-practices-eef55a20cc72
@@ -34,8 +45,31 @@
 ## Angular
 
 * https://stackoverflow.com/questions/35368633/angular-2-download-pdf-from-api-and-display-it-in-view (pdf in view)
+* https://github.com/sean-olson-e/Rapid-Application-Development-using-Angular-CLI
 
 * https://github.com/angular/angular-cli
+
+### Angular themes
+
+* https://github.com/vmware/clarity
+
+### Angular Tools
+
+* https://blog.mgechev.com/2017/04/23/angular-tooling-codelyzer-angular-cli-ngrev/
+
+### Angular dynamic components
+
+* https://angular.io/guide/dynamic-component-loader
+* https://angular.io/guide/dynamic-form
+
+### Angular Builder UIs ...
+
+###  ... for forms
+
+* http://angular-formly.com/#!/
+  + http://docs.angular-formly.com/v6.16.0/docs/gui-form-builders
+* https://github.com/gms1/angular-dynaform
+* https://github.com/toddmotto/angular-dynamic-forms
 
 ## Immutable
 

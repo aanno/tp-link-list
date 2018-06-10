@@ -31,6 +31,9 @@
 ### Other
 
 * http://www.codeblocks.org/
+* https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino
+  + https://daniel-ziegler.com/arduino/mikrocontroller/ide/2017/07/10/Microsoft-Visual-Studio-Code-alternative-Arduino-IDE/
+  + 
 
 ### Emulation
 

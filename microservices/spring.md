@@ -41,3 +41,21 @@
 * https://projects.spring.io/spring-data/
   + https://spring.io/guides?filter=spring%20data
 * https://github.com/spring-projects/spring-loaded
+
+## Spring
+
+### Quickstart Spring (microservices)
+
+* https://start.spring.io/
+* https://github.com/spring-cloud-samples
+* https://github.com/hantsy/spring-reactive-sample (also for kotlin)
+* https://spring.io/blog/2015/07/14/microservices-with-spring
+  + https://github.com/paulc4/microservices-demo
+
+### Subprojects
+
+* https://projects.spring.io/spring-cloud/
+  + https://github.com/spring-cloud-samples
+  + https://cloud.spring.io/spring-cloud-sleuth/
+* https://docs.spring.io/spring-cloud-dataflow-samples/docs/current/reference/htmlsingle/
+* http://www.baeldung.com/the-persistence-layer-with-spring-data-jpa

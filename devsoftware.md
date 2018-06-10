@@ -19,7 +19,12 @@
 
 ## Editor/IDE
 
+* https://atom.io/packages/proton-mode
+
 ### VS Code
+
+* https://github.com/Microsoft/vscode
+* https://github.com/Microsoft/monaco-editor
 
 * https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
 
@@ -27,7 +32,10 @@
 
 * http://theia-ide.org/
   + https://github.com/theia-ide/theia
+  + https://typefox.io/theia-may-2018-update
+  + https://projects.eclipse.org/proposals/eclipse-theia
   + https://typefox.io/
+* https://github.com/eclipse/lsp4j
   
 ## Off-Heap DBs (and related)
 
@@ -71,6 +79,7 @@
     - https://github.com/purplejs/purplejs-examples
 * https://www.jahia.com/de/home
 * https://www.nuxeo.com/de/
+* https://github.com/relax/relax
 
 ### Headless CMS and API server
 
@@ -106,6 +115,7 @@
   + https://github.com/strapi/strapi
   + https://blog.strapi.io/building-a-static-website-using-gatsby-and-strapi/
 * http://keystonejs.com/
+* https://www.netlifycms.org/
 
 ### Generators
 
@@ -156,28 +166,14 @@
   + https://doc.tiki.org/Documentation
 * https://www.xwiki.com/en/
 
-## Documentation and Books authoring
-
-* https://itsfoss.com/open-source-tools-writers/
-* https://blog.strapi.io/gitbook-open-source-documentation/
-
-* http://www.theologeek.ch/manuskript/
-* https://www.mkdocs.org/
-* https://docsify.js.org/#/?id=docsify
-
-## Asciidoc(tor) based
-
-* http://www.vogella.com/tutorials/AsciiDoc/article.html
-* https://asciidoclive.com/
-
-* https://asciidoctor.org/docs/asciidoctor-pdf/
-
-## Markdown based
-
-* http://wereturtle.github.io/ghostwriter/
-* https://www.madoko.net/
-  + http://madoko.org/reference.html
-
 ## SSO and related
 
-* https://www.privacyidea.org/
+* https://www.privacyidea.org/ (2factor enhancer)
+
+
+### Emerging SSO
+
+#### JWT
+
+* Example: https://support.zendesk.com/hc/de/articles/203663816-Einrichten-des-Single-Sign-On-mit-JWT-JSON-Web-Token-
+

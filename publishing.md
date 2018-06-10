@@ -14,7 +14,7 @@
 * https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 * http://geog.uoregon.edu/bartlein/courses/geog607/Rmd/MDquick-refcard.pdf
 
-#### Editiors
+#### Editors
 
 * https://www.tecmint.com/best-markdown-editors-for-linux/
 * http://asciidoctor.org/docs/editing-asciidoc-with-live-preview/
@@ -92,3 +92,41 @@
 * https://tlk.io/
 
 * https://github.com/jsxc/jsxc/wiki/Prepare-apache
+
+## Documentation and Books authoring
+
+* https://itsfoss.com/open-source-tools-writers/
+* https://blog.strapi.io/gitbook-open-source-documentation/
+
+* http://www.theologeek.ch/manuskript/
+* https://www.mkdocs.org/
+* https://docsify.js.org/#/?id=docsify
+
+## Asciidoc(tor) based
+
+* http://www.vogella.com/tutorials/AsciiDoc/article.html
+* https://asciidoclive.com/
+
+* https://asciidoctor.org/docs/install-toolchain/
+* https://asciidoctor.org/docs/asciidoctorj/
+* https://asciidoctor.org/docs/asciidoctor-pdf/
+* https://asciidoctor.org/docs/asciidoctor.js/
+  + https://github.com/asciidoctor/asciidoctor.js
+  + https://asciidoctor.org/news/2013/05/21/asciidoctor-js-render-asciidoc-in-the-browser/
+* https://github.com/asciidoctor/asciidoctor-fopub
+* https://stackoverflow.com/questions/48419521/converting-asciidoc-to-latex (pandoc)
+  
+### Math support
+
+* https://asciidoctor.org/news/2014/08/12/asciidoctor-1-5-0-released/
+* https://github.com/asciidoctor/asciidoctor.org/blob/master/docs/_includes/stem.adoc
+  
+### Docbook
+
+* http://www.vogella.com/tutorials/DocBook/article.html
+
+## Markdown based
+
+* http://wereturtle.github.io/ghostwriter/
+* https://www.madoko.net/
+  + http://madoko.org/reference.html

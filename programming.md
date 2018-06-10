@@ -16,6 +16,10 @@
 
 * https://www.heise.de/developer/artikel/DDD-Co-Teil-1-Was-an-CRUD-falsch-ist-3756224.html
 
+## Language structure
+
+* https://www.heise.de/developer/artikel/Weg-mit-den-Schleifen-4009774.html
+
 ## Blogs
 
 * https://ordina-jworks.github.io/
@@ -25,6 +29,12 @@
 
 * http://opalang.org/
 * https://www.meteor.com
+
+### Elixir
+
+* https://elixir-lang.org/blog/2018/01/17/elixir-v1-6-0-released/
+* https://www.heise.de/developer/meldung/Programmiersprachen-Elixir-Entwickler-arbeiten-an-Zugaenglichkeit-3783360.html
+* https://www.heise.de/newsticker/meldung/Schnelle-Konkurrenz-fuer-LinkedIn-und-XING-Neues-Netzwerk-Vutuv-ist-online-3501699.html
 
 ## Emerging Technologies
 
@@ -54,12 +64,6 @@ Know-how
 #### BaaS and Serverless
 
 * https://www.heise.de/developer/artikel/Serverless-Computing-Teil-1-Theorie-und-Praxis-3756877.html
-
-### Emerging SSO
-
-#### JWT
-
-* Example: https://support.zendesk.com/hc/de/articles/203663816-Einrichten-des-Single-Sign-On-mit-JWT-JSON-Web-Token-
 
 ### Emerging Stacks
 

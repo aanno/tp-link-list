@@ -11,6 +11,7 @@
 
 * https://www.eclipse.org/Xtext/index.html
 * https://www.itemis.com/en/xtext/
+* https://typefox.io/xtext-2-13-0-released-semantic-editing-made-easy
 * https://info.itemis.com/en/xtext/tips-and-tricks/
 * https://blogs.itemis.com/en/get-started-with-xtext-and-intellij-idea-in-5-minutes (no recent updates)
 
@@ -20,11 +21,22 @@
   + https://github.com/svenefftinge/xtext-lsp-workshop
   + https://github.com/theia-ide/theia-xtext
   + https://typefox.io/tutorial-building-a-language-server-for-your-dsl
+  + https://github.com/eclipse/lsp4j
 
 ### Xtend
 
 * http://www.eclipse.org/xtend/
 * https://plugins.jetbrains.com/plugin/8073-xtend-support
+
+### Visualization (Graph)
+
+* https://typefox.io/visualizing-npm-package-dependencies-with-sprotty
+  + http://npm-dependencies.com/
+* http://typefox.io/sprotty-a-web-based-diagramming-framework  
+
+* https://github.com/theia-ide/sprotty
+* https://github.com/eclipse/elk
+
 
 ## MPS
 
