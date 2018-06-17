@@ -33,6 +33,11 @@
 * https://www.bookstackapp.com/
 * https://www.casebox.org/
 
+## IT Management
+
+* http://manageiq.org/docs/get-started/
+  + http://manageiq.org/blog/
+
 ## Collaboration
 
 * https://www.quora.com/What-are-the-most-useful-open-source-collaboration-tools

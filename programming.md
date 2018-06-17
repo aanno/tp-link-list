@@ -24,6 +24,8 @@
 
 * https://ordina-jworks.github.io/
 * http://concurrencyfreaks.blogspot.com/2018/?m=1
+* https://www.digitalocean.com/community/tutorials
+* https://rdmueller.github.io/ (dsl)
 
 ## Lang
 

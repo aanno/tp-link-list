@@ -62,6 +62,9 @@
 ## DMS 
 
 * https://github.com/bevuta/pepa
+* http://www.cinnamon-cms.com/ (Dita)
+  + https://github.com/dewarim/cinnamon
+  + https://github.com/dewarim/cinnamon/blob/master/docs/dwarves_and_giants.md
 
 ## CMS (and related)
 
@@ -126,6 +129,10 @@
 * https://gohugo.io/
 * https://jekyllrb.com/
   + http://jekyllbootstrap.com/
+  + https://github.com/asciidoctor/jekyll-asciidoc
+    - https://yermilov.github.io/blog/2017/02/20/using-jekyll-asciidoctor-and-github-pages-for-static-site-creation/
+    - http://eshepelyuk.github.io/2014/11/06/advanced-jekyll-and-asciidoctor.html
+    - https://github.com/asciidoctor/jekyll-asciidoc/issues/171 (book generation)
 * https://jbake.org/
 * https://www.gatsbyjs.org/
   + https://github.com/gatsbyjs/gatsby
@@ -168,10 +175,18 @@
 
 ## SSO and related
 
+* https://en.wikipedia.org/wiki/List_of_single_sign-on_implementations
 * https://nextcloud.com/blog/security-in-nextcloud-12-new-authentication-mechanisms/
   (useful overview for SSO solutions)
 
 * https://www.privacyidea.org/ (2factor enhancer)
+* https://ipsilon-project.org/
+* http://manageiq.org/docs/reference/euwe/auth/ipa_2fa
+
+### Articles
+
+* https://rhelblog.redhat.com/2016/03/22/red-hat-federation-story-ipsilon-keycloak-a-clash-of-the-titans/
+* https://adam.younglogic.com/2016/08/ooo-ha-fed-poc/#more-4487
 
 ## Big Ones
 
@@ -179,10 +194,27 @@
 
 * https://www.digitalocean.com/community/tutorials/how-to-set-up-centralized-linux-authentication-with-freeipa-on-centos-7
   (featured)
+* https://wiki.archlinux.org/index.php/FreeIPA
 
 * https://en.m.wikipedia.org/wiki/FreeIPA
 * https://www.freeipa.org/page/Documentation
 * https://www.freeipa.org/page/HowTos
+* https://www.freeipa.org/page/Deployment_Recommendations
+* https://www.freeipa.org/page/IPAv3_Architecture
+* https://www.freeipa.org/page/V4/OTP
+* https://community.hortonworks.com/articles/59645/ambari-24-kerberos-with-freeipa.html
+* https://www.freeipa.org/page/ARM
+
+#### freeIPA and Windows
+
+* https://www.freeipa.org/page/Windows_authentication_against_FreeIPA
+  + http://pgina.org/
+
+#### freeIPA and Docker/Container
+
+* http://daf-docs.readthedocs.io/en/latest/installation/docker/freeipa.html
+* https://www.freeipa.org/page/Docker
+* https://www.projectatomic.io/blog/2014/10/containerized-directory-services-with-docker-and-freeipa/
 * https://github.com/freeipa/freeipa-container
 
 #### freeIPA components
@@ -191,6 +223,10 @@
   + https://www.freeipa.org/page/HowTo/LDAP
 * http://www.dogtagpki.org/wiki/PKI_Main_Page
   + http://www.dogtagpki.org/wiki/IPA_Container
+* https://www.freeipa.org/page/Kerberos
+* sssd
+  + https://github.com/herlo/freeipa/blob/master/client/sssd.conf
+* https://www.freeipa.org/page/Client
   
 ### CAS
 
@@ -198,6 +234,7 @@
   + https://github.com/apereo/cas
   + https://github.com/apereo/cas-webapp-docker
 * https://apereo.github.io/cas/5.2.x/planning/Architecture.html
+* http://www.securityandit.com/security/cas-and-kerberos-protocol/
   
 ### CAS Installation
 
@@ -205,6 +242,7 @@
 * https://apereo.github.io/cas/5.2.x/installation/Maven-Overlay-Installation.html
 * https://apereo.github.io/cas/5.2.x/installation/Configuring-Ticketing-Components.html
 * https://apereo.github.io/cas/5.2.x/installation/Troubleshooting-Guide.html
+* https://hub.docker.com/r/apereo/cas/
   
 ### CAS Authorization
 
@@ -226,15 +264,25 @@
 #### keycloak integration
 
 * https://www.keycloak.org/docs/3.0/server_admin/topics/user-federation/sssd.html
+* https://www.keycloak.org/docs/latest/server_admin/index.html#_sssd
 * freeIPA
   + https://github.com/mposolda/keycloak-freeipa-docker
   + https://github.com/keycloak/keycloak-test-docker-images/blob/master/keycloak-sssd-integration-tests/docker-compose.yml
+  + https://hub.docker.com/r/mposolda/keycloak-freeipa-server/
   
 ### Shibboleth
 
 * https://www.shibboleth.net/
   + https://wiki.shibboleth.net/confluence/display/SHIB2/Home
   + https://wiki.shibboleth.net/confluence/display/CONCEPT
+  
+### Active Directory/Samba4/AD
+
+#### Samba4 AD docker images
+
+* https://github.com/Fmstrat/samba-domain
+* https://github.com/ksonohara/docker
+* https://github.com/bodsch/docker-samba4
 
 ## Backends
 
@@ -243,6 +291,7 @@
 * https://docs.fedoraproject.org/f28/system-administrators-guide/servers/Directory_Servers.html (good overview)
 * https://www.howtoforge.com/linux_ldap_authentication (OpenLDAP and PAM client configuration)
 * https://wiki.gentoo.org/wiki/Centralized_authentication_using_OpenLDAP
+* https://de.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol
 
 ## Middleware
 
@@ -267,7 +316,9 @@
 * https://wiki.contribs.org/Client_Authentication:Fedora_via_sssd/ldap
 * http://www.admin-magazin.de/Das-Heft/2012/03/Der-System-Security-Services-Daemon
 * https://fedoraproject.org/wiki/How_to_debug_SSSD_problems
-
+* https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sssd-introduction
+* https://www.adelton.com/docs/containers/fedora-sssd-container
+* https://docs-old.fedoraproject.org/en-US/Fedora/18/html/FreeIPA_Guide/setting-up-clients.html
 
 ### Emerging SSO
 

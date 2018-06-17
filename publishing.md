@@ -1,5 +1,28 @@
 # Publishing
 
+* https://www.indoition.com/xml-dita-tools-technical-documentation.htm
+
+## XML
+
+### Editors
+
+* https://www.oxygenxml.com/doc/versions/20.0/ug-editor/topics/author-dita-doc-type.html
+* http://www.codex.ca/
+* http://www.eclipse.org/vex/
+
+### Dita
+
+* http://idratherbewriting.com/2015/01/28/10-reasons-for-moving-away-from-dita/
+
+#### Tips and tricks
+
+* http://idratherbewriting.com//jquery_side_panel/
+
+#### Tooling
+
+* https://www.dita-ot.org/
+
+
 ## Markup
 
 ### Markdown
@@ -45,6 +68,10 @@
 * http://www.methods.co.nz/asciidoc
   + http://www.methods.co.nz/asciidoc/publishing-ebooks-with-asciidoc.html (epub)
   + http://asciidoc.org/epub-notes.html (epub)
+  
+## Diagramms
+
+* https://structurizr.com/ (supports md and asciidoc)
 
 ## Book Converter
 
@@ -55,6 +82,7 @@
   + https://gittobook.org/books/47/git-to-book-docs
   + https://gittobook.org/books/92/lagom (lagom as example)
 * https://github.com/akka/akka/tree/master/akka-docs (md to web site)
+* https://xmlgraphics.apache.org/fop/news.html
 
 ## Formats
 

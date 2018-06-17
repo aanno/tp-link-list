@@ -61,6 +61,14 @@
 * https://www.theforeman.org/
 * https://www.icinga.com/
 
+### Troubleshooting
+
+* https://unix.stackexchange.com/questions/128894/ssh-exchange-identification-connection-closed-by-remote-host-not-using-hosts-d
+
+### Security
+
+* https://www.certdepot.net/rhel7-get-started-random-number-generator/
+
 ## Distros
 
 ### Firewall distros
@@ -72,3 +80,14 @@
 * https://docs.fedoraproject.org/en-US/Fedora/26/html/Release_Notes/sect-changes-for-developers.html
 * http://dnf.readthedocs.io/en/latest/dnf-1_vs_dnf-2.html
 * https://getfedora.org/atomic/
+
+## Container
+
+### Docker 
+
+* https://docs.docker.com/config/containers/container-networking/#dns-services
+  + https://github.com/jderusse/docker-dns-gen
+  + https://hub.docker.com/r/cosmicq/docker-bind/
+  + https://github.com/sameersbn/docker-bind
+  + http://www.damagehead.com/blog/2015/04/28/deploying-a-dns-server-using-docker/
+* https://www.adelton.com/docs/containers/complex-application-in-container
