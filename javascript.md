@@ -49,6 +49,48 @@
 
 * https://github.com/angular/angular-cli
 
+### Angular Basics
+
+* [components interaction](https://angular.io/guide/component-interaction)
+  + [child and parent](https://www.centric.eu/NL/Default/Craft/Blogs/2018/01/25/Angular-components-How-to-talk-to-your-children-and-listen-to-what-they-have-to-say)
+  + [ref, parent, service](https://medium.com/dailyjs/3-ways-to-communicate-between-angular-components-a1e3f3304ecb)
+* directives
+  + [attribute directives](https://angular.io/guide/attribute-directives)
+  + [structural directives](https://angular.io/guide/structural-directives)
+  + [ImgPopOverComponent](https://stackoverflow.com/questions/43981841/apply-attribute-directive-on-component-in-angular-4)
+  + [toggle](https://blog.angularindepth.com/enhance-components-with-directives-58f16c4ca1f)
+* [error handling](https://angular.io/api/core/ErrorHandler)
+  + https://medium.com/@amcdnl/global-error-handling-with-angular2-6b992bdfb59c
+  + [http errors](https://hackernoon.com/global-http-error-catching-in-angular-4-3-9e15cc1e0a6b)
+  + [recovery](https://itnext.io/how-to-handle-your-run-time-errors-in-your-angular-application-8d72fefbf8a4)
+  + https://medium.com/@aleixsuau/error-handling-angular-859d529fa53a
+* services
+  + [singleton](https://angular.io/guide/singleton-services)
+  + [provider](https://angular.io/guide/providers)
+* modules
+  + https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407
+  + https://angular.io/guide/sharing-ngmodules
+
+### Angular app architecture
+
+* https://blog.angular-university.io/angular-2-redux-ngrx-rxjs/
+* https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course/
+
+### Angular Redux/Store
+
+* https://github.com/ngrx/platform
+* https://github.com/HarmoWatch/ngx-redux-core
+
+### Angular 6 feature
+
+* [CDK](https://blog.angular.io/a-component-dev-kit-for-angular-9f06e3b4b3b4)
+  + https://material.angular.io/cdk/categories
+* [elements](https://angular.io/guide/elements)
+* [material](https://material.angular.io/)
+  + [material icons](https://material.io/tools/icons/?style=baseline)
+* [bootstrap](https://ng-bootstrap.github.io/#/home)
+  + https://github.com/ng-bootstrap/ng-bootstrap
+
 ### Angular themes
 
 * https://github.com/vmware/clarity
@@ -64,6 +106,8 @@
 
 ### Angular Builder UIs ...
 
+* https://storybook.js.org/
+
 ###  ... for forms
 
 * http://angular-formly.com/#!/
@@ -71,7 +115,20 @@
 * https://github.com/gms1/angular-dynaform
 * https://github.com/toddmotto/angular-dynamic-forms
 
+### PrimeNG
+
+* [component overview](https://www.primefaces.org/primeng/#/)
+  + [icons](https://www.primefaces.org/primeng/#/icons)
+  + [primeicons](https://github.com/primefaces/primeicons)
+  + [fontawesome icons](https://www.primefaces.org/showcase/ui/misc/fa.xhtml)
+* [ultima theme](https://www.primefaces.org/ultima/dashboard.xhtml)
+
 ## Immutable
+
+* [list of libs](https://gist.github.com/jlongster/bce43d9be633da55053f)
+* https://github.com/engineforce/ImmutableAssign
+
+### ImmutableJS
 
 * http://thomastuts.com/blog/immutable-js-101-maps-lists.html
 * http://untangled.io/immutable-js-every-way-to-create-an-immutable-map/
@@ -103,6 +160,10 @@
 * https://www.npmjs.com/package/parse-decimal-number
 
 * https://hacks.mozilla.org/2017/06/introducing-humblenet-a-cross-platform-networking-library-that-works-in-the-browser/
+
+## Misc libs
+
+* [stacktrace](https://www.stacktracejs.com/#!/docs/stacktrace-js)
 
 ## Forms and JS
 

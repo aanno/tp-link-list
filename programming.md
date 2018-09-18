@@ -131,7 +131,15 @@ Tool für polyglotte API Entwicklung und Dokumentation, insbesondere im JSON RES
 * https://swagger.io/
 * https://github.com/swagger-api/swagger-codegen
 * https://github.com/swagger-api/swagger-codegen/tree/master/samples/client/petstore/typescript-fetch
-* https://blog.codecentric.de/en/2016/04/swagger-akka-http/ 
+* https://blog.codecentric.de/en/2016/04/swagger-akka-http/
+
+### Swagger 3, OpenAPI 3
+
+* Swagger 2 vs OpenAPI 3
+  + [visual guide](https://blog.readme.io/an-example-filled-guide-to-swagger-3-2/)
+  + [conversion](https://blog.runscope.com/posts/tutorial-upgrading-swagger-2-api-definition-to-openapi-3)
+* Examples
+  + https://github.com/OAI/OpenAPI-Specification/blob/master/examples/v3.0/api-with-examples.yaml
 
 ### Springfox = Swagger + Spring
 
