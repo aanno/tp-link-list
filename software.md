@@ -1,4 +1,4 @@
-# Coole Software
+# Cool Software
 
 ## VPN
 

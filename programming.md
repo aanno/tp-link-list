@@ -133,6 +133,8 @@ Tool für polyglotte API Entwicklung und Dokumentation, insbesondere im JSON RES
 * https://github.com/swagger-api/swagger-codegen/tree/master/samples/client/petstore/typescript-fetch
 * https://blog.codecentric.de/en/2016/04/swagger-akka-http/
 
+* https://senya.io/
+
 ### Swagger 3, OpenAPI 3
 
 * Swagger 2 vs OpenAPI 3

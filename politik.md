@@ -20,6 +20,8 @@
 ## Währung
 
 * http://www.anstageslicht.de/themen/wohnen/helikoptergeld/
+* https://www.sueddeutsche.de/wirtschaft/finanzkrise-kosten-deutschland-1.4126273
+* https://www.sueddeutsche.de/wirtschaft/finanzwende-prominenter-gruener-verlaesst-bundestag-und-gruendet-buergerbewegung-1.4126276
 
 ## Verkehr
 
