@@ -4,6 +4,9 @@ You normally _need_ GPU support for neural network training.
 
 Generally speaking, you need opencv and CUDA on NVidia, and opencl on AMD for hard stuff.
 
+Currently, GPU AMD support is only realistic on an ubuntu linux (as it compiles a kernel module and uses many special
+deb packages). 
+
 ## Keras
 
 Keras support Tensorflow (default), Theano, and CNTK as backends. See the specific sections for more details.
@@ -19,6 +22,21 @@ Getting Tensorflow with AMD is difficult:
 * https://stackoverflow.com/questions/37892784/using-keras-tensorflow-with-amd-gpu
 * https://github.com/hughperkins/tf-coriander
 
+### Checking if tensorflow is working
+
+To find out if tensorflow is using GPU use the following test program:
+
+```python3
+from tensorflow.python.client import device_lib
+
+print(device_lib.list_local_devices())
+```
+
+This is a list of (quick) tensorflow examples:
+
+* https://gpuopen.com/rocm-tensorflow-1-8-release/
+* https://github.com/maxpumperla/deep_learning_and_the_game_of_go
+
 ## Theano
 
 Theano will use (python's?) `libgpuarray` aka `pygpu`.
@@ -33,6 +51,14 @@ considered any further here (Hint: use OpenBlast, or even better an GPU implemen
 
 * https://github.com/clMathLibraries/clBLAS
 * https://github.com/CNugteren/CLBlast
+
+### Intel MKL
+
+Intel MKL seems to have vastly the same performance than openBLAS, so why bother?
+
+* http://markus-beuckelmann.de/blog/boosting-numpy-blas.html
+* https://discourse.julialang.org/t/openblas-is-faster-than-intel-mkl-on-amd-hardware-ryzen/8033
+* https://software.intel.com/en-us/articles/performance-comparison-of-openblas-and-intel-math-kernel-library-in-r
 
 ## Graphic Cards
 
@@ -77,8 +103,32 @@ See [OpenCL with the open-source AMDGPU driver](https://math.dartmouth.edu/~saru
 
 #### Alternatives to OpenCL
 
+##### ROCm
+
 * [ROCm](https://rocm.github.io/index.html)
   + [ROCm Installation](https://rocm.github.io/ROCmInstall.html)
   + [ROCm Tensorflow](https://rocm.github.io/dl.html)
+  + [github](https://github.com/RadeonOpenCompute/ROCm)
 * [MIOpen](https://gpuopen.com/compute-product/miopen/)
   + [ROCm using MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen)
+
+###### ROCm tensorflow support
+
+This is what to do:
+  
+* [Install](https://rocm.github.io/ROCmInstall.html) ROCm. Set LD_LIBRARY_PATH and PATH accoringly.
+* Use `rocminfo` and `clinfo` to check your installation.
+* Install `bazel`
+* Install dependencies mentioned [here](https://rocm.github.io/dl.html): 
+  + rocm-libs 
+  + miopen-hip 
+  + cxlactivitylogger
+* [Checkout rocm tf](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream/blob/develop-upstream/rocm_docs/tensorflow-install-basic.md) 
+  from github 
+* Change branch (I used 'r1.11-rocm-update')
+* Compile (and install) with `./build_rocm_python3`
+
+
+##### tf-coriander: tensorflow on opencl 1.2
+
+* https://github.com/hughperkins/tf-coriander
