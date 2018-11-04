@@ -2,7 +2,7 @@
 
 You normally _need_ GPU support for neural network training. 
 
-Generally speaking, you need opencv and CUDA on NVidia, and opencl on AMD for hard stuff.
+Generally speaking, you need opencv and CUDA on NVidia, and opencl and sycl on AMD for hard stuff.
 
 Currently, GPU AMD support is only realistic on an ubuntu linux (as it compiles a kernel module and uses many special
 deb packages). 
@@ -12,17 +12,23 @@ deb packages).
 Keras support Tensorflow (default), Theano, and CNTK as backends. See the specific sections for more details.
 
 * https://keras.io/backend/
+* [Switch GPU device](https://github.com/keras-team/keras/issues/4613)
 
 ## Tensorflow
 
 Tensorflow supports CUDA out of the box (https://www.tensorflow.org/install/).
 
+* [Switch GPU device](https://www.tensorflow.org/guide/using_gpu)
+* [Get list of devices](https://stackoverflow.com/questions/38559755/how-to-get-current-available-gpus-in-tensorflow)
+
 Getting Tensorflow with AMD is difficult:
 
+* https://www.tensorflow.org/install/source
 * https://stackoverflow.com/questions/37892784/using-keras-tensorflow-with-amd-gpu
 * https://github.com/hughperkins/tf-coriander
 
 ### Checking if tensorflow is working
+Currently, tensorflow does not work on python 3.7, see https://github.com/tensorflow/tensorflow/issues/20517 .
 
 To find out if tensorflow is using GPU use the following test program:
 
@@ -69,7 +75,9 @@ CUDA is wrapped by `opencv` _or_ used directly.
 
 Currently I did not own a NVidia card, hence no more information is given.
 
-### AMD graphic cards 
+### AMD graphic cards
+
+* https://www.amd.com/en/support Find amdpro driver
 
 #### OpenCL
 
@@ -89,6 +97,7 @@ error out). There are the following deb packages:
 * *`mesa-opencl-icd`* (this is the one you need and want for AMD)
 * `nvidia-opencl-icd-\<number\>` (if you need opencl on an NVidia, hardly ever used)
 * `pocl-opencl-icd` (an open implementation of opencl based on CPUs)
+  + http://portablecl.org/
 * `beignet-opencl-icd` (an implementation of opencl for Intel (integrated) graphic cards; 
   hardly useful for big data stuff)
   
@@ -105,14 +114,22 @@ See [OpenCL with the open-source AMDGPU driver](https://math.dartmouth.edu/~saru
 
 ##### ROCm
 
+Tipp: Your ROCm support is working, when there is the device `/dev/kfd`. If you have ROCm support using the
+[ROCm Docker Tensorflow]https://github.com/RadeonOpenCompute/ROCm-docker/blob/master/quick-start.md is by
+far the simpliest way to get accelerated tensorflow on AMD.
+
+* [GPU Open](https://gpuopen.com/professional-compute/)
 * [ROCm](https://rocm.github.io/index.html)
+  + [Supported Cards](https://github.com/RadeonOpenCompute/ROCm/blob/master/README.md)
   + [ROCm Installation](https://rocm.github.io/ROCmInstall.html)
   + [ROCm Tensorflow](https://rocm.github.io/dl.html)
   + [github](https://github.com/RadeonOpenCompute/ROCm)
+  + [ROCm on CentOS](https://rocm.github.io/ROCmInstall.html#centosrhel-7-both-74-and-75-support)
 * [MIOpen](https://gpuopen.com/compute-product/miopen/)
   + [ROCm using MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen)
 
 ###### ROCm tensorflow support
+###### ComputeCpp
 
 This is what to do:
   
@@ -130,5 +147,21 @@ This is what to do:
 
 
 ##### tf-coriander: tensorflow on opencl 1.2
+* https://developer.codeplay.com/computecppce/latest/overview
+* https://developer.codeplay.com/computecppce/latest/getting-started-with-tensorflow
+* https://developer.codeplay.com/computecppce/v1.0.2/supported-platforms#Amd-1AmdOpenclPlatformDriverForGpuDevices <br/>
+  Supported AMD are _OLD_ amdgpu-pro drivers, hence expect nothing. Newer drivers does not support SPIR 1.2.
+  
+###### triSYCL
+
+* https://github.com/triSYCL/triSYCL
+* [Status](https://www.khronos.org/assets/uploads/developers/library/2017-supercomputing/Xilinx-triSYCL-complete_Nov17.pdf) <br/>
+  No support for graphic cards at present?!?
+
+# Standards
+
+* https://www.khronos.org/spir/
+* https://www.khronos.org/sycl/
+* https://www.khronos.org/opencl/
 
 * https://github.com/hughperkins/tf-coriander

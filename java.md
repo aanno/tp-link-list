@@ -93,3 +93,16 @@
 * https://github.com/fakereplace/fakereplace
 * https://github.com/ifedorenko/com.ifedorenko.m2e.sourcelookup (eclipse and maven)
 
+# Spring
+
+* https://www.baeldung.com/spring-aop-annotation
+
+## Security
+
+* https://www.baeldung.com/get-user-in-spring-security
+
+### OAuth2
+
+* https://spring.io/guides/tutorials/spring-boot-oauth2/
+* https://projects.spring.io/spring-security-oauth/docs/oauth2.html
+* https://stackoverflow.com/questions/31338742/spring-security-how-to-get-oauth2-userinfo-during-sso-logged-in

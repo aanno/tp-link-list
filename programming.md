@@ -195,6 +195,7 @@ Tool für polyglotte API Entwicklung und Dokumentation, insbesondere im JSON RES
 * https://git-lfs.github.com/
   + https://github.com/git-lfs/git-lfs
   + https://github.com/artemkin/git-lfs-server
+  + [Encountered x file(s) that should have been pointers](https://github.com/git-lfs/git-lfs/issues/2839)
 * https://www.agwa.name/projects/git-crypt/
   + https://github.com/AGWA/git-crypt
 * https://spwhitton.name/tech/code/git-remote-gcrypt/

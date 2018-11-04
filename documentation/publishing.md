@@ -158,3 +158,14 @@
 * http://wereturtle.github.io/ghostwriter/
 * https://www.madoko.net/
   + http://madoko.org/reference.html
+
+## Markdown to Book
+
+* [rust](https://github.com/arbreng/books)
+  + [crowbook](https://github.com/lise-henry/crowbook)
+  + [rust book](https://github.com/rust-lang/book)
+    - https://doc.rust-lang.org/book/
+* [mdBook](https://github.com/rust-lang-nursery/mdBook)
+  + https://rust-lang-nursery.github.io/mdBook/
+* [md to epub](https://github.com/paulfurley/markdown-to-epub-mobi)
+* [pandoc](https://pandoc.org/installing.html)

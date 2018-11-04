@@ -322,6 +322,11 @@
 
 ### Emerging SSO
 
+#### OAuth2
+
+* https://github.com/babelouest/glewlwyd
+* https://github.com/ory/hydra
+
 #### JWT
 
 * Example: https://support.zendesk.com/hc/de/articles/203663816-Einrichten-des-Single-Sign-On-mit-JWT-JSON-Web-Token-

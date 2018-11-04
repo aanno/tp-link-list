@@ -27,6 +27,15 @@
 
 * https://www.zeit.de/mobilitaet/2018-05/gent-nahverkehr-mobilitaet-nachhaltigkeit
 
+### Luft
+
+* https://www.regierung.oberbayern.bayern.de/imperia/md/content/regob/internet/dokumente/bereich5/technischerumweltschutz/lrp/no2_uebersichtskarte.pdf
+* https://www.regierung.oberbayern.bayern.de/aufgaben/umwelt/allgemein/luftreinhalte/02716/
+* https://www.muenchen.de/rathaus/Stadtverwaltung/Referat-fuer-Gesundheit-und-Umwelt/Luft_und_Strahlung/Stickstoffdioxidmessungen.html
+* https://www.regierung.oberbayern.bayern.de/aufgaben/umwelt/allgemein/luftreinhalte/12744/index.php
+* https://www.muenchen.de/rathaus/Stadtverwaltung/Referat-fuer-Gesundheit-und-Umwelt/Luft_und_Strahlung/FAQ_Dieselfahrverbot.html
+* https://www.muenchen.de/aktuell/2018-07/masterplan-luftreinhaltung-verabschiedet.html
+
 ## Ökologie
 
 * http://www.sueddeutsche.de/wissen/orang-utans-die-opfer-des-palmoel-booms-1.3950833
