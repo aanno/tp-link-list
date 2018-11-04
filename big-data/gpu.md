@@ -28,6 +28,7 @@ Getting Tensorflow with AMD is difficult:
 * https://github.com/hughperkins/tf-coriander
 
 ### Checking if tensorflow is working
+
 Currently, tensorflow does not work on python 3.7, see https://github.com/tensorflow/tensorflow/issues/20517 .
 
 To find out if tensorflow is using GPU use the following test program:
@@ -114,7 +115,7 @@ See [OpenCL with the open-source AMDGPU driver](https://math.dartmouth.edu/~saru
 
 ##### ROCm
 
-Tipp: Your ROCm support is working, when there is the device `/dev/kfd`. If you have ROCm support using the
+Tip: Your ROCm support is working, when there is the device `/dev/kfd`. If you have ROCm support using the
 [ROCm Docker Tensorflow]https://github.com/RadeonOpenCompute/ROCm-docker/blob/master/quick-start.md is by
 far the simpliest way to get accelerated tensorflow on AMD.
 
@@ -129,7 +130,6 @@ far the simpliest way to get accelerated tensorflow on AMD.
   + [ROCm using MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen)
 
 ###### ROCm tensorflow support
-###### ComputeCpp
 
 This is what to do:
   
@@ -145,23 +145,25 @@ This is what to do:
 * Change branch (I used 'r1.11-rocm-update')
 * Compile (and install) with `./build_rocm_python3`
 
+###### ComputeCpp
 
-##### tf-coriander: tensorflow on opencl 1.2
 * https://developer.codeplay.com/computecppce/latest/overview
 * https://developer.codeplay.com/computecppce/latest/getting-started-with-tensorflow
 * https://developer.codeplay.com/computecppce/v1.0.2/supported-platforms#Amd-1AmdOpenclPlatformDriverForGpuDevices <br/>
   Supported AMD are _OLD_ amdgpu-pro drivers, hence expect nothing. Newer drivers does not support SPIR 1.2.
-  
+
 ###### triSYCL
 
 * https://github.com/triSYCL/triSYCL
 * [Status](https://www.khronos.org/assets/uploads/developers/library/2017-supercomputing/Xilinx-triSYCL-complete_Nov17.pdf) <br/>
   No support for graphic cards at present?!?
 
+###### tf-coriander: tensorflow on opencl 1.2
+
+* https://github.com/hughperkins/tf-coriander
+
 # Standards
 
 * https://www.khronos.org/spir/
 * https://www.khronos.org/sycl/
 * https://www.khronos.org/opencl/
-
-* https://github.com/hughperkins/tf-coriander
