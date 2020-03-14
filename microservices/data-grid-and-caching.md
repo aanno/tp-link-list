@@ -3,6 +3,7 @@
 ## Overview
 
 * https://www.predictiveanalyticstoday.com/top-memory-data-grid-applications/
+* https://www.jhipster.tech/using-cache/
 
 ## Simple
 
@@ -22,6 +23,7 @@
 * http://geode.apache.org/
   + http://geode.apache.org/docs/guide/15/developing/book_intro.html
 * https://pivotal.io/de/pivotal-gemfire
+* https://infinispan.org/
 
 ## Hardware related
 

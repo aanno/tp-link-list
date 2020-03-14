@@ -13,3 +13,17 @@
 ## World
 
 * https://www.qobuz.com/de-de/album/ahwar-nadah-el-shazly/5055869525176
+
+## Streaming and Multiroom
+
+### Chromecast and alternatives
+
+* https://developers.google.com/cast/
+  + https://github.com/googlecast
+
+#### Alternatives
+
+* https://awesomeopensource.com/projects/chromecast
+* http://www.ocast.org/
+* https://github.com/ASHS-School/mirrorcast
+* 

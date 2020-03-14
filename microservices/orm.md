@@ -13,6 +13,8 @@
 * https://github.com/Ryan-ZA/async-elastic-orm
 * https://github.com/j256/ormlite-core (SQL level)
 * http://jdbi.org/ (SQL level)
+* https://r2dbc.io/ (reactive)
+  + https://medium.com/javarevisited/reactive-database-access-with-r2dbc-micronaut-and-graalvm-ee9b5853260
 
 #### JPA compatible
 
