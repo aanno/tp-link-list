@@ -62,7 +62,12 @@
 ## Sync
 
 * https://wikisuite.org/Alternatives?highlight=alternative
-
+  + [nextcloud VM](https://github.com/nextcloud/vm)
+  + Vidio conference: nextcloud talk
+    - https://nextcloud.com/talk/
+    - https://apps.nextcloud.com/apps/spreed
+    - https://github.com/nextcloud/spreed
+    - [TURN and STUN scripts](https://github.com/nextcloud/vm/blob/master/apps/talk.sh)
 * https://nextcloud.com/
 * https://www.slant.co/topics/1882/~open-source-alternatives-to-resilio
   + https://syncthing.net/
