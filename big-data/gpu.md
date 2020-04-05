@@ -7,12 +7,16 @@ Generally speaking, you need opencv and CUDA on NVidia, and opencl and sycl on A
 Currently, GPU AMD support is only realistic on an ubuntu linux (as it compiles a kernel module and uses many special
 deb packages). 
 
+* https://missinglink.ai/guides/computer-vision/complete-guide-deep-learning-gpus/
+* https://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/
+
 ## Keras
 
 Keras support Tensorflow (default), Theano, and CNTK as backends. See the specific sections for more details.
 
 * https://keras.io/backend/
 * [Switch GPU device](https://github.com/keras-team/keras/issues/4613)
+* https://towardsdatascience.com/train-neural-networks-using-amd-gpus-and-keras-37189c453878
 
 ## Tensorflow
 

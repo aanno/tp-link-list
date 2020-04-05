@@ -174,6 +174,7 @@ Tool für polyglotte API Entwicklung und Dokumentation, insbesondere im JSON RES
 
 * https://stackoverflow.com/questions/4126300/git-how-to-get-all-the-files-changed-and-new-files-in-a-folder-or-zip
 * https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html (new wire protocol)
+* https://stackoverflow.com/questions/4220416/can-i-specify-multiple-users-for-myself-in-gitconfig
 
 #### Server/GUI/Hosting
 
@@ -191,6 +192,8 @@ Tool für polyglotte API Entwicklung und Dokumentation, insbesondere im JSON RES
 #### Extensions
 
 * https://git-annex.branchable.com/
+  + https://git-annex.branchable.com/assistant/
+  + https://git-annex.branchable.com/tips/fully_encrypted_git_repositories_with_gcrypt/
   + http://joeyh.name/blog/entry/git-annex_v6/
 * https://git-lfs.github.com/
   + https://github.com/git-lfs/git-lfs
@@ -202,6 +205,7 @@ Tool für polyglotte API Entwicklung und Dokumentation, insbesondere im JSON RES
   + https://github.com/spwhitton/git-remote-gcrypt
 * https://github.com/felipec/git-remote-hg
 * https://www.perforce.com/blog/your-git-repository-database-pluggable-backends-libgit2
+* https://git-secret.io/
 
 # Copied
 
@@ -309,6 +313,8 @@ Links
     https://www.lagomframework.com 
 
 Serverless Frameworks
+
+* http://www.officefloor.net/
 
 Alternative Sprachen für die JVM
 

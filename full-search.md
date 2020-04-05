@@ -5,6 +5,8 @@
 ## Solr
 
 * http://lucene.apache.org/solr/resources.html
+* https://blog.thetaphi.de/
+* http://yonik.com/solr/
 
 ### Front end
 
