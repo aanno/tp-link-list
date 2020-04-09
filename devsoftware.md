@@ -30,12 +30,34 @@
 
 #### based on VS Code
 
+* https://github.com/eclipse/lsp4j
+
+#### Theia
+
 * http://theia-ide.org/
   + https://github.com/theia-ide/theia
+  + https://github.com/eclipse-theia/theia
+  + https://github.com/eclipse-theia/theia/blob/master/doc/Developing.md run theia from sources
   + https://typefox.io/theia-may-2018-update
   + https://projects.eclipse.org/proposals/eclipse-theia
   + https://typefox.io/
-* https://github.com/eclipse/lsp4j
+* https://eclipsesource.com/de?p=41921 launch and usage scenarios
+* https://eclipsesource.com/de?p=40696 theia and che
+* https://eclipsesource.com/de/blogs/2019/10/17/how-to-add-extensions-and-plugins-to-eclipse-theia/ use code extension in theia
+* https://theia-ide.org/docs/
+  + https://eclipsesource.com/de?p=42068 plugins vs. extensions
+  + https://github.com/eclipse-theia/theia/wiki/Testing-VS-Code-extensions using vs code extension (vsix)
+  + https://theia-ide.org/docs/authoring_extensions
+  + https://theia-ide.org/docs/authoring_plugins
+* https://www.eclipse.org/che/getting-started/cloud/ (saas service)
+* https://www.gitpod.io/ (saas service)
+* https://www.gitpod.io/docs/git/ git integration in theia
+* cloud (docker)
+  + https://www.eclipse.org/che/
+  + https://github.com/eclipse/che
+  + https://github.com/eclipse/che-theia theia docker image with che support
+  + https://github.com/theia-ide/theia-apps theia docker images
+  + https://github.com/TypeFox/theia-workshop learning theia
   
 ## Off-Heap DBs (and related)
 

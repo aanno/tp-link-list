@@ -1,5 +1,7 @@
 # Linux
 
+* https://baireuther.de/lhb/
+
 ## Kernel
 
 * https://lwn.net/Articles/724198/ (AIO defects)
@@ -80,6 +82,11 @@
 * https://docs.fedoraproject.org/en-US/Fedora/26/html/Release_Notes/sect-changes-for-developers.html
 * http://dnf.readthedocs.io/en/latest/dnf-1_vs_dnf-2.html
 * https://getfedora.org/atomic/
+
+#### Silverblue
+
+* https://silverblue.fedoraproject.org/
+  + https://docs.fedoraproject.org/en-US/fedora-silverblue/
 
 ## Container
 
