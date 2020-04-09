@@ -12,6 +12,8 @@
 
 * https://developer.fedoraproject.org/deployment/openshift/about.html
 * https://www.openshift.com/blog/guide-to-installing-an-okd-4-4-cluster-on-your-home-lab
+* https://docs.openshift.com/container-platform/4.1/installing/installing_bare_metal/installing-bare-metal.html
+* https://www.eclipse.org/che/docs/che-7/running-che-locally/
 
 ## podman (general)
 
