@@ -1,27 +1,39 @@
 # Kubernetes family
 
+* https://teuto.net/wp-content/uploads/2019/10/openshift4AF.pdf with kubernetes distro overview
+
 ## Plain Kubernetes
 
 * https://microk8s.io/
 * https://operatorhub.io/ Operators for kubernetes
+* https://kontena.io/
+  + https://docs.k8spharos.dev/getting-started distribution
+  + https://k8slens.dev/ devop ui
 
 ## OpenShift family
 
 ### OKD
 
 * https://github.com/openshift/okd
+* https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes/ openshift vs kubernetes vs okd (featured!)
 
 #### OKD setup
 
 * https://developer.fedoraproject.org/deployment/openshift/about.html
 * https://www.openshift.com/blog/guide-to-installing-an-okd-4-4-cluster-on-your-home-lab
 * https://docs.openshift.com/container-platform/4.1/installing/installing_bare_metal/installing-bare-metal.html
-* https://www.eclipse.org/che/docs/che-7/running-che-locally/
+* https://www.eclipse.org/che/docs/che-7/running-che-locally
+* [CodeReady Containers](https://access.redhat.com/documentation/en-us/red_hat_codeready_containers/1.0/html/getting_started_guide/getting-started-with-codeready-containers_gsg?extIdCarryOver=true&sc_cid=701f2000001OH6pAAG#installing-codeready-containers_gsg) single node openshift
 
 #### Related projects
 
 * https://github.com/containerbuildsystem
   + https://osbs.readthedocs.io/en/latest/ OpenShift build service
+* https://ovirt.org/
+  + https://ovirt.org/download/beta.html
+  + https://ovirt.org/documentation/installing_ovirt_as_a_self-hosted_engine_using_the_cockpit_web_interface/
+  + https://resources.ovirt.org/pub/ovirt-4.4-pre/rpm/
+  + https://ovirt.github.io/ovirt-engine-api-model/
 
 ## podman (general)
 
