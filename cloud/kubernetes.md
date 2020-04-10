@@ -1,6 +1,7 @@
 # Kubernetes family
 
 * https://teuto.net/wp-content/uploads/2019/10/openshift4AF.pdf with kubernetes distro overview
+* https://fedoramagazine.org/introduction-kubernetes-fedora/
 
 ## Plain Kubernetes
 
@@ -9,6 +10,14 @@
 * https://kontena.io/
   + https://docs.k8spharos.dev/getting-started distribution
   + https://k8slens.dev/ devop ui
+* https://github.com/boot2podman/boot2podman has kubernetes support!
+* https://k3s.io/
+
+### Plain Kubernetes setup
+
+* https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/
+* https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
+* https://kubernetes.io/docs/setup/production-environment/container-runtimes/
 
 ## OpenShift family
 
@@ -16,6 +25,7 @@
 
 * https://github.com/openshift/okd
 * https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes/ openshift vs kubernetes vs okd (featured!)
+* https://www.openshift.com/learn/courses/playground/ 1h free playing
 
 #### OKD setup
 
@@ -24,6 +34,7 @@
 * https://docs.openshift.com/container-platform/4.1/installing/installing_bare_metal/installing-bare-metal.html
 * https://www.eclipse.org/che/docs/che-7/running-che-locally
 * [CodeReady Containers](https://access.redhat.com/documentation/en-us/red_hat_codeready_containers/1.0/html/getting_started_guide/getting-started-with-codeready-containers_gsg?extIdCarryOver=true&sc_cid=701f2000001OH6pAAG#installing-codeready-containers_gsg) single node openshift
+  + https://haralduebele.blog/2019/09/13/red-hat-openshift-4-on-your-laptop/amp/
 
 #### Related projects
 
@@ -49,6 +60,7 @@
 * https://mkdev.me/en/posts/dockerless-part-3-moving-development-environment-to-containers-with-podman
 * https://m.heise.de/developer/artikel/Podman-Linux-Container-einfach-gemacht-Teil-3-4476343.html
 * https://www.admin-magazin.de/Das-Heft/2019/08/Container-Management-mit-Podman
+* https://github.com/boot2podman/boot2podman
 
 ### podman (pods interface)
 
@@ -59,6 +71,7 @@
 
 * https://github.com/containers/libpod/blob/master/docs/source/markdown/podman-play-kube.1.md
 * https://github.com/containers/libpod/blob/master/docs/source/markdown/podman-generate-kube.1.md
+* https://developers.redhat.com/blog/2019/01/29/podman-kubernetes-yaml/
 
 ### other podman interfaces
 
