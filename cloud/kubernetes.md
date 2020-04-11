@@ -2,6 +2,19 @@
 
 * https://teuto.net/wp-content/uploads/2019/10/openshift4AF.pdf with kubernetes distro overview
 * https://fedoramagazine.org/introduction-kubernetes-fedora/
+* https://k8s.af/ Kubernetes failure stories
+
+## control group v2 state
+
+* https://medium.com/nttlabs/cgroup-v2-596d035be4d7
+* https://www.redhat.com/sysadmin/fedora-31-control-group-v2
+
+## Ports
+
+* 6443
+* 10250
+* 2379
+* 2380
 
 ## Plain Kubernetes
 
@@ -9,15 +22,36 @@
 * https://operatorhub.io/ Operators for kubernetes
 * https://kontena.io/
   + https://docs.k8spharos.dev/getting-started distribution
+    - cool idea, written in ruby - _BUT_ only supports some (other) distros: https://docs.k8spharos.dev/requirements.html
+    - based on docker-ce (and cfssl)
   + https://k8slens.dev/ devop ui
+* https://rancher.com/products
+  + [rke](https://rancher.com/docs/rke/latest/en/installation/)
+    - cool idea but also docker-ce based
 * https://github.com/boot2podman/boot2podman has kubernetes support!
-* https://k3s.io/
+* https://k3s.io/ kubernetes mini distribution
+* https://typhoon.psdn.io/
+* https://github.com/scality/metalk8s
+* https://github.com/kubicorn/kubicorn (old)
+  
+* https://kops.sigs.k8s.io/
+* https://kubespray.io/ ansible scripts for kubernetes setup (featured!)
+  + https://github.com/kubernetes-sigs/kubespray/blob/master/docs/cri-o.md cri-o support!
+* https://github.com/valentin2105/Kubernetes-Saltstack saltstack script for kubernetes setup
+* https://github.com/ramitsurana/awesome-kubernetes includes many kubernetes installers
 
 ### Plain Kubernetes setup
 
 * https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/
 * https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
 * https://kubernetes.io/docs/setup/production-environment/container-runtimes/
+* https://github.com/kubernetes/kubernetes/releases releases/versions
+
+### Plain Kubernetes UIs
+
+* https://srcco.de/posts/kubernetes-web-uis-in-2019.html
+* https://codeberg.org/hjacobs/kube-web-view/
+* https://k8slens.dev/ devops ui
 
 ## OpenShift family
 
@@ -61,6 +95,7 @@
 * https://m.heise.de/developer/artikel/Podman-Linux-Container-einfach-gemacht-Teil-3-4476343.html
 * https://www.admin-magazin.de/Das-Heft/2019/08/Container-Management-mit-Podman
 * https://github.com/boot2podman/boot2podman
+  + https://podman.io/blogs/2019/01/14/podman-machine-and-boot2podman.html
 
 ### podman (pods interface)
 
