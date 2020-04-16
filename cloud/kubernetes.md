@@ -4,10 +4,22 @@
 * https://fedoramagazine.org/introduction-kubernetes-fedora/
 * https://k8s.af/ Kubernetes failure stories
 
+## Learn kubernetes
+
+* https://learnk8s.io/blog
+* https://learnk8s.io/training
+
 ## control group v2 state
 
 * https://medium.com/nttlabs/cgroup-v2-596d035be4d7
 * https://www.redhat.com/sysadmin/fedora-31-control-group-v2
+
+## Kubernetes cloud provider
+
+* https://www.chdev.de/2019/07/02/kubernetes-mit-kubeadm-auf-netcup-root-servern/
+* https://www.replex.io/blog/the-ultimate-kubernetes-cost-guide-aws-vs-gce-vs-azure-vs-digital-ocean
+* https://www.replex.io/blog/the-ultimate-guide-to-deploying-kubernetes-cluster-on-aws-ec2-spot-instances-using-kops-and-eks
+* https://cloudacademy.com/blog/kubernetes-services-aws-vs-azure-vs-google-cloud/
 
 ## Ports
 
@@ -29,12 +41,22 @@
   + [rke](https://rancher.com/docs/rke/latest/en/installation/)
     - cool idea but also docker-ce based
 * https://github.com/boot2podman/boot2podman has kubernetes support!
+* https://minikube.sigs.k8s.io/docs/
 * https://k3s.io/ kubernetes mini distribution
+  + https://github.com/rancher/k3d k3s in docker (really!)
 * https://typhoon.psdn.io/
+* https://kubic.opensuse.org/ susu alternative to Fedora CoreOS
+  + https://en.opensuse.org/Portal:Kubic MicroOS
+  + https://en.opensuse.org/Kubic:kubeadm install kubernetes on MicroOS
+* https://kind.sigs.k8s.io/
+* https://github.com/kubesphere/kubesphere
+* https://kublr.com/pricing/ commercial, but free for development!
+  + https://docs.kublr.com/quickstart/
 * https://github.com/scality/metalk8s
+* https://github.com/poseidon/matchbox
 * https://github.com/kubicorn/kubicorn (old)
   
-* https://kops.sigs.k8s.io/
+* https://kops.sigs.k8s.io/ kubernetes deploy on AWS
 * https://kubespray.io/ ansible scripts for kubernetes setup (featured!)
   + https://github.com/kubernetes-sigs/kubespray/blob/master/docs/cri-o.md cri-o support!
 * https://github.com/valentin2105/Kubernetes-Saltstack saltstack script for kubernetes setup
@@ -52,6 +74,19 @@
 * https://srcco.de/posts/kubernetes-web-uis-in-2019.html
 * https://codeberg.org/hjacobs/kube-web-view/
 * https://k8slens.dev/ devops ui
+
+### Plain Kubernetes plugins/options
+
+#### Container
+
+* https://kubernetes.io/docs/setup/production-environment/container-runtimes/
+* https://cri-o.io/ container runtime
+  + https://github.com/cri-o/cri-o cri-o version _must_ match kubernetes version
+  + https://minikube.sigs.k8s.io/docs/handbook/config/ cri-o on minikube
+  + https://github.com/cri-o/cri-o/blob/master/tutorials/kubernetes.md
+  + https://github.com/cri-o/cri-o/blob/master/tutorials/kubeadm.md
+
+#### Networking
 
 ## OpenShift family
 
