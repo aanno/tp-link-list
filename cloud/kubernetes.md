@@ -8,6 +8,8 @@
 
 * https://learnk8s.io/blog
 * https://learnk8s.io/training
+* https://atix.de/training/kubernetes-training/
+  + https://atix.de/karriere/karriere-angebote-fuer-berufserfahrene/kubernetes-architect/
 
 ## control group v2 state
 
@@ -41,6 +43,7 @@
   + [rke](https://rancher.com/docs/rke/latest/en/installation/)
     - cool idea but also docker-ce based
 * https://github.com/boot2podman/boot2podman has kubernetes support!
+  + https://boot2podman.github.io/assets/ContainersWithoutDocker.pdf
 * https://minikube.sigs.k8s.io/docs/
 * https://k3s.io/ kubernetes mini distribution
   + https://github.com/rancher/k3d k3s in docker (really!)

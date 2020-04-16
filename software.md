@@ -1,5 +1,9 @@
 # Cool Software
 
+## Misc
+
+* https://blog.cloudflare.com/introducing-cfssl/ PKI
+
 ## VPN
 
 * https://www.wireguard.com/

@@ -2,6 +2,8 @@
 
 ## Editors
 
+* https://zero-to-jupyterhub.readthedocs.io/en/latest/
+
 ### VS Code
 
 * https://github.com/cdr/code-server/ VS code in browser
