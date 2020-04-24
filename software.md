@@ -137,4 +137,3 @@
 * https://github.com/hardware/mailserver
 * https://mailu.io/
 * https://github.com/frankh/docker-compose-mailbox (old)
-

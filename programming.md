@@ -31,6 +31,11 @@
 
 * http://opalang.org/
 * https://www.meteor.com
+* https://pharo.org/
+
+## IPC and Linux Programming
+
+* https://beej.us/guide/bgipc/html/multi/index.html
 
 ### Elixir
 

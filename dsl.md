@@ -33,9 +33,13 @@
 * https://typefox.io/visualizing-npm-package-dependencies-with-sprotty
   + http://npm-dependencies.com/
 * http://typefox.io/sprotty-a-web-based-diagramming-framework  
+* https://observablehq.com/ (web service)
 
 * https://github.com/theia-ide/sprotty
 * https://github.com/eclipse/elk
+* Vega und Vega lite
+  + https://vega.github.io/editor/#/examples/vega-lite/interactive_splom
+  + https://vega.github.io/vega/examples/force-directed-layout/
 
 
 ## MPS

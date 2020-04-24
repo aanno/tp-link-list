@@ -10,11 +10,17 @@
 * https://learnk8s.io/training
 * https://atix.de/training/kubernetes-training/
   + https://atix.de/karriere/karriere-angebote-fuer-berufserfahrene/kubernetes-architect/
+* [interactive tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-interactive/)
 
 ## control group v2 state
 
 * https://medium.com/nttlabs/cgroup-v2-596d035be4d7
 * https://www.redhat.com/sysadmin/fedora-31-control-group-v2
+
+* https://en.wikipedia.org/wiki/Cgroups
+* https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/resource_management_guide/sec-obtaining_information_about_control_groups
+* https://www.kernel.org/doc/html/latest/admin-guide/cgroup-v1/cgroups.html
+* https://www.kernel.org/doc/html/latest/admin-guide/cgroup-v2.html
 
 ## Kubernetes cloud provider
 
@@ -57,11 +63,15 @@
   + https://docs.kublr.com/quickstart/
 * https://github.com/scality/metalk8s
 * https://github.com/poseidon/matchbox
+* [firecube](https://www.weave.works/blog/firekube-fast-and-secure-kubernetes-clusters-using-weave-ignite) 
+  secure kube install
 * https://github.com/kubicorn/kubicorn (old)
   
 * https://kops.sigs.k8s.io/ kubernetes deploy on AWS
 * https://kubespray.io/ ansible scripts for kubernetes setup (featured!)
   + https://github.com/kubernetes-sigs/kubespray/blob/master/docs/cri-o.md cri-o support!
+  + https://mitogen.networkgenomics.com/ansible_detailed.html
+  + https://mitogen.networkgenomics.com/
 * https://github.com/valentin2105/Kubernetes-Saltstack saltstack script for kubernetes setup
 * https://github.com/ramitsurana/awesome-kubernetes includes many kubernetes installers
 
@@ -71,14 +81,40 @@
 * https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
 * https://kubernetes.io/docs/setup/production-environment/container-runtimes/
 * https://github.com/kubernetes/kubernetes/releases releases/versions
+* https://www.mirantis.com/blog/how-install-kubernetes-kubeadm/
+
+### kubernetes commands and features
+
+* [cheatsheet](https://kubernetes.io/de/docs/reference/kubectl/cheatsheet/)
+* [deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+* [pods and nodes](https://kubernetes.io/de/docs/tutorials/kubernetes-basics/explore/explore-intro/)
+* [kubelet](https://kubernetes.io/docs/tasks/administer-cluster/kubelet-config-file/)
+  + [kubelet config file](https://github.com/kubernetes/kubernetes/blob/master/staging/src/k8s.io/kubelet/config/v1beta1/types.go)
 
 ### Plain Kubernetes UIs
 
 * https://srcco.de/posts/kubernetes-web-uis-in-2019.html
 * https://codeberg.org/hjacobs/kube-web-view/
 * https://k8slens.dev/ devops ui
+* [rancher](https://rancher.com/why-rancher/) setup kube or manage existing kube
+  + https://rancher.com/docs/rancher/v2.x/en/quick-start-guide/deployment/quickstart-manual-setup/
+* https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/
+  + https://www.replex.io/blog/how-to-install-access-and-add-heapster-metrics-to-the-kubernetes-dashboard
+* https://kubernetic.com/ commercial (but only $30)
+  + https://docs.kubernetic.com/
+  + https://thenewstack.io/install-the-kubernetic-desktop-gui-on-ubuntu-linux-19-10/
+* https://github.com/wise2c-devops/breeze
+* https://k8slens.dev/ devop ui
+* [weave scope](https://www.weave.works/oss/scope/)
+  + https://www.weave.works/docs/scope/latest/installing/
+* http://fabric8.io/ unclear state
+  + https://github.com/fabric8io/fabric8-platform
+  + https://github.com/fabric8-services
 
 ### Plain Kubernetes plugins/options
+
+* https://caylent.com/50-useful-kubernetes-tools
+* https://techbeacon.com/enterprise-it/9-top-open-source-tools-monitoring-kubernetes
 
 #### Container
 
@@ -90,6 +126,14 @@
   + https://github.com/cri-o/cri-o/blob/master/tutorials/kubeadm.md
 
 #### Networking
+
+* https://coredns.io/
+  + https://coredns.io/plugins/etcd/
+
+#### Packet managment
+
+* helm
+  + https://www.heise.de/developer/meldung/Kubernetes-Paketmanager-Helm-3-verzichtet-auf-Tiller-4586105.html
 
 ## OpenShift family
 
@@ -103,20 +147,23 @@
 
 * https://developer.fedoraproject.org/deployment/openshift/about.html
 * https://www.openshift.com/blog/guide-to-installing-an-okd-4-4-cluster-on-your-home-lab
+  + https://medium.com/@craig_robinson/openshift-4-4-okd-bare-metal-install-on-vmware-home-lab-6841ce2d37eb
 * https://docs.openshift.com/container-platform/4.1/installing/installing_bare_metal/installing-bare-metal.html
 * https://www.eclipse.org/che/docs/che-7/running-che-locally
 * [CodeReady Containers](https://access.redhat.com/documentation/en-us/red_hat_codeready_containers/1.0/html/getting_started_guide/getting-started-with-codeready-containers_gsg?extIdCarryOver=true&sc_cid=701f2000001OH6pAAG#installing-codeready-containers_gsg) single node openshift
   + https://haralduebele.blog/2019/09/13/red-hat-openshift-4-on-your-laptop/amp/
+* https://github.com/openshift/okd/blob/master/README.md
 
 #### Related projects
 
 * https://github.com/containerbuildsystem
   + https://osbs.readthedocs.io/en/latest/ OpenShift build service
-* https://ovirt.org/
+* https://ovirt.org/ (very difficult to install)
   + https://ovirt.org/download/beta.html
   + https://ovirt.org/documentation/installing_ovirt_as_a_self-hosted_engine_using_the_cockpit_web_interface/
   + https://resources.ovirt.org/pub/ovirt-4.4-pre/rpm/
   + https://ovirt.github.io/ovirt-engine-api-model/
+  + https://github.com/oVirt/ovirt-engine
 
 ## podman (general)
 
