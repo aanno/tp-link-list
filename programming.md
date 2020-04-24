@@ -100,23 +100,6 @@ Go is well suited also for web development. Gogs has been implemented in Go and 
 * https://github.com/kohesive/kovert (REST)
 * https://github.com/ef-labs/vertx-guice (guice)
 
-### Emerging Microservices
-
-* http://cqrs.nu/tutorial/cs/01-design
-* http://cqrs.nu/Faq/aggregates
-* https://msdn.microsoft.com/en-us/library/jj554200.aspx
-* https://msdn.microsoft.com/en-us/library/jj591573.aspx
-* https://jazzy.id.au/2016/10/08/cqrs-increases-consistency.html
-
-* https://www.heise.de/developer/artikel/Aus-der-Werkzeugkiste-Teil-4-Adam-Bien-3755575.html?artikelseite=2
-  + https://prometheus.io
-  + https://github.com/AdamBien/porcupine
-  + http://zipkin.io/
-  + https://johnragan.wordpress.com/2009/12/08/release-it-stability-patterns-and-best-practices/
-
-* https://www.lagomframework.com/documentation/1.3.x/scala/ConductR.html (scala)
-  + https://www.lightbend.com/platform/production
-
 #### Service Locator for Microservices (and Service Mesh)
 
 * http://microservices.io/patterns/service-registry.html (pattern)

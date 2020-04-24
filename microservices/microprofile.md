@@ -1,6 +1,7 @@
 # Microprofile (and Jakarta EE) related microservices
 
-* https://thorntail.io/
+* https://thorntail.io/ (ex Wildfly Swarm)
+  + https://jaxenter.de/thorntail-wildfly-swarm-72909
 
 ## Basics and Overview
 

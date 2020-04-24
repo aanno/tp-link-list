@@ -4,11 +4,38 @@
 
 ## Frameworks
 
+* https://blogs.itemis.com/de/4-microservice-frameworks-im-vergleich
+* https://medium.com/microservices-architecture/top-10-microservices-framework-for-2020-eefb5e66d1a2
+* https://jax.de/blog/core-java-jvm-languages/microframeworks-unter-der-lupe-javalin-vs-ktor-vs-spring-fu-vs-micronaut/
+
+### Emerging Microservices
+
+* http://cqrs.nu/tutorial/cs/01-design
+* http://cqrs.nu/Faq/aggregates
+* https://msdn.microsoft.com/en-us/library/jj554200.aspx
+* https://msdn.microsoft.com/en-us/library/jj591573.aspx
+* https://jazzy.id.au/2016/10/08/cqrs-increases-consistency.html
+
+* https://www.heise.de/developer/artikel/Aus-der-Werkzeugkiste-Teil-4-Adam-Bien-3755575.html?artikelseite=2
+  + https://prometheus.io
+  + https://github.com/AdamBien/porcupine
+  + http://zipkin.io/
+  + https://johnragan.wordpress.com/2009/12/08/release-it-stability-patterns-and-best-practices/
+* https://quarkus.io/
+* https://knative.dev/ for kubernetes
 * https://micronaut.io/
 * https://quarkus.io/
+* https://helidon.io/#/
+* https://ktor.io/ kotlin
+* https://javalin.io/
+* https://github.com/spring-projects-experimental/spring-fu kotlin and java
 * [light-4j](https://www.networknt.com/)
   + [benchmarks](https://github.com/networknt/microservices-framework-benchmark)
   + [compare with other microservices](https://www.techempower.com/benchmarks/)
+
+* https://www.lightbend.com/learn for kubernetes
+* https://www.lagomframework.com/documentation/1.3.x/scala/ConductR.html (scala)
+  + https://www.lightbend.com/platform/production
 
 ### Spring and Angular
 
