@@ -11,6 +11,8 @@
 * https://atix.de/training/kubernetes-training/
   + https://atix.de/karriere/karriere-angebote-fuer-berufserfahrene/kubernetes-architect/
 * [interactive tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-interactive/)
+* https://kubernetesbootcamp.github.io/kubernetes-bootcamp/
+* https://cloud.netapp.com/kubernetes-hub
 
 ## control group v2 state
 
@@ -39,7 +41,6 @@
 ## Plain Kubernetes
 
 * https://microk8s.io/
-* https://operatorhub.io/ Operators for kubernetes
 * https://kontena.io/
   + https://docs.k8spharos.dev/getting-started distribution
     - cool idea, written in ruby - _BUT_ only supports some (other) distros: https://docs.k8spharos.dev/requirements.html
@@ -87,9 +88,22 @@
 
 * [cheatsheet](https://kubernetes.io/de/docs/reference/kubectl/cheatsheet/)
 * [deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+  + https://kubernetes.io/de/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/
 * [pods and nodes](https://kubernetes.io/de/docs/tutorials/kubernetes-basics/explore/explore-intro/)
 * [kubelet](https://kubernetes.io/docs/tasks/administer-cluster/kubelet-config-file/)
   + [kubelet config file](https://github.com/kubernetes/kubernetes/blob/master/staging/src/k8s.io/kubelet/config/v1beta1/types.go)
+
+### Advanced
+
+#### Authentication
+
+##### Keycloak (and some OAuth2)
+
+* https://medium.com/@sagarpatkeatl/kubernetes-with-keycloak-eca47f86abec
+* https://medium.com/stakater/proxy-injector-enabling-sso-with-keycloak-on-kubernetes-a1012c3d9f8d
+* https://www.openshift.com/blog/adding-authentication-to-your-kubernetes-web-applications-with-keycloak
+* https://blog.codecentric.de/en/2019/05/configuring-kubernetes-login-keycloak/
+* https://www.keycloak.org/getting-started/getting-started-kube
 
 ### Plain Kubernetes UIs
 
@@ -100,10 +114,13 @@
   + https://rancher.com/docs/rancher/v2.x/en/quick-start-guide/deployment/quickstart-manual-setup/
 * https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/
   + https://www.replex.io/blog/how-to-install-access-and-add-heapster-metrics-to-the-kubernetes-dashboard
+  + https://blog.heptio.com/on-securing-the-kubernetes-dashboard-16b09b1b7aca?gi=f79deee54710
 * https://kubernetic.com/ commercial (but only $30)
   + https://docs.kubernetic.com/
   + https://thenewstack.io/install-the-kubernetic-desktop-gui-on-ubuntu-linux-19-10/
 * https://github.com/wise2c-devops/breeze
+* https://kubeapps.com/
+  + https://github.com/kubeapps/kubeapps/blob/master/docs/user/getting-started.md
 * https://k8slens.dev/ devop ui
 * [weave scope](https://www.weave.works/oss/scope/)
   + https://www.weave.works/docs/scope/latest/installing/
@@ -132,8 +149,13 @@
 
 #### Packet managment
 
-* helm
+* [helm](https://helm.sh/)
+  + [helm hub](https://hub.helm.sh/)
   + https://www.heise.de/developer/meldung/Kubernetes-Paketmanager-Helm-3-verzichtet-auf-Tiller-4586105.html
+  + https://github.com/helm/charts
+* https://operatorhub.io/ Operators for kubernetes
+  + https://operatorhub.io/operator/eclipse-che (as example)
+  + https://github.com/eclipse/che-operator
 
 ## OpenShift family
 
@@ -141,6 +163,7 @@
 
 * https://github.com/openshift/okd
 * https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes/ openshift vs kubernetes vs okd (featured!)
+* https://labs.consol.de/de/devops/2019/02/11/k8s-vs-openshift.html
 * https://www.openshift.com/learn/courses/playground/ 1h free playing
 
 #### OKD setup
@@ -174,6 +197,8 @@
   + https://github.com/cri-o/cri-o
   + https://github.com/containers/storage
   + https://buildah.io/
+    - https://developers.redhat.com/blog/2019/08/14/best-practices-for-running-buildah-in-a-container/
+    - https://www.projectatomic.io/blog/2018/03/building-buildah-container-image-for-kubernetes/
 * https://www.projectatomic.io/blog/2018/02/reintroduction-podman/
 * https://developers.redhat.com/blog/2019/02/21/podman-and-buildah-for-docker-users/
 * https://mkdev.me/en/posts/dockerless-part-3-moving-development-environment-to-containers-with-podman

@@ -25,3 +25,22 @@
 ## Julia
 
 * https://julialang.org/
+* https://juliacomputing.com/ commercial
+
+## Libraries
+
+* https://www.juliadiff.org/
+
+## Julia ML
+
+* [Flux](https://fluxml.ai/)
+  + https://github.com/FluxML/Flux.jl
+  + [Flux for JS](https://github.com/FluxML/FluxJS.jl)
+* [Knet](https://github.com/denizyuret/Knet.jl/)
+* [MXNet for Julia](https://github.com/dmlc/MXNet.jl)
+* [pytorch to flux](https://philtomson.github.io/blog/2018-06-15-translating-pytorch-models-to-flux.jl-part1-rnn/)
+
+### Learning Julia
+
+* https://julialang.org/learning/
+* https://bookauthority.org/books/best-julia-programming-books

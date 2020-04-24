@@ -15,6 +15,7 @@
 ## Pattern
 
 * https://www.heise.de/developer/artikel/DDD-Co-Teil-1-Was-an-CRUD-falsch-ist-3756224.html
+* [the dark side of expertise](https://lwn.net/Articles/809556/)
 
 ## Language structure
 
@@ -116,13 +117,23 @@ Go is well suited also for web development. Gogs has been implemented in Go and 
 * https://www.lagomframework.com/documentation/1.3.x/scala/ConductR.html (scala)
   + https://www.lightbend.com/platform/production
 
-#### Service Locator for Microservices
+#### Service Locator for Microservices (and Service Mesh)
 
 * http://microservices.io/patterns/service-registry.html (pattern)
 * https://www.consul.io/
   + https://www.consul.io/intro/index.html
   + https://www.consul.io/api/
 * https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance
+* https://istio.io/
+  + https://istio.io/docs/concepts/what-is-istio/
+* https://ortelius.io/
+  + http://ortelius.io/microservice-mapping/
+  + https://github.com/ortelius/ortelius
+* https://fabiolb.net/
+  + https://github.com/fabiolb/fabio
+* https://github.com/Netflix/eureka
+  + https://spring.io/guides/gs/service-registration-and-discovery/
+  + https://www.baeldung.com/spring-cloud-netflix-eureka
 
 #### C++
 
