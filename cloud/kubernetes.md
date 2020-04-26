@@ -55,7 +55,7 @@
 * https://k3s.io/ kubernetes mini distribution
   + https://github.com/rancher/k3d k3s in docker (really!)
 * https://typhoon.psdn.io/
-* https://kubic.opensuse.org/ susu alternative to Fedora CoreOS
+* https://kubic.opensuse.org/ suse alternative to Fedora CoreOS
   + https://en.opensuse.org/Portal:Kubic MicroOS
   + https://en.opensuse.org/Kubic:kubeadm install kubernetes on MicroOS
 * https://kind.sigs.k8s.io/

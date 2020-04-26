@@ -7,6 +7,12 @@
 * https://lwn.net/Articles/724198/ (AIO defects)
 * https://lwn.net/Articles/724307/ (Block layer error handling)
 
+## Webcam
+
+* https://help.ubuntu.com/community/Webcam
+* http://www.netzmafia.de/skripten/hardware/Webcam/
+* https://www.linuxlinks.com/webcam/ webcam software overview
+
 
 ## Software
 
@@ -73,6 +79,9 @@
 
 ## Distros
 
+* https://getsol.us/home/ solus and solus budgie
+  + https://ubuntubudgie.org/
+
 ### Firewall distros
 
 * http://www.koozali.org/home/about (SME Server)
@@ -83,12 +92,41 @@
 * http://dnf.readthedocs.io/en/latest/dnf-1_vs_dnf-2.html
 * https://getfedora.org/atomic/
 
-#### Silverblue
+## Container
+
+* LXC
+  + https://www.linux-community.de/ausgaben/linuxuser/2015/03/frisch-verpackt/
+* https://grapheneproject.io/ unikernel-like
+  + https://github.com/oscarlab/graphene
+
+### Desktop Container
+
+* https://github.com/mviereck/x11docker
+* https://superuser.com/questions/1407370/how-to-run-an-x11-application-xclock-on-podman
+* https://github.com/DimaZirix/podbox
+* https://github.com/containers/toolbox
+* https://firejail.wordpress.com/
+  + https://www.techrepublic.com/article/how-to-install-and-use-firejail-on-linux/
+* https://security.stackexchange.com/questions/56703/best-method-to-sandbox-x-applications-in-ubuntu
+* https://manpages.ubuntu.com/manpages/precise/man8/sandbox.8.html
+* https://subuser.org/news/0.3.html
+
+### Container-faced Linux Distributions
+
+#### Fedora Silverblue
 
 * https://silverblue.fedoraproject.org/
   + https://docs.fedoraproject.org/en-US/fedora-silverblue/
+* https://docs.fedoraproject.org/en-US/fedora-silverblue/
+* https://discussion.fedoraproject.org/t/how-to-run-a-containerized-gui-application/570
 
-## Container
+#### Fedora CoreOS
+
+* https://docs.fedoraproject.org/en-US/fedora-coreos/getting-started/
+* https://docs.fedoraproject.org/en-US/fedora-coreos/faq/#_can_i_run_containers_via_docker_and_podman_at_the_same_time
+* https://docs.fedoraproject.org/en-US/fedora-coreos/running-containers/
+* https://developers.redhat.com/blog/2020/03/12/how-to-customize-fedora-coreos-for-dedicated-workloads-with-ostree/
+* https://developers.redhat.com/blog/2020/03/10/how-to-run-containerized-workloads-securely-and-at-scale-with-fedora-coreos/
 
 ### Docker 
 
