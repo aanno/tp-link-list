@@ -157,3 +157,25 @@
 
 * https://rootlesscontaine.rs/
 * https://github.com/nodesource/distributions
+
+## Linux on mobile phones
+
+* https://ubports.com/de_DE/
+  + https://devices.ubuntu-touch.io/
+  + pinephone
+    - https://www.heise.de/newsticker/meldung/Linux-auf-dem-Handy-Neuer-Anlauf-mit-dem-Pinephone-4696682.html
+    - https://www.pine64.org/pinephone/
+  + Volla phone
+    - https://www.computerbase.de/2020-03/volla-phone-gigaset-linux-ubuntu-touch/
+    - https://volla.online/
+* https://www.plasma-mobile.org/index.html
+  + https://wiki.postmarketos.org/wiki/Devices (and pixel 5X)
+  + https://docs.plasma-mobile.org/Installation.html
+* https://puri.sm/ (very expensive)
+  + https://puri.sm/products/librem-5/pureos-mobile/
+* https://halium.org/ abstraction layer
+* https://sailfishos.org/ (commercial)
+  + https://shop.jolla.com/ (xperia 10)
+* https://copperhead.co/android/ (pixel 2 + 3)
+  + https://piunikaweb.com/2019/02/05/the-demise-of-copperheados-and-rise-of-its-successors/
+* https://github.com/dan-v/rattlesnakeos-stack (obskure)
