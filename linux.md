@@ -52,6 +52,10 @@
   + https://github.com/borgbackup/community
 * https://github.com/NaPs/Marty
 
+### Multimedia
+
+* https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/home
+
 ##### Desaster recovery
 
 * https://github.com/rear/rear

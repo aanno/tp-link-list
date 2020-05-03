@@ -29,6 +29,10 @@
   + https://bitbucket.org/trove4j/trove
 * https://github.com/oracle/oracle-db-examples/tree/master/java/AoJ (preview of oracle's async JDBC)
 
+### Openjfx
+
+* https://openjfx.io/openjfx-docs/#install-javafx
+
 ### Mail
 
 * http://www.simplejavamail.org/features.html

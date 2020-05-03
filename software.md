@@ -1,5 +1,20 @@
 # Cool Software
 
+## Video editing
+
+* https://itsfoss.com/best-video-editing-software-linux/
+* https://wiki.ubuntuusers.de/Videobearbeitung/
+* https://github.com/mifi/lossless-cut
+
+### Video editing cli
+
+* https://github.com/slowmoVideo/slowmoVideo
+* https://discuss.pixls.us/t/how-can-i-interpolate-or-crossfade-a-series-of-images/1806
+
+* https://github.com/valillon/FaceMorph
+* https://github.com/alyssaq/face_morpher
+  + https://alyssaq.github.io/face_morpher/
+
 ## Misc
 
 * https://blog.cloudflare.com/introducing-cfssl/ PKI
