@@ -8,3 +8,8 @@
 ## Correlation
 
 * http://www.win-vector.com/blog/2011/11/correlation-and-r-squared/
+
+## CAS
+
+* https://mathics.github.io/
+* http://www.reduce-algebra.com/ (old)

@@ -1,5 +1,10 @@
 # DSL
 
+* https://tomassetti.me/domain-specific-languages/ (with tools)
+* https://www.heise.de/thema/Domain-Specific-Languages
+* https://de.wikipedia.org/wiki/Dom%C3%A4nenspezifische_Sprache
+* http://dslbook.org/
+
 ## DSLFoundry
 
 * https://dslfoundry.wordpress.com/
@@ -68,3 +73,9 @@
 
 * http://mbeddr.com/
 
+## Other Tools
+
+* http://www.monticore.de/
+  + https://github.com/MontiCore/monticore
+* https://www.rascal-mpl.org/
+* https://github.com/dynin/ideal

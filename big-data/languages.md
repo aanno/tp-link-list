@@ -4,7 +4,20 @@
 
 ## Special
 
+
+### Jupyter
+
 * http://jupyter.org/ (interactive worksheets for ALL languages)
+* https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+* https://github.com/pixiedust/pixiedust
+  + https://github.com/pixiedust/pixiedust/wiki/Tutorial:-Using-Notebooks-with-PixieDust-for-Fast,-Flexible,-and-Easier-Data-Analysis-and-Experimentation
+* spark
+  + https://github.com/jupyter-incubator/sparkmagic
+  + https://toree.apache.org/
+
+#### Jupyter (big) examples
+
+* https://github.com/ganeshutah/Jove Automata and Computability, Models of Computation
 
 ## Scala
 
