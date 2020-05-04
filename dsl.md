@@ -16,7 +16,9 @@
 
 * https://www.eclipse.org/Xtext/index.html
 * https://www.itemis.com/en/xtext/
+* https://www.itemis.com/en/it-services/individual-software-tools#xtext
 * https://typefox.io/xtext-2-13-0-released-semantic-editing-made-easy
+* https://www.kingsware.de/2016/07/30/interview-with-dr-jan-kohnlein-on-xtext-xtend-xcore-fxdiagram-and-typefox/
 * https://info.itemis.com/en/xtext/tips-and-tricks/
 * https://blogs.itemis.com/en/get-started-with-xtext-and-intellij-idea-in-5-minutes (no recent updates)
 
@@ -45,6 +47,7 @@
 * Vega und Vega lite
   + https://vega.github.io/editor/#/examples/vega-lite/interactive_splom
   + https://vega.github.io/vega/examples/force-directed-layout/
+* https://jankoehnlein.github.io/FXDiagram/
 
 
 ## MPS
