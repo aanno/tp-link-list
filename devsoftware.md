@@ -17,6 +17,25 @@
 * http://www.baeldung.com/activiti-kickstart-and-rest-apps
 * https://github.com/Activiti/Activiti-AngularApp
 
+## Testing
+
+* https://www.testcontainers.org/
+
+## Message queues
+
+### Pulsar
+
+* https://pulsar.apache.org/docs/en/concepts-messaging/
+* Transaction support
+  + https://github.com/apache/pulsar/issues/2664
+  + https://de.slideshare.net/streamnative/transaction-preview-of-apache-pulsar
+  + https://medium.com/@sjwang_50864/apache-pulsar-helps-tencent-process-tens-of-billions-of-financial-transactions-efficiently-with-8b435f177023
+
+## Block chain
+
+* [web3j](https://github.com/web3j/web3j)
+  + https://docs.web3j.io/
+
 ## Editor/IDE
 
 * https://atom.io/packages/proton-mode

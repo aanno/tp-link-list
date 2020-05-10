@@ -4,6 +4,7 @@
 * https://www.heise.de/thema/Domain-Specific-Languages
 * https://de.wikipedia.org/wiki/Dom%C3%A4nenspezifische_Sprache
 * http://dslbook.org/
+* http://dsl-course.org/ (concepts, xtext, MPS)
 
 ## DSL Workbenchs
 
@@ -143,6 +144,11 @@
 * https://matklad.github.io/2018/06/06/modern-parser-generator.html
 * https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html
 * https://www.oilshell.org/blog/2017/03/31.html
+* https://blog.adamant-lang.org/2019/dreaming-of-a-parser-generator/
+
+#### Implementations
+
+* https://iguana-parser.github.io/getting_started.html
 
 ### LSP (Language Server Protocol)
 
@@ -152,3 +158,25 @@
 * https://github.com/eclipse/lsp4j
 * https://jaxenter.de/yang-language-server-protocol-64232
 * https://blog.getgauge.io/gauge-and-the-language-server-protocol-c56fbcfba177?gi=54722be3b74a
+* https://medium.com/ballerina-techblog/implementing-a-language-server-how-hard-can-it-be-part-1-introduction-c915d2437076
+* https://medium.com/ballerina-techblog/language-server-for-ballerina-auto-completion-engine-in-depth-ee20e543ac26
+* https://medium.com/virtuslab/implementing-a-server-for-the-language-server-protocol-a2e6f94ed5df
+* https://www.toptal.com/javascript/language-server-protocol-tutorial
+
+### Server
+
+* https://microsoft.github.io/language-server-protocol/implementors/servers/
+* https://code.visualstudio.com/api/language-extensions/language-server-extension-guide
+
+* https://github.com/eclipse/lsp4j (java)
+* https://scalameta.org/metals/ (scala)
+
+### Client
+
+* https://microsoft.github.io/language-server-protocol/implementors/sdks/
+* https://projects.eclipse.org/projects/technology.lsp4e (eclipse)
+
+### Highlighting (not part of LSP, but normally handled somehow)
+
+* defacto-standard: [textmate highlighting grammar](https://macromates.com/manual/en/language_grammars)
+* https://www.eclipse.org/community/eclipse_newsletter/2018/june/tm4e.php (eclipse)

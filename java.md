@@ -28,6 +28,7 @@
 * https://github.com/JetBrains/intellij-deps-trove4j (high performance collection api)
   + https://bitbucket.org/trove4j/trove
 * https://github.com/oracle/oracle-db-examples/tree/master/java/AoJ (preview of oracle's async JDBC)
+* [feature flipping for java](https://github.com/ff4j/ff4j)
 
 ### Openjfx
 
