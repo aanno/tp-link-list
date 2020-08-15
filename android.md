@@ -48,3 +48,7 @@
   + https://grapheneos.org/build (pixel only)
 * [lineage](https://lineageos.org/)
   + https://wiki.lineageos.org/devices/
+
+# Android ohne Google 
+
+* https://adminforge.de/android/android-ohne-google-nutzen/

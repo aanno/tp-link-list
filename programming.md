@@ -72,6 +72,10 @@ Know-how
 #### BaaS and Serverless
 
 * https://www.heise.de/developer/artikel/Serverless-Computing-Teil-1-Theorie-und-Praxis-3756877.html
+* https://www.serverless.com/open-source/
+* https://github.com/apache/openwhisk
+  + https://openwhisk.apache.org/
+* https://opensource.com/article/18/11/open-source-serverless-platforms
 
 ### Emerging Stacks
 

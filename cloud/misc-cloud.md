@@ -13,3 +13,7 @@
 
 * https://github.com/jupyterhub/jupyterhub
   + https://zero-to-jupyterhub.readthedocs.io/en/latest/
+
+## Container developement
+
+* https://www.eclipse.org/codewind/

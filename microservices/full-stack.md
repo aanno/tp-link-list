@@ -28,6 +28,11 @@
 * https://helidon.io/#/
 * https://ktor.io/ kotlin
 * https://javalin.io/
+* https://axoniq.io/#0
+* https://github.com/networknt/light-4j
+  + https://www.networknt.com/
+  + https://github.com/networknt/microservices-framework-benchmark
+* https://moleculer.services/ (node)
 * https://github.com/spring-projects-experimental/spring-fu kotlin and java
 * [light-4j](https://www.networknt.com/)
   + [benchmarks](https://github.com/networknt/microservices-framework-benchmark)
