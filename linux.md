@@ -11,7 +11,16 @@
 
 * https://help.ubuntu.com/community/Webcam
 * http://www.netzmafia.de/skripten/hardware/Webcam/
+* https://www.ideasonboard.org/uvc/
+
+### Webcam Settings
+
+* https://www.kurokesu.com/main/2016/01/16/manual-usb-camera-settings-in-linux/
+
+### Webcam Software
+
 * https://www.linuxlinks.com/webcam/ webcam software overview
+* https://github.com/econsysQtCAM/QtCAM
 
 
 ## Software

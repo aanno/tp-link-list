@@ -146,6 +146,12 @@
 * https://www.oilshell.org/blog/2017/03/31.html
 * https://blog.adamant-lang.org/2019/dreaming-of-a-parser-generator/
 
+#### Antlr 
+
+* https://github.com/tunnelvisionlabs/antlr4ts
+  + https://github.com/tunnelvisionlabs/antlr4/blob/master/doc/optimized-fork.md
+* https://github.com/tunnelvisionlabs/antlr4/blob/master/doc/index.md (antlr documentation)
+
 #### Implementations
 
 * https://iguana-parser.github.io/getting_started.html
@@ -162,6 +168,7 @@
 * https://medium.com/ballerina-techblog/language-server-for-ballerina-auto-completion-engine-in-depth-ee20e543ac26
 * https://medium.com/virtuslab/implementing-a-server-for-the-language-server-protocol-a2e6f94ed5df
 * https://www.toptal.com/javascript/language-server-protocol-tutorial
+* https://tomassetti.me/language-server-dot-visual-studio/
 
 ### Server
 

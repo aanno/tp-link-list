@@ -19,6 +19,11 @@
 
 * https://github.com/ganeshutah/Jove Automata and Computability, Models of Computation
 
+#### Alternatives to Jupyter
+
+* https://zeppelin.apache.org/
+* https://github.com/spark-notebook/spark-notebook (old)
+
 ## Scala
 
 * http://www.scalanlp.org/

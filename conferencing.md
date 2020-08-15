@@ -1,6 +1,11 @@
 # (Video) Conferencing
 
+* https://www.golem.de/news/big-blue-button-wie-ccc-urgesteine-gegen-teams-und-zoom-kaempfen-2005-148560.html
+
 ## Server
+
+* https://www.heise.de/ix/meldung/Nextcloud-stellt-High-Performance-Back-End-unter-Open-Source-Lizenz-4727074.html
+* https://bigbluebutton.org/
 
 ### Jitsi
 

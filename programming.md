@@ -174,6 +174,7 @@ Tool für polyglotte API Entwicklung und Dokumentation, insbesondere im JSON RES
 * https://stackoverflow.com/questions/4126300/git-how-to-get-all-the-files-changed-and-new-files-in-a-folder-or-zip
 * https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html (new wire protocol)
 * https://stackoverflow.com/questions/4220416/can-i-specify-multiple-users-for-myself-in-gitconfig
+* https://stackoverflow.com/questions/5480069/autosetuprebase-vs-autosetupmerge
 
 #### Server/GUI/Hosting
 
