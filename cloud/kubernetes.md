@@ -221,3 +221,8 @@
 ### other podman interfaces
 
 * https://github.com/containers/podman-compose
+
+### podman solutions (for some applicatios)
+
+*  nginx-autoletsencrypt: https://github.com/profihost/podman-container-configs/
+*  jitsi-meet: https://wissen.profihost.com/wissen/artikel/installation-von-jitsi-meet/
