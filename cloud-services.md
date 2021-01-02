@@ -3,6 +3,7 @@
 ## Backup
 
 * https://www.backblaze.com/backup-pricing.html
+* https://www.veeam.com/de
 
 ## Logging
 

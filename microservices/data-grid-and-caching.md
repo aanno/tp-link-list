@@ -12,6 +12,9 @@
 
 ## In-Memory
 
+* https://db-engines.com/en/system/Ehcache%3BHazelcast%3BRedis
+* https://labs.consol.de/de/java-caches/index.html
+
 * https://hazelcast.com/
 * https://memcached.org/
 * http://www.terracotta.org/

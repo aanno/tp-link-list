@@ -89,6 +89,17 @@
 
 ## DB/SQL
 
+### General SQL Admin Tools
+
+* https://wiki.postgresql.org/wiki/PostgreSQL_Clients (mostly general tools)
+* https://www.adminer.org/de/
+* https://github.com/hangum/TadpoleForDBTools
+
+### Postgresql tools
+
+* https://www.pgadmin.org/
+* https://pgdash.io/
+
 ### MariaDB tools
 
 * https://www.plothost.com/kb/top-five-software-access-mysql-mariadb-servers/

@@ -81,6 +81,7 @@
 
 * https://www.theforeman.org/
 * https://www.icinga.com/
+* https://checkmk.com/de/produkt/editionen
 
 ### Troubleshooting
 

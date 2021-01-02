@@ -22,6 +22,7 @@
 ## VPN
 
 * https://www.wireguard.com/
+  + https://fedoramagazine.org/build-a-virtual-private-network-with-wireguard/
 
 ## OS
 
@@ -82,8 +83,11 @@
 
 * https://wikisuite.org/Alternatives?highlight=alternative
   + [nextcloud VM](https://github.com/nextcloud/vm)
+    - https://www.c-rieger.de/volltextsuche-mit-nextcloud-20-elasticsearch-und-tessaract/
+    - https://www.muehlencord.de/wordpress/2019/12/14/nextcloud-sso-using-keycloak/
   + Vidio conference: nextcloud talk
     - https://nextcloud.com/talk/
+    - https://markus-blog.de/index.php/2020/11/20/how-to-run-nextcloud-talk-high-performance-backend-with-stun-turnserver-on-ubuntu-with-docker-compose/
     - https://apps.nextcloud.com/apps/spreed
     - https://github.com/nextcloud/spreed
     - [TURN and STUN scripts](https://github.com/nextcloud/vm/blob/master/apps/talk.sh)
