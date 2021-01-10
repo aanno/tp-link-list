@@ -221,3 +221,7 @@
 * https://github.com/konsoletyper/teavm-flavour
 * https://github.com/konsoletyper/teavm
 * https://github.com/konsoletyper/teavm-flavour-examples-todomvc
+
+## Javascript and 3d
+
+* https://threejs.org/

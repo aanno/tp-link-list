@@ -212,6 +212,7 @@
 * https://github.com/HubPress/hubpress.io
 * https://www.netlifycms.org/ (git and generator based)
 * http://openlivewriter.org/
+* https://www.dev-insider.de
 
 ### Wiki
 
@@ -339,6 +340,8 @@
 
 ## Backends
 
+* https://www.boundaryproject.io/
+
 ### LDAP
 
 * https://docs.fedoraproject.org/f28/system-administrators-guide/servers/Directory_Servers.html (good overview)
@@ -383,4 +386,40 @@
 #### JWT
 
 * Example: https://support.zendesk.com/hc/de/articles/203663816-Einrichten-des-Single-Sign-On-mit-JWT-JSON-Web-Token-
+
+
+## Proxy
+
+### Socks5
+
+#### Server
+
+* https://github.com/z3APA3A/3proxy
+* https://github.com/ZhangJiupeng/AgentX (netty-based)
+* http://www.squid-cache.org/ (socks5 can be compiled in)
+  + https://wiki.squid-cache.org/Features/Socks
+
+#### Misc
+
+* https://github.com/securesocketfunneling/ssf
+* https://catonmat.net/linux-socks5-proxy (ssh and socks5)
+* https://shadowsocks.org/en/index.html
+  + https://en.wikipedia.org/wiki/Shadowsocks
+
+#### Client and Libs
+
+* https://github.com/JoshGlazebrook/socks
+* https://github.com/sethmlarson/socksio
+
+## Continuous Integration (CI/CD)
+
+### Web Services (commercial)
+
+* https://www.cloudbees.com/products/codeship
+
+### Open Source Projects
+
+* https://www.waypointproject.io/ (ci for cloud)
+
+### Web Services (commercial)
 

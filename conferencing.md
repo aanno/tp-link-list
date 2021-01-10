@@ -11,6 +11,7 @@
 
 * https://www.heise.de/ix/meldung/Nextcloud-stellt-High-Performance-Back-End-unter-Open-Source-Lizenz-4727074.html
 * https://bigbluebutton.org/
+* https://openmeetings.apache.org
 
 ### Jitsi
 

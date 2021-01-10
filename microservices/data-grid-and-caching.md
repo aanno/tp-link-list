@@ -17,6 +17,8 @@
 
 * https://hazelcast.com/
 * https://memcached.org/
+* https://ignite.apache.org/
+
 * http://www.terracotta.org/
 * http://www.paralleluniverse.co/spacebase/
 * http://www.paralleluniverse.co/galaxy/
