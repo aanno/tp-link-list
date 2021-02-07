@@ -63,3 +63,20 @@
 
 * https://volumio.org/discover/
   + https://github.com/volumio?tab=repositories
+
+# Realtime OS
+
+* https://www.osrtos.com/
+
+## Rust Realtime OS
+
+* https://www.drone-os.com
+  + https://github.com/dhylands/drone-weact-blinky
+  + https://api.drone-os.com/drone-stm32-map/0.13/drone_stm32_map/
+
+## Rust Era
+
+* https://github.com/rust-unofficial/awesome-rust
+* https://github.com/rust-embedded/awesome-embedded-rust
+* https://redox-os.org/ (linux replacement)
+* https://github.com/RustPython/RustPython (python interpreter in rust)

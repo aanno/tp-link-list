@@ -31,9 +31,10 @@ prinzipiell der klassischen Programmierung überlegen ist.
 
 * https://scalameta.org/
 
-### Dotty
+### Dotty/Scala 3
 
 * http://dotty.epfl.ch/#getting-started
+* http://dotty.epfl.ch/docs/reference/other-new-features/explicit-nulls.html
 
 ## Libs
 

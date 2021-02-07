@@ -132,6 +132,15 @@
   + https://github.com/usethesource/typepal typechecker generator
 
 
+## devonfw (capgemini)
+
+* https://devonfw.com/website/pages/welcome/welcome.html
+  + https://github.com/devonfw/devon4j (java devonfw)
+  + https://github.com/devonfw/devon4ng (js/ts devonfw)
+  + https://github.com/devonfw/cobigen (devonfw incremental generator) <br/>
+    structural merge for: Java, XML, Java Property Syntax, JSON, Basic HTML, Text Append, TypeScript
+  + https://github.com/devonfw/cobigen/wiki#architecture
+
 ## Other Tools
 
 * http://www.monticore.de/

@@ -37,6 +37,9 @@
 * [light-4j](https://www.networknt.com/)
   + [benchmarks](https://github.com/networknt/microservices-framework-benchmark)
   + [compare with other microservices](https://www.techempower.com/benchmarks/)
+* [activej](https://activej.io/)
+  + https://github.com/activej/activej
+  + https://github.com/the-benchmarker/web-frameworks (benchmark in favour of activej)
 
 * https://www.lightbend.com/learn for kubernetes
 * https://www.lagomframework.com/documentation/1.3.x/scala/ConductR.html (scala)

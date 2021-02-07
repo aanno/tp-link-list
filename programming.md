@@ -33,6 +33,8 @@
 * http://opalang.org/
 * https://www.meteor.com
 * https://pharo.org/
+* https://ballerina.io/
+* https://github.com/ansible/awx (on top of ansible)
 
 ## IPC and Linux Programming
 
