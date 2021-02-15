@@ -124,7 +124,6 @@
 * https://github.com/postlight/awesome-cms
 * https://jamstack.org/
 
-* https://getcockpit.com/
 * https://docs.ponzu-cms.org/
   + https://headlesscms.org/projects/ponzu/
 * https://www.sourcefabric.org/
@@ -137,8 +136,15 @@
 * https://www.nuxeo.com/de/
 * https://github.com/relax/relax
 
+### Git based CMS
+
+* https://www.netlifycms.org/ (jamstack-based)
+  + https://github.com/netlify/netlify-cms
+* https://github.com/misterfresh/react-drive-cms (google-drive-based)
+
 ### Headless CMS and API server
 
+* [What is a headless CMS](https://www.coredna.com/blogs/headless-vs-decoupled-cms)
 * https://cmsstash.de/empfehlungen/headless-cms
 * https://headlesscms.org
 
@@ -167,11 +173,20 @@
     - http://parseplatform.org/Parse-SDK-JS/api/v1.11.1/
 * https://github.com/typicode/json-server
 * http://crudl.io/
-* https://strapi.io/
+* https://jackrabbit.apache.org/oak/ (content repository)
+  + https://github.com/apache/jackrabbit-oak
+
+#### Featured headless
+* https://strapi.io/ (small companies)
   + https://github.com/strapi/strapi
   + https://blog.strapi.io/building-a-static-website-using-gatsby-and-strapi/
-* http://keystonejs.com/
+* http://keystonejs.com/ (node-based, GraphQL, Admin UI)
+  + https://www.keystonejs.com/blog/prisma-adapter/
+  + https://www.prisma.io/
 * https://www.netlifycms.org/
+* https://directus.io/ (RDBM, SQL)
+* https://getcockpit.com/ (Api first, GraphQL)
+* https://github.com/birkir/prime (small, GraphQL)
 
 ### Generators
 
