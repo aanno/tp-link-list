@@ -151,6 +151,21 @@
   + http://www.damagehead.com/blog/2015/04/28/deploying-a-dns-server-using-docker/
 * https://www.adelton.com/docs/containers/complex-application-in-container
 
+#### Docker/Podman volumes
+
+* [Overview](https://docs.docker.com/storage/volumes/)
+* article on backup/restore
+  + https://blog.ssdnodes.com/blog/docker-backup-volumes/
+  + https://scorban.de/2018/02/06/auto-backup-fuer-docker-volumes/
+  + https://gist.github.com/rockerBOO/48b777868f169042818ae7f66bc62502
+  + https://stackoverflow.com/questions/26331651/how-can-i-backup-a-docker-container-with-its-data-volumes
+* [Loomchild volume backup](https://hub.docker.com/p/loomchild/volume-backup)
+  + https://github.com/loomchild/volume-backup
+* [Futurice volume backup](https://github.com/futurice/docker-volume-backup)
+* [Blacklabelops volumerize](https://github.com/blacklabelops/volumerize) uses
+  + [duplicity](http://duplicity.nongnu.org/)
+  + [jobber](https://github.com/dshearer/jobber)
+
 ### Moby
 
 * https://github.com/moby/moby
@@ -189,3 +204,10 @@
 * https://copperhead.co/android/ (pixel 2 + 3)
   + https://piunikaweb.com/2019/02/05/the-demise-of-copperheados-and-rise-of-its-successors/
 * https://github.com/dan-v/rattlesnakeos-stack (obskure)
+
+## Linux block devices
+
+### NBD (Remote block device)
+
+* [nbdkit](https://github.com/libguestfs/nbdkit)
+* [nbdkit man page](https://manpages.ubuntu.com/manpages/bionic/man1/nbdkit.1.html)

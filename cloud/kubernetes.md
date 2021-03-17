@@ -220,7 +220,9 @@
 
 ### other podman interfaces
 
+* https://www.redhat.com/sysadmin/podman-docker-compose
 * https://github.com/containers/podman-compose
+* [docker api](https://podman.readthedocs.io/en/latest/_static/api.html)
 
 ### podman solutions (for some applicatios)
 

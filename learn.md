@@ -4,7 +4,6 @@
 
 * https://mammooc.org/home/index meta
 * https://cognitiveclass.ai (free)
-  + 
 * https://learnai-platform.bemyapp.com/
 
 
