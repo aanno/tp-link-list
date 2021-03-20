@@ -32,6 +32,7 @@
 
 * [use node API in frontend](https://nwjs.io/)
 * [independent component development](https://storybook.js.org/)
+* [svelte](https://svelte.dev/)
 
 ### Frontend Frameworks
 

@@ -19,10 +19,51 @@
 
 * https://blog.cloudflare.com/introducing-cfssl/ PKI
 
+## Tunneling
+
+* [udp-in-tcp](https://github.com/wangyu-/udp2raw-tunnel)
+* [tun2socks](https://github.com/xjasonlyu/tun2socks)
+
 ## VPN
+
+* [anonymiser/vpn blog](https://www.bitblokes.de/tag/vpn/)
+* [anonymise selective](https://github.com/jamesmcm/vopono)
+* [multi-protocol anonymiser](https://github.com/StreisandEffect/streisand)
+
+### Wireguard
 
 * https://www.wireguard.com/
   + https://fedoramagazine.org/build-a-virtual-private-network-with-wireguard/
+* https://github.com/pirate/wireguard-docs
+* [wireguard on fcos](https://docs.fedoraproject.org/en-US/fedora-coreos/sysconfig-configure-wireguard/)
+* https://www.stavros.io/posts/how-to-configure-wireguard/
+  + https://github.com/Nyr/wireguard-install
+* docker
+  + https://github.com/cmulk/wireguard-docker
+* [wireguard and iptables](https://www.cyberciti.biz/faq/how-to-set-up-wireguard-firewall-rules-in-linux/)
+
+#### Wireguard helpers
+
+* [code warrior setup](https://emanuelduss.ch/2018/09/wireguard-vpn-road-warrior-setup/)
+* [wireguard install](https://github.com/angristan/wireguard-install)
+* [wireguard ansible role](https://github.com/githubixx/ansible-role-wireguard)
+* [another wireguard ansible role](https://github.com/mawalu/wireguard-private-networking)
+* [wireguard meshconf](https://github.com/k4yt3x/wg-meshconf)
+* [wesher](https://github.com/costela/wesher) mesh-over-wg
+* [wireguard manager](https://github.com/complexorganizations/wireguard-manager)
+* [top wg projects](https://awesomeopensource.com/projects/wireguard)
+
+#### Wireguard UIs
+
+* [wireguard ui](https://github.com/ngoduykhanh/wireguard-ui) includes docker image
+* [wg ui](https://github.com/EmbarkStudios/wg-ui)
+* [subspace (old)](https://github.com/subspacecloud/subspace)
+
+#### Wireguard tunnels
+
+* [titun](https://github.com/sopium/titun)
+* [GRPC server for managing wireguard tunnels](https://github.com/stellarproject/guard)
+* [tailscale (commercial)](https://github.com/tailscale/tailscale)
 
 ## OS
 

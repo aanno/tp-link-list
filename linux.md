@@ -112,6 +112,7 @@
   + https://www.linux-community.de/ausgaben/linuxuser/2015/03/frisch-verpackt/
 * https://grapheneproject.io/ unikernel-like
   + https://github.com/oscarlab/graphene
+* [gvisor](https://github.com/google/gvisor) gVisor is an application kernel, written in Go, that implements a substantial portion of the Linux system
 
 ### Desktop Container
 
@@ -131,7 +132,7 @@
 
 * https://silverblue.fedoraproject.org/
   + https://docs.fedoraproject.org/en-US/fedora-silverblue/
-* https://docs.fedoraproject.org/en-US/fedora-silverblue/
+* https://fedoramagazine.org/what-is-silverblue/
 * https://discussion.fedoraproject.org/t/how-to-run-a-containerized-gui-application/570
 
 #### Fedora CoreOS

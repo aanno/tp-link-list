@@ -107,6 +107,7 @@
 * http://www.material-ui.com/#/components/tabs
 * https://jedwatson.github.io/react-select/
   + https://github.com/JedWatson/react-select
+* [svelte](https://madewithsvelte.com/)
 
 ### Big UI Libs
 

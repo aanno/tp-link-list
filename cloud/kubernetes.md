@@ -13,6 +13,7 @@
 * [interactive tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-interactive/)
 * https://kubernetesbootcamp.github.io/kubernetes-bootcamp/
 * https://cloud.netapp.com/kubernetes-hub
+* [kubernetes with ansible](https://www.tauceti.blog/post/kubernetes-the-not-so-hard-way-with-ansible-wireguard/)
 
 ## control group v2 state
 
@@ -223,6 +224,18 @@
 * https://www.redhat.com/sysadmin/podman-docker-compose
 * https://github.com/containers/podman-compose
 * [docker api](https://podman.readthedocs.io/en/latest/_static/api.html)
+* [toolbox](https://github.com/containers/toolbox)
+
+### podman network: CNI (rootful)
+
+* https://www.redhat.com/sysadmin/container-networking-podman
+* https://github.com/containernetworking/cni
+* https://docs.opensvc.com/latest/fr/agent.configure.cni.html (based on cni, off topic)
+
+### podman network: slirp4netns (rootless)
+
+* https://www.tutorialworks.com/containers/podman-host-networking/
+* https://github.com/rootless-containers/slirp4netns
 
 ### podman solutions (for some applicatios)
 
