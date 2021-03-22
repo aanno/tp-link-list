@@ -35,6 +35,7 @@
 * https://pharo.org/
 * https://ballerina.io/
 * https://github.com/ansible/awx (on top of ansible)
+* https://racket-lang.org/ (scheme-like, with meta-programming)
 
 ## IPC and Linux Programming
 

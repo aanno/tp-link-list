@@ -1,6 +1,14 @@
 # Linux
 
-* https://baireuther.de/lhb/
+* https://baireuther.de/lhb/ (Nachschlagewerk)
+
+## Nachrichten
+
+* https://www.linux-community.de/
+* https://www.howtoforge.de/ (Blog)
+* https://linuxnews.de/
+* https://www.omgubuntu.co.uk/
+* https://lwn.net/
 
 ## Kernel
 
@@ -91,6 +99,12 @@
 
 * https://www.certdepot.net/rhel7-get-started-random-number-generator/
 
+#### Security blogs
+
+* https://functionallyparanoid.com/
+* https://www.kuketz-blog.de/
+* https://www.autistici.org/ (hosting for you)
+
 ## Distros
 
 * https://getsol.us/home/ solus and solus budgie
@@ -122,6 +136,7 @@
 * https://github.com/containers/toolbox
 * https://firejail.wordpress.com/
   + https://www.techrepublic.com/article/how-to-install-and-use-firejail-on-linux/
+  + https://github.com/netblue30/firejail
 * https://security.stackexchange.com/questions/56703/best-method-to-sandbox-x-applications-in-ubuntu
 * https://manpages.ubuntu.com/manpages/precise/man8/sandbox.8.html
 * https://subuser.org/news/0.3.html
@@ -212,3 +227,12 @@
 
 * [nbdkit](https://github.com/libguestfs/nbdkit)
 * [nbdkit man page](https://manpages.ubuntu.com/manpages/bionic/man1/nbdkit.1.html)
+
+## systemd
+
+* difference between user and system
+  + https://superuser.com/questions/853717/what-is-the-difference-between-systemds-user-and-system-services
+  + https://unix.stackexchange.com/questions/335825/how-to-distinguish-between-user-services-and-system-service-in-systemd
+  + https://wiki.archlinux.org/index.php/systemd/User
+  + https://wiki.ubuntuusers.de/systemd/User_Units/
+* [timers](https://wiki.archlinux.de/title/Systemd/Timers) alternative to crond

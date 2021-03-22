@@ -196,6 +196,7 @@
 ### Webpack
 
 * https://github.com/webpack-contrib/extract-text-webpack-plugin/issues/216
+* https://www.heise.de/news/Vite-js-2-0-erschienen-JavaScript-Werkzeug-ist-reif-fuer-den-Produktivbetrieb-5062097.html
 
 ### Minify
 

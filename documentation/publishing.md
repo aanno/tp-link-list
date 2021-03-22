@@ -9,6 +9,7 @@
 * https://www.oxygenxml.com/doc/versions/20.0/ug-editor/topics/author-dita-doc-type.html
 * http://www.codex.ca/
 * http://www.eclipse.org/vex/
+* https://www.fiduswriter.org/
 
 ### Dita
 

@@ -249,6 +249,7 @@
   (useful overview for SSO solutions)
 
 * https://www.privacyidea.org/ (2factor enhancer)
+  + https://www.privacyidea.org/about/features/
 * https://ipsilon-project.org/
 * http://manageiq.org/docs/reference/euwe/auth/ipa_2fa
 

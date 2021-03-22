@@ -29,9 +29,13 @@
   + http://geode.apache.org/docs/guide/15/developing/book_intro.html
 * https://pivotal.io/de/pivotal-gemfire
 * https://infinispan.org/
+* https://github.com/InsightEdge/insightedge
+* https://www.infoq.com/articles/open-terracotta-intro/
 
 ## Hardware related
 
 * https://opencord.org/
 * https://fd.io/
-* https://github.com/stratis-storage/stratisd
+* https://stratis-storage.github.io/
+  + https://github.com/stratis-storage/stratisd
+  + https://lab.redhat.com/stratis

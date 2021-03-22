@@ -23,6 +23,7 @@
 
 * [udp-in-tcp](https://github.com/wangyu-/udp2raw-tunnel)
 * [tun2socks](https://github.com/xjasonlyu/tun2socks)
+* [chisel](https://github.com/jpillora/chisel)
 
 ## VPN
 
@@ -41,6 +42,11 @@
 * docker
   + https://github.com/cmulk/wireguard-docker
 * [wireguard and iptables](https://www.cyberciti.biz/faq/how-to-set-up-wireguard-firewall-rules-in-linux/)
+* [mistborn](https://gitlab.com/cyber5k/mistborn) wireguard based anonymiser and platform
+  + https://gitlab.com/cyber5k/mistborn/-/wikis/Mistborn-Network-Security
+  + https://cyber5k.com/
+  + https://www.mistborn.cloud/impressionen/
+  + https://www.buymeacoffee.com/cyber5k
 
 #### Wireguard helpers
 
@@ -140,7 +146,14 @@
   + https://librevault.com/
 * https://wikisuite.org/Software
 * https://rclone.org/
+* https://github.com/etesync/etesync-dav
 
+## Colaboration (nextcloud alternatives)
+
+* [tracim](https://github.com/tracim/tracim)
+  + https://www.algoo.fr/fr/tracim/communaute
+* [owncloud infinate scale (oCIS)](https://owncloud.github.io/ocis/getting-started/)
+  + https://owncloud.com/infinite-scale/
 ### Binary diff
 
 * https://github.com/kansifang/jvcdiff
@@ -197,3 +210,8 @@
 * https://github.com/hardware/mailserver
 * https://mailu.io/
 * https://github.com/frankh/docker-compose-mailbox (old)
+
+## Aggregators, news reader, RSS/ATOM, podcast
+
+* https://sabnzbd.org/ binary news reader
+  + https://sabnzbd.org/wiki/faq

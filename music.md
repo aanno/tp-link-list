@@ -26,4 +26,17 @@
 * https://awesomeopensource.com/projects/chromecast
 * http://www.ocast.org/
 * https://github.com/ASHS-School/mirrorcast
-* 
+* https://awesomeopensource.com/projects/chromecast
+* https://github.com/zoff-music/zoff-chromecast-receiver
+  + https://zoff.me/
+* https://github.com/mariolukas/HydraPlay
+* http://strobe.audio/
+* https://github.com/badaix/snapcast
+
+
+## DLNA and other music servers
+
+* https://github.com/anacrolix/dms
+* https://gerbera.io/
+* https://volumio.org/
+* https://jellyfin.org/

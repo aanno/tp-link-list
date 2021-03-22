@@ -6,6 +6,9 @@
 * https://cognitiveclass.ai (free)
 * https://learnai-platform.bemyapp.com/
 
+## Other platforms
+
+* https://katacoda.com/ (o'reily)
 
 ## Competition
 
