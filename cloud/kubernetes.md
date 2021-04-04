@@ -31,6 +31,8 @@
 * https://www.replex.io/blog/the-ultimate-kubernetes-cost-guide-aws-vs-gce-vs-azure-vs-digital-ocean
 * https://www.replex.io/blog/the-ultimate-guide-to-deploying-kubernetes-cluster-on-aws-ec2-spot-instances-using-kops-and-eks
 * https://cloudacademy.com/blog/kubernetes-services-aws-vs-azure-vs-google-cloud/
+* [Creates K8s clusters on cloud providers](https://github.com/crosscloudci/cross-cloud)
+  + https://github.com/crosscloudci/crosscloudci
 
 ## Ports
 
@@ -42,7 +44,7 @@
 ## Plain Kubernetes
 
 * https://microk8s.io/
-* https://kontena.io/
+* https://kontena.io/ (old, dicontinued)
   + https://docs.k8spharos.dev/getting-started distribution
     - cool idea, written in ruby - _BUT_ only supports some (other) distros: https://docs.k8spharos.dev/requirements.html
     - based on docker-ce (and cfssl)
@@ -55,10 +57,13 @@
 * https://minikube.sigs.k8s.io/docs/
 * https://k3s.io/ kubernetes mini distribution
   + https://github.com/rancher/k3d k3s in docker (really!)
-* https://typhoon.psdn.io/
+* [Minimal and free Kubernetes distribution via Terraform](https://typhoon.psdn.io/)
+  + [PXE boot and provision bare-metal clusters](https://github.com/poseidon/matchbox)
+  + [Fedora CoreOS reboot coordinator for Kubernetes](https://github.com/poseidon/fleetlock)
 * https://kubic.opensuse.org/ suse alternative to Fedora CoreOS
   + https://en.opensuse.org/Portal:Kubic MicroOS
   + https://en.opensuse.org/Kubic:kubeadm install kubernetes on MicroOS
+* https://kinvolk.io/lokomotive-kubernetes/
 * https://kind.sigs.k8s.io/
 * https://github.com/kubesphere/kubesphere
 * https://kublr.com/pricing/ commercial, but free for development!
@@ -157,6 +162,19 @@
 * https://operatorhub.io/ Operators for kubernetes
   + https://operatorhub.io/operator/eclipse-che (as example)
   + https://github.com/eclipse/che-operator
+
+##### Kubernetes and public cloud
+
+* https://learnk8s.io/cloud-resources-kubernetes
+
+#### Storage
+
+* https://rook.io/
+
+#### Serverless
+
+* https://knative.dev/
+  + https://www.redhat.com/de/topics/microservices/what-is-knative
 
 ## OpenShift family
 

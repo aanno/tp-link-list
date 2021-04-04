@@ -36,6 +36,8 @@
 
 ### Frontend Frameworks
 
+* https://totalcross.com/ (embedded devices)
+
 #### Polymer
 
 * https://www.heise.de/developer/meldung/Polymer-2-0-Googles-JavaScript-Bibliothek-macht-den-naechsten-Schritt-3718020.html

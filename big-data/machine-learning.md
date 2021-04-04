@@ -63,3 +63,7 @@
 ## Blogs
 
 * https://ai.googleblog.com/
+
+## More Libs
+
+* https://mxnet.apache.org/ (multi-language)

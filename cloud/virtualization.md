@@ -1,5 +1,9 @@
 # virtualization
 
+## Vagrant
+
+* https://github.com/jedi4ever/veewee
+
 ## host/dom0 networking
 
 * https://www.cyberciti.biz/faq/how-to-add-network-bridge-with-nmcli-networkmanager-on-linux/
@@ -7,6 +11,14 @@
 ## kvm, qemu, libvirt
 
 * https://libvirt.org/
+
+### networking
+
+* https://wiki.libvirt.org/page/Networking
+* network modes
+  + [NAT](https://fabianlee.org/2019/05/26/kvm-creating-a-guest-vm-on-a-nat-network/)
+  + [bridged](https://fabianlee.org/2019/04/01/kvm-creating-a-bridged-network-with-netplan-on-ubuntu-bionic/)
+  + [routed](https://fabianlee.org/2019/06/05/kvm-creating-a-guest-vm-on-a-network-in-routed-mode/)
 
 ### Console
 

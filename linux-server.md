@@ -7,6 +7,12 @@
 * [multipass](https://multipass.run/) Ubuntu VMs on demand
   + https://multipass.run/docs
 
+## Logging
+
+### Journald
+
+* https://sematext.com/blog/journald-logging-tutorial/
+
 
 ## Web servers and proxies
 

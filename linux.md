@@ -68,6 +68,18 @@
   + https://github.com/borgbackup/borg
   + https://github.com/borgbackup/community
 * https://github.com/NaPs/Marty
+* [duplicati](https://duplicati.readthedocs.io/en/latest/) (cloud-enabled)
+* [ogive](https://github.com/mgren/ogive) glacier backup
+* https://rclone.org/ (more a sync tool but cloud-enabled)
+* [syncovery](https://www.syncovery.com/) (commercial)
+* [cloud db backup](https://github.com/backup-manager/backup-manager)
+
+###### Cloud backup
+
+* [AWS DataSync Glacier](https://aws.amazon.com/de/blogs/storage/protect-your-file-and-backup-archives-using-aws-datasync-and-amazon-s3-glacier/)
+* [mtglacier to Glacier](https://cetteup.com/29/how-to-set-up-a-sync-backup-to-aws-glacier-on-linux-ubuntu-16-04-18-04/)
+* [Syncovery to Glacier](https://manjaro.site/backup-debian-amazon-s3/)
+* https://www.slant.co/options/2332/alternatives/~amazon-glacier-alternatives
 
 ### Multimedia
 
@@ -87,7 +99,7 @@
 
 ### Monitoring
 
-* https://www.theforeman.org/
+* https://www.theforeman.org/ lifecycle management
 * https://www.icinga.com/
 * https://checkmk.com/de/produkt/editionen
 
@@ -127,6 +139,9 @@
 * https://grapheneproject.io/ unikernel-like
   + https://github.com/oscarlab/graphene
 * [gvisor](https://github.com/google/gvisor) gVisor is an application kernel, written in Go, that implements a substantial portion of the Linux system
+* [flockport](https://www.flockport.com/)
+* [orabuntu-lxc](https://sites.google.com/a/orabuntu-lxc.com/documentation/)
+  + https://github.com/gstanden/orabuntu-lxc
 
 ### Desktop Container
 
@@ -157,6 +172,17 @@
 * https://docs.fedoraproject.org/en-US/fedora-coreos/running-containers/
 * https://developers.redhat.com/blog/2020/03/12/how-to-customize-fedora-coreos-for-dedicated-workloads-with-ostree/
 * https://developers.redhat.com/blog/2020/03/10/how-to-run-containerized-workloads-securely-and-at-scale-with-fedora-coreos/
+* [AWS CloudWatch on CoreOS](https://engineering.invisionapp.com/post/coreos-system-logs/)
+
+##### Based on Fedora CoreOS
+
+* [Fedora CoreOS reboot coordinator for Kubernetes](https://github.com/poseidon/fleetlock)
+* https://dustymabe.com/2020/04/04/automating-a-custom-install-of-fedora-coreos/
+
+##### Alternatives to Fedora CoreOS
+
+* https://kinvolk.io/flatcar-container-linux/
+* https://microos.opensuse.org/
 
 ### Docker 
 

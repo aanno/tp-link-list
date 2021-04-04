@@ -48,6 +48,11 @@
   + https://www.mistborn.cloud/impressionen/
   + https://www.buymeacoffee.com/cyber5k
 
+#### wg LAN-to-LAN
+
+* https://cosmicpercolator.com/2020/04/06/lan-to-lan-vpn-using-wireguard/
+* https://www.flockport.com/guides/build-wireguard-networks
+
 #### Wireguard helpers
 
 * [code warrior setup](https://emanuelduss.ch/2018/09/wireguard-vpn-road-warrior-setup/)
