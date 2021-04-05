@@ -73,13 +73,42 @@
 * https://rclone.org/ (more a sync tool but cloud-enabled)
 * [syncovery](https://www.syncovery.com/) (commercial)
 * [cloud db backup](https://github.com/backup-manager/backup-manager)
+* [HashBackup](http://www.hashbackup.com/home)
+* [qBackup](https://www.qualeed.com/en/qbackup/benchmarks/) (multi-platform, semi-commercial)
+* https://www.msp360.com/ (commercial)
 
 ###### Cloud backup
 
+####### Glacier 
+
+* [boto3 to Glacier](https://superuser.com/questions/546507/i-need-a-simple-way-to-backup-files-to-amazon-glacier-from-the-command-line)
+* [s3cmd to S3/Glacier](https://gist.github.com/macbookandrew/34dd7479b78888944afd)
 * [AWS DataSync Glacier](https://aws.amazon.com/de/blogs/storage/protect-your-file-and-backup-archives-using-aws-datasync-and-amazon-s3-glacier/)
 * [mtglacier to Glacier](https://cetteup.com/29/how-to-set-up-a-sync-backup-to-aws-glacier-on-linux-ubuntu-16-04-18-04/)
 * [Syncovery to Glacier](https://manjaro.site/backup-debian-amazon-s3/)
 * https://www.slant.co/options/2332/alternatives/~amazon-glacier-alternatives
+
+####### Backblaze B2
+
+* [S3FS with B2](https://help.backblaze.com/hc/en-us/articles/360047773653-Using-S3FS-with-B2)
+* [B2 linux support](https://help.backblaze.com/hc/en-us/articles/217664628-How-does-Backblaze-support-Linux-Users-)
+  + Supported: Duplicity, MSP360, qBackup, GoodSync, HashBackup, Duplicacy, Restic
+
+
+####### Other
+
+* https://wasabi.com/help/downloads/
+  + [borgbackup/rclone](https://wasabi-support.zendesk.com/hc/en-us/articles/115003691192-How-do-I-use-BorgBackup-with-Wasabi-)
+  + [s3fs with wasabi](https://wasabi-support.zendesk.com/hc/en-us/articles/115001744651-How-do-I-use-S3FS-with-Wasabi-)
+
+#### Storage data encryption
+
+* https://www.tecmint.com/file-and-disk-encryption-tools-for-linux/
+* https://en.wikipedia.org/wiki/List_of_cryptographic_file_systems
+* https://opendedup.org/odd/ (deduplication only)
+  + https://www.admin-magazin.de/Das-Heft/2015/06/Workshop-Das-deduplizierende-Dateisystem-OpenDedup
+
+* https://github.com/dyne/Tomb
 
 ### Multimedia
 

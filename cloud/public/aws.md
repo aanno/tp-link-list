@@ -14,6 +14,11 @@
 
 ## Tech Stack
 
+### VM (ec2, lightsail)
+
+* https://www.vpsbenchmarks.com/compare/ec2_vs_lightsail
+  + https://aws.amazon.com/de/lightsail/pricing/
+
 ### AWS Container (ecs, fargate)
 
 * https://aws.amazon.com/de/ecs
@@ -21,6 +26,7 @@
 
 ## AWS Development
 
+* [Retrieve metadata](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-retrieval.html)
 ### AWS CLI
 
 * [Loading AWS CLI parameters from a file](https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-parameters-file.html)
@@ -37,3 +43,7 @@
 * https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/asynchronous.html
 * [apidocs](https://sdk.amazonaws.com/java/api/latest/)
 * https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/examples-ec2-instances.html
+
+#### AWS Python SDK (boto3)
+
+* https://github.com/boto/boto3

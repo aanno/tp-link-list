@@ -1,5 +1,9 @@
 # Software for developers
 
+## Blogs
+
+* https://habr.com/en/
+
 ## OS
 
 * https://nixos.org/
@@ -35,6 +39,13 @@
 
 * [web3j](https://github.com/web3j/web3j)
   + https://docs.web3j.io/
+
+### Dyne/Decode/Zenroom
+
+* https://decodeproject.eu/blog/cryptographic-data-integrity-multiplatform-environment
+* https://zenroom.org/
+* https://github.com/dyne/Zenroom
+* https://www.dyne.org/
 
 ## Editor/IDE
 

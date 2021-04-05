@@ -41,6 +41,10 @@
   + https://github.com/Nyr/wireguard-install
 * docker
   + https://github.com/cmulk/wireguard-docker
+* wireguard with AWS
+  + https://xalitech.com/wireguard-vpn-server-on-aws-lightsail/
+  + https://www.jdieter.net/posts/2020/05/31/multi-region-vpn-aws/
+  + https://m.habr.com/en/post/449234/
 * [wireguard and iptables](https://www.cyberciti.biz/faq/how-to-set-up-wireguard-firewall-rules-in-linux/)
 * [mistborn](https://gitlab.com/cyber5k/mistborn) wireguard based anonymiser and platform
   + https://gitlab.com/cyber5k/mistborn/-/wikis/Mistborn-Network-Security
