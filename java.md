@@ -30,6 +30,12 @@
 * https://github.com/oracle/oracle-db-examples/tree/master/java/AoJ (preview of oracle's async JDBC)
 * [feature flipping for java](https://github.com/ff4j/ff4j)
 
+### Table output on console
+
+* https://github.com/vdmeer/asciitable
+* https://github.com/JakeWharton/picnic
+* https://github.com/minhhungit/ConsoleTableExt
+
 ### Openjfx
 
 * https://openjfx.io/openjfx-docs/#install-javafx
@@ -67,7 +73,14 @@
 
 ### Implementations
 
+* https://adoptopenjdk.net/
+* https://www.graalvm.org/
 * http://zulu.org/download/
+* jetbrais/idea
+  + [jvm chromium embedded](https://plugins.jetbrains.com/docs/intellij/jcef.html)
+  + [jcef replaces javafx](https://blog.jetbrains.com/platform/2020/07/javafx-and-jcef-in-the-intellij-platform/)
+  + [DCEVM - hotswapping vm](https://blog.jetbrains.com/idea/2013/07/get-true-hot-swap-in-java-with-dcevm-and-intellij-idea/)
+  + https://ssw.jku.at/dcevm/
 
 ### Serialization
 

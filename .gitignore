@@ -1,3 +1,5 @@
 /.vscode
 .idea/workspace.xml
-*.log
+*log
+*.out
+

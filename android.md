@@ -52,3 +52,16 @@
 # Android ohne Google 
 
 * https://adminforge.de/android/android-ohne-google-nutzen/
+
+## Apps
+
+### Browser
+
+* https://snapsearch.online/
+
+### Backup
+
+* [seedvault](https://github.com/seedvault-app/seedvault) integrated with lineage 18.1
+  + https://calyxinstitute.org/projects/seedvault-encrypted-backup-for-android
+* https://github.com/SecUSo/privacy-friendly-backup
+  + https://secuso.aifb.kit.edu/1491.php

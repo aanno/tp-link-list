@@ -46,7 +46,18 @@
 
 * https://github.com/shundhammer/qdirstat
 * https://bitbucket.org/jeromerobert/k4dirstat/wiki/Home
+
+#### Firewall
+
+* firewalld
+  + [firewalld tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-centos-8-de)
   
+
+#### Distributed filesystems
+
+* https://github.com/tahoe-lafs/tahoe-lafs
+* http://ori.scs.stanford.edu/
+
 #### Backup
 
 * https://www.backblaze.com/blog/backing-linux-backblaze-b2-duplicity-restic/
@@ -62,6 +73,11 @@
 
 * https://restic.net/
   + https://github.com/restic/restic
+* https://github.com/restic/others (list of other backup solutions)
+* http://www.urbackup.org/
+* https://www.bacula.org/ 
+* https://burp.grke.org/
+* https://github.com/miekg/rdup (rsync like)
 * https://bup.github.io/
   + https://github.com/bup/bup
 * https://borgbackup.readthedocs.io/en/stable/
@@ -161,6 +177,22 @@
 * http://dnf.readthedocs.io/en/latest/dnf-1_vs_dnf-2.html
 * https://getfedora.org/atomic/
 
+#### Fedora - steps after install
+
+* [nvidia driver (rpms)](https://itsfoss.com/install-nvidia-drivers-fedora/)
+* [nvidia-driver (direct)](https://www.if-not-true-then-false.com/2015/fedora-nvidia-guide/)
+* [dnf fastest mirror](https://darryldias.me/2020/how-to-setup-fastest-mirror-in-dnf/)
+
+#### Fedora third party repositories
+
+* https://rpmfusion.org/FedoraThirdPartyRepos
+* http://kde-redhat.sourceforge.net/
+* https://fedoraproject.org/wiki/Third_party_repositories
+
+#### dnf tipps and tricks
+
+* https://linoxide.com/list-installed-packages-fedora/
+
 ## Container
 
 * LXC
@@ -202,6 +234,7 @@
 * https://developers.redhat.com/blog/2020/03/12/how-to-customize-fedora-coreos-for-dedicated-workloads-with-ostree/
 * https://developers.redhat.com/blog/2020/03/10/how-to-run-containerized-workloads-securely-and-at-scale-with-fedora-coreos/
 * [AWS CloudWatch on CoreOS](https://engineering.invisionapp.com/post/coreos-system-logs/)
+* [libvirt support](https://www.ovirt.org/develop/release-management/features/virt/coreos-ignition-support.html)
 
 ##### Based on Fedora CoreOS
 
@@ -291,3 +324,13 @@
   + https://wiki.archlinux.org/index.php/systemd/User
   + https://wiki.ubuntuusers.de/systemd/User_Units/
 * [timers](https://wiki.archlinux.de/title/Systemd/Timers) alternative to crond
+
+### systemd and fs
+
+* [reload on fstab](https://unix.stackexchange.com/questions/477794/how-to-force-os-reload-of-fstab/577321)
+* `/etc/rc.d/rc.local` will be automatically executed (when x flag on file is set): https://www.cyberciti.biz/faq/how-to-enable-rc-local-shell-script-on-systemd-while-booting-linux-system/
+* [get rid of rc.local](https://unix.stackexchange.com/questions/471824/what-is-the-correct-substitute-for-rc-local-in-systemd-instead-of-re-creating-rc)
+
+# Huge pages 
+
+* https://wiki.debian.org/Hugepages

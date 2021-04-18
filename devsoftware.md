@@ -385,6 +385,21 @@
 * https://github.com/pac4j/pac4j
 * https://docs.spring.io/spring-security/site/docs/5.0.5.RELEASE/reference/htmlsingle/
 
+## Git
+
+### Git extensions
+
+* [repo, an alternative to `git submodule`](https://source.android.com/setup/develop/repo)
+* [git-crypt - transparent file encryption in git](https://github.com/AGWA/git-crypt)
+* [git-secret encrypts files and stores them](https://git-secret.io/)
+* [git-annex - manage metadata of files](https://git-annex.branchable.com/)
+  + https://git-annex.branchable.com/tips/fully_encrypted_git_repositories_with_gcrypt/
+* [git-remote-gcrypt - repositories encrypted with GnuPG](https://spwhitton.name/tech/code/git-remote-gcrypt/)
+* [gtm - Seamless time tracking for all your Git projects](https://github.com/git-time-metric/gtm)
+* [dvc - git for big-data](https://dvc.org/features)
+* [git-lfs](https://git-lfs.github.com/)
+  + [git-lfs tutorial and alternatives](https://www.perforce.com/blog/vcs/how-git-lfs-works)
+
 ## Client
 
 ### Apache httpd
@@ -413,7 +428,6 @@
 #### JWT
 
 * Example: https://support.zendesk.com/hc/de/articles/203663816-Einrichten-des-Single-Sign-On-mit-JWT-JSON-Web-Token-
-
 
 ## Proxy
 

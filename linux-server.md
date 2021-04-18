@@ -21,3 +21,7 @@
 * [TLS on nginx](https://www.sslmarket.de/ssl/help-installation-des-ssl-zertifikats-fuer-server-nginx)
   + https://www.techrepublic.com/article/how-to-enable-ssl-on-nginx/
 * [http2 server push](https://www.nginx.com/blog/nginx-1-13-9-http2-server-push/)
+
+### Cluster
+
+* https://de.wikipedia.org/wiki/Corosync_Cluster_Engine
