@@ -130,6 +130,7 @@
 * https://k8slens.dev/ devop ui
 * [weave scope](https://www.weave.works/oss/scope/)
   + https://www.weave.works/docs/scope/latest/installing/
+* [firekube](https://www.weave.works/oss/firekube/)
 * http://fabric8.io/ unclear state
   + https://github.com/fabric8io/fabric8-platform
   + https://github.com/fabric8-services

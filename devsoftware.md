@@ -454,6 +454,8 @@
 
 ## Continuous Integration (CI/CD)
 
+* https://www.ionos.de/digitalguide/websites/web-entwicklung/continuous-integration-tools/
+
 ### Web Services (commercial)
 
 * https://www.cloudbees.com/products/codeship

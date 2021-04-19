@@ -41,3 +41,31 @@
 * [rebar](https://rebar.digital/)
   + https://provision.readthedocs.io/en/latest/README.html
 * https://ovirt.org/
+
+
+# microVM
+
+* https://katacontainers.io/
+  + https://www.ionos.de/digitalguide/server/knowhow/kata-containers-vorgestellt/
+  + https://www.linux-magazin.de/ausgaben/2018/12/kata-containers/
+
+## Light Hypervisors
+
+* https://github.com/cloud-hypervisor/cloud-hypervisor
+* https://firecracker-microvm.github.io/
+# Unikernels
+
+* http://unikernel.org/
+* https://github.com/Solo5/solo5 hardware virtualized tender
+
+## Middleware
+
+* https://github.com/solo-io/unik A platform for automating unikernel & MicroVM compilation and deployment
+  + https://github.com/solo-io/unik/blob/master/docs/getting_started_java.md
+
+## Implementations
+
+* http://osv.io/ OSv is the versatile modular unikernel designed to run unmodified Linux applications securely on micro-VMs in the cloud. 
+  + http://blog.osv.io/blog/2019/04/19/making-OSv-run-on-firecraker/
+* https://mirage.io/ ocaml
+* 

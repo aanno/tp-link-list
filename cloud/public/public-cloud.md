@@ -40,6 +40,11 @@
 
 * https://www.nomadproject.io/api-docs
   + https://www.heise.de/select/ix/2017/7/1499098548285194
+* https://www.pulumi.com/
+  + https://www.pulumi.com/docs/intro/languages/
+  + https://www.pulumi.com/docs/intro/concepts/
+  + https://www.pulumi.com/docs/intro/concepts/state/
+  + https://www.pulumi.com/docs/troubleshooting/faq/
 
 ### Terraform
 

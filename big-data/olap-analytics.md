@@ -7,6 +7,10 @@
 * https://kylin.apache.org/
 * https://pinot.apache.org/
 
+### Commercial No-SQL
+
+* https://www.leanxcale.com/#
+
 ## Web Services (commercial)
 
 * https://databricks.com/de/ (bi, data warehouse)

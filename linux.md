@@ -9,6 +9,7 @@
 * https://linuxnews.de/
 * https://www.omgubuntu.co.uk/
 * https://lwn.net/
+* https://www.datacenter-insider.de/
 
 ## Kernel
 
@@ -102,6 +103,7 @@
 * [AWS DataSync Glacier](https://aws.amazon.com/de/blogs/storage/protect-your-file-and-backup-archives-using-aws-datasync-and-amazon-s3-glacier/)
 * [mtglacier to Glacier](https://cetteup.com/29/how-to-set-up-a-sync-backup-to-aws-glacier-on-linux-ubuntu-16-04-18-04/)
 * [Syncovery to Glacier](https://manjaro.site/backup-debian-amazon-s3/)
+* [Bacula to Cloud with RClone-change](https://www.bacula.lat/community/bacula-storage-in-any-cloud-with-rclone-and-rclone-changer/?lang=en)
 * https://www.slant.co/options/2332/alternatives/~amazon-glacier-alternatives
 
 ####### Backblaze B2
