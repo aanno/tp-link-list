@@ -50,12 +50,17 @@
 
 * https://learn.hashicorp.com/terraform
 * https://registry.terraform.io/
+* [terraform language basics](https://www.terraform.io/docs/language/index.html)
+* cloud agnostic?
+  + https://discuss.hashicorp.com/t/is-terraform-really-cloud-agnostic/5980/2
 
 #### Terraform on AWS
 
 * https://learn.hashicorp.com/tutorials/terraform/aws-build
 * https://registry.terraform.io/providers/hashicorp/aws/latest/docs
 * https://aws.amazon.com/de/blogs/apn/terraform-beyond-the-basics-with-aws/
+* [terraform aws examples](https://github.com/hashicorp/terraform-provider-aws/tree/main/examples/api-gateway-rest-api-openapi)
+* [terraform ecs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/ecs_service)
 
 ### CloudBridge
 

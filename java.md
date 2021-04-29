@@ -29,6 +29,8 @@
   + https://bitbucket.org/trove4j/trove
 * https://github.com/oracle/oracle-db-examples/tree/master/java/AoJ (preview of oracle's async JDBC)
 * [feature flipping for java](https://github.com/ff4j/ff4j)
+* [java library of graph theory](https://jgrapht.org/)
+* [modern collections](https://guava.dev/)
 
 ### Table output on console
 
@@ -81,6 +83,10 @@
   + [jcef replaces javafx](https://blog.jetbrains.com/platform/2020/07/javafx-and-jcef-in-the-intellij-platform/)
   + [DCEVM - hotswapping vm](https://blog.jetbrains.com/idea/2013/07/get-true-hot-swap-in-java-with-dcevm-and-intellij-idea/)
   + https://ssw.jku.at/dcevm/
+
+### Docker
+
+* [heap size inside docker container](https://www.baeldung.com/ops/docker-jvm-heap-size)
 
 ### Serialization
 

@@ -34,6 +34,11 @@
 * [Creates K8s clusters on cloud providers](https://github.com/crosscloudci/cross-cloud)
   + https://github.com/crosscloudci/crosscloudci
 
+## Managed Kubernetes
+
+* [AWS EKS](https://aws.amazon.com/de/eks/
+  + https://github.com/aws-samples/eks-workshop)
+
 ## Ports
 
 * 6443

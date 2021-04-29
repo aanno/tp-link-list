@@ -96,6 +96,9 @@ Go is well suited also for web development. Gogs has been implemented in Go and 
 * http://www.mono-project.com/news/
 * http://www.mono-project.com/docs/advanced/garbage-collector/sgen/
 
+* [IDE for F#](https://ionide.io/)
+* [Fornax - F# scriptable static site generator](https://github.com/ionide/Fornax)
+
 #### Vert.x 3
 
 * https://www.informatik-aktuell.de/entwicklung/programmiersprachen/vertx-3-reactive-microservices.html

@@ -5,6 +5,8 @@
 * https://github.com/sbt/zinc (scala (does it work for java?))
 * https://stackoverflow.com/questions/2590579/can-standard-sun-javac-do-incremental-compiling (org.eclipse.jdt.core.JDTCompilerAdapter)
 * [gradle incremental builds](https://docs.gradle.org/current/userguide/performance.html)
+  + https://blog.gradle.org/introducing-incremental-build-support
+  + https://blog.gradle.org/incremental-compiler-avoidance
 * http://takari.io/2014/10/16/incremental-compilation.html
 * [sjavac](https://stackoverflow.com/questions/26424759/what-is-sjavac-who-is-it-for-and-how-do-i-use-it)
 
@@ -17,6 +19,8 @@
 ## Java centered
 
 ### Maven
+
+* https://blog.sonatype.com/2011/01/maven-how-to-merging-plugin-configuration-in-complex-projects/
 
 #### Maven Dev and Maven 4
 

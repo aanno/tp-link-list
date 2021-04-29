@@ -47,3 +47,29 @@
 #### AWS Python SDK (boto3)
 
 * https://github.com/boto/boto3
+
+## Services
+
+### ECS
+
+#### ECS and docker-compose
+
+* https://aws.amazon.com/de/blogs/containers/deploy-applications-on-amazon-ecs-using-docker-compose/
+* [docker compose ecs examples](https://docs.docker.com/cloud/ecs-compose-examples/)
+* https://www.docker.com/blog/docker-compose-from-local-to-amazon-ecs/
+* https://www.docker.com/blog/docker-compose-for-amazon-ecs-now-available/
+* [ecs-cli compose](https://github.com/aws/amazon-ecs-cli)
+* [copilot](https://github.com/aws/copilot-cli)
+  + https://aws.github.io/copilot-cli/docs/overview/
+  + https://github.com/aws-samples/aws-copilot-sample-service
+
+#### service discovery
+
+* [java dns srv](https://stackoverflow.com/questions/10138844/java-dns-lookup-for-srv-records)
+  + https://github.com/dnsjava/dnsjava
+  + https://maheshsenniappan.medium.com/host-name-resolution-in-java-80301fea465a
+
+
+#### Fargate
+
+* https://aws.amazon.com/de/fargate/
