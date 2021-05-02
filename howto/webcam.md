@@ -128,17 +128,32 @@ real fps     30/1
 
 ## Droidcam
 
+### Use USB
+
+### Fedora 34
+
+1. Install `android-tools`
+2. Checkout https://github.com/M0Rf30/android-udev-rules
+3. Follow instructions
+4. Add users to group 'adbusers'
+
+### Ubuntu
+
+1. Install `adb`
+2. Add users to group 'plugdev'
 
 ### Droidcam sound
 
+Pulseaudio (e.g. Fedora 33):
 ```
 pacmd load-module module-alsa-source device=hw:Loopback,1,0
 ```
 
-
+Pipewire (e.g. Fedora 34):
 ```
 sudo modprobe snd-aloop
 ```
+(probably unneeded)
 
 ## References droidcam
 
