@@ -36,7 +36,25 @@
 
 ## DLNA and other music servers
 
+### Overview
+
+* https://circuitdigest.com/article/top-media-server-software-for-music-streaming-on-raspberry-pi
+* https://www.linuxlinks.com/musicservers/
+
+### Implementation
+
 * https://github.com/anacrolix/dms
 * https://gerbera.io/
 * https://volumio.org/
 * https://jellyfin.org/
+* https://mopidy.com/ (mpd clone)
+* https://owntone.github.io/owntone-server/ (mpd and daap)
+* https://airsonic.github.io/ (subsonic fork)
+
+### jeOS (just enough operating system) (i.e. rasberry PI)
+
+* https://www.pimusicbox.com/
+
+## Spotify
+
+* https://wiki.archlinux.org/title/spotify

@@ -19,11 +19,14 @@ aws ecr get-login-password --region region | docker login --username AWS --passw
    ```bash
 {
 	"credHelpers": {
-		"986139801873.dkr.ecr.eu-central-1.amazonaws.com": "ecr-login"
+		"986139801873.dkr.ecr.eu-central-1.amazonaws.com": "ecr-login",
+		"public.ecr.aws": "ecr-login"
 	}
 }
    ```
-   Certainly, docker-credential-ecr-login has to be installed (and in your path). 
+   Certainly, `docker-credential-ecr-login` has to be installed (and in your path).
+   Normally, `ecs-login` will look up `~/.aws/credentials` and will respect the
+   AWS_PROFILE environment variable.
    
 ### references registry and login
 
@@ -38,6 +41,11 @@ $ ecs-cli configure --cluster toyotamatching --config-name toyota --default-laun
 $ ecs-cli configure default --config-name toyota
 $ ecs-cli configure profile --access-key AWS_ACCESS_KEY_ID --secret-key AWS_SECRET_ACCESS_KEY --profile-name ec2-tutorial
 ```
+
+### Attention
+
+According to https://github.com/aws/amazon-ecs-cli/issues/1129 `ecs-cli` is
+_not_ maintained well. See alternatives for possible replacements.
 
 ### starting an instance
 
@@ -135,6 +143,7 @@ chmod +x /tmp/rexray.sh
 ## Alternatives to ecs-cli
 
 * https://github.com/aws/copilot-cli
+* https://docs.docker.com/cloud/ecs-integration/
 
 
 
