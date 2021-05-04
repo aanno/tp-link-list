@@ -144,6 +144,7 @@ chmod +x /tmp/rexray.sh
 
 * https://github.com/aws/copilot-cli
 * https://docs.docker.com/cloud/ecs-integration/
-
-
-
+  + Will not work with old docker of Debian/10/Buster, upgrade first with https://docs.docker.com/engine/install/debian/
+  + https://docs.docker.com/cloud/ecs-compose-examples/
+  + https://github.com/docker/compose-cli/blob/main/docs/ecs-architecture.md
+  + https://aws.amazon.com/de/blogs/containers/deploy-applications-on-amazon-ecs-using-docker-compose/
