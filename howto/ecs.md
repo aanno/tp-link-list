@@ -47,6 +47,10 @@ $ ecs-cli configure profile --access-key AWS_ACCESS_KEY_ID --secret-key AWS_SECR
 According to https://github.com/aws/amazon-ecs-cli/issues/1129 `ecs-cli` is
 _not_ maintained well. See alternatives for possible replacements.
 
+Configuring service discovery with `ecs-cli` is documented (and there is even
+a tutorial for that) but does not work as expected. See https://github.com/aws/amazon-ecs-cli/issues/1130
+for details.
+
 ### starting an instance
 
 * Given: You are in a folder with a `docker-compose.yml` and `ecs-params.yml` file.
@@ -87,12 +91,14 @@ aws servicediscovery list-namespaces
 * https://github.com/aws/amazon-ecs-cli
 
 
-## login into a ecs cloud instance
+## login into an ecs cloud instance
 
 * you need the private ssh key the instance of 'ecs amazon linux 2 (ecs optimized) was started with
 * key should not be group or other accessible
 * you can't rename the key file, it MUST end with *.pem
 * more trouble shooting: https://aws.amazon.com/de/premiumsupport/knowledge-center/linux-credentials-error/
+* Instead of the `-i toyotamatching.pem` you might vote for using `ssh-agent` 
+  `ssh-add`.
 
 ```bash
 ssh -i toyotamatching.pem ec2-user@3.66.16.178
@@ -148,3 +154,4 @@ chmod +x /tmp/rexray.sh
   + https://docs.docker.com/cloud/ecs-compose-examples/
   + https://github.com/docker/compose-cli/blob/main/docs/ecs-architecture.md
   + https://aws.amazon.com/de/blogs/containers/deploy-applications-on-amazon-ecs-using-docker-compose/
+  
