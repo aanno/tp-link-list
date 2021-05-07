@@ -123,14 +123,6 @@
 * http://www.oracle.com/technetwork/developer-tools/sql-developer/overview/index.html
 * http://squirrel-sql.sourceforge.net/
 
-## DMS
-
-* https://github.com/bevuta/pepa
-* http://www.cinnamon-cms.com/ (Dita)
-  + https://github.com/dewarim/cinnamon
-  + https://github.com/dewarim/cinnamon/blob/master/docs/dwarves_and_giants.md
-* https://docspell.org/
-
 ## CMS (and related)
 
 * https://github.com/postlight/awesome-cms

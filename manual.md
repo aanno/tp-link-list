@@ -25,6 +25,17 @@
 * https://github.com/rust-lang/book (md)
 * https://github.com/killercup/trpl-ebook (epub)
 * https://github.com/lise-henry/books (pdf, epub)
+* https://doc.rust-lang.org/cargo/commands/cargo-build.html (cargo-book)
+
+
+### Rust linking
+
+* [RUSTFLAGS with ` -C prefer-dynamic`](https://news.ycombinator.com/item?id=16736725)
+* [minimize rust](https://github.com/johnthagen/min-sized-rust)
+* [linkage](https://doc.rust-lang.org/reference/linkage.html)
+* http://www.elebihan.com/posts/generating-dynamically-linked-programs-with-cargo.html
+* https://www.reddit.com/r/rust/comments/4fd5ng/how_to_use_the_std_library_as_a_dynamically/
+* https://michael-f-bryan.github.io/rust-ffi-guide/dynamic_loading.html
 
 ## Dart
 

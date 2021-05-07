@@ -58,3 +58,34 @@
 ## Spotify
 
 * https://wiki.archlinux.org/title/spotify
+
+### Spotify apps
+
+* [librespot](https://github.com/librespot-org/librespot)
+* [spotifyd](https://github.com/Spotifyd/spotifyd)
+  + https://spotifyd.github.io/spotifyd/installation/index.html
+
+
+### Spotify API
+
+* [spotify-web-api-java](https://github.com/thelinmichael/spotify-web-api-java)
+* [spotipy](https://spotipy.readthedocs.io/en/2.13.0/)
+
+### Spotify import
+
+* [import artist list 1](https://github.com/mbharanya/Spotify-Import-Artists)
+* [import-artist-list 2](https://github.com/MattAlex151/spotify-follow-bot)
+
+### Spotify export
+
+* [exsp](https://github.com/gk4m/exsp)
+* [exportify](https://github.com/watsonbox/exportify) (with reimport tipp)
+* [backup and restore](https://github.com/secuvera/SpotMyBackup/)
+* [big data export artist](https://github.com/panchambanerjee/access_spotify)
+* [recommendation 1](https://github.com/slevin48/music)
+
+### Spotify playlists
+
+* [fork other playlist](https://github.com/kabirvirji/spotifork)
+* [generate list with last.fm additional data](https://github.com/epsil/spotgen)
+* [import/export playlists](https://github.com/debfx/spotify-playlists)

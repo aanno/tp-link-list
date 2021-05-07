@@ -149,6 +149,9 @@
 * https://www.theforeman.org/ lifecycle management
 * https://www.icinga.com/
 * https://checkmk.com/de/produkt/editionen
+* https://de.wikipedia.org/wiki/Ganglia_(Software)
+* https://grafana.com/
+* https://www.elastic.co/de/kibana
 
 ### Troubleshooting
 
@@ -336,3 +339,38 @@
 # Huge pages 
 
 * https://wiki.debian.org/Hugepages
+
+
+## Linux package build
+
+* https://wiki.archlinux.org/title/Creating_packages_for_other_distributions
+
+### Cross-linux
+
+* [basics](https://www.artificialworlds.net/blog/2007/02/22/creating-deb-and-rpm-packages/)
+* [pacur](https://github.com/pacur/pacur) (docker-based)
+* [fpm](https://github.com/jordansissel/fpm)
+  + https://fpm.readthedocs.io/en/latest/intro.html
+  + https://opensource.com/article/18/9/how-build-rpm-packages
+
+
+### RPM
+
+* [basics 1](https://documentation.suse.com/sbp/all/single-html/SBP-RPM-Packaging/index.html)
+* [basics 2](https://opensource.com/article/18/9/how-build-rpm-packages)
+
+### Deb
+
+* [basics 1](http://www.hackgnar.com/2016/01/simple-deb-package-creation.html?m=1)
+* [deb-o-matic](https://github.com/debomatic/debomatic)
+  + https://deb-o-matic.readthedocs.io/en/stable/introduction.html
+* [dh-make](https://salsa.debian.org/debian/dh-make) (debian)
+* [pbuilder](https://wiki.ubuntuusers.de/Archiv/pbuilder-dist/) (ubuntu, chroot-based)
+
+### Build services
+
+* https://de.opensuse.org/Portal:Build_Service
+* [copr](https://copr.fedorainfracloud.org)
+  + [copr-cli](https://www.systutorials.com/docs/linux/man/1-copr-cli/)
+  + https://hobo.house/2017/09/03/automate-rpm-builds-from-git-sources-using-copr/
+

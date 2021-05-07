@@ -163,6 +163,8 @@
   + https://www.algoo.fr/fr/tracim/communaute
 * [owncloud infinate scale (oCIS)](https://owncloud.github.io/ocis/getting-started/)
   + https://owncloud.com/infinite-scale/
+* https://pydio.com/
+
 ### Binary diff
 
 * https://github.com/kansifang/jvcdiff
@@ -207,6 +209,10 @@
 * https://github.com/kmerz/noodle
 * https://framadate.org/
 * https://rallly.co/
+
+## Bookmarking service
+
+* https://github.com/shaarli/Shaarli
   
 ## docker and docker-compose solutions
 
@@ -224,3 +230,35 @@
 
 * https://sabnzbd.org/ binary news reader
   + https://sabnzbd.org/wiki/faq
+
+## Bittorrent universe
+
+* [radarr - video](https://radarr.video/)
+* [lidarr - audio](https://lidarr.audio/)
+* [sonarr - tv](https://sonarr.tv/)
+
+## Open Source Games
+
+* https://www.lostlabyrinth.com/ (roguelike)
+
+## Business software
+
+### time registration
+
+* https://www.kimai.org/de/
+
+### learning and lectures
+
+* https://chamilo.org/en/
+
+## DMS
+
+* https://github.com/bevuta/pepa
+* http://www.cinnamon-cms.com/ (Dita)
+  + https://github.com/dewarim/cinnamon
+  + https://github.com/dewarim/cinnamon/blob/master/docs/dwarves_and_giants.md
+* https://docspell.org/
+
+## CRM
+
+* https://www.vtiger.com/de/
