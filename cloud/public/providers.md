@@ -13,3 +13,4 @@
 * https://www.scaleway.com/en/
 * https://www.vultr.com/
 * https://metal.equinix.com/
+* https://www.digitalocean.com/

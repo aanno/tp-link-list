@@ -135,6 +135,13 @@
 * https://de.wikipedia.org/wiki/Mastodon_(Software)
   + https://mastodon.social/about
 
+### Privacy
+
+* https://optf.ngo/projects/
+  + https://lokinet.org/ (darknet)
+  + https://oxen.io/ (crypto coin)
+  + https://getsession.org/ (messagener)
+
 ## Sync
 
 * https://wikisuite.org/Alternatives?highlight=alternative

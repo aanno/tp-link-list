@@ -221,6 +221,9 @@
 * https://security.stackexchange.com/questions/56703/best-method-to-sandbox-x-applications-in-ubuntu
 * https://manpages.ubuntu.com/manpages/precise/man8/sandbox.8.html
 * https://subuser.org/news/0.3.html
+* docker for desktop
+  + https://github.com/dockercask/dockercask (https://en.wikipedia.org/wiki/Xephyr based)
+  + https://github.com/linuxserver / https://www.linuxserver.io/ (https://guacamole.apache.org/ and xrdp based)
 
 ### Container-faced Linux Distributions
 
@@ -350,6 +353,7 @@
 * [basics](https://www.artificialworlds.net/blog/2007/02/22/creating-deb-and-rpm-packages/)
 * [pacur](https://github.com/pacur/pacur) (docker-based)
 * [fpm](https://github.com/jordansissel/fpm)
+* + https://www.digitalocean.com/community/tutorials/how-to-use-fpm-to-easily-create-packages-in-multiple-formats
   + https://fpm.readthedocs.io/en/latest/intro.html
   + https://opensource.com/article/18/9/how-build-rpm-packages
 
