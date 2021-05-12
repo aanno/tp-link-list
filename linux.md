@@ -225,6 +225,20 @@
   + https://github.com/dockercask/dockercask (https://en.wikipedia.org/wiki/Xephyr based)
   + https://github.com/linuxserver / https://www.linuxserver.io/ (https://guacamole.apache.org/ and xrdp based)
 
+#### Snappy / Snap
+
+* https://snapcraft.io
+* https://snapcraft.io/docs/build-on-docker
+* https://github.com/williamjmorenor/docker-snapcraft-builder
+
+#### flatpak
+
+* https://flathub.org/home
+* https://fishsoup.net/misc/fedora-docs-flatpak/flatpak/tutorial/
+* https://docs.flatpak.org/en/latest/flatpak-builder-command-reference.html
+* https://github.com/flatpak/flatpak-builder
+* https://github.com/flatpak/flatpak-builder-tools
+
 ### Container-faced Linux Distributions
 
 #### Fedora Silverblue
