@@ -20,19 +20,45 @@
 
 * https://developers.google.com/cast/
   + https://github.com/googlecast
+* [official multi-room group FAQ](https://support.google.com/chromecast/answer/6329016?hl=en)
+
+### Apple
+
+#### DAAP
+
+* https://en.wikipedia.org/wiki/Digital_Audio_Access_Protocol
+* [canary](https://github.com/mycoboco/canary) music streaming server/client
+
+#### Airplay
+
+* https://de.wikipedia.org/wiki/AirPlay_(Schnittstelle)
+* [unofficial airplay spec](https://nto.github.io/AirPlay.html)
+* [openairplay](https://github.com/openairplay/openairplay) stream _from_ linux
+* [airconnect](https://github.com/philippe44/AirConnect) convert airplay to UPnP/Sonos/Chromecast 
+* [shairport-sync](https://github.com/mikebrady/shairport-sync) linux AirPlay audio player
+* [airserver](https://www.airserver.com/Linux) commercial
 
 #### Alternatives
 
 * https://awesomeopensource.com/projects/chromecast
 * http://www.ocast.org/
 * https://github.com/ASHS-School/mirrorcast
-* https://awesomeopensource.com/projects/chromecast
+* https://github.com/muammar/mkchromecast
 * https://github.com/zoff-music/zoff-chromecast-receiver
   + https://zoff.me/
 * https://github.com/mariolukas/HydraPlay
 * http://strobe.audio/
 * https://github.com/badaix/snapcast
+* https://github.com/balenalabs/balena-sound
+* player/device api
+  + https://github.com/xat/chromecast-player
+  + https://github.com/thibauts/node-castv2-client
+  + https://github.com/vitalidze/chromecast-java-api-v2
 
+#### Related tools
+
+* https://github.com/d4rken/wakelock-revamp android
+* https://github.com/alsmith/multicast-relay
 
 ## DLNA and other music servers
 
@@ -50,6 +76,8 @@
 * https://mopidy.com/ (mpd clone)
 * https://owntone.github.io/owntone-server/ (mpd and daap)
 * https://airsonic.github.io/ (subsonic fork)
+* https://twonky.com/index.html (commercial)
+* https://www.wildmediaserver.com/ (commercial)
 
 ### jeOS (just enough operating system) (i.e. rasberry PI)
 

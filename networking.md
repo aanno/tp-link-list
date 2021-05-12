@@ -7,3 +7,17 @@
   + [IPv6 firewall](http://mirrors.bieringer.de/Linux+IPv6-HOWTO-de/x2526.html)
 * [IPv6 settings in NetworkManager](https://developer.gnome.org/NetworkManager/stable/settings-ipv6.html)
 * [default route](https://unix.stackexchange.com/questions/168452/how-to-add-ipv6-default-route)
+
+
+## Freifunk
+
+* https://ffmuc.net/mitmachen/
+* https://bremen.freifunk.net/anleitungen.html
+
+### Hardware
+
+* https://wiki.freifunk-franken.de/w/Hardware
+* https://wiki.freifunk-franken.de/w/Freifunkrouter
+* https://wiki.funkfeuer.at/wiki/Hardware/EdgeRouter_X-SFP
+* https://forum.freifunk.net/t/hardwareauswahl-nutzen-einer-externen-antenne/826
+* https://bremen.freifunk.net/firmware.html#models

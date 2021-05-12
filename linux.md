@@ -374,3 +374,8 @@
   + [copr-cli](https://www.systutorials.com/docs/linux/man/1-copr-cli/)
   + https://hobo.house/2017/09/03/automate-rpm-builds-from-git-sources-using-copr/
 
+### Caching packages
+
+* https://fedoramagazine.org/use-the-dnf-local-plugin-to-speed-up-your-home-lab/
+* https://github.com/aesiniath/docker.proxy
+* https://gist.github.com/dergachev/8441335
