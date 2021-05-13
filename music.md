@@ -66,6 +66,7 @@
 
 * https://circuitdigest.com/article/top-media-server-software-for-music-streaming-on-raspberry-pi
 * https://www.linuxlinks.com/musicservers/
+* [stream audio _to_ a server](https://volumio.github.io/docs/User_Manual/Stream_audio_to_volumio)
 
 ### Implementation
 
@@ -78,6 +79,11 @@
 * https://airsonic.github.io/ (subsonic fork)
 * https://twonky.com/index.html (commercial)
 * https://www.wildmediaserver.com/ (commercial)
+* [pulseaudio-dlna](https://github.com/masmu/pulseaudio-dlna): stream local audio _to_ DLNA renderer
+* [swyh-rs](https://github.com/dheijl/swyh-rs): stream local audio _to_ DLNA renderer
+* [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/): use DLNA user front-end to drive MPD (protocol)
+  + [integrate DLNA and MPD](https://www.lesbonscomptes.com/upmpdcli/pages/upmpdcli-or-mpdupnp.html)
+  + [MPD as client to an UPnP/DLNA Media Server](https://www.lesbonscomptes.com/pages/mpd-upnp.html)
 
 ### jeOS (just enough operating system) (i.e. rasberry PI)
 
@@ -92,7 +98,7 @@
 * [librespot](https://github.com/librespot-org/librespot)
 * [spotifyd](https://github.com/Spotifyd/spotifyd)
   + https://spotifyd.github.io/spotifyd/installation/index.html
-
+* [spop](https://github.com/Schnouki/spop)
 
 ### Spotify API
 
@@ -117,3 +123,4 @@
 * [fork other playlist](https://github.com/kabirvirji/spotifork)
 * [generate list with last.fm additional data](https://github.com/epsil/spotgen)
 * [import/export playlists](https://github.com/debfx/spotify-playlists)
+* [big data on recommendations](https://github.com/slevin48/music)
