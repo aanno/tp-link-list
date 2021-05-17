@@ -37,6 +37,49 @@
 * https://www.reddit.com/r/rust/comments/4fd5ng/how_to_use_the_std_library_as_a_dynamically/
 * https://michael-f-bryan.github.io/rust-ffi-guide/dynamic_loading.html
 
+### Golang / Go
+
+* https://golang.org/
+* https://tour.golang.org/welcome/1
+* https://golang.org/doc/
+* https://hackr.io/tutorials/learn-golang
+* https://bitfieldconsulting.com/ (golang blog)
+* https://blog.khanacademy.org/half-a-million-lines-of-go/
+
+#### Go vs Rust
+
+* https://bitfieldconsulting.com/golang/rust-vs-go
+* https://thenewstack.io/rust-vs-go-why-theyre-better-together/
+
+#### Sets in Go
+
+* https://yourbasic.org/golang/implement-set/
+* https://www.geeksforgeeks.org/golang-program-that-removes-duplicate-elements-from-the-array/
+* https://stackoverflow.com/questions/34018908/golang-why-dont-we-have-a-set-datastructure
+
+####  Go development
+
+* https://proxy.golang.org/
+* https://blog.golang.org/errors-are-values
+* https://stackoverflow.com/questions/24855081/how-do-i-import-a-specific-version-of-a-package-using-go-get
+* https://stackoverflow.com/questions/52026284/accessing-local-packages-within-a-go-module-go-1-11
+
+####  Go modules
+
+* https://blog.golang.org/go116-module-changes
+* https://maelvls.dev/go111module-everywhere/
+* https://golang.org/ref/mod
+
+#### Go libraries
+
+* https://github.com/99designs/gqlgen GraphQL
+
+#### Generics in Go (future!)
+
+* https://bitfieldconsulting.com/golang/generics
+* https://blog.golang.org/generics-proposal
+* https://blog.golang.org/generics-next-step
+
 ## Dart
 
 * https://www.heise.de/developer/meldung/Programmiersprache-Dart-2-ist-fertig-4131294.html

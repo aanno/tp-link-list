@@ -49,6 +49,8 @@
 * https://github.com/mariolukas/HydraPlay
 * http://strobe.audio/
 * https://github.com/badaix/snapcast
+* http://georgielabs.net/ (stream _to_ android, commercial)
+  + https://play.google.com/store/apps/details?id=com.georgie.SoundWire
 * https://github.com/balenalabs/balena-sound
 * player/device api
   + https://github.com/xat/chromecast-player
@@ -74,9 +76,15 @@
 * https://gerbera.io/
 * https://volumio.org/
 * https://jellyfin.org/
+* https://github.com/UniversalMediaServer/UniversalMediaServer
+  + https://www.universalmediaserver.com/
+  + https://www.universalmediaserver.com/comparison/
+* https://github.com/DigitalMediaServer/DigitalMediaServer (old)
+* https://sourceforge.net/projects/minidlna/files/minidlna/ (now ReadyMedia)
 * https://mopidy.com/ (mpd clone)
 * https://owntone.github.io/owntone-server/ (mpd and daap)
 * https://airsonic.github.io/ (subsonic fork)
+* https://github.com/sphildreth/roadie (subsonic reimpletation)
 * https://twonky.com/index.html (commercial)
 * https://www.wildmediaserver.com/ (commercial)
 * [pulseaudio-dlna](https://github.com/masmu/pulseaudio-dlna): stream local audio _to_ DLNA renderer
@@ -84,6 +92,18 @@
 * [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/): use DLNA user front-end to drive MPD (protocol)
   + [integrate DLNA and MPD](https://www.lesbonscomptes.com/upmpdcli/pages/upmpdcli-or-mpdupnp.html)
   + [MPD as client to an UPnP/DLNA Media Server](https://www.lesbonscomptes.com/pages/mpd-upnp.html)
+
+### Misc
+
+* https://www.moodeaudio.org/ webui for MPD
+  + https://github.com/moode-player/moode
+* https://github.com/pupnp/pupnp library for upnp/DLNA in C
+* https://github.com/grimlock-/upnp_live mirror live streams on DLNA
+* https://github.com/grilofw/grilo metasearch on streams
+* https://github.com/gabrielmagno/nano-dlna DLNA control
+* https://github.com/succlz123/DLNA-Dart and https://github.com/succlz123/Flutter-DLNA (alpha)
+* https://github.com/davinkevin/Podcast-Server
+  + https://davinkevin.github.io/Podcast-Server/
 
 ### jeOS (just enough operating system) (i.e. rasberry PI)
 
