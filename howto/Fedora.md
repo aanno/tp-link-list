@@ -49,6 +49,7 @@
 
 - [Known issues](https://fedoraproject.org/wiki/How_to_debug_Wayland_problems#known_issues)
 - [Wayland for KDE](https://community.kde.org/KWin/Wayland)
+- [modesetting on nvidia](https://negativo17.org/wayland-modesetting-on-nvidia/)
 
 ## Konfiguration
 

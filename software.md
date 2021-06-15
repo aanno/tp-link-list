@@ -202,7 +202,6 @@
 * https://github.com/zerocracy/farm
   + https://www.yegor256.com/2018/03/21/zerocracy-announcement.html
 
-
 ### constraint solver
 
 * http://www.constraint.org/en/tools.html
@@ -217,10 +216,31 @@
 * https://framadate.org/
 * https://rallly.co/
 
+## Pocket clones
+
+* https://www.wallabag.org/en#download
+
 ## Bookmarking service
 
 * https://github.com/shaarli/Shaarli
-  
+
+## Mail 
+
+### Zimbra (and CalDAV)
+
+* https://wiki.zimbra.com/wiki/CalDav_Support
+* https://wiki.zimbra.com/wiki/Accessing_Zimbra_Collaboration_Server_with_Thunderbird#Viewing_your_Zimbra_Calendar_using_Lightning
+
+### focus on de-facto mail clients
+
+* https://www.slant.co/topics/1674/~best-native-e-mail-clients-for-linux
+* https://getmailspring.com/ (partly commercial)
+* https://roundcube.net/
+* https://www.bluemail.me/desktop/linux/ (partly commercial)
+* http://www.rainloop.net (partly commercial)
+* https://www.mailpile.is/
+* https://cypht.org/
+
 ## docker and docker-compose solutions
 
 ### mail server (mta) full stack solutions
@@ -265,7 +285,20 @@
   + https://github.com/dewarim/cinnamon
   + https://github.com/dewarim/cinnamon/blob/master/docs/dwarves_and_giants.md
 * https://docspell.org/
+* https://github.com/jonaswinkler/paperless-ng
+  + https://paperless-ng.readthedocs.io/en/latest/
 
 ## CRM
 
 * https://www.vtiger.com/de/
+
+## Color management
+
+* https://wiki.ubuntuusers.de/Monitor_profilieren_mit_ArgyllCMS/
+  
+### Software
+
+* Screen Night Mode: https://github.com/jonls/redshift
+* https://displaycal.net/ (old, not with python3)
+* https://www.argyllcms.com/
+* https://www.littlecms.com/

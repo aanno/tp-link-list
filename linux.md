@@ -135,6 +135,7 @@
 ##### Desaster recovery
 
 * https://github.com/rear/rear
+* http://ping.windowsdream.com/#howto
   
 ### Office 
 

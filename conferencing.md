@@ -30,10 +30,15 @@
 
 * https://ourcodeworld.com/articles/read/1212/top-5-best-open-source-webrtc-media-server-projects
 
+### Screen Sharing (only)
+
+* https://obsproject.com/de
+  + https://de.m.wikipedia.org/wiki/Open_Broadcaster_Software
+* https://github.com/screego/server
+
 ### Other
 
 * https://github.com/peer-calls/peer-calls
-* https://github.com/screego/server
 * SDKs
   + https://www.meetecho.com/en/
   + https://github.com/meetecho/janus-gateway

@@ -73,6 +73,9 @@
 #### Go libraries
 
 * https://github.com/99designs/gqlgen GraphQL
+* https://gobyexample.com/command-line-flags
+* https://gobyexample.com/command-line-subcommands
+  + http://blog.ralch.com/tutorial/golang-subcommands/
 
 #### Generics in Go (future!)
 
