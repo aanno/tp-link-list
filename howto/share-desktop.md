@@ -10,6 +10,24 @@
 
 ## Wayland
 
+* https://wayland.freedesktop.org/faq.html
+* https://community.kde.org/Plasma/Wayland_Showstoppers
+* https://wiki.archlinux.org/title/wayland
+
+### remote wayland
+
+* https://jgrulich.cz/2019/08/01/tutorial-screen-sharing-and-remote-desktop-on-fedora-workstation-30/
+* https://www.linux-community.de/ausgaben/linuxuser/2019/03/draufgeschaut/
+
+#### remote wayland software
+
+* [krfb](https://userbase.kde.org/Krfb) is the remote wayland solution from KDE, see https://www.reddit.com/r/kde/comments/n1qxb9/remote_desktop_with_plasma_wayland_pipewire_and/
+* in gnome there is a 'sharing' section in the gnome settings, also see
+  https://wiki.gnome.org/Projects/Mutter/RemoteDesktop
+* [wayvnc](https://github.com/any1/wayvnc)
+* [waypipe](https://gitlab.freedesktop.org/mstoeckl/waypipe/)
+  + https://mstoeckl.com/notes/gsoc/blog.html
+
 ### Hacks
 
 * https://superuser.com/questions/411897/using-desktop-as-fake-webcam-on-linux (featured!)
