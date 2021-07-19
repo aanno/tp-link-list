@@ -26,6 +26,26 @@
 * https://medium.com/@openvidu/openvidu-2-2-0-turn-made-easy-9d7e145f8905
 * https://openvidu.io/tutorials
 
+### Nextcloud Talk/Spreed
+
+* Vidio conference: nextcloud talk
+  - https://nextcloud.com/talk/
+  - https://apps.nextcloud.com/apps/spreed
+  - [TURN and STUN scripts](https://github.com/nextcloud/vm/blob/master/apps/talk.sh)
+
+#### Spreed
+
+* https://github.com/nextcloud/spreed
+* https://apps.nextcloud.com/apps/spreed
+* https://markus-blog.de/index.php/2020/11/20/how-to-run-nextcloud-talk-high-performance-backend-with-stun-turnserver-on-ubuntu-with-docker-compose/
+* https://www.spreed.eu/de/contact-nextcloud-talk-high-performance-backend/
+  + https://nextcloud-talk.readthedocs.io/en/latest/standalone-signaling-api-v1/
+* https://github.com/strukturag/nextcloud-spreed-signaling
+* https://github.com/meetecho/janus-gateway
+* https://nats.io/download/
+* https://intux.de/2020/03/turn-server-fuer-nextcloud-talk/
+* https://arnowelzel.de/nextcloud-talk-mit-coturn-und-eigenem-signaling-server
+
 ### WebRTC
 
 * https://ourcodeworld.com/articles/read/1212/top-5-best-open-source-webrtc-media-server-projects

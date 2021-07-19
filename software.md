@@ -148,12 +148,6 @@
   + [nextcloud VM](https://github.com/nextcloud/vm)
     - https://www.c-rieger.de/volltextsuche-mit-nextcloud-20-elasticsearch-und-tessaract/
     - https://www.muehlencord.de/wordpress/2019/12/14/nextcloud-sso-using-keycloak/
-  + Vidio conference: nextcloud talk
-    - https://nextcloud.com/talk/
-    - https://markus-blog.de/index.php/2020/11/20/how-to-run-nextcloud-talk-high-performance-backend-with-stun-turnserver-on-ubuntu-with-docker-compose/
-    - https://apps.nextcloud.com/apps/spreed
-    - https://github.com/nextcloud/spreed
-    - [TURN and STUN scripts](https://github.com/nextcloud/vm/blob/master/apps/talk.sh)
 * https://nextcloud.com/
 * https://www.slant.co/topics/1882/~open-source-alternatives-to-resilio
   + https://syncthing.net/
