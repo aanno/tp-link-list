@@ -149,6 +149,8 @@
     - https://www.c-rieger.de/volltextsuche-mit-nextcloud-20-elasticsearch-und-tessaract/
     - https://www.muehlencord.de/wordpress/2019/12/14/nextcloud-sso-using-keycloak/
 * https://nextcloud.com/
+  + https://github.com/xperimental/nextcloud-exporter (for prometheus
+  + https://docs.nextcloud.com/server/latest/admin_manual/configuration_server/reverse_proxy_configuration.html)
 * https://www.slant.co/topics/1882/~open-source-alternatives-to-resilio
   + https://syncthing.net/
     - https://linuxctl.com/2017/04/syncthing---why-you-should-be-using-it/
@@ -156,7 +158,40 @@
   + https://librevault.com/
 * https://wikisuite.org/Software
 * https://rclone.org/
+* https://github.com/bcpierce00/unison
 * https://github.com/etesync/etesync-dav
+* https://github.com/Intermesh/groupoffice (commercial)
+  + https://www.group-office.com/
+  + https://www.group-office.com/blog
+  + https://groupoffice.readthedocs.io/en/latest/install/install.html
+
+### JMAP (push for everything)
+
+* https://jmap.io/software.html
+  + https://github.com/audriga/nextcloud-jmap
+  + https://github.com/jasonmunro/cypht/issues/180
+  + https://github.com/iNPUTmice/lttrs-android
+
+### CalDAV and CardDAV push technologies
+
+* https://z-push.org/ (old)
+  + https://pawelgorny.com/using-nextcloud-owncloud-with-z-push-for-caldav-and-carddav/
+  + https://github.com/gza/oczpush
+* https://github.com/pimutils/vdirsyncer
+  + https://vdirsyncer.pimutils.org/en/stable/when.html
+* https://www.offlineimap.org/
+  + https://github.com/OfflineIMAP/offlineimap
+
+#### Server push
+
+* https://github.com/nextcloud/server/issues/22379
+* https://www.calconnect.org/resources/7-things-you-should-know-about/push
+
+#### Client push/receive
+
+* https://unifiedpush.org/
+  + https://unifiedpush.org/users/apps/
+  + https://unifiedpush.org/users/distributors/gotify/
 
 ## Colaboration (nextcloud alternatives)
 
@@ -164,6 +199,9 @@
   + https://www.algoo.fr/fr/tracim/communaute
 * [owncloud infinate scale (oCIS)](https://owncloud.github.io/ocis/getting-started/)
   + https://owncloud.com/infinite-scale/
+  + https://owncloud.dev/ocis/getting-started/
+  + https://github.com/owncloud/ocis
+  + https://owncloud.com/de/news/howto-install-owncloud-infinite-scale-tech-preview/
 * https://pydio.com/
 
 ### Binary diff

@@ -147,12 +147,30 @@
 
 ### Monitoring
 
+#### Other Monitoring Software
+
 * https://www.theforeman.org/ lifecycle management
 * https://www.icinga.com/
 * https://checkmk.com/de/produkt/editionen
 * https://de.wikipedia.org/wiki/Ganglia_(Software)
 * https://grafana.com/
 * https://www.elastic.co/de/kibana
+* [graphite](https://github.com/graphite-project/graphite-web)
+  + https://graphite.readthedocs.io/en/latest/overview.html
+* https://labs.consol.de/de/omd/index.html (nagios)
+  + https://labs.consol.de/de/omd/packages/thruk/
+  + https://labs.consol.de/
+
+#### Prometheus
+
+* https://prometheus.io/
+* https://prometheus.io/docs/introduction/comparison/
+
+#### InfluxDB (vs Prometheus)
+
+* https://docs.influxdata.com/influxdb/v2.0/reference/flux/stdlib/experimental/prometheus/
+* https://www.influxdata.com/integration/prometheus-monitoring-tool/
+* https://db-engines.com/de/system/InfluxDB%3BPrometheus
 
 ### Troubleshooting
 

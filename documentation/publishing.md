@@ -170,3 +170,13 @@
   + https://rust-lang-nursery.github.io/mdBook/
 * [md to epub](https://github.com/paulfurley/markdown-to-epub-mobi)
 * [pandoc](https://pandoc.org/installing.html)
+
+## PDF software and tools
+
+* https://pdfbox.apache.org/2.0/commandline.html
+* https://github.com/rrthomas/pdfjam
+* https://github.com/pts/pdfsizeopt
+
+## RTF software and tools
+
+* https://github.com/LibrePDF/OpenRTF

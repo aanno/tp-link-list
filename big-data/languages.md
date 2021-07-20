@@ -14,7 +14,11 @@
 * spark
   + https://github.com/jupyter-incubator/sparkmagic
   + https://toree.apache.org/
-
+* https://www.heise.de/news/ML-und-Data-Science-JupyterLab-3-0-laesst-sich-einfacher-erweitern-5005341.html
+* https://www.heise.de/news/Data-Science-JupyterLite-laeuft-auf-WebAssembly-und-benoetigt-kein-Backend-6140250.html (JupyterLiter = Jupyter on Js/Browser)
+  + https://pyodide.org/en/stable/
+  + https://p5js.org/
+  + https://basthon.fr/doc.html
 #### Jupyter (big) examples
 
 * https://github.com/ganeshutah/Jove Automata and Computability, Models of Computation
