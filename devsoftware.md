@@ -27,6 +27,20 @@
 
 ## Message queues
 
+* https://www.cloudamqp.com/blog/when-to-use-rabbitmq-or-apache-kafka.html
+* https://www.kai-waehner.de/blog/2021/04/20/comparison-open-source-apache-kafka-vs-confluent-cloudera-red-hat-amazon-msk-cloud/
+
+### Message queue software
+
+* https://www.g2.com/products/rabbitmq/competitors/alternatives
+* https://nats.io/
+  + https://docs.nats.io/compare-nats
+  + https://docs.nats.io/jetstream/jetstream (exactly once)
+  + https://github.com/nats-io/nats.java (java client)
+* https://www.rabbitmq.com/
+* https://kafka.apache.org/
+* https://pulsar.apache.org/
+
 ### Pulsar
 
 * https://pulsar.apache.org/docs/en/concepts-messaging/
@@ -256,6 +270,7 @@
   + https://www.privacyidea.org/about/features/
 * https://ipsilon-project.org/
 * http://manageiq.org/docs/reference/euwe/auth/ipa_2fa
+* https://www.openpolicyagent.org/ (policy enforcement for devops: terraform, kubernetes, ...)
 
 ### Articles
 
@@ -459,3 +474,8 @@
 
 ### Web Services (commercial)
 
+
+## DevOps
+
+* https://gruntwork.io/how-it-works/
+  + https://gruntwork.io/infrastructure-as-code-library/#open-source

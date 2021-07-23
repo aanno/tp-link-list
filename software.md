@@ -144,6 +144,7 @@
 
 ## Sync
 
+* https://en.m.wikipedia.org/wiki/Comparison_of_file_synchronization_software
 * https://wikisuite.org/Alternatives?highlight=alternative
   + [nextcloud VM](https://github.com/nextcloud/vm)
     - https://www.c-rieger.de/volltextsuche-mit-nextcloud-20-elasticsearch-und-tessaract/
@@ -164,6 +165,9 @@
   + https://www.group-office.com/
   + https://www.group-office.com/blog
   + https://groupoffice.readthedocs.io/en/latest/install/install.html
+* https://www.seafile.com/en/home/
+* https://cmissync.com/#arch (sync with ecm/dms: alfresco, documentum, ...)
+* https://github.com/zelon88/HRCloud2 (alternative to owncloud, nextcloud)
 
 ### JMAP (push for everything)
 
@@ -255,6 +259,12 @@
 ## Bookmarking service
 
 * https://github.com/shaarli/Shaarli
+
+## Pastbin like
+
+* https://de.wikipedia.org/wiki/Pastebin
+* https://github.com/PrivateBin/PrivateBin
+* https://wormhole.app/ (service)
 
 ## Mail 
 

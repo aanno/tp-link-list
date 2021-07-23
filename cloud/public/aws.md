@@ -54,6 +54,7 @@
 
 #### ECS and docker-compose
 
+* https://stackoverflow.com/questions/61122181/terraform-deploying-a-docker-compose-app-on-eks-ecs
 * https://aws.amazon.com/de/blogs/containers/deploy-applications-on-amazon-ecs-using-docker-compose/
 * [docker compose ecs examples](https://docs.docker.com/cloud/ecs-compose-examples/)
 * https://www.docker.com/blog/docker-compose-from-local-to-amazon-ecs/

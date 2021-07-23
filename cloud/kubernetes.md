@@ -94,6 +94,18 @@
 * https://kubernetes.io/docs/setup/production-environment/container-runtimes/
 * https://github.com/kubernetes/kubernetes/releases releases/versions
 * https://www.mirantis.com/blog/how-install-kubernetes-kubeadm/
+* https://microk8s.io/docs
+#### Other kubernetes/okd setup
+
+* Terraform
+  + https://tf-eks-workshop.workshop.aws/500_eks-terraform-workshop.html
+* Ansible
+  + https://kubespray.io/#/
+  + https://www.openshift.com/blog/deploy-a-multi-master-okd-4.5-cluster-using-a-single-command-in-30-minutes (kubeinit)
+* Hive (from Kubernetes/Openshift) (no pun intended)
+  + https://techbloc.net/archives/4672
+  + https://github.com/openshift/hive/blob/master/docs/using-hive.md
+  + https://github.com/openshift/hive
 
 ### kubernetes commands and features
 
@@ -165,6 +177,8 @@
   + [helm hub](https://hub.helm.sh/)
   + https://www.heise.de/developer/meldung/Kubernetes-Paketmanager-Helm-3-verzichtet-auf-Tiller-4586105.html
   + https://github.com/helm/charts
+  + https://github.com/gruntwork-io/helmcharts
+  + https://github.com/gruntwork-io/helm-kubernetes-services
 * https://operatorhub.io/ Operators for kubernetes
   + https://operatorhub.io/operator/eclipse-che (as example)
   + https://github.com/eclipse/che-operator
@@ -193,6 +207,7 @@
 
 #### OKD setup
 
+* [openshift installer](https://github.com/openshift/installer)
 * https://developer.fedoraproject.org/deployment/openshift/about.html
 * https://www.openshift.com/blog/guide-to-installing-an-okd-4-4-cluster-on-your-home-lab
   + https://medium.com/@craig_robinson/openshift-4-4-okd-bare-metal-install-on-vmware-home-lab-6841ce2d37eb
@@ -201,6 +216,11 @@
 * [CodeReady Containers](https://access.redhat.com/documentation/en-us/red_hat_codeready_containers/1.0/html/getting_started_guide/getting-started-with-codeready-containers_gsg?extIdCarryOver=true&sc_cid=701f2000001OH6pAAG#installing-codeready-containers_gsg) single node openshift
   + https://haralduebele.blog/2019/09/13/red-hat-openshift-4-on-your-laptop/amp/
 * https://github.com/openshift/okd/blob/master/README.md
+* https://www.admin-magazin.de/Das-Heft/2020/10/Kubernetes-einrichten-und-betreiben-2 (okd)
+* https://itnext.io/guide-installing-an-okd-4-5-cluster-508a2631cbee
+* AWS
+  + https://docs.okd.io/latest/installing/installing_aws/installing-aws-default.html 
+* [Simulate Bare-Metal IPMI/BMC on libvirt/virt-manage](https://gist.github.com/williamcaban/aba796f856264799326d554ac11a4a66) needed for bare-metal setup
 
 #### Related projects
 

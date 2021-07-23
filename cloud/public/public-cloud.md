@@ -53,12 +53,29 @@
 * [terraform language basics](https://www.terraform.io/docs/language/index.html)
 * cloud agnostic?
   + https://discuss.hashicorp.com/t/is-terraform-really-cloud-agnostic/5980/2
+* Terraform state is version dependant - so what to do?
+  + https://londonappdeveloper.com/how-to-use-terraform-via-docker-compose-for-professional-developers/#top
+
+#### Terraform primer
+
+* https://grahamlyons.com/article/a-zero-fricton-terraform-primer
+* https://www.baeldung.com/ops/terraform-intro
+* https://blog.gruntwork.io/terraform-up-running-2nd-edition-early-release-is-now-available-b104fc29783f
+* https://tf-eks-workshop.workshop.aws/020_prerequisites.html
+
+#### Terraform examples
+
+* ec2 for docker compose
+  + https://gist.github.com/jamesmishra/18ee5d7d053db9958d0e4ccbb37f8e1d
+* https://github.com/lichti/terraform-deploy-aws-ecs-example
 
 #### Terraform on AWS
 
 * https://learn.hashicorp.com/tutorials/terraform/aws-build
+* https://learn.hashicorp.com/collections/terraform/aws-get-started
 * https://registry.terraform.io/providers/hashicorp/aws/latest/docs
 * https://aws.amazon.com/de/blogs/apn/terraform-beyond-the-basics-with-aws/
+* https://tf-eks-workshop.workshop.aws/500_eks-terraform-workshop/510_scenario/intro.html
 * [terraform aws examples](https://github.com/hashicorp/terraform-provider-aws/tree/main/examples/api-gateway-rest-api-openapi)
 * [terraform ecs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/ecs_service)
 
