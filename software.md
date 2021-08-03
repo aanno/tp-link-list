@@ -216,6 +216,8 @@
 ## project management
 
 * https://opensource.com/business/16/3/top-project-management-tools-2016
+* https://opensource.com/article/21/3/open-source-project-management
+* https://opensource.com/article/18/2/agile-project-management-tools
 
 ### full-blown
 
@@ -226,6 +228,8 @@
 * http://www.libreplan.org/ (web, open source very old)
   + https://github.com/LibrePlan/libreplan/tree/libreplan-1.4.1
 * http://www.project-open.com/
+* https://www.openproject.org/de/download-und-installation/
+  + https://www.openproject.org/de/preise/#compare
 
 ### agile
 
@@ -242,7 +246,9 @@
 
 * http://www.constraint.org/en/tools.html
 
+* https://taskjuggler.org/
 * http://www.optaplanner.org/ (java)
+  + https://www.optaplanner.org/learn/useCases/taskAssignmentOptimization.html
   + http://www.optaplanner.org/blog/2018/02/19/SchedulingVoxxedDaysZurich2018.html
 * http://www.choco-solver.org/ (java)
 
