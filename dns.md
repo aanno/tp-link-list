@@ -27,6 +27,9 @@
 * [DNS overview german](https://www.privacy-handbuch.de/handbuch_93.htm)
 * [DNSCrypt](https://dnscrypt.info/faq/)
 * [anomyized DNS](https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS)
+* [client side dns api](https://www.getdnsapi.net/) (with node bindings)
+* [stubby - dns stub resolver](https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Daemon+-+Stubby)
+* https://dnsprivacy.org/wiki/
 
 ## Implementations
 
@@ -49,3 +52,27 @@
 * [dnscrypt (tool)](https://github.com/ameshkov/dnscrypt) server and client and tool
 * [dog](https://dns.lookup.dog/)
   + https://github.com/ogham/dog
+
+### DNS and Mail
+
+* https://www.pep.security/de/
+* [alternative to pep - based on SMIMEA DNS record](https://github.com/grierforensics/Great-DANE-Engine)
+* [support for DNSSEC/DANE/TLSA validation in thunderbird](https://bugzilla.mozilla.org/show_bug.cgi?id=1479423)
+
+
+#### Main Hardening
+
+* https://www.nettask.de/de/loesungen/dehosted-exchange/e-mail-sicherheit-mit-dmarc-dkim-spf-dane.html
+* https://www.mailhardener.com/kb/email-hardening-guide
+* [part 1 - SPF](https://www.quorumcyber.com/about/insights/email-security-hardening-part-1-the-sender-policy-framework-spf/)
+* [part 2 - DKIM](https://www.quorumcyber.com/about/insights/email-security-hardening-part-two-domainkeys-identified-mail-dkim/)
+* [part 3 - DMARC](https://www.quorumcyber.com/about/insights/email-security-hardening-part-3-domain-based-message-authentication-reporting-and-conformance-dmarc/)
+* [part 4 - mail flow](https://www.quorumcyber.com/about/insights/email-security-hardening-part-4-mail-flow-rules/)
+* DANE/TLSA
+  + https://de.wikipedia.org/wiki/DNS-based_Authentication_of_Named_Entities
+  + https://www.security-insider.de/mit-dane-kommen-e-mails-beim-richtigen-empfaenger-an-a-853647/
+* DKIM
+  + https://de.wikipedia.org/wiki/DomainKeys
+  + https://www.ionos.de/digitalguide/e-mail/e-mail-sicherheit/dkim-domainkeys/
+* DMARC
+  + https://beaglesecurity.com/blog/article/dmarc-security.html

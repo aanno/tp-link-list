@@ -53,8 +53,16 @@
 
 ### Asciidoctor (and Asciidoc)
 
+
+#### Asciidoctor Setup
+
+* [setup asciidoctor reveal](https://docs.asciidoctor.org/reveal.js-converter/latest/setup/ruby-setup/)
+* [several tools chains for asciidoctor reveal](https://docs.asciidoctor.org/reveal.js-converter/latest/)
+* [asciidoctor setup](https://www.informatik.htw-dresden.de/~zirkelba/notes/se/asciidoc-installation-and-configuration/)
+
 #### References
 
+* https://docs.asciidoctor.org/asciidoc/latest/
 * http://asciidoctor.org/docs/asciidoc-writers-guide/
 * http://asciidoctor.org/docs/user-manual/#introduction-to-asciidoctor
 
@@ -69,9 +77,19 @@
 * http://www.methods.co.nz/asciidoc
   + http://www.methods.co.nz/asciidoc/publishing-ebooks-with-asciidoc.html (epub)
   + http://asciidoc.org/epub-notes.html (epub)
+
+## Extensions
+
+* [source highlighting](https://docs.asciidoctor.org/asciidoc/latest/verbatim/source-highlighter/)
+* [syntax highlighting](https://docs.asciidoctor.org/asciidoctor/latest/syntax-highlighting/)
+* [apply highlighting during conversion](https://github.com/jirutka/asciidoctor-highlight.js)
   
 ## Diagramms
 
+* [use many ascii-to-diagram tools inside asciidoctor](https://docs.asciidoctor.org/diagram-extension/latest/)
+  + https://asciidoctor.org/news/2014/02/18/plain-text-diagrams-in-asciidoctor/
+  + https://github.com/asciidoctor/asciidoctor-diagram
+* [use plantuml server for rendering](https://github.com/hsanson/asciidoctor-plantuml)
 * https://structurizr.com/ (supports md and asciidoc)
 
 ## Book Converter

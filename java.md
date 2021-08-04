@@ -76,6 +76,7 @@
 ### Implementations
 
 * https://adoptopenjdk.net/
+* https://adoptium.net/
 * https://www.graalvm.org/
 * http://zulu.org/download/
 * jetbrais/idea
@@ -92,6 +93,11 @@
 
 * https://github.com/RuedigerMoeller/fast-serialization
 * https://github.com/EsotericSoftware/kryo
+
+### Reactive Streams
+
+* http://reactors.io/ (new framework)
+* https://docs.spring.io/spring-integration/docs/current/reference/html/reactive-streams.html (reactive stream in spring-integration)
 
 ### Reactive file handling
 

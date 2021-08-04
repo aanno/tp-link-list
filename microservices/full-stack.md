@@ -22,9 +22,11 @@
   + http://zipkin.io/
   + https://johnragan.wordpress.com/2009/12/08/release-it-stability-patterns-and-best-practices/
 * https://quarkus.io/
+  + https://developers.redhat.com/blog/2019/03/07/quarkus-next-generation-kubernetes-native-java-framework
+  + https://developers.redhat.com/blog/2019/04/09/from-zero-to-quarkus-and-knative-the-easy-way (tutorial)
 * https://knative.dev/ for kubernetes
+  + https://developers.redhat.com/blog/2019/03/20/knative-what-developers-need-to-know
 * https://micronaut.io/
-* https://quarkus.io/
 * https://helidon.io/#/
 * https://ktor.io/ kotlin
 * https://javalin.io/

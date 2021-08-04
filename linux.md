@@ -185,6 +185,7 @@
 * https://functionallyparanoid.com/
 * https://www.kuketz-blog.de/
 * https://www.autistici.org/ (hosting for you)
+* https://www.kuketz-blog.de/empfehlungsecke/
 
 ## Distros
 

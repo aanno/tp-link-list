@@ -14,3 +14,10 @@
 * https://www.vultr.com/
 * https://metal.equinix.com/
 * https://www.digitalocean.com/
+
+## Rather server provider
+
+* https://uberspace.de/de/product/#preise
+  + https://lab.uberspace.de/ (server installation tutorials)
+  + https://github.com/Uberspace/lab
+* https://www.netcup.de/
