@@ -336,6 +336,10 @@
 * https://github.com/jonaswinkler/paperless-ng
   + https://paperless-ng.readthedocs.io/en/latest/
 
+## PIM (catalogue)
+
+* https://pimcore.com/de/plattform/editionen-vergleichen
+
 ## CRM
 
 * https://www.vtiger.com/de/

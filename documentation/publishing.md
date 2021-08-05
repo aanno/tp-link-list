@@ -80,9 +80,16 @@
 
 ## Extensions
 
+* [extensions points](https://docs.asciidoctor.org/asciidoctor/latest/extensions/)
 * [source highlighting](https://docs.asciidoctor.org/asciidoc/latest/verbatim/source-highlighter/)
 * [syntax highlighting](https://docs.asciidoctor.org/asciidoctor/latest/syntax-highlighting/)
 * [apply highlighting during conversion](https://github.com/jirutka/asciidoctor-highlight.js)
+* math
+  + [build-in stem support](https://docs.asciidoctor.org/asciidoc/latest/stem/stem/)
+  + [build-in mathjax support (only html)](https://docs.asciidoctor.org/asciidoctor/latest/stem/mathjax/)
+  + [asciidoctor mathematical](https://docs.asciidoctor.org/asciidoctor/latest/stem/mathematical/) 
+    all backend, renders math to images
+  + [mathjax3 for asciidoctor](https://github.com/tani/asciidoctor-mathjax3)
   
 ## Diagramms
 
@@ -91,6 +98,23 @@
   + https://github.com/asciidoctor/asciidoctor-diagram
 * [use plantuml server for rendering](https://github.com/hsanson/asciidoctor-plantuml)
 * https://structurizr.com/ (supports md and asciidoc)
+
+## asciidoctor.js
+
+* https://asciidoctor.org/docs/asciidoctor.js/
+  + https://docs.asciidoctor.org/asciidoctor.js/latest/
+  + https://github.com/asciidoctor/asciidoctor.js
+  + https://asciidoctor.org/news/2013/05/21/asciidoctor-js-render-asciidoc-in-the-browser/
+* [compile ruby extensions to asciidoctor.js](https://docs.asciidoctor.org/asciidoctor.js/latest/extend/extensions/compile-ruby-extension/)
+* https://github.com/Mogztter/asciidoctor-web-pdf render html5 through puppeteer/chrome to pdf
+* https://github.com/mogztter/asciidoctor-kroki diagrams for asciidoctor.js
+* https://gitlab.com/djencks/asciidoctor-mathjax.js server-side mathjax rendering
+
+## Software based on asciidoctor
+
+* [antora](https://gitlab.com/antora) html5 site generation for technical documentation
+  + https://gitlab.com/antora/antora
+  + https://docs.antora.org/antora/2.3/whats-new/
 
 ## Book Converter
 
@@ -157,9 +181,6 @@
 * https://asciidoctor.org/docs/install-toolchain/
 * https://asciidoctor.org/docs/asciidoctorj/
 * https://asciidoctor.org/docs/asciidoctor-pdf/
-* https://asciidoctor.org/docs/asciidoctor.js/
-  + https://github.com/asciidoctor/asciidoctor.js
-  + https://asciidoctor.org/news/2013/05/21/asciidoctor-js-render-asciidoc-in-the-browser/
 * https://github.com/asciidoctor/asciidoctor-fopub
 * https://stackoverflow.com/questions/48419521/converting-asciidoc-to-latex (pandoc)
   
@@ -189,11 +210,28 @@
 * [md to epub](https://github.com/paulfurley/markdown-to-epub-mobi)
 * [pandoc](https://pandoc.org/installing.html)
 
-## PDF software and tools
+## PDF
+
+* [render PDF in JS](https://pspdfkit.com/blog/2018/render-pdfs-in-the-browser-with-pdf-js/)
+
+### PDF software and tools
 
 * https://pdfbox.apache.org/2.0/commandline.html
 * https://github.com/rrthomas/pdfjam
 * https://github.com/pts/pdfsizeopt
+* https://pspdfkit.com/ (commercial)
+
+### CSS Print, i.e. rendering HTML to PDF
+
+* https://github.com/peterdemartini/html5-to-pdf puppeteer/chrome based
+* https://github.com/RelaxedJS/ReLaXed markdown to PDF (puppeteer/chrome based)
+* https://weasyprint.org/ own rendering engine
+  + https://github.com/Kozea/WeasyPrint
+* https://wkhtmltopdf.org/
+  + https://github.com/wkhtmltopdf/wkhtmltopdf
+  + https://wkhtmltopdf.org/status.html important: security flaws as based on (very old QtWebKit)
+* https://www.princexml.com/ (commercial)
+* https://www.pdfreactor.com/ (commercial)
 
 ## RTF software and tools
 
