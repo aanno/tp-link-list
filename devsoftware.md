@@ -153,6 +153,9 @@
 * https://www.jahia.com/de/home
 * https://www.nuxeo.com/de/
 * https://github.com/relax/relax
+* https://plone.org/
+  + https://docs.plone.org/
+  + https://docs.plone.org/4/en/old-reference-manuals/archgenxml/ (generator for plone)
 
 ### Git based CMS
 
@@ -195,6 +198,7 @@
   + https://github.com/apache/jackrabbit-oak
 
 #### Featured headless
+
 * https://strapi.io/ (small companies)
   + https://github.com/strapi/strapi
   + https://blog.strapi.io/building-a-static-website-using-gatsby-and-strapi/

@@ -74,3 +74,19 @@
 #### Fargate
 
 * https://aws.amazon.com/de/fargate/
+
+### AWS agents and other (special) software
+
+* [ecs agent](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-agent-install.html)
+* [ssm agent](https://docs.aws.amazon.com/de_de/systems-manager/latest/userguide/ssm-agent.html)
+* [CloudWatch agent](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Install-CloudWatch-Agent.html)
+  + https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Install-CloudWatch-Agent-New-Instances-CloudFormation.html
+* [CodeDeploy agent](https://docs.aws.amazon.com/codedeploy/latest/userguide/codedeploy-agent.html)
+* [Inspector agents](https://docs.aws.amazon.com/de_de/inspector/latest/userguide/inspector_installing-uninstalling-agents.html)
+* [Kinesis agent](https://docs.aws.amazon.com/de_de/streams/latest/dev/writing-with-agents.html)
+* [SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html)
+
+### AWS new topics
+
+* [CloudTrail organization trail](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/creating-trail-organization.html)
+* [Gateway load balancer GWLB](https://aws.amazon.com/de/blogs/aws/introducing-aws-gateway-load-balancer-easy-deployment-scalability-and-high-availability-for-partner-appliances/)

@@ -96,6 +96,11 @@
 
 ###### Cloud backup
 
+#### WebDAV
+
+* https://www.free-online-backup-services.com/features/webdav/
+* https://docs.nextcloud.com/server/19/benutzerhandbuch/files/access_webdav.html
+
 ####### Glacier 
 
 * [boto3 to Glacier](https://superuser.com/questions/546507/i-need-a-simple-way-to-backup-files-to-amazon-glacier-from-the-command-line)
@@ -105,6 +110,7 @@
 * [Syncovery to Glacier](https://manjaro.site/backup-debian-amazon-s3/)
 * [Bacula to Cloud with RClone-change](https://www.bacula.lat/community/bacula-storage-in-any-cloud-with-rclone-and-rclone-changer/?lang=en)
 * https://www.slant.co/options/2332/alternatives/~amazon-glacier-alternatives
+* https://cloud.netapp.com/blog/amazon-s3-as-a-file-system
 
 ####### Backblaze B2
 
@@ -160,6 +166,7 @@
 * https://labs.consol.de/de/omd/index.html (nagios)
   + https://labs.consol.de/de/omd/packages/thruk/
   + https://labs.consol.de/
+* [apimon](https://github.com/ncarlier/apimon)
 
 #### Prometheus
 
