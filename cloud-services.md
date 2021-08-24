@@ -11,6 +11,7 @@
 ## Logging
 
 * https://papertrailapp.com/
+* https://logz.io/ commercial, but based on open source
 
 ## Technical writing
 

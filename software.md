@@ -141,6 +141,12 @@
   + https://lokinet.org/ (darknet)
   + https://oxen.io/ (crypto coin)
   + https://getsession.org/ (messagener)
+* https://community.torproject.org/
+  + https://community.torproject.org/onion-services/setup/
+  + https://stem.torproject.org/tutorials/over_the_river.html
+  + https://hub.docker.com/r/osminogin/tor-simple/
+  + https://hub.docker.com/r/chriswayg/tor-server/
+  + https://hub.docker.com/r/dperson/torproxy/
 
 ## Sync
 

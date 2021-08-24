@@ -2,6 +2,11 @@
 
 * https://www.indoition.com/xml-dita-tools-technical-documentation.htm
 
+## Presentations
+
+* [reveal](https://github.com/hakimel/reveal.js/) html5 presentation framework
+* [live deck](https://github.com/gaslight/live_deck) interactive html5 presentation framework
+
 ## XML
 
 ### Editors

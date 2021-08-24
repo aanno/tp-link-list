@@ -90,3 +90,4 @@
 
 * [CloudTrail organization trail](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/creating-trail-organization.html)
 * [Gateway load balancer GWLB](https://aws.amazon.com/de/blogs/aws/introducing-aws-gateway-load-balancer-easy-deployment-scalability-and-high-availability-for-partner-appliances/)
+* [elastic network](https://aws.amazon.com/de/blogs/aws/new-elastic-network-interfaces-in-the-virtual-private-cloud/)

@@ -32,6 +32,7 @@
   - https://nextcloud.com/talk/
   - https://apps.nextcloud.com/apps/spreed
   - [TURN and STUN scripts](https://github.com/nextcloud/vm/blob/master/apps/talk.sh)
+  - https://nextcloud-talk.readthedocs.io/en/latest/
 
 #### Spreed
 

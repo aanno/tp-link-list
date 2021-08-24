@@ -166,6 +166,8 @@
 * https://labs.consol.de/de/omd/index.html (nagios)
   + https://labs.consol.de/de/omd/packages/thruk/
   + https://labs.consol.de/
+* [netdata](https://github.com/netdata/netdata)
+* https://www.monitorix.org/
 * [apimon](https://github.com/ncarlier/apimon)
 
 #### Prometheus
@@ -284,6 +286,8 @@
 * https://developers.redhat.com/blog/2020/03/10/how-to-run-containerized-workloads-securely-and-at-scale-with-fedora-coreos/
 * [AWS CloudWatch on CoreOS](https://engineering.invisionapp.com/post/coreos-system-logs/)
 * [libvirt support](https://www.ovirt.org/develop/release-management/features/virt/coreos-ignition-support.html)
+* [kernel args](https://docs.fedoraproject.org/en-US/fedora-coreos/kernel-args/)
+  + [control group v2](https://www.kernel.org/doc/html/latest/admin-guide/cgroup-v2.html)
 
 ##### Based on Fedora CoreOS
 
