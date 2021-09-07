@@ -79,11 +79,18 @@
 * https://adoptium.net/
 * https://www.graalvm.org/
 * http://zulu.org/download/
-* jetbrais/idea
+* jetbrains/idea
+  + https://github.com/JetBrains/JetBrainsRuntime
   + [jvm chromium embedded](https://plugins.jetbrains.com/docs/intellij/jcef.html)
   + [jcef replaces javafx](https://blog.jetbrains.com/platform/2020/07/javafx-and-jcef-in-the-intellij-platform/)
   + [DCEVM - hotswapping vm](https://blog.jetbrains.com/idea/2013/07/get-true-hot-swap-in-java-with-dcevm-and-intellij-idea/)
   + https://ssw.jku.at/dcevm/
+
+### Profiler
+
+* https://github.com/jvm-profiling-tools
+* https://github.com/jvm-profiling-tools/async-profiler
+  + https://www.jetbrains.com/help/idea/async-profiler.html
 
 ### Docker
 

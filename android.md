@@ -35,6 +35,11 @@
 * https://source.android.com/setup/create/avd
 * https://stackoverflow.com/questions/45778555/running-custom-android-rom-on-emulator
 
+### Docker
+
+* https://github.com/budtmo/docker-android
+* https://github.com/bitrise-io/android
+  + https://github.com/bitrise-io/android/blob/master/docker-compose.yml
 
 ## Android Forks
 

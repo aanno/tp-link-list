@@ -16,6 +16,8 @@
 * [storybook](https://storybook.js.org/)
   + https://www.chromatic.com/blog/how-design-systems-use-storybook/
   + https://www.scandio.de/blog/de/2019/05/storybook
+* [penpot](https://penpot.app/) (web, svg-based)
+  + https://github.com/penpot/penpot
 * [pencil project (linux only)](https://pencil.evolus.vn/)
 * [wirefy](https://getwirefy.com/)
 * [mydraft.cc (web service)](https://mydraft.cc/)

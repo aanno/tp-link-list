@@ -51,20 +51,37 @@
 * http://www.eclipse.org/xtend/
 * https://plugins.jetbrains.com/plugin/8073-xtend-support
 
-### Visualization (Graph)
+### Visualization (Graph) (mostly general purpose)
 
 * https://typefox.io/visualizing-npm-package-dependencies-with-sprotty
   + http://npm-dependencies.com/
 * http://typefox.io/sprotty-a-web-based-diagramming-framework  
 * https://observablehq.com/ (web service)
 
-* https://github.com/theia-ide/sprotty
+* https://github.com/eclipse/sprotty
 * https://github.com/eclipse/elk
 * Vega und Vega lite
   + https://vega.github.io/editor/#/examples/vega-lite/interactive_splom
   + https://vega.github.io/vega/examples/force-directed-layout/
 * https://jankoehnlein.github.io/FXDiagram/
+* https://graphology.github.io/ (js)
+  + https://github.com/graphology/graphology-layout-forceatlas2 (fdg)
+* https://graphviz.org/ (old style - also see gephi, plantuml implements its own graphviz compatible layouter(s))
+* https://gephi.org/ (java based)
+  + https://github.com/gephi/gephi
+  + https://github.com/gephi/gephi-toolkit
+  + https://github.com/gephi/viz-engine
+  + https://github.com/raphv/gexf-js (viewer for js)
+  + https://gephi.wordpress.com/2019/02/02/exploring-the-dystopian-future-of-a-javascript-gephi/
+  + https://medialab.github.io/minivan/#/
+* http://sigmajs.org/ (js)
+* https://www.yworks.com/products/yed (commercial but free to use)
 
+#### Graph layouting
+
+* https://i11www.iti.kit.edu/_media/teaching/winter2016/graphvis/graphvis-ws16-v6.pdf (mostly fdg)
+* https://github.com/d3/d3-force
+* https://github.com/vasturiano/force-graph (js, html5 canvas)
 
 ## MPS
 

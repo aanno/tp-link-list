@@ -20,6 +20,9 @@
     - http://cloudman.irb.hr/
     - https://galaxyproject.org/cloudman/
   + [CloudLaunch](https://github.com/galaxyproject/cloudlaunch)
+* https://www.meshcloud.io/de/ (commercial, multi-cloud)
+  + https://github.com/meshcloud/collie-cli
+  + https://collie-cli.io/
 
 ### Tools and standards
 

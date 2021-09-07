@@ -7,7 +7,8 @@
 * https://sysml.org/
   + https://pivotpt.com/training/mbse-sysml/
   + https://de.wikipedia.org/wiki/Systems_Modeling_Language
-* 
+* https://wi.uni-potsdam.de/homepage/lehrewi.nsf/0/864b1102a89b4f0bc1258114006fabc0/$FILE/8%20-%20Aufnahme%20und%20Visualisierung%20von%20IT-Landschaften.key.002.pdf/8%20-%20Aufnahme%20und%20Visualisierung%20von%20IT-Landschaften.key.pdf
+* https://www.edv-buchversand.de/chapter.php?cnt=getchapter&id=ha-41328.pdf
 
 ## Rather modeling (mostly open source)
 
@@ -23,6 +24,7 @@
 
 * https://www.umlet.com/ (wiki style)
 * https://plantuml.com/de/ (ascii -> diagram with automatic layout)
+  + https://crashedmind.github.io/PlantUMLHitchhikersGuide/
   + [comments in plantuml](https://forum.plantuml.net/1353/is-it-possible-to-comment-out-lines-of-diagram-syntax)
   + [smetana layout engine](https://plantuml.com/de/smetana02)
   + [elk layout engine](https://plantuml.com/de/elk)

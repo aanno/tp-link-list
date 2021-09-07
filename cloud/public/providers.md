@@ -5,6 +5,11 @@
 * https://www.computerwoche.de/a/clevere-alternativen-zu-azure-amazon-und-google,3545929,2
 * [clouds supported by ansible](https://www.ansible.com/integrations/cloud)
 
+## Gaia-X
+
+* https://www.golem.de/news/gaia-x-hat-die-gross-angekuendigte-cloud-initiative-eine-zukunft-2109-159284.html
+* https://scs.community/
+
 ## Individual
 
 * https://www.transip.eu/vps/
