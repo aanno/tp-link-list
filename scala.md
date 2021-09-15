@@ -35,6 +35,7 @@ prinzipiell der klassischen Programmierung überlegen ist.
 
 * http://dotty.epfl.ch/#getting-started
 * http://dotty.epfl.ch/docs/reference/other-new-features/explicit-nulls.html
+  + https://ayushm4489.medium.com/explicit-nulls-in-scala-3-9aa9cdb6b10c
 
 ## Libs
 

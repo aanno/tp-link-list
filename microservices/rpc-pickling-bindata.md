@@ -2,6 +2,7 @@
 
 * https://www.sitepoint.com/data-serialization-comparison-json-yaml-bson-messagepack/
 * https://www.igvita.com/2011/08/01/protocol-buffers-avro-thrift-messagepack/
+* [simdjson](https://github.com/simdjson/simdjson) extremly optimized json parser
 
 ## Queries (and answers)
 

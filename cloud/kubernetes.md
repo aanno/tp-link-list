@@ -190,6 +190,8 @@
 #### Storage
 
 * https://rook.io/
+* https://longhorn.io/
+  + https://www.heise.de/tests/Kubernetes-Speicher-einfach-verwalten-mit-Longhorn-6177422.html
 
 #### Serverless
 
@@ -241,9 +243,6 @@
   + https://github.com/containers/skopeo/
   + https://github.com/cri-o/cri-o
   + https://github.com/containers/storage
-  + https://buildah.io/
-    - https://developers.redhat.com/blog/2019/08/14/best-practices-for-running-buildah-in-a-container/
-    - https://www.projectatomic.io/blog/2018/03/building-buildah-container-image-for-kubernetes/
 * https://www.projectatomic.io/blog/2018/02/reintroduction-podman/
 * https://developers.redhat.com/blog/2019/02/21/podman-and-buildah-for-docker-users/
 * https://mkdev.me/en/posts/dockerless-part-3-moving-development-environment-to-containers-with-podman

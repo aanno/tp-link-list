@@ -15,15 +15,36 @@
 
 ## Business Automation
 
+* https://camunda.com/de/
+
 ### Activiti
 
 * https://www.activiti.org/
 * http://www.baeldung.com/activiti-kickstart-and-rest-apps
 * https://github.com/Activiti/Activiti-AngularApp
 
+## Container building
+
+* https://paketo.io/
+  + https://paketo.io/docs/
+* https://github.com/GoogleContainerTools/jib
+*  https://buildah.io/
+  + https://developers.redhat.com/blog/2019/08/14/best-practices-for-running-buildah-in-a-container/
+  + https://www.projectatomic.io/blog/2018/03/building-buildah-container-image-for-kubernetes/
+
 ## Testing
 
 * https://www.testcontainers.org/
+
+### Metrics
+
+### Visualization on tests
+
+* https://maibornwolff.github.io/codecharta/
+  + https://www.maibornwolff.de/blog/code-charta-fuer-ethereum
+  + https://github.com/MaibornWolff/codecharta
+* https://github.com/MaibornWolff/TestVille
+  + https://www.maibornwolff.de/blog/testautomatisierung-baumstruktur-wird-strasse
 
 ## Message queues
 
@@ -39,6 +60,7 @@
   + https://github.com/nats-io/nats.java (java client)
 * https://www.rabbitmq.com/
 * https://kafka.apache.org/
+  + https://github.com/kcctl/kcctl (CLI for kafka connect)
 * https://pulsar.apache.org/
 
 ### Pulsar

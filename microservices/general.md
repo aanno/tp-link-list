@@ -17,3 +17,7 @@
 ### Tracing
 
 * https://zipkin.io/
+
+### Alternatives
+
+* [Carola Lilienthal: Der Modulith](https://www.youtube.com/watch?v=dpqEgS58T68)

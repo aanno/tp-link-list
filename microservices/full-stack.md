@@ -30,12 +30,14 @@
 * https://helidon.io/#/
 * https://ktor.io/ kotlin
 * https://javalin.io/
+  + https://www.heise.de/news/Webframework-Javalin-4-0-bringt-Unterstuetzung-fuer-JDK-16-und-Kotlin-1-5-6191750.html
 * https://axoniq.io/#0
 * https://github.com/networknt/light-4j
   + https://www.networknt.com/
   + https://github.com/networknt/microservices-framework-benchmark
 * https://moleculer.services/ (node)
 * https://github.com/spring-projects-experimental/spring-fu kotlin and java
+  + https://entwickler.de/spring/spring-fu-neues-microframework-von-spring/
 * [light-4j](https://www.networknt.com/)
   + [benchmarks](https://github.com/networknt/microservices-framework-benchmark)
   + [compare with other microservices](https://www.techempower.com/benchmarks/)

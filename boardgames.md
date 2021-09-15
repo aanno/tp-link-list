@@ -13,3 +13,8 @@
   + https://github.com/Ludeme/Ludii
   + https://github.com/Ludeme
 * http://ludeme.eu/index.html
+
+## 18xx
+
+* https://github.com/tobymao/18xx/wiki
+* https://github.com/tobymao/18xx/wiki/Notifications

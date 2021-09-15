@@ -1,10 +1,18 @@
 # Java
 
+* https://dev.java/
 * https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/CompletionStage.html
 
 ## JavaEE
 
 * https://www.heise.de/developer/meldung/Java-EE-8-auf-der-Zielgeraden-3762047.html
+
+## Blogs
+
+* [gunnar morling](https://www.morling.dev/)
+* https://inside.java/
+* https://snyk.io/jvm-ecosystem-report-2021/
+* https://www.microdoc.com/de/techtalk/
 
 ## Java desktop apps (swing-based, web start, really)
 
@@ -18,6 +26,7 @@
 
 * https://manifold.systems/ (meta-programming, class extensions, structural typing)
 * http://www.vavr.io/ (pattern matching, monads, collections, monadic for)
+  + https://docs.vavr.io/
 * http://docs.paralleluniverse.co/quasar/ (first coroutine attempt, also for kotlin)
 * http://docs.paralleluniverse.co/comsat/ (http, db for quasar)
 * http://www.paralleluniverse.co/ (also: data grid, in-memory db)
@@ -31,6 +40,10 @@
 * [feature flipping for java](https://github.com/ff4j/ff4j)
 * [java library of graph theory](https://jgrapht.org/)
 * [modern collections](https://guava.dev/)
+
+## Testing
+
+* https://www.testcontainers.org/
 
 ### Table output on console
 
@@ -73,6 +86,23 @@
   
 ## JVM
 
+* [tools](https://github.com/openjdk/jdk17/tree/master/src/utils) hsdis, IdealGraphVisualizer
+
+## GraalVM
+
+* https://www.graalvm.org/
+  + https://www.graalvm.org/reference-manual/native-image/
+* [spring-native](https://docs.spring.io/spring-native/docs/current/reference/htmlsingle/)
+  + https://spring.io/blog/2021/03/11/announcing-spring-native-beta
+
+### Java 17 LTS
+
+* https://developer.oracle.com/developer-live/java-innovations-sep-2021/
+* https://www.infoq.com/news/2021/07/java-17-glass/
+* https://www.heise.de/news/Programmiersprache-Java-17-erweitert-Pattern-Matching-und-versiegelt-Klassen-6191321.html
+* https://blogs.oracle.com/javamagazine/migrate-to-java-17
+* https://www.baeldung.com/java-sealed-classes-interfaces
+
 ### Implementations
 
 * https://adoptopenjdk.net/
@@ -91,6 +121,27 @@
 * https://github.com/jvm-profiling-tools
 * https://github.com/jvm-profiling-tools/async-profiler
   + https://www.jetbrains.com/help/idea/async-profiler.html
+* http://findtheflow.io (old)
+  + http://findtheflow.io/docs/usecases.html
+
+#### Flight recorder (jfr) and JDK mission control (jmc)
+
+* [health-report](https://github.com/flight-recorder/health-report) jfr event streaming
+* https://github.com/thegreystone/jmc-tutorial
+* https://www.baeldung.com/java-flight-recorder-monitoring
+
+##### jfr and testing
+
+* https://github.com/quick-perf/quickperf
+* https://github.com/moditect/jfrunit
+
+### GC (garbage collector)
+
+* https://wiki.openjdk.java.net/display/shenandoah/Main
+
+### Java module system
+
+* https://github.com/moditect/moditect
 
 ### Docker
 

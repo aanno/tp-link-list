@@ -44,6 +44,8 @@
 
 ## Spring
 
+* https://spring.io/blog/
+
 ### Quickstart Spring (microservices)
 
 * https://start.spring.io/
@@ -56,6 +58,9 @@
 
 * https://projects.spring.io/spring-cloud/
   + https://github.com/spring-cloud-samples
+    - https://spring.io/projects/spring-cloud-aws
+    - https://spring.io/projects/spring-cloud-kubernetes
+    - https://spring.io/blog/2020/09/02/hello-azure-spring-cloud
   + https://cloud.spring.io/spring-cloud-sleuth/
 * https://docs.spring.io/spring-cloud-dataflow-samples/docs/current/reference/htmlsingle/
 * http://www.baeldung.com/the-persistence-layer-with-spring-data-jpa
