@@ -24,11 +24,15 @@
 
 * https://www.umlet.com/ (wiki style)
 * https://plantuml.com/de/ (ascii -> diagram with automatic layout)
+  + https://plantuml.com/de/running integrations with other programs
   + https://crashedmind.github.io/PlantUMLHitchhikersGuide/
   + [comments in plantuml](https://forum.plantuml.net/1353/is-it-possible-to-comment-out-lines-of-diagram-syntax)
   + [smetana layout engine](https://plantuml.com/de/smetana02)
   + [elk layout engine](https://plantuml.com/de/elk)
   + [non-uml diagrams](https://plantuml.com/de/dot)
+  + [C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) fork for C4model support
+* https://kroki.io/#support (very many diagram types, including plantuml and c4 support)
 * https://github.com/prmr/JetUML
 * https://github.com/argouml-tigris-org/argouml
 * [class diagrams with idea](https://www.jetbrains.com/help/idea/class-diagram.html)
+* https://gaphor.org/ (eclipse based)

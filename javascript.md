@@ -51,6 +51,13 @@
 
 ##### React tools
 
+* https://nextjs.org/ server-side react framework
+  + https://en.wikipedia.org/wiki/Next.js
+  + https://jamstack.org/what-is-jamstack/
+  + https://jamstack.org/generators/
+  + https://www.netlify.com/
+  + https://en.wikipedia.org/wiki/Netlify
+
 ##### React Builder UIs...
 
 * https://github.com/ipselon/structor

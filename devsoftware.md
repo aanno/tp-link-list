@@ -232,7 +232,7 @@
 * https://getcockpit.com/ (Api first, GraphQL)
 * https://github.com/birkir/prime (small, GraphQL)
 
-### Generators
+### Static Site Generators
 
 * https://www.staticgen.com/
 * https://staticsitegenerators.net/
@@ -255,6 +255,8 @@
 * https://getnikola.com/
   + https://getnikola.com/blog/a-cms-or-two-for-nikola-dato-cms-and-netlify-cms-integration.html
 * http://awestruct.org/
+* https://www.mkdocs.org/ (heads towards documentation)
+  + https://github.com/mkdocs/mkdocs/
 
 #### Generators and CMS
 
@@ -272,19 +274,6 @@
 * https://www.netlifycms.org/ (git and generator based)
 * http://openlivewriter.org/
 * https://www.dev-insider.de
-
-### Wiki
-
-* http://www.clickonf5.org/internet/10-free-opensource-wiki-software-engine/7599
-
-* https://wiki.js.org/
-  + https://github.com/Requarks/wiki
-  + https://docs.requarks.io/wiki/install/installation/configuration-file
-* https://github.com/gollum/gollum
-* https://github.com/Dynalon/mdwiki
-* https://tiki.org/tiki-index.php
-  + https://doc.tiki.org/Documentation
-* https://www.xwiki.com/en/
 
 ## SSO and related
 
