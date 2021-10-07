@@ -55,6 +55,7 @@
   + https://www.jhipster.tech/jdl/
   + https://start.jhipster.tech/jdl-studio/
   + https://github.com/jhipster/jdl-studio
+  + https://www.ionos.de/digitalguide/websites/web-entwicklung/jhipster/
 
 #### Spring reactive/webflux
 

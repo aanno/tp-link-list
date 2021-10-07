@@ -174,6 +174,7 @@
 
 * https://prometheus.io/
 * https://prometheus.io/docs/introduction/comparison/
+* https://www.augmentedmind.de/2021/10/03/prometheus-concepts/
 
 #### InfluxDB (vs Prometheus)
 

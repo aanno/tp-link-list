@@ -86,8 +86,15 @@
 * [Kinesis agent](https://docs.aws.amazon.com/de_de/streams/latest/dev/writing-with-agents.html)
 * [SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html)
 
+
+### IAM
+
+* [ConsoleMe](https://github.com/Netflix/consoleme) netflix stack, make use of IAM simpler
+  + [weep](https://github.com/Netflix/weep) retrieve AWS credentials
+
 ### AWS new topics
 
 * [CloudTrail organization trail](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/creating-trail-organization.html)
 * [Gateway load balancer GWLB](https://aws.amazon.com/de/blogs/aws/introducing-aws-gateway-load-balancer-easy-deployment-scalability-and-high-availability-for-partner-appliances/)
 * [elastic network](https://aws.amazon.com/de/blogs/aws/new-elastic-network-interfaces-in-the-virtual-private-cloud/)
+

@@ -443,6 +443,12 @@
 
 ### Emerging SSO
 
+* https://www.authelia.com/
+  + https://github.com/authelia/authelia
+* https://identity.foundation/ id wallet spec
+  + https://lissi.id/ id wallet implementation
+  + https://github.com/Fluepke/ssi-poc PoC exploit (flawed spec)
+
 #### OAuth2
 
 * https://github.com/babelouest/glewlwyd

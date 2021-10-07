@@ -61,9 +61,14 @@
 
 #### Asciidoctor Setup
 
+* [asciidoctor setup](https://www.informatik.htw-dresden.de/~zirkelba/notes/se/asciidoc-installation-and-configuration/)
+
+##### Asciidoctor Setup for Presentation
+
 * [setup asciidoctor reveal](https://docs.asciidoctor.org/reveal.js-converter/latest/setup/ruby-setup/)
 * [several tools chains for asciidoctor reveal](https://docs.asciidoctor.org/reveal.js-converter/latest/)
-* [asciidoctor setup](https://www.informatik.htw-dresden.de/~zirkelba/notes/se/asciidoc-installation-and-configuration/)
+* [example presentation](https://github.com/Ardemius/asciidoctor-presentation)
+* https://matklad.github.io/2019/05/19/consider-using-asciidoctor-for-your-next-presentation.html
 
 #### References
 

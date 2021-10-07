@@ -26,13 +26,17 @@
 * https://plantuml.com/de/ (ascii -> diagram with automatic layout)
   + https://plantuml.com/de/running integrations with other programs
   + https://crashedmind.github.io/PlantUMLHitchhikersGuide/
+  + [layout tips and tricks](https://www.augmentedmind.de/2021/01/17/plantuml-layout-tutorial-styles/)
   + [comments in plantuml](https://forum.plantuml.net/1353/is-it-possible-to-comment-out-lines-of-diagram-syntax)
   + [smetana layout engine](https://plantuml.com/de/smetana02)
-  + [elk layout engine](https://plantuml.com/de/elk)
+  + [elk (eclipse) layout engine](https://plantuml.com/de/elk)
+  + [vizjs layout engine](https://plantuml.com/de/vizjs)
   + [non-uml diagrams](https://plantuml.com/de/dot)
   + [C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) fork for C4model support
 * https://kroki.io/#support (very many diagram types, including plantuml and c4 support)
+  + https://github.com/mogztter/asciidoctor-kroki
 * https://github.com/prmr/JetUML
 * https://github.com/argouml-tigris-org/argouml
 * [class diagrams with idea](https://www.jetbrains.com/help/idea/class-diagram.html)
 * https://gaphor.org/ (eclipse based)
+* https://github.com/bpmn-io/bpmn-js (view and edit)

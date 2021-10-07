@@ -6,7 +6,21 @@
 
 ## Queries (and answers)
 
+### GraphQL
+
 * https://graphql.org/learn/
+* https://graphql.org/code/
+* https://de.wikipedia.org/wiki/GraphQL
+* https://www.howtographql.com/choose/
+* https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/
+  + https://www.graphql-java.com/documentation/v17/data-fetching/
+  + https://docs.spring.io/spring-graphql/docs/1.0.0-SNAPSHOT/reference/html/#overview
+  + https://querydsl.com/
+* https://netflix.github.io/dgs/ alternative to spring-graphql (but also for spring boot)
+* [apollo GraphQL implementation for JS](https://www.apollographql.com/)
+  + https://www.apollographql.com/docs/react/development-testing/static-typing/
+  + https://www.apollographql.com/blog/tooling/apollo-codegen/typescript-graphql-code-generator-generate-graphql-types/
+  + https://apollo-angular.com/docs/get-started/
 
 ## Rpc 
 
