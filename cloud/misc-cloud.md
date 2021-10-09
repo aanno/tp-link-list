@@ -4,6 +4,12 @@
 
 * https://www.augmentedmind.de/
 
+## CNCF
+
+* https://www.cncf.io/
+* https://landscape.cncf.io/ overview
+* https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png categories
+
 ## Orchestration
 
 * https://www.dev-insider.de/container-orchestration-tools-im-vergleich-a-888150/
@@ -73,3 +79,30 @@
 
 * [archaius](https://github.com/Netflix/archaius)
  
+## Service Mesh and API Gateways
+
+* https://platform9.com/blog/kubernetes-service-mesh-a-comparison-of-istio-linkerd-and-consul/
+* https://techbeacon.com/app-dev-testing/9-open-source-service-meshes-compared
+* https://stackshare.io/istio/alternatives
+
+### Implementations
+
+* https://www.consul.io/docs/architecture
+* https://traefik.io/
+* https://www.envoyproxy.io/
+  + https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/arch_overview
+  + https://github.com/envoyproxy/envoy
+* https://istio.io/
+* https://github.com/Kong/kong
+  + https://github.com/Kong/kubernetes-ingress-controller kong for kubernetes
+  + https://github.com/Kong/deck configuration for kong
+  + 
+
+
+## Linux base technology
+
+* https://ebpf.io/
+  + https://ebpf.io/projects
+  + https://engineering.fb.com/2018/05/22/open-source/open-sourcing-katran-a-scalable-network-load-balancer/
+  + https://cilium.io/ Networking, Observability, and Security (for kubernetes)
+    - https://github.com/cilium/cilium

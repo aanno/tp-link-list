@@ -26,6 +26,10 @@
   + https://stackoverflow.com/questions/39697332/simple-rest-with-undertow
   + https://stackoverflow.com/questions/25204887/how-to-send-a-asynchronous-response-in-an-undertow-httphandler
 * https://github.com/buremba/netty-rest
+
+## Rest clients
+
+* https://github.com/Kong/insomnia API Client for GraphQL, REST, and gRPC with plugin system
   
 ## Libs
 

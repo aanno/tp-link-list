@@ -6,6 +6,10 @@
 
 ## Certifications
 
+### Cloud (and kubernetes)
+
+* https://www.cncf.io/certification/training/
+
 ### Spark and Scala
 
 * https://sangche.github.io/posts/17-04-20-capstone/ capstone solution with bilinear interpolation
