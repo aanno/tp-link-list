@@ -4,8 +4,13 @@
 
 ## Presentations
 
+* [list of markdown based presentation solutions](https://gist.github.com/johnloy/27dd124ad40e210e91c70dd1c24ac8c8)
 * [reveal](https://github.com/hakimel/reveal.js/) html5 presentation framework
 * [live deck](https://github.com/gaslight/live_deck) interactive html5 presentation framework
+* [spectacle - react based presentation slides](https://formidable.com/open-source/spectacle/)
+* [eagle - vue based presentation slides](https://github.com/zulko/eagle.js/)
+* [NueDeck - vue based presentation slides](https://github.com/twitwi/nuedeck)
+* [decktape](https://github.com/astefanutti/decktape) pdf from Html presentation - includes links to presentation frameworks
 
 ## XML
 
@@ -69,6 +74,13 @@
 * [several tools chains for asciidoctor reveal](https://docs.asciidoctor.org/reveal.js-converter/latest/)
 * [example presentation](https://github.com/Ardemius/asciidoctor-presentation)
 * https://matklad.github.io/2019/05/19/consider-using-asciidoctor-for-your-next-presentation.html
+* [alternative presentation backends](https://github.com/asciidoctor/asciidoctor-backends)
+
+#### Asciidoctor backends
+
+* https://asciidoctor.org/docs/asciidoctor-pdf/
+* https://github.com/asciidoctor/asciidoctor-fopub
+* [semantic html5](https://github.com/jirutka/asciidoctor-html5s)
 
 #### References
 
@@ -120,11 +132,18 @@
 * https://github.com/mogztter/asciidoctor-kroki diagrams for asciidoctor.js
 * https://gitlab.com/djencks/asciidoctor-mathjax.js server-side mathjax rendering
 
-## Software based on asciidoctor
+## Site generators based on asciidoctor
 
 * [antora](https://gitlab.com/antora) html5 site generation for technical documentation
   + https://gitlab.com/antora/antora
   + https://docs.antora.org/antora/2.3/whats-new/
+* [mdx](https://mdxjs.com/) asciidoc with jsx (react)
+* [asciidoctor in vue.js](https://www.ahus1.de/post/asciidoc-content-spa)
+
+## Rendering components for asciidoctor
+
+* https://github.com/fast-reflexes/better-react-mathjax
+* https://github.com/react-atomic/react-atomic-organism/tree/master/packages/organism-react-asciidoc
 
 ## Book Converter
 
@@ -190,8 +209,6 @@
 
 * https://asciidoctor.org/docs/install-toolchain/
 * https://asciidoctor.org/docs/asciidoctorj/
-* https://asciidoctor.org/docs/asciidoctor-pdf/
-* https://github.com/asciidoctor/asciidoctor-fopub
 * https://stackoverflow.com/questions/48419521/converting-asciidoc-to-latex (pandoc)
   
 ### Math support

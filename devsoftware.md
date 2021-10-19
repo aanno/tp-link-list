@@ -232,10 +232,15 @@
 * https://getcockpit.com/ (Api first, GraphQL)
 * https://github.com/birkir/prime (small, GraphQL)
 
+### Head-only frameworks
+
+* https://www.gatsbyjs.com/ (asciidoctor, katex, ...)
+
 ### Static Site Generators
 
 * https://www.staticgen.com/
 * https://staticsitegenerators.net/
+* https://snipcart.com/blog/choose-best-static-site-generator
 * https://www.cmswire.com/digital-experience/15-static-site-generators-to-complement-your-headless-cms/
 
 * https://gohugo.io/
@@ -257,6 +262,15 @@
 * http://awestruct.org/
 * https://www.mkdocs.org/ (heads towards documentation)
   + https://github.com/mkdocs/mkdocs/
+* [Eleventy](https://www.11ty.dev/docs/) template-agnostic, just-in-time (serverless)
+
+#### Site generators based on OPA
+
+* [vue 1](https://blog.bitsrc.io/best-static-site-generators-for-vue-js-e273d52ea208?gi=dfba03caa602)
+* [vue 2](https://vue-community.org/guide/ecosystem/static-site-generators.html)
+* [Rendering of MathJax in Vue](https://blog.karatos.in/a?ID=01800-ae296da6-7846-488d-8978-9c8c0a9ffc2f)
+* [react](https://blog.bitsrc.io/7-top-react-static-site-generators-in-2020-5850ae275821?gi=e018431eaa17)
+* [react: write your own](https://indepth.dev/posts/1454/)building-a-react-static-site-generator-in-20-lines-of-code-4-dependencies-and-no-transpilers)
 
 #### Generators and CMS
 
