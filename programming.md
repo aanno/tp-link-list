@@ -71,6 +71,12 @@ Know-how
 * https://www.heise.de/developer/artikel/Zukunft-der-Webentwicklung-Webkomponenten-und-Progressive-Web-Apps-Teil-1-3355449.html
 * https://www.heise.de/developer/artikel/Zukunft-der-Webentwicklung-Webkomponenten-und-Progressive-Web-Apps-Teil-2-3355490.html
 
+Alternative
+* [ampproject, amplify]https://amp.dev/documentation/guides-and-tutorials/
+  + https://amp.dev/documentation/guides-and-tutorials/learn/spec/amphtml/
+  + https://amp.dev/documentation/components/
+* https://www.netlify.com/ (jamstack based)
+
 ### Emerging Cloud
 
 #### BaaS and Serverless

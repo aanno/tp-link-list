@@ -69,14 +69,14 @@
   + https://github.com/acdlite/redux-actions (createAction(s), handleAction(s) (statt switch), combineActions)
   + https://github.com/erikras/ducks-modular-redux (http://redux.js.org/docs/api/bindActionCreators.html) 
 
-### Angular
+#### Angular
 
 * https://stackoverflow.com/questions/35368633/angular-2-download-pdf-from-api-and-display-it-in-view (pdf in view)
 * https://github.com/sean-olson-e/Rapid-Application-Development-using-Angular-CLI
 
 * https://github.com/angular/angular-cli
 
-#### Angular Basics
+##### Angular Basics
 
 * [components interaction](https://angular.io/guide/component-interaction)
   + [child and parent](https://www.centric.eu/NL/Default/Craft/Blogs/2018/01/25/Angular-components-How-to-talk-to-your-children-and-listen-to-what-they-have-to-say)
@@ -98,17 +98,17 @@
   + https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407
   + https://angular.io/guide/sharing-ngmodules
 
-#### Angular app architecture
+##### Angular app architecture
 
 * https://blog.angular-university.io/angular-2-redux-ngrx-rxjs/
 * https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course/
 
-#### Angular Redux/Store
+##### Angular Redux/Store
 
 * https://github.com/ngrx/platform
 * https://github.com/HarmoWatch/ngx-redux-core
 
-#### Angular 6 feature
+##### Angular 6 feature
 
 * [CDK](https://blog.angular.io/a-component-dev-kit-for-angular-9f06e3b4b3b4)
   + https://material.angular.io/cdk/categories
@@ -118,37 +118,45 @@
 * [bootstrap](https://ng-bootstrap.github.io/#/home)
   + https://github.com/ng-bootstrap/ng-bootstrap
 
-#### Angular themes
+##### Angular themes
 
 * https://github.com/vmware/clarity
 
-#### Angular Tools
+##### Angular Tools
 
 * https://blog.mgechev.com/2017/04/23/angular-tooling-codelyzer-angular-cli-ngrev/
 
-#### Angular dynamic components
+##### Angular dynamic components
 
 * https://angular.io/guide/dynamic-component-loader
 * https://angular.io/guide/dynamic-form
 
-#### Angular Builder UIs ...
+##### Angular Builder UIs ...
 
 * https://storybook.js.org/
 
-####  ... for forms
+#####  ... for forms
 
 * http://angular-formly.com/#!/
   + http://docs.angular-formly.com/v6.16.0/docs/gui-form-builders
 * https://github.com/gms1/angular-dynaform
 * https://github.com/toddmotto/angular-dynamic-forms
 
-#### PrimeNG
+##### PrimeNG
 
 * [component overview](https://www.primefaces.org/primeng/#/)
   + [icons](https://www.primefaces.org/primeng/#/icons)
   + [primeicons](https://github.com/primefaces/primeicons)
   + [fontawesome icons](https://www.primefaces.org/showcase/ui/misc/fa.xhtml)
 * [ultima theme](https://www.primefaces.org/ultima/dashboard.xhtml)
+
+#### Vue (Vuejs)
+
+* https://vuejs.org/
+* [vue server site rendering (ssr)](https://ssr.vuejs.org/guide/hydration.html)
+* [nuxt - vue framework](https://nuxtjs.org/)
+  + [nuxt - static site generation](https://nuxtjs.org/docs/concepts/static-site-generation/)
+  + https://www.heise.de/news/JavaScript-Nuxt-js-3-unterstuetzt-TypeScript-und-integriert-Vite-js-6214270.html
 
 ### Immutable
 
@@ -200,6 +208,7 @@
 
 * https://www.snowpack.dev/
   + https://www.snowpack.dev/plugins
+* https://vitejs.dev/guide/
 
 ### Monorep
 

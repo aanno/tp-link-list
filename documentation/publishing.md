@@ -48,12 +48,17 @@
 * https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 * http://geog.uoregon.edu/bartlein/courses/geog607/Rmd/MDquick-refcard.pdf
 
-#### Editors
+#### Editors (mostly markdown)
 
 * https://www.tecmint.com/best-markdown-editors-for-linux/
 * http://asciidoctor.org/docs/editing-asciidoc-with-live-preview/
+* https://www.asciidocfx.com/
 * https://asciidoclive.com/edit/scratch/1 (online)
 * https://remarkableapp.github.io/
+* [marktext](https://github.com/marktext/marktext#features)
+  + https://marktext.app/
+* [ghostwriter](https://wereturtle.github.io/ghostwriter/)
+* [abricotine](https://abricotine.brrd.fr/)
 
 #### Tooling
 

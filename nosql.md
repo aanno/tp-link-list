@@ -30,6 +30,8 @@
 
 * http://janusgraph.org/
 * https://github.com/blazegraph/database
+* https://www.arangodb.com/community-server/
+* https://neo4j.com/
 
 ## Time Series DBs
 

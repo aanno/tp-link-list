@@ -35,6 +35,11 @@
   + https://github.com/cloudflare/quiche
   + https://blog.cloudflare.com/experiment-with-http-3-using-nginx-and-quiche/
 
+#### Nginx extensions
+
+* https://openresty.org/en/
+* https://leafo.net/lapis/
+
 ### Cluster
 
 * https://de.wikipedia.org/wiki/Corosync_Cluster_Engine

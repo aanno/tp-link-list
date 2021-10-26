@@ -3,6 +3,9 @@
 ## Blogs
 
 * https://habr.com/en/
+* https://www.dev-insider.de
+* https://opensource.com
+* https://news.itsfoss.com/
 
 ## OS
 
@@ -35,6 +38,9 @@
 ## Testing
 
 * https://www.testcontainers.org/
+* https://avocado-framework.github.io/
+  + https://github.com/avocado-framework/avocado
+  + https://github.com/avocado-framework/avocado-vt (test for virtualization)
 
 ### Metrics
 
@@ -91,6 +97,7 @@
 ### VS Code
 
 * https://github.com/Microsoft/vscode
+* https://vscodium.com/ (vscode without telemetry)
 * https://github.com/Microsoft/monaco-editor
 
 * https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
@@ -221,13 +228,16 @@
 
 #### Featured headless
 
+* https://www.slant.co/options/20706/alternatives/~netlify-cms-alternatives
 * https://strapi.io/ (small companies)
   + https://github.com/strapi/strapi
   + https://blog.strapi.io/building-a-static-website-using-gatsby-and-strapi/
 * http://keystonejs.com/ (node-based, GraphQL, Admin UI)
   + https://www.keystonejs.com/blog/prisma-adapter/
   + https://www.prisma.io/
-* https://www.netlifycms.org/
+* https://www.netlifycms.org/ (with react widgets)
+  + https://www.netlifycms.org/docs/widgets/
+* https://flextype.org/ (hybrid)
 * https://directus.io/ (RDBM, SQL)
 * https://getcockpit.com/ (Api first, GraphQL)
 * https://github.com/birkir/prime (small, GraphQL)
@@ -287,7 +297,6 @@
 * https://github.com/HubPress/hubpress.io
 * https://www.netlifycms.org/ (git and generator based)
 * http://openlivewriter.org/
-* https://www.dev-insider.de
 
 ## SSO and related
 
@@ -436,6 +445,7 @@
 * [dvc - git for big-data](https://dvc.org/features)
 * [git-lfs](https://git-lfs.github.com/)
   + [git-lfs tutorial and alternatives](https://www.perforce.com/blog/vcs/how-git-lfs-works)
+* [pre-commit](https://pre-commit.com/) multi-language, pre-commit hooks that will install missing software
 
 ## Client
 

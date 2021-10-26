@@ -94,6 +94,7 @@
   + https://www.graalvm.org/reference-manual/native-image/
 * [spring-native](https://docs.spring.io/spring-native/docs/current/reference/htmlsingle/)
   + https://spring.io/blog/2021/03/11/announcing-spring-native-beta
+  + https://www.heise.de/news/Java-Framework-Native-Spring-Anwendungen-laufen-ohne-die-JVM-5078681.html
 
 ### Java 17 LTS
 

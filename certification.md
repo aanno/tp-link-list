@@ -16,6 +16,11 @@
 * https://sangche.github.io/capstone/interaction2.html online world heat map
 * https://jozef.io/r924-big-data-spark-scala-review/
 
+## Data Science
+
+* https://www.coursera.org/professional-certificates/ibm-data-science
+* https://cognitiveclass.ai/
+
 ## IT
 
 ### Architecture
@@ -91,3 +96,7 @@
 #### mulesoft
 
 * https://training.mulesoft.com/certification
+
+### Accounting and Auditing
+
+* [CISA](https://www.isaca.org/credentialing/cisa)

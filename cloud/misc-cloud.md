@@ -24,6 +24,7 @@
 
 * https://sentry.io/welcome/
 * https://www.intercom.com/
+* https://www.graylog.org/products/open-source (partly open source)
 
 ## Cool Operators/Applications
 

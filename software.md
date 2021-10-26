@@ -103,6 +103,8 @@
 ## Security
 
 * https://cryptomator.org/
+* [use GPG keybase key to sign all commits on github](https://github.com/pstadler/keybase-gpg-github)
+* [tor hidden services](https://www.heise.de/security/artikel/Tor-und-die-versteckten-Dienste-3280904.html)
 
 ## Self-hosting
 
