@@ -22,6 +22,11 @@
   + https://www.apollographql.com/blog/tooling/apollo-codegen/typescript-graphql-code-generator-generate-graphql-types/
   + https://apollo-angular.com/docs/get-started/
 
+#### GraphQL Server
+
+* [dgraph - distributed graph engine](https://dgraph.io/)
+  + https://www.bigdata-insider.de/dgraph-die-verteilte-graph-datenbank-aus-der-cloud-a-1070807/
+
 ## Rpc 
 
 * https://grpc.io/

@@ -254,6 +254,8 @@
 * docker for desktop
   + https://github.com/dockercask/dockercask (https://en.wikipedia.org/wiki/Xephyr based)
   + https://github.com/linuxserver / https://www.linuxserver.io/ (https://guacamole.apache.org/ and xrdp based)
+* [bubblewrap](https://github.com/containers/bubblewrap) (also contains a list of alternative containers)
+* [sandstorm.io](https://sandstorm.io/) container for web apps
 
 #### Snappy / Snap
 
@@ -268,6 +270,16 @@
 * https://docs.flatpak.org/en/latest/flatpak-builder-command-reference.html
 * https://github.com/flatpak/flatpak-builder
 * https://github.com/flatpak/flatpak-builder-tools
+* http://janberan.tech/en/ (blog)
+
+##### Build flatpak packages
+
+* https://docs.flatpak.org/en/latest/first-build.html
+* https://opensource.com/article/19/10/how-build-flatpak-packaging
+* https://docs.fedoraproject.org/en-US/flatpak/tutorial/
+* [flatpak from rpm](http://janberan.tech/2021/02/rpm2flatpak/)
+  + http://janberan.tech/en/2021/02/devconf-making-fedora-flatpaks-from-rpms/
+* [official flatpak package build files](https://github.com/flathub)
 
 ### Container-faced Linux Distributions
 
@@ -378,6 +390,10 @@
   + https://wiki.archlinux.org/index.php/systemd/User
   + https://wiki.ubuntuusers.de/systemd/User_Units/
 * [timers](https://wiki.archlinux.de/title/Systemd/Timers) alternative to crond
+
+### alternatives to systemd
+
+* [dinit](https://github.com/davmac314/dinit)
 
 ### systemd and fs
 

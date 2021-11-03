@@ -3,3 +3,8 @@
 ## Clean Code
 
 * https://www.heise.de/hintergrund/Schluss-mit-Frust-Clean-Code-hilft-bei-der-Softwarequalitaet-6181456.html
+
+## Leadership
+
+* https://www.impulse.de/
+* https://www.impulse.de/management/personalfuehrung/wertschaetzung/7606844.html

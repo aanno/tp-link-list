@@ -63,3 +63,7 @@
 ## Satire
 
 * http://loophole4all.com/
+
+## Russland
+
+* https://specials.dekoder.org/de

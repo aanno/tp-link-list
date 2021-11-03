@@ -109,6 +109,9 @@
   + https://github.com/JedWatson/react-select
 * [svelte](https://madewithsvelte.com/)
 * https://github.com/react-atomic/react-atomic-organism
+* [patternfly](https://github.com/patternfly)
+  + https://www.patternfly.org/v4/get-started/about/
+  + https://www.patternfly.org/v4/demos/card-view/react-demos/card-view/#auth (demo)
 
 ### Big UI Libs
 

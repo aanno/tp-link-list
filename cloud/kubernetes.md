@@ -95,6 +95,8 @@
 * https://github.com/kubernetes/kubernetes/releases releases/versions
 * https://www.mirantis.com/blog/how-install-kubernetes-kubeadm/
 * https://microk8s.io/docs
+* [kind - kubernetes cluster on docker/podman](https://kind.sigs.k8s.io/docs/user/quick-start)
+
 #### Other kubernetes/okd setup
 
 * Terraform
@@ -106,6 +108,10 @@
   + https://techbloc.net/archives/4672
   + https://github.com/openshift/hive/blob/master/docs/using-hive.md
   + https://github.com/openshift/hive
+* [crc - okd4 on your laptop](https://developers.redhat.com/products/codeready-containers/overview)
+  + https://console.redhat.com/openshift/create/local
+  + https://developers.redhat.com/developer-sandbox/get-started
+  + https://github.com/code-ready/crc
 
 ### kubernetes commands and features
 
