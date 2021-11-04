@@ -29,6 +29,11 @@
 * [delta sharing protocol](https://github.com/delta-io/delta-sharing) panda and spark support
   + https://github.com/delta-io/delta-sharing reference implementation
 * [lakehouse architecture - meta data lake](https://delta.io/)
+* [hudi - transactions, record-level updates/deletes and change streams](https://hudi.apache.org/)
+  + https://hudi.apache.org/docs/cloud/
+* [alluxio - virtual distributed storage system](https://www.alluxio.io/)
+  + https://docs.alluxio.io/os/user/stable/en/Overview.html
+  + https://github.com/Alluxio/alluxio
 
 ### Commercial (No-SQL and analytics)
 
@@ -45,3 +50,14 @@
 * https://cloud.google.com/bigquery
   + https://de.wikipedia.org/wiki/BigQuery
 * https://www.teradata.de/ (data lake)
+
+# Data integration and enterprise service bus (ESB)
+
+## Camel and Co
+
+* [camel - routing and mediation engine](https://camel.apache.org/)
+  + https://camel.apache.org/manual/faq/what-is-camel.html
+  + [camel-quarkus](https://camel.apache.org/camel-quarkus/next/reference/index.html)
+  + [camel-k - camel on kubernetes](https://camel.apache.org/camel-k/1.6.x/index.html)
+* https://servicemix.apache.org/ bundles Activiti, ActiveMQ, Camel, CXF, and Karaf
+* [cxf - services (soap, REST, corba) framework](https://cxf.apache.org/)

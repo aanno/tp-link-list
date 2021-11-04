@@ -64,18 +64,11 @@
   + https://docs.nats.io/compare-nats
   + https://docs.nats.io/jetstream/jetstream (exactly once)
   + https://github.com/nats-io/nats.java (java client)
+  + https://docs.nats.io/compare-nats compare NATS to gRPC, kafka, pulsar, and rabbitMq
 * https://www.rabbitmq.com/
 * https://kafka.apache.org/
   + https://github.com/kcctl/kcctl (CLI for kafka connect)
 * https://pulsar.apache.org/
-
-### Pulsar
-
-* https://pulsar.apache.org/docs/en/concepts-messaging/
-* Transaction support
-  + https://github.com/apache/pulsar/issues/2664
-  + https://de.slideshare.net/streamnative/transaction-preview-of-apache-pulsar
-  + https://medium.com/@sjwang_50864/apache-pulsar-helps-tencent-process-tens-of-billions-of-financial-transactions-efficiently-with-8b435f177023
 
 ## Block chain
 

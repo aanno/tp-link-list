@@ -144,6 +144,11 @@
 
 * https://github.com/moditect/moditect
 
+### Osgi
+
+* [karaf - modulith runtime](https://karaf.apache.org/) includes: cellar - clustered jvms, 
+  cave - artifact repository, and decanter - business activity monitoring (BAM)
+
 ### Docker
 
 * [heap size inside docker container](https://www.baeldung.com/ops/docker-jvm-heap-size)

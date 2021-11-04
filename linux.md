@@ -10,6 +10,8 @@
 * https://www.omgubuntu.co.uk/
 * https://lwn.net/
 * https://www.datacenter-insider.de/
+* https://www.linuxuprising.com/
+* https://lwn.net/
 
 ## Kernel
 
