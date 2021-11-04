@@ -30,6 +30,7 @@
 * http://docs.paralleluniverse.co/quasar/ (first coroutine attempt, also for kotlin)
 * http://docs.paralleluniverse.co/comsat/ (http, db for quasar)
 * http://www.paralleluniverse.co/ (also: data grid, in-memory db)
+* https://projectlombok.org/ (annotation to reduce code)
 
 ## Libs
 
@@ -87,6 +88,7 @@
 ## JVM
 
 * [tools](https://github.com/openjdk/jdk17/tree/master/src/utils) hsdis, IdealGraphVisualizer
+* [overview of new language features per version](https://www.jetbrains.com/help/idea/supported-java-versions.html)
 
 ## GraalVM
 
@@ -108,6 +110,8 @@
 
 * https://adoptopenjdk.net/
 * https://adoptium.net/
+  + [build adoptium RPMs](https://githubmemory.com/repo/aahlenst/adoptium-packages-linux)
+  + [build adoptium on linux](https://github.com/adoptium/installer/tree/master/linux#readme)
 * https://www.graalvm.org/
 * http://zulu.org/download/
 * jetbrains/idea
@@ -115,6 +119,8 @@
   + [jvm chromium embedded](https://plugins.jetbrains.com/docs/intellij/jcef.html)
   + [jcef replaces javafx](https://blog.jetbrains.com/platform/2020/07/javafx-and-jcef-in-the-intellij-platform/)
   + [DCEVM - hotswapping vm](https://blog.jetbrains.com/idea/2013/07/get-true-hot-swap-in-java-with-dcevm-and-intellij-idea/)
+    - https://dcevm.github.io/ (java 8 and 11)
+    - https://github.com/TravaOpenJDK/trava-jdk-11-dcevm
   + https://ssw.jku.at/dcevm/
 
 ### Profiler
@@ -185,6 +191,7 @@
 
 * https://github.com/spring-projects/spring-loaded
 * http://hotswapagent.org/
+  + [hotswap agent for idea](http://hotswapagent.org/mydoc_setup_intellij_idea.html)
   + https://github.com/HotswapProjects/HotswapAgent
   + http://hotswapagent.org/mydoc_plugin_spring.html
 * https://github.com/dcevm/dcevm

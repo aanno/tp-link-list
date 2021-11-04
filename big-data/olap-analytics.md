@@ -34,6 +34,8 @@
 * [alluxio - virtual distributed storage system](https://www.alluxio.io/)
   + https://docs.alluxio.io/os/user/stable/en/Overview.html
   + https://github.com/Alluxio/alluxio
+* [airbyte - replicate data as streams](https://airbyte.io/why-airbyte)
+  + https://github.com/airbytehq/airbyte
 
 ### Commercial (No-SQL and analytics)
 
@@ -53,11 +55,15 @@
 
 # Data integration and enterprise service bus (ESB)
 
+* https://www.openintegrationhub.org/einsatzszenarien/ (also data lake?)
+  + https://github.com/openintegrationhub
+* https://servicemix.apache.org/ bundles Activiti, ActiveMQ, Camel, CXF, and Karaf
+* [cxf - services (soap, REST, corba) framework](https://cxf.apache.org/)
+* https://www.elastic.io/ (commercial)
+
 ## Camel and Co
 
 * [camel - routing and mediation engine](https://camel.apache.org/)
   + https://camel.apache.org/manual/faq/what-is-camel.html
   + [camel-quarkus](https://camel.apache.org/camel-quarkus/next/reference/index.html)
   + [camel-k - camel on kubernetes](https://camel.apache.org/camel-k/1.6.x/index.html)
-* https://servicemix.apache.org/ bundles Activiti, ActiveMQ, Camel, CXF, and Karaf
-* [cxf - services (soap, REST, corba) framework](https://cxf.apache.org/)

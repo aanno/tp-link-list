@@ -417,7 +417,8 @@
 * [basics](https://www.artificialworlds.net/blog/2007/02/22/creating-deb-and-rpm-packages/)
 * [pacur](https://github.com/pacur/pacur) (docker-based)
 * [fpm](https://github.com/jordansissel/fpm)
-* + https://www.digitalocean.com/community/tutorials/how-to-use-fpm-to-easily-create-packages-in-multiple-formats
+  + https://fpm.readthedocs.io/en/v1.13.1/changelog.html
+  + https://www.digitalocean.com/community/tutorials/how-to-use-fpm-to-easily-create-packages-in-multiple-formats
   + https://fpm.readthedocs.io/en/latest/intro.html
   + https://opensource.com/article/18/9/how-build-rpm-packages
 

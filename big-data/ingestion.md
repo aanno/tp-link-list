@@ -4,6 +4,7 @@
 * [gobblin](https://github.com/apache/incubator-gobblin) big data ingestion onto hadoop
 * [hadoop tez - DAG of tasks for processing data](https://tez.apache.org/)
 * https://airflow.apache.org/
+* https://nifi.apache.org/index.html
 
 ## Visualization
 
