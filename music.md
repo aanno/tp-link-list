@@ -144,3 +144,80 @@
 * [generate list with last.fm additional data](https://github.com/epsil/spotgen)
 * [import/export playlists](https://github.com/debfx/spotify-playlists)
 * [big data on recommendations](https://github.com/slevin48/music)
+
+## Linux music apps
+
+* https://www.tecmint.com/best-media-server-software-for-linux/
+
+### Client
+
+* [gmusicbrowser - jukebox for large collections](https://gmusicbrowser.org/)
+* [pragha - Lightweight Music Player in C](https://pragha-music-player.github.io/)
+* [olivia](https://github.com/keshavbhatt/olivia)
+* [tauon](https://tauonmusicbox.rocks/)
+* [strawberry - qt5](https://www.strawberrymusicplayer.org/)
+* [sayonara - qt5](https://sayonara-player.com/)
+* [gnome music](https://wiki.gnome.org/Apps/Music)
+* [lollypop - gnome](https://wiki.gnome.org/Apps/Lollypop)
+* [audacious](https://audacious-media-player.org/)
+* [jajuk](https://www.jajuk.info/)
+  + https://github.com/jajuk-team/jajuk
+* [elisa - kde](https://elisa.kde.org/de/)
+* [vvalve - kde](https://vvave.kde.org/)
+* [Guayadeque](https://www.guayadeque.org/)
+
+#### mpd clients
+
+* [cantata - qt5](https://wiki.archlinux.de/title/Cantata)
+  + https://github.com/cdrummond/cantata
+
+### Server
+
+* [mopidy](https://mopidy.com/)
+  + https://github.com/mopidy/mopidy
+  + https://docs.mopidy.com/en/latest/installation/debian/
+* [jellyfin](https://jellyfin.org/)
+  + [jellyfin docker image](https://hub.docker.com/r/jellyfin/jellyfin)
+  + https://jellyfin.org/docs/general/administration/installing.html#docker
+  + https://github.com/jellyfin/jellyfin
+* [universal media server](https://www.universalmediaserver.com/)
+* [red5 - old](https://github.com/Red5/red5-server) partly commercial
+  + https://www.red5pro.com/open-source/
+* [madsonic - subsonic fork](https://beta.madsonic.org/pages/about.jsp) partly commercial
+* [emby](https://emby.media/emby-theater-linux.html) partly commercial
+
+#### DLNA Server
+
+* [Gerbera - UPnP Media Server](https://gerbera.io/)
+  + [Gerbera - docker image](https://hub.docker.com/r/gerbera/gerbera)
+  + https://github.com/gerbera/gerbera
+* [pulseaudio-dlna](https://wiki.ubuntuusers.de/pulseaudio-dlna/)
+* [ReadyMedia aka minidlna](https://wiki.ubuntuusers.de/ReadyMedia/)
+  + https://sourceforge.net/projects/minidlna/files/minidlna/
+* [plex](https://www.plex.tv/de/media-server-downloads/) commercial
+* [kodi - multimedia center ui with dlna server/client](https://kodi.tv/)
+  
+#### Podcasts
+
+* [cpod aka Cumulonimbus](https://github.com/z-------------/CPod)
+* [gpodder](https://gpodder.github.io/)
+* [poddr](https://sn8z.github.io/Poddr/)
+* [winds - podcasts and RSS from getstream.io](https://github.com/GetStream/Winds)
+* [vocal](https://vocalproject.net/)
+
+#### Special interest
+
+* https://fostips.com/internet-radio-player-linux/
+* https://linuxhint.com/radio_players_linux/
+* [streamtuner2 - radio and cloud streaming](https://milki.include-once.org/streamtuner2/)
+  + https://wiki.ubuntuusers.de/Streamtuner2/
+* [gradio - radio](https://github.com/haecker-felix/gradio)
+* [strimio - former odio radio](https://www.strimio.com/)
+* [nuvola - cloud streaming](https://nuvola.tiliado.eu/)
+* [auryo - sound cloud](https://auryo.com/)
+* [nuclear - internet streaming](https://nuclear.js.org/)
+* [picard - music tagger ui](https://picard.musicbrainz.org/)
+* [cozy - audiobook player](https://github.com/geigi/cozy)
+  + https://cozy.sh/
+* [noson - sonos controller](https://janbar.github.io/noson-app/)
+
