@@ -8,6 +8,9 @@
   + [presto is now trino](https://trino.io/blog/2020/12/27/announcing-trino.html)
   + https://ahana.io/ (commercial support for presto)
   + [AWS athena _is_ presto](https://ahana.io/blog/aws-athena-alternatives/)
+* [OmniSciDB aka MapD - GPU accelerated RDB](https://github.com/omnisci/omniscidb)
+  + https://docs.omnisci.com/v5.3.0/index.html
+  + https://www.omnisci.com/
 
 ## No-SQL
 
@@ -42,6 +45,11 @@
 * https://www.leanxcale.com/#
 * https://www.teradata.de/
 * https://databricks.com/de/product/data-lakehouse
+
+### Data lineage
+
+* https://de.wikipedia.org/wiki/Data-Lineage
+* https://openlineage.io/
 
 ## Web Services (commercial)
 

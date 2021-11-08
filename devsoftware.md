@@ -87,6 +87,10 @@
 * https://atom.io/packages/proton-mode
 * https://orionhub.org/
 
+## Coding helpers
+
+* [github copilot](https://github.com/github/copilot-docs)
+
 ### VS Code
 
 * https://github.com/Microsoft/vscode
@@ -141,6 +145,11 @@
 * https://wiki.postgresql.org/wiki/PostgreSQL_Clients (mostly general tools)
 * https://www.adminer.org/de/
 * https://github.com/hangum/TadpoleForDBTools
+
+### Airtable like (using DB as excelsheet directly on the web)
+
+* [NocoDB - open source Airtable](https://github.com/nocodb/nocodb)
+  + https://docs.nocodb.com/
 
 ### Postgresql tools
 

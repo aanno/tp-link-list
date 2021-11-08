@@ -63,13 +63,32 @@ considered any further here (Hint: use OpenBlast, or even better an GPU implemen
 * https://github.com/clMathLibraries/clBLAS
 * https://github.com/CNugteren/CLBlast
 
-### Intel MKL
+### Intel MKL and CO
 
 Intel MKL seems to have vastly the same performance than openBLAS, so why bother?
 
 * http://markus-beuckelmann.de/blog/boosting-numpy-blas.html
 * https://discourse.julialang.org/t/openblas-is-faster-than-intel-mkl-on-amd-hardware-ryzen/8033
 * https://software.intel.com/en-us/articles/performance-comparison-of-openblas-and-intel-math-kernel-library-in-r
+
+To install:
+
+* https://www.r-bloggers.com/2020/10/installing-and-switching-to-mkl-on-fedora/
+* https://www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl.html
+
+#### Related intel technology
+
+* https://www.oneapi.io/
+* [DAAL - Data Analytics Acceleration Library](https://www.intel.com/content/www/us/en/developer/articles/guide/intel-daal-2020-install-guide.html)
+  + https://www.intel.com/content/www/us/en/developer/tools/oneapi/onedal.html
+* [IPP - Integrated Performance Primitives](https://www.intel.com/content/www/us/en/developer/tools/oneapi/ipp.html)
+* [PST - parallel C++ STL](https://www.intel.com/content/www/us/en/developer/articles/guide/get-started-with-parallel-stl.html)
+* [DPL - Data Parallel C++](https://github.com/oneapi-src/oneDPL)
+* [TBB - Threading Building Blocks](https://github.com/oneapi-src/oneTBB)
+* [Intel MPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/mpi-library.html)
+* [Intel parallel studio xe](https://www.intel.com/content/www/us/en/developer/articles/release-notes/intel-parallel-studio-xe-supported-and-unsupported-product-versions.html)
+* [Intel distribution for python](https://www.intel.com/content/www/us/en/developer/tools/oneapi/distribution-for-python.html)
+  + [install on conda](https://www.intel.com/content/www/us/en/developer/articles/technical/using-intel-distribution-for-python-with-anaconda.html)
 
 ## Graphic Cards
 
@@ -78,7 +97,20 @@ Intel MKL seems to have vastly the same performance than openBLAS, so why bother
 NVidia GPU support is currently based on CUDA (and much easier to enable than the support for AMD). Normally 
 CUDA is wrapped by `opencv` _or_ used directly.
 
-Currently I did not own a NVidia card, hence no more information is given.
+#### Cuda and Co
+
+* [howto install CUDA on RPM linux systems](https://rpmfusion.org/Howto/CUDA)
+* https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html
+* [requirements for tf](https://www.tensorflow.org/install/gpu)
+* [CUDA toolkit](https://developer.nvidia.com/cuda-toolkit)
+* [CUDNN - NN library needed](https://developer.nvidia.com/cudnn)
+* [CUDA 11](https://developer.nvidia.com/blog/cuda-11-features-revealed/)
+* [CUPTI - CUDA profiling](https://docs.nvidia.com/cuda/cupti/)
+
+##### Cuda tools
+
+* https://unix.stackexchange.com/questions/38560/gpu-usage-monitoring-cuda
+* https://flathub.org/apps/details/com.leinardi.gwe
 
 ### AMD graphic cards
 

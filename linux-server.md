@@ -43,3 +43,18 @@
 ### Cluster
 
 * https://de.wikipedia.org/wiki/Corosync_Cluster_Engine
+
+### Self-Hosting
+
+#### Home-page automation (server start page)
+
+Here, there screenshots are also interesting for looking what others are hosting...
+
+* https://github.com/jeroenpardon/sui
+* https://github.com/pawelmalak/flame
+* https://github.com/bastienwirtz/homer
+
+
+#### Special interest
+
+* [TandoorRecipes - for (cooking) recipes](https://github.com/TandoorRecipes/recipes)

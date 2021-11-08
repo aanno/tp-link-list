@@ -407,6 +407,9 @@
 
 * https://wiki.debian.org/Hugepages
 
+## Linux package systems
+
+* [rpm - file and related packages](https://linux-audit.com/determine-file-and-related-package/)
 
 ## Linux package build
 

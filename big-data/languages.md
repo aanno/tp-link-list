@@ -19,6 +19,8 @@
   + https://pyodide.org/en/stable/
   + https://p5js.org/
   + https://basthon.fr/doc.html
+* [tpqad - import jupyter notebooks to asciidoctor](https://github.com/yhilpisch/tpqad)
+
 #### Jupyter (big) examples
 
 * https://github.com/ganeshutah/Jove Automata and Computability, Models of Computation
