@@ -90,14 +90,14 @@
 
 * https://www.consul.io/docs/architecture
 * https://traefik.io/
-* https://www.envoyproxy.io/
+* [envoy](https://www.envoyproxy.io/)
   + https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/arch_overview
   + https://github.com/envoyproxy/envoy
+* [contour - envoy for kubernetes](https://projectcontour.io/)
 * https://istio.io/
 * https://github.com/Kong/kong
   + https://github.com/Kong/kubernetes-ingress-controller kong for kubernetes
   + https://github.com/Kong/deck configuration for kong
-  + 
 
 
 ## Linux base technology

@@ -43,8 +43,10 @@
 
 ## Python
 
+* [conda (aka anaconda) documentation](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 * https://github.com/keras-team/keras
 * https://dask.pydata.org/en/latest/
+* https://github.com/google/jax - research on autograd and XLA
 
 ## Julia
 

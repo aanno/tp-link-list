@@ -311,8 +311,20 @@
 
 ## Aggregators, news reader, RSS/ATOM, podcast
 
+* https://lukesingham.com/rss-feed-reader/ - overview
 * https://sabnzbd.org/ binary news reader
   + https://sabnzbd.org/wiki/faq
+* [miniflux](https://github.com/miniflux/v2) multiuser, minimal, aggregation server
+  + https://miniflux.app/
+  + https://miniflux.app/opinionated.html
+  + https://miniflux.app/docs/installation.html good docker/podman instructions
+  + https://github.com/miniflux/v2/blob/master/packaging/rpm/Dockerfile - example how to make RPMs on docker image
+* [freshrss](https://freshrss.org)
+  + https://github.com/FreshRSS/FreshRSS
+  + https://demo.freshrss.org/i/?a=normal
+* https://github.com/swanson/stringer
+* https://github.com/davinkevin/Podcast-Server (old, deprecated)
+  + https://davinkevin.github.io/Podcast-Server/
 
 ## Bittorrent universe
 

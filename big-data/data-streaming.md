@@ -16,6 +16,7 @@
 ## Open Source Projects
 
 * https://flink.apache.org/
+  + https://nightlies.apache.org/flink/flink-docs-master/docs/deployment/resource-providers/native_kubernetes/
 * https://beam.apache.org/ (abstraction over over stream processing APIs:
   google cloud dataflow, flink, spark, samza, nemo, hazelcast jet, twister2, python/go direct runner)
   + https://beam.apache.org/documentation/runners/capability-matrix/
@@ -61,6 +62,7 @@
 
 ### Kafka and Co
 
+* [kafka use cases](https://www.kai-waehner.de/blog/2020/12/16/top-5-event-streaming-apache-kafka-use-cases-2021-edge-hybrid-cloud-cybersecurity-machine-learning-service-mesh/)
 * [kafka schema registry](https://docs.confluent.io/platform/current/schema-registry/index.html)
 * [kafka streams concepts](https://docs.confluent.io/platform/current/streams/concepts.html)
   + [kafka streams primer](https://www.confluent.io/blog/kafka-streams-tables-part-1-event-streaming/)
@@ -71,6 +73,20 @@
 * [Red Hat AMQ - commercial strimzi](https://developers.redhat.com/products/amq/overview)
   + [try for free](https://developers.redhat.com/products/red-hat-openshift-streams-for-apache-kafka/getting-started
   + [`rhoas` CLI](https://access.redhat.com/documentation/en-us/red_hat_openshift_streams_for_apache_kafka/1/guide/f520e427-cad2-40ce-823d-96234ccbc047)
+* [Kafka DSL and Joins](https://kafka.apache.org/20/documentation/streams/developer-guide/dsl-api.html)
+  + https://supergloo.com/kafka-streams/kafka-streams-joins-examples/
+
+#### Kafka integrationn with x
+
+* https://spark.apache.org/docs/latest/streaming-kafka-0-10-integration.html
+* https://www.baeldung.com/kafka-flink-data-pipeline
+
+#### Kafka extensions
+
+* [ksqldb - DB based on kafka streaming, e.g. foreign key joins](https://ksqldb.io/)
+  + https://github.com/confluentinc/ksql
+  + https://www.confluent.de/blog/data-enrichment-with-kafka-streams-foreign-key-joins/
+* https://github.com/kcctl/kcctl (CLI for kafka connect)
 
 #### Example apps
 

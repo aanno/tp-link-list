@@ -67,7 +67,6 @@
   + https://docs.nats.io/compare-nats compare NATS to gRPC, kafka, pulsar, and rabbitMq
 * https://www.rabbitmq.com/
 * https://kafka.apache.org/
-  + https://github.com/kcctl/kcctl (CLI for kafka connect)
 * https://pulsar.apache.org/
 
 ## Block chain

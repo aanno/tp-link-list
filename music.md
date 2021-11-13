@@ -102,8 +102,6 @@
 * https://github.com/grilofw/grilo metasearch on streams
 * https://github.com/gabrielmagno/nano-dlna DLNA control
 * https://github.com/succlz123/DLNA-Dart and https://github.com/succlz123/Flutter-DLNA (alpha)
-* https://github.com/davinkevin/Podcast-Server
-  + https://davinkevin.github.io/Podcast-Server/
 
 ### jeOS (just enough operating system) (i.e. rasberry PI)
 

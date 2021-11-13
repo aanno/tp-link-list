@@ -2,7 +2,7 @@
 
 * https://christophm.github.io/interpretable-ml-book/
 * https://medium.com/stacksharewithme/2020-ai-ml-opensource-45b3ca809133 : Overview excellent open source
-
+* https://www.spektrum.de/news/wie-gauss-helfen-kann-das-geheimnis-des-deep-learning-zu-lueften/1937500 - warum funktionieren NN?
 
 ## Very high level frameworks
 

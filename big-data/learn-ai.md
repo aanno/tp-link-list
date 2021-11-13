@@ -1,6 +1,7 @@
 # Learn AI sessions
 
 * https://learnai-platform.bemyapp.com/#/event
+* https://www.tensorflow.org/ml-community-day
 
 ## Watson AutoAI
 

@@ -285,6 +285,8 @@
 
 ### Container-faced Linux Distributions
 
+* [qubes](https://www.qubes-os.org/) - most apps in it's own xen VM - super secure
+
 #### Fedora Silverblue
 
 * https://silverblue.fedoraproject.org/

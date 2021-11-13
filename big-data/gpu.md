@@ -10,6 +10,10 @@ deb packages).
 * https://missinglink.ai/guides/computer-vision/complete-guide-deep-learning-gpus/
 * https://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/
 
+To find out if your toolset is working on GPU, see 
+
+* https://stackoverflow.com/questions/44544766/how-do-i-check-if-keras-is-using-gpu-version-of-tensorflow
+
 ## Keras
 
 Keras support Tensorflow (default), Theano, and CNTK as backends. See the specific sections for more details.
@@ -24,6 +28,7 @@ Tensorflow supports CUDA out of the box (https://www.tensorflow.org/install/).
 
 * [Switch GPU device](https://www.tensorflow.org/guide/using_gpu)
 * [Get list of devices](https://stackoverflow.com/questions/38559755/how-to-get-current-available-gpus-in-tensorflow)
+* [install tensorflow on conda](https://docs.anaconda.com/anaconda/user-guide/tasks/tensorflow/)
 
 Getting Tensorflow with AMD is difficult:
 
@@ -96,6 +101,10 @@ To install:
 
 NVidia GPU support is currently based on CUDA (and much easier to enable than the support for AMD). Normally 
 CUDA is wrapped by `opencv` _or_ used directly.
+
+* https://developer.nvidia.com/deep-learning
+* https://developer.nvidia.com/deep-learning-frameworks
+* https://developer.nvidia.com/deep-learning-examples
 
 #### Cuda and Co
 
