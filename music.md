@@ -84,6 +84,9 @@
 * https://mopidy.com/ (mpd clone)
 * https://owntone.github.io/owntone-server/ (mpd and daap)
 * https://airsonic.github.io/ (subsonic fork)
+  + https://airsonic.github.io/docs/configure/introduction/
+  + https://github.com/airsonic/airsonic-docs
+  + https://github.com/airsonic-advanced/airsonic-advanced
 * https://github.com/sphildreth/roadie (subsonic reimpletation)
 * https://twonky.com/index.html (commercial)
 * https://www.wildmediaserver.com/ (commercial)
@@ -187,6 +190,7 @@
 #### DLNA Server
 
 * https://www.linuxlinks.com/UPnPServers/
+* https://awesomeopensource.com/projects/dlna
 * [Gerbera - UPnP Media Server](https://gerbera.io/)
   + [Gerbera - docker image](https://hub.docker.com/r/gerbera/gerbera)
   + https://github.com/gerbera/gerbera
@@ -201,6 +205,17 @@
 * [home media server](https://www.homemediaserver.ru/en/index.htm)
 * [MinimServer](https://minimserver.com/minimserver2.html)
   + [MinimStreamer](https://minimstreamer.com/)
+* [rustymedia](https://github.com/kevincox/rustymedia)
+
+#### DLNA control and clients
+
+* [gmrender-resurrect](https://github.com/hzeller/gmrender-resurrect) DLNA client as daemon
+* [Macast - desktop menu bar app to use `mpv` as renderer](https://github.com/xfangfang/Macast)
+* [mpvDLNA - make `mpv` DLNA aware](https://github.com/chachmu/mpvDLNA)
+
+#### DLNA tools
+
+* [simple-dlna-browser](https://github.com/javier-lopez/learn/blob/master/sh/tools/simple-dlna-browser) shell script to browse DLNA
   
 #### Podcasts
 
