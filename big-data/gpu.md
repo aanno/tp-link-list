@@ -121,6 +121,10 @@ CUDA is wrapped by `opencv` _or_ used directly.
 * https://unix.stackexchange.com/questions/38560/gpu-usage-monitoring-cuda
 * https://flathub.org/apps/details/com.leinardi.gwe
 
+#### Nvidia GPU Cloud (NGC)
+
+* https://towardsdatascience.com/deep-learning-with-docker-container-from-ngc-nvidia-gpu-cloud-58d6d302e4b2 
+
 ### AMD graphic cards
 
 * https://www.amd.com/en/support Find amdpro driver

@@ -3,6 +3,7 @@
 ## Blogs
 
 * https://www.microtool.de/wissen-online/
+* https://linux-blog.anracom.com/uber-mich/cv-projekte-zertifizierungen/
 
 ## Certifications
 

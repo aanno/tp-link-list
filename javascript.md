@@ -34,6 +34,17 @@
 * [independent component development](https://storybook.js.org/)
 * [svelte](https://svelte.dev/)
 
+### Frontend architecture
+
+#### Backends For Frontends (BFF)
+
+* https://samnewman.io/patterns/architectural/bff/
+* https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf
+
+#### Backend APIs (i.e. no own backend)
+
+* https://www.programmableweb.com/news/10-popular-backend-apis/brief/2020/10/11
+
 ### Frontend Frameworks
 
 * https://totalcross.com/ (embedded devices)

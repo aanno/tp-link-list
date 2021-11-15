@@ -1,5 +1,9 @@
 # Cool Software
 
+## Catalogues
+
+* https://www.linuxlinks.com/
+
 ## Video editing
 
 * https://itsfoss.com/best-video-editing-software-linux/

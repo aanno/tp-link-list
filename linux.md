@@ -13,6 +13,10 @@
 * https://www.linuxuprising.com/
 * https://lwn.net/
 
+## Distributions
+
+* http://slackermedia.info/ - your digital studio
+
 ## Kernel
 
 * https://lwn.net/Articles/724198/ (AIO defects)

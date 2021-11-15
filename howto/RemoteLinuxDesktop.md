@@ -385,3 +385,31 @@ Nachteile `remmina/freerdp` beim skalierenden Modus:
 
 Die Installation von NX/nomaschine ist immer ein Komplettpaket, d.h. es wird *nicht* zwischen Client und Server
 unterschieden.
+
+## Neue Tendenzen
+
+* [spice-clients](https://linux-blog.anracom.com/tag/spice-clients/)
+* [x2go](https://wiki.x2go.org/doku.php/doc:newtox2go)
+* https://shebangthedolphins.net/gnulinux_vnc_remotedesktop.html
+
+### Container images with remote graphic
+
+* [xfce on spice](https://github.com/danger89/xfcevdi_spice) obsolete
+* [lxde on spice](https://github.com/gauthierc/DockerSpiceLxde)
+* [Xfce on spice](https://github.com/gauthierc/DockerSpiceXfce4)
+* [Xorg on spice/html5](https://github.com/muayyad-alsadi/containerized-xorg-spice)
+* [lxde on VNC](https://github.com/fcwu/docker-ubuntu-vnc-desktop)
+* [xfce on x2go](https://github.com/danger89/xfcevdi)
+
+#### Articles on 'remote' containers
+
+* https://www.digitalocean.com/community/tutorials/how-to-remotely-access-gui-applications-using-docker-and-caddy-on-debian-9
+  building a container image with supervisord, caddy, openbox, VNC
+* [web browsers in docker - for testing](https://dbushell.com/2021/03/01/docker-xfce-vnc-remote-desktop-browser-testing/)
+
+### Wayland remote
+
+* [gnome mutter remote desktop](https://wiki.gnome.org/Projects/Mutter/RemoteDesktop)
+* [KDE Krfb](https://userbase.kde.org/Krfb)
+* [waypipe - network transparency with wayland](https://gitlab.freedesktop.org/mstoeckl/waypipe/) 
+  + https://mstoeckl.com/notes/gsoc/blog.html

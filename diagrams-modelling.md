@@ -19,6 +19,7 @@
 * http://www.umldesigner.org/ (eclipse sirius based, UML2)
 * https://www.eclipse.org/papyrus/ (eclipse based, UML2, SysML, BPMN, Archimate, ...)
 * https://www.eclipse.org/atl/ (eclipse based, model transformer)
+* [sparx](https://www.sparxsystems.de/) commercial
 
 ## Rather drawing
 

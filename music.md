@@ -186,6 +186,7 @@
 
 #### DLNA Server
 
+* https://www.linuxlinks.com/UPnPServers/
 * [Gerbera - UPnP Media Server](https://gerbera.io/)
   + [Gerbera - docker image](https://hub.docker.com/r/gerbera/gerbera)
   + https://github.com/gerbera/gerbera
@@ -194,6 +195,12 @@
   + https://sourceforge.net/projects/minidlna/files/minidlna/
 * [plex](https://www.plex.tv/de/media-server-downloads/) commercial
 * [kodi - multimedia center ui with dlna server/client](https://kodi.tv/)
+* [universal media server (UMS)](https://www.universalmediaserver.com/)
+* [dms](https://github.com/anacrolix/dms)
+* [LimboMedia](https://limbomedia.net/)
+* [home media server](https://www.homemediaserver.ru/en/index.htm)
+* [MinimServer](https://minimserver.com/minimserver2.html)
+  + [MinimStreamer](https://minimstreamer.com/)
   
 #### Podcasts
 
@@ -202,6 +209,9 @@
 * [poddr](https://sn8z.github.io/Poddr/)
 * [winds - podcasts and RSS from getstream.io](https://github.com/GetStream/Winds)
 * [vocal](https://vocalproject.net/)
+* [podgrab](https://github.com/akhilrex/podgrab) web-server
+* [speakrr](https://github.com/coder2000/speakrr) web-server
+* [podigee - html podcast player](https://github.com/podigee/podigee-podcast-player)
 
 #### Special interest
 
@@ -212,6 +222,7 @@
 * [gradio - radio](https://github.com/haecker-felix/gradio)
 * [strimio - former odio radio](https://www.strimio.com/)
 * [nuvola - cloud streaming](https://nuvola.tiliado.eu/)
+* [Kaku - cloud streaming](https://github.com/EragonJ/Kaku/)
 * [auryo - sound cloud](https://auryo.com/)
 * [nuclear - internet streaming](https://nuclear.js.org/)
 * [picard - music tagger ui](https://picard.musicbrainz.org/)
@@ -219,3 +230,25 @@
   + https://cozy.sh/
 * [noson - sonos controller](https://janbar.github.io/noson-app/)
 
+#### Need special file structure
+
+* [homehost](https://github.com/ridhwaans/homehost#naming-conventions)
+* [audioserve](https://github.com/izderadicka/audioserve)
+
+## Radio
+
+### web-based
+
+* https://onlineradiobox.com/
+
+## Downloader
+
+* [downloadhelper - firefox and chrome plugin](https://www.downloadhelper.net/)
+  + https://github.com/mi-g/vdhcoapp/
+
+## Web services
+
+### Youtube Music
+
+* https://github.com/kawaiiDango/youtube-music-upload-sync
+* https://github.com/Venipa/ytmdesktop2

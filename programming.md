@@ -143,6 +143,8 @@ Go is well suited also for web development. Gogs has been implemented in Go and 
 
 * https://github.com/fffaraz/awesome-cpp
 * https://github.com/schlangster/cpp.react
+* [conon - C/C++ package manager](https://conan.io/)
+  + https://docs.conan.io/en/latest/installation.html
 
 ## Swagger
 

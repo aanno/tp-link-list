@@ -87,3 +87,14 @@
 ## Software
 
 * https://rasa.com/
+
+## Exploratory Data Analysis (EDA)
+
+* https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166
+* https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0
+
+## Genetic Algorithm
+
+* https://medium.com/swlh/genetic-algorithm-in-artificial-neural-network-5f5b9c9467d0
+* https://towardsdatascience.com/artificial-neural-networks-optimization-using-genetic-algorithm-with-python-1fe8ed17733e
+* https://www.chessprogramming.org/Genetic_Programming

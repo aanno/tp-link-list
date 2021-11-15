@@ -41,6 +41,7 @@
 * https://avocado-framework.github.io/
   + https://github.com/avocado-framework/avocado
   + https://github.com/avocado-framework/avocado-vt (test for virtualization)
+* [sakuli](https://sakuli.io/#features) container-based e2e testing - partly commercial
 
 ### Metrics
 
