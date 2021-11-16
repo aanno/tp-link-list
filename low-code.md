@@ -33,6 +33,7 @@
 * https://www.judo.codes/ modern java
 * https://www.openxava.org/en/ate/low-code-development-platform java, swing
 * http://drakon-editor.sourceforge.net/ flowcharts
+* https://tikitrackers.org/Database-Web-App-Builder
 
 ### mobile apps only
 

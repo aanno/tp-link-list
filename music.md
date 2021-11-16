@@ -191,6 +191,7 @@
 
 * https://www.linuxlinks.com/UPnPServers/
 * https://awesomeopensource.com/projects/dlna
+* https://dustri.org/b/airsonic-a-self-hosted-jukebox-that-sucks-less.html (list of musik server)
 * [Gerbera - UPnP Media Server](https://gerbera.io/)
   + [Gerbera - docker image](https://hub.docker.com/r/gerbera/gerbera)
   + https://github.com/gerbera/gerbera
@@ -200,12 +201,20 @@
 * [plex](https://www.plex.tv/de/media-server-downloads/) commercial
 * [kodi - multimedia center ui with dlna server/client](https://kodi.tv/)
 * [universal media server (UMS)](https://www.universalmediaserver.com/)
+* [koel](https://koel.dev/)
+  + https://github.com/koel/koel php
+* [supysonic](https://github.com/spl0k/supysonic) python, subsonic protocol
+* [navidrome](https://github.com/navidrome/navidrome) go, subsonic protocol
+* [gonic](https://github.com/sentriz/gonic) go, subsonic protocol
 * [dms](https://github.com/anacrolix/dms)
 * [LimboMedia](https://limbomedia.net/)
 * [home media server](https://www.homemediaserver.ru/en/index.htm)
 * [MinimServer](https://minimserver.com/minimserver2.html)
   + [MinimStreamer](https://minimstreamer.com/)
 * [rustymedia](https://github.com/kevincox/rustymedia)
+* [madsonic](https://www.madsonic.org/pages/download.jsp) where is the source code? partly commercial
+* [funkwhale](https://funkwhale.audio/) subsonic protocol, partly commercial
+  + https://dev.funkwhale.audio/funkwhale
 
 #### DLNA control and clients
 

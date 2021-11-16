@@ -328,6 +328,22 @@
   + https://github.com/sameersbn/docker-bind
   + http://www.damagehead.com/blog/2015/04/28/deploying-a-dns-server-using-docker/
 * https://www.adelton.com/docs/containers/complex-application-in-container
+* [pullio - keep docker-compose containters up-to-date](https://hotio.dev/pullio/)
+
+#### Container collections
+
+* [linuxserver](https://www.linuxserver.io/)
+  + 
+* [hotio](https://hotio.dev/containers/apprise/)
+
+#### Multi-process containers
+
+* https://docs.docker.com/config/containers/multi-service_container/
+* [s6 overlay](https://github.com/just-containers/s6-overlay) used by linuxserver.io
+  + https://skarnet.org/software/s6/overview.html
+* [supervisord](http://supervisord.org/)
+  + https://advancedweb.hu/supervisor-with-docker-lessons-learned/
+  + https://blog.servivum.com/gimme-more-mehrere-prozesse-im-docker-container-mit-supervisor/
 
 #### Docker/Podman volumes
 

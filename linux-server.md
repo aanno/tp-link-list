@@ -46,6 +46,15 @@
 
 ### Self-Hosting
 
+* [cloudron](https://www.cloudron.io/) commercial
+  + [install cloudron](https://docs.cloudron.io/installation/)
+  + https://chris.beams.io/posts/running-cloudron/
+  + [apps register for cloudron](https://git.cloudron.io/cloudron)
+  + [even more apps](https://github.com/orgs/cloudron-io/repositories)
+* [wiki suite](https://wikisuite.org/Software)
+  + [comparision to nextcloud, cloudron, ...](https://wikisuite.org/Alternatives) featured!
+  + [tiki tracker - low code platform](https://tikitrackers.org/Database-Web-App-Builder)
+
 #### Home-page automation (server start page)
 
 Here, there screenshots are also interesting for looking what others are hosting...
