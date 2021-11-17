@@ -203,6 +203,38 @@
 * https://www.autistici.org/ (hosting for you)
 * https://www.kuketz-blog.de/empfehlungsecke/
 
+#### Nitrokey
+
+* [overview of usage szenarios](https://www.xmodulo.com/linux-security-with-nitrokey-usb-smart-card.html)
+
+It is _not_ possible to recover the public key stored on nitro, see
+
+* https://security.stackexchange.com/questions/45094/smart-card-gnupg-what-is-stored-in-my-keyring-how-to-adopt-smart-card
+* https://gpgtools.tenderapp.com/kb/gpg-keychain-faq/keys-on-smart-card-not-shown-in-gpg-keychain
+
+##### Nitrokey Pro GPG
+
+* [GPA key generation](https://docs.nitrokey.com/pro/openpgp-keygen-gpa.html)
+* GPG/openpgp
+  + https://docs.nitrokey.com/de/pro/linux/openpgp.html
+  + [key generation on card](https://docs.nitrokey.com/de/pro/openpgp-keygen-on-device.html)
+  + [key backup](https://docs.nitrokey.com/de/pro/openpgp-keygen-backup.html)
+* https://www.kuketz-blog.de/zwei-schluessel-fuer-alle-faelle-nitrokey-teil1/
+  + https://www.kuketz-blog.de/gnupg-schluesselerstellung-und-smartcard-transfer-nitrokey-teil2/
+  + https://www.kuketz-blog.de/gnupg-public-key-authentifizierung-nitrokey-teil3/
+  + https://www.kuketz-blog.de/gnupg-e-mail-verschluesselung-unter-android-nitrokey-teil4/
+* Thunderbird
+  + https://decatec.de/it/thunderbird-78-pgp-verschluesselung-mit-dem-nitrokey-storage/
+  + https://wiki.mozilla.org/Thunderbird:OpenPGP:Smartcards
+  + https://docs.nitrokey.com/de/pro/linux/openpgp-thunderbird.html
+* https://sorenpoulsen.com/securing-gnupg-keys-on-a-nitrokey-pro
+  + https://sorenpoulsen.com/using-a-nitrokey-pro-from-another-computer
+
+##### Nitrokey Pro S/MIME
+
+* [smime](https://docs.nitrokey.com/de/pro/smime.html)
+* [thunderbird](https://docs.nitrokey.com/de/pro/smime-thunderbird.html)
+
 ## Distros
 
 * https://getsol.us/home/ solus and solus budgie
