@@ -122,6 +122,9 @@
     - https://dcevm.github.io/ (java 8 and 11)
     - https://github.com/TravaOpenJDK/trava-jdk-11-dcevm
   + https://ssw.jku.at/dcevm/
+* [sap-machine](https://github.com/SAP/SapMachine)
+  + https://github.com/SAP/SapMachine/wiki/Features-Contributed-by-SAP
+  + https://github.com/SAP/SapMachine/wiki/Differences-between-SapMachine-and-OpenJDK
 
 ### Profiler
 
@@ -130,6 +133,11 @@
   + https://www.jetbrains.com/help/idea/async-profiler.html
 * http://findtheflow.io (old)
   + http://findtheflow.io/docs/usecases.html
+* [eclipse memory analyser](https://projects.eclipse.org/projects/tools.mat)
+
+### Security scanner and code analyzers
+
+* [eclipse steady](https://github.com/eclipse/steady) static code analyzer for java and python
 
 #### Flight recorder (jfr) and JDK mission control (jmc)
 

@@ -100,6 +100,7 @@
 * https://github.com/digidem/react-dimensions/blob/master/index.jsx (access to height and width)
 * https://stackoverflow.com/questions/19014250/reactjs-rerender-on-browser-resize
 * https://stackoverflow.com/questions/34660385/how-to-position-a-react-component-relative-to-its-parent (relative position)
+* [print react components in browser](https://github.com/gregnb/react-to-print)
 
 ### Widgets
 
@@ -112,6 +113,15 @@
 * [patternfly](https://github.com/patternfly)
   + https://www.patternfly.org/v4/get-started/about/
   + https://www.patternfly.org/v4/demos/card-view/react-demos/card-view/#auth (demo)
+* [openui5 for react](https://github.com/SAP/ui5-webcomponents-react)
+  + https://openui5.org/
+  + https://de.m.wikipedia.org/wiki/OpenUI5
+
+#### Diagram and Chart Widgets
+
+* https://www.capitalone.com/tech/software-engineering/comparison-data-visualization-libraries-for-react/ featured
+* https://dev.to/giteden/top-5-react-chart-libraries-for-2020-1amb
+* https://www.yworks.com/pages/react-graph-component commercial
 
 ### Big UI Libs
 
