@@ -46,6 +46,11 @@
 * https://bitfieldconsulting.com/ (golang blog)
 * https://blog.khanacademy.org/half-a-million-lines-of-go/
 
+#### Libs
+
+* [sonic - microservice framework](https://github.com/openware/sonic)
+* [gin - web framework](https://github.com/gin-gonic/gin)
+
 #### Go vs Rust
 
 * https://bitfieldconsulting.com/golang/rust-vs-go

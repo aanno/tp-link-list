@@ -62,7 +62,7 @@
 
 ##### React tools
 
-* https://nextjs.org/ server-side react framework
+* https://nextjs.org/ server-side react framework (server-side rendering, serverless deployment)
   + https://en.wikipedia.org/wiki/Next.js
   + https://jamstack.org/what-is-jamstack/
   + https://jamstack.org/generators/

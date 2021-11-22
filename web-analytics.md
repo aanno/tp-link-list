@@ -3,6 +3,7 @@
 ## Web services
 
 * http://urlm.de/ (featured)
+* https://plausible.io/ commercial
 
 ## Open Source
 

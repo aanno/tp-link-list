@@ -49,7 +49,7 @@
 
 ## Software
 
-### Linux Distros
+### Linux Distributions
 
 * https://github.com/Linaro/documentation/blob/master/Reference-Platform/CECommon/OE.md
   + https://www.openembedded.org/wiki/Main_Page

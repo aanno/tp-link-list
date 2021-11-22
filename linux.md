@@ -235,12 +235,12 @@ It is _not_ possible to recover the public key stored on nitro, see
 * [smime](https://docs.nitrokey.com/de/pro/smime.html)
 * [thunderbird](https://docs.nitrokey.com/de/pro/smime-thunderbird.html)
 
-## Distros
+## Distributions
 
 * https://getsol.us/home/ solus and solus budgie
   + https://ubuntubudgie.org/
 
-### Firewall distros
+### Firewall Distributions
 
 * http://www.koozali.org/home/about (SME Server)
 
@@ -341,6 +341,7 @@ It is _not_ possible to recover the public key stored on nitro, see
 * [libvirt support](https://www.ovirt.org/develop/release-management/features/virt/coreos-ignition-support.html)
 * [kernel args](https://docs.fedoraproject.org/en-US/fedora-coreos/kernel-args/)
   + [control group v2](https://www.kernel.org/doc/html/latest/admin-guide/cgroup-v2.html)
+* [example with firewall](https://www.portainer.io/blog/from-zero-to-production-with-fedora-coreos-portainer-and-wordpress-in-7-easy-steps)
 
 ##### Based on Fedora CoreOS
 
@@ -464,6 +465,7 @@ It is _not_ possible to recover the public key stored on nitro, see
 ## Linux package systems
 
 * [rpm - file and related packages](https://linux-audit.com/determine-file-and-related-package/)
+* https://nixos.org/ - functional, user-centric package tool
 
 ## Linux package build
 

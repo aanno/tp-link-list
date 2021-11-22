@@ -109,6 +109,8 @@
 * https://cryptomator.org/
 * [use GPG keybase key to sign all commits on github](https://github.com/pstadler/keybase-gpg-github)
 * [tor hidden services](https://www.heise.de/security/artikel/Tor-und-die-versteckten-Dienste-3280904.html)
+* [tails - unmodifiable tor linux distribution](https://tails.boum.org/about/index.de.html)
+* [open scap security scanner](https://www.open-scap.org/)
 
 ## Self-hosting
 
@@ -267,7 +269,8 @@
 ## Doodle clones
 
 * https://github.com/kmerz/noodle
-* https://framadate.org/
+  + [free service based on noodle](https://nuudel.digitalcourage.de/)
+* https://framadate.org/ featured
 * https://rallly.co/
 
 ## Pocket clones

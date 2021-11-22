@@ -22,3 +22,14 @@
 * find details about support in current installation: `about:support`
 * https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers
 * https://hacks.mozilla.org/2010/09/hardware-acceleration/
+
+## Security 
+
+### (Anti-)Tracking
+
+* https://spreadprivacy.com/duckduckgo-tracker-radar/
+  + https://github.com/duckduckgo/tracker-radar-detector
+
+### 2nd factor (2FA, OTP, FIDO, FIDO2)
+
+* [overview of sites with OTP and/or dongle](https://www.buybitcoinworldwide.com/dongle-auth/)

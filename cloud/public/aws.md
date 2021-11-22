@@ -18,6 +18,7 @@
 
 * https://www.vpsbenchmarks.com/compare/ec2_vs_lightsail
   + https://aws.amazon.com/de/lightsail/pricing/
+* [T2 unlimited ec2 mode](https://aws.amazon.com/de/blogs/aws/new-t2-unlimited-going-beyond-the-burst-with-high-performance/)
 
 ### AWS Container (ecs, fargate)
 
@@ -85,6 +86,8 @@
 * [Inspector agents](https://docs.aws.amazon.com/de_de/inspector/latest/userguide/inspector_installing-uninstalling-agents.html)
 * [Kinesis agent](https://docs.aws.amazon.com/de_de/streams/latest/dev/writing-with-agents.html)
 * [SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html)
+* [java SQS request-response library](https://github.com/awslabs/amazon-sqs-java-temporary-queues-client)
+  + https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-temporary-queues.html
 
 
 ### IAM

@@ -9,7 +9,6 @@
 
 ## OS
 
-* https://nixos.org/
 * https://github.com/f9micro/f9-kernel (MCU, kernel for ARM M4) 
 
 ## Bots
@@ -69,11 +68,6 @@
 * https://www.rabbitmq.com/
 * https://kafka.apache.org/
 * https://pulsar.apache.org/
-
-## Block chain
-
-* [web3j](https://github.com/web3j/web3j)
-  + https://docs.web3j.io/
 
 ### Dyne/Decode/Zenroom
 
@@ -188,6 +182,10 @@
   + https://docs.plone.org/
   + https://docs.plone.org/4/en/old-reference-manuals/archgenxml/ (generator for plone)
 
+### CMS cloud services
+
+* [prismic - make your website editable](https://prismic.io/) supports next.js, nuxt.js, gatsby
+
 ### Git based CMS
 
 * https://www.netlifycms.org/ (jamstack-based)
@@ -263,7 +261,7 @@
     - http://eshepelyuk.github.io/2014/11/06/advanced-jekyll-and-asciidoctor.html
     - https://github.com/asciidoctor/jekyll-asciidoc/issues/171 (book generation)
 * https://jbake.org/
-* https://www.gatsbyjs.org/
+* https://www.gatsbyjs.org/ (react-based)
   + https://github.com/gatsbyjs/gatsby
   + https://github.com/gatsbyjs/gatsby/issues/1199
 * https://hexo.io/
@@ -510,6 +508,12 @@
 ## Continuous Integration (CI/CD)
 
 * https://www.ionos.de/digitalguide/websites/web-entwicklung/continuous-integration-tools/
+* https://anchore.com/blog/5-cicd-platforms-container-technology/
+* https://cloud.redhat.com/blog/top-open-source-ci/cd-tools-for-kubernetes-to-know
+* https://earthly.dev/
+  + https://github.com/earthly/earthly
+* https://github.com/orbitalci/orbital
+* https://github.com/concourse/concourse
 
 ### Web Services (commercial)
 

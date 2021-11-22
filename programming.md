@@ -91,6 +91,10 @@ Alternative
   + https://www.serverless.com/blog/how-to-create-a-rest-api-in-java-using-dynamodb-and-serverless/
 * https://spring.io/serverless
 
+##### Serverless platforms
+
+* [cloudflare workers](https://workers.cloudflare.com/)
+
 ### Emerging Stacks
 
 #### Go
