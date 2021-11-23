@@ -24,6 +24,8 @@
   + https://github.com/meshcloud/collie-cli
   + https://collie-cli.io/
 * [cloud on metacloud](https://cloud.pritunl.com)
+* https://www.openstack.org/software/project-navigator/openstack-components#openstack-services
+* [gardener - Managed Kubernetes Service](https://gardener.cloud/)
 
 ### Tools and standards
 
@@ -49,6 +51,12 @@
   + https://www.pulumi.com/docs/intro/concepts/
   + https://www.pulumi.com/docs/intro/concepts/state/
   + https://www.pulumi.com/docs/troubleshooting/faq/
+* [tinkerbell](https://tinkerbell.org/)
+  + [tink-cli](https://docs.tinkerbell.org/services/tink-cli/)
+* [ironic - for metal](https://ironicbaremetal.org/)
+  + [bifrost - ansible scripts to install ironic](https://opendev.org/openstack/bifrost)
+* [google's anthos](https://cloud.google.com/anthos/docs/concepts/overview) (for GKE)
+  + https://github.com/GoogleCloudPlatform/anthos-workshop
 
 ### Terraform
 

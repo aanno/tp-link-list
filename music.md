@@ -75,7 +75,7 @@
 * https://github.com/anacrolix/dms
 * https://gerbera.io/
 * https://volumio.org/
-* https://jellyfin.org/
+* https://jellyfin.org/ C#-based
 * https://github.com/UniversalMediaServer/UniversalMediaServer
   + https://www.universalmediaserver.com/
   + https://www.universalmediaserver.com/comparison/
@@ -205,6 +205,7 @@
   + https://github.com/koel/koel php
 * [supysonic](https://github.com/spl0k/supysonic) python, subsonic protocol
 * [navidrome](https://github.com/navidrome/navidrome) go, subsonic protocol
+  + https://www.navidrome.org/
 * [gonic](https://github.com/sentriz/gonic) go, subsonic protocol
 * [dms](https://github.com/anacrolix/dms)
 * [LimboMedia](https://limbomedia.net/)
@@ -212,9 +213,20 @@
 * [MinimServer](https://minimserver.com/minimserver2.html)
   + [MinimStreamer](https://minimstreamer.com/)
 * [rustymedia](https://github.com/kevincox/rustymedia)
+* [mstream](https://mstream.io/) js-based
+  + https://github.com/IrosTheBeggar/mStream
+* [streama](https://github.com/streamaserver/streama) groovy-based, js-based (audio and video)
+  + https://docs.streama-project.com/
 * [madsonic](https://www.madsonic.org/pages/download.jsp) where is the source code? partly commercial
-* [funkwhale](https://funkwhale.audio/) subsonic protocol, partly commercial
+* [roadie](https://github.com/sphildreth/roadie) subsonic protocol, C#-based
+  + [roadie-vuejs](https://github.com/sphildreth/roadie-vuejs) roadie frontend, vue-based
+* [funkwhale](https://funkwhale.audio/) subsonic protocol, music sharing
   + https://dev.funkwhale.audio/funkwhale
+  + https://wiki.archlinux.org/title/Funkwhale
+  + https://de.wikipedia.org/wiki/Grooveshark
+* [daphile - audiophile music server](https://www.daphile.com/)
+* [sonerezh](https://www.sonerezh.bzh/) old, php-based
+  + https://github.com/Sonerezh/sonerezh
 
 #### DLNA control and clients
 

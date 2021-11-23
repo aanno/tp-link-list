@@ -21,6 +21,15 @@
 
 * https://lwn.net/Articles/724198/ (AIO defects)
 * https://lwn.net/Articles/724307/ (Block layer error handling)
+* [overview of linux kernel](https://tldp.org/LDP/tlk/tlk-toc.html)
+
+### Memory management
+
+#### KSM (Kernel Samepage Merging)
+
+* [KSM](https://www.kernel.org/doc/Documentation/vm/ksm.txt)
+* https://lwn.net/Articles/330589/
+* https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_tuning_and_optimization_guide/chap-ksm
 
 ## Webcam
 
@@ -202,6 +211,7 @@
 * https://www.kuketz-blog.de/
 * https://www.autistici.org/ (hosting for you)
 * https://www.kuketz-blog.de/empfehlungsecke/
+* https://curius.de/
 
 #### Nitrokey
 
@@ -277,8 +287,14 @@ It is _not_ possible to recover the public key stored on nitro, see
 * [orabuntu-lxc](https://sites.google.com/a/orabuntu-lxc.com/documentation/)
   + https://github.com/gstanden/orabuntu-lxc
 
+### Container tools
+
+* https://genuinetools.org/
+  + https://github.com/genuinetools
+
 ### Desktop Container
 
+* https://flatpak.github.io/xdg-desktop-portal/portal-docs.html
 * https://github.com/mviereck/x11docker
 * https://superuser.com/questions/1407370/how-to-run-an-x11-application-xclock-on-podman
 * https://github.com/DimaZirix/podbox
@@ -294,6 +310,14 @@ It is _not_ possible to recover the public key stored on nitro, see
   + https://github.com/linuxserver / https://www.linuxserver.io/ (https://guacamole.apache.org/ and xrdp based)
 * [bubblewrap](https://github.com/containers/bubblewrap) (also contains a list of alternative containers)
 * [sandstorm.io](https://sandstorm.io/) container for web apps
+
+#### Opinion
+
+* https://ludocode.com/blog/flatpak-is-not-the-future
+* https://flatkill.org/2020/
+* https://curius.de/2021/09/flatpak-snap-vs-paketverwaltung-alles-was-dazu-gesagt-werden-muss/#
+* https://merlijn.sebrechts.be/blog/2020-07-03-snap-vs-flatpak/
+* https://www.linux-community.de/ausgaben/linuxuser/2018/02/dreikampf/
 
 #### Snappy / Snap
 
@@ -322,6 +346,9 @@ It is _not_ possible to recover the public key stored on nitro, see
 ### Container-faced Linux Distributions
 
 * [qubes](https://www.qubes-os.org/) - most apps in it's own xen VM - super secure
+* [mocaccino - docker and luet based](https://www.mocaccino.org/)
+* [suse microos](https://microos.opensuse.org/) - suse's coreos (includes kubic)
+* [flatcar linux](https://www.flatcar-linux.org/) - community successor of coreos
 
 #### Fedora Silverblue
 
@@ -347,11 +374,6 @@ It is _not_ possible to recover the public key stored on nitro, see
 
 * [Fedora CoreOS reboot coordinator for Kubernetes](https://github.com/poseidon/fleetlock)
 * https://dustymabe.com/2020/04/04/automating-a-custom-install-of-fedora-coreos/
-
-##### Alternatives to Fedora CoreOS
-
-* https://kinvolk.io/flatcar-container-linux/
-* https://microos.opensuse.org/
 
 ### Docker 
 
@@ -466,6 +488,8 @@ It is _not_ possible to recover the public key stored on nitro, see
 
 * [rpm - file and related packages](https://linux-audit.com/determine-file-and-related-package/)
 * https://nixos.org/ - functional, user-centric package tool
+* [luet - docker based image packages](https://luet-lab.github.io/docs/)
+  + https://luet-lab.github.io/docs/docs/concepts/packages/
 
 ## Linux package build
 

@@ -19,6 +19,7 @@
 * https://www.vultr.com/
 * https://metal.equinix.com/
 * https://www.digitalocean.com/
+* https://nws.netways.de
 
 ## Rather server provider
 

@@ -64,6 +64,7 @@
   + https://github.com/rancher/k3d k3s in docker (really!)
 * [Minimal and free Kubernetes distribution via Terraform](https://typhoon.psdn.io/)
   + [PXE boot and provision bare-metal clusters](https://github.com/poseidon/matchbox)
+    - https://matchbox.psdn.io/
   + [Fedora CoreOS reboot coordinator for Kubernetes](https://github.com/poseidon/fleetlock)
 * https://kubic.opensuse.org/ suse alternative to Fedora CoreOS
   + https://en.opensuse.org/Portal:Kubic MicroOS
@@ -86,6 +87,8 @@
   + https://mitogen.networkgenomics.com/
 * https://github.com/valentin2105/Kubernetes-Saltstack saltstack script for kubernetes setup
 * https://github.com/ramitsurana/awesome-kubernetes includes many kubernetes installers
+* [ironic on kubernetes](https://metal3.io/)
+  + https://metal3.io/try-it.html
 
 ### Plain Kubernetes setup
 
@@ -96,6 +99,8 @@
 * https://www.mirantis.com/blog/how-install-kubernetes-kubeadm/
 * https://microk8s.io/docs
 * [kind - kubernetes cluster on docker/podman](https://kind.sigs.k8s.io/docs/user/quick-start)
+* [k8s on coreos on virtualbox](https://www.codetab.org/post/kubernetes-cluster-virtualbox/)
+* [k8s with ironic](https://github.com/kairen/ironic-k8s)
 
 #### Other kubernetes/okd setup
 
@@ -112,6 +117,9 @@
   + https://console.redhat.com/openshift/create/local
   + https://developers.redhat.com/developer-sandbox/get-started
   + https://github.com/code-ready/crc
+* [okd on coreos on digitalocean](https://dustymabe.com/2020/07/28/openshift-okd-on-fedora-coreos-on-digitalocean-part-0-preparation/)
+* [okd4 on coreos on metal (official docs)](https://docs.okd.io/latest/installing/installing_bare_metal/installing-bare-metal.html)
+* [openshift installer](https://github.com/openshift/installer) featured
 
 ### kubernetes commands and features
 
