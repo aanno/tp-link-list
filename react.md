@@ -116,6 +116,8 @@
 * [openui5 for react](https://github.com/SAP/ui5-webcomponents-react)
   + https://openui5.org/
   + https://de.m.wikipedia.org/wiki/OpenUI5
+* [fundamental style - cross js (react, angular, vue, ...) widgets](https://sap.github.io/fundamental-styles/)
+  + https://github.com/sap/fundamental-styles
 
 #### Diagram and Chart Widgets
 

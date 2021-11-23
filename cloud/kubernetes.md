@@ -62,6 +62,7 @@
 * https://minikube.sigs.k8s.io/docs/
 * https://k3s.io/ kubernetes mini distribution
   + https://github.com/rancher/k3d k3s in docker (really!)
+  + https://k3d.io/v5.1.0/
 * [Minimal and free Kubernetes distribution via Terraform](https://typhoon.psdn.io/)
   + [PXE boot and provision bare-metal clusters](https://github.com/poseidon/matchbox)
     - https://matchbox.psdn.io/
@@ -70,7 +71,6 @@
   + https://en.opensuse.org/Portal:Kubic MicroOS
   + https://en.opensuse.org/Kubic:kubeadm install kubernetes on MicroOS
 * https://kinvolk.io/lokomotive-kubernetes/
-* https://kind.sigs.k8s.io/
 * https://github.com/kubesphere/kubesphere
 * https://kublr.com/pricing/ commercial, but free for development!
   + https://docs.kublr.com/quickstart/
@@ -99,6 +99,7 @@
 * https://www.mirantis.com/blog/how-install-kubernetes-kubeadm/
 * https://microk8s.io/docs
 * [kind - kubernetes cluster on docker/podman](https://kind.sigs.k8s.io/docs/user/quick-start)
+  + [kind on podman](https://kind.sigs.k8s.io/docs/user/rootless/)
 * [k8s on coreos on virtualbox](https://www.codetab.org/post/kubernetes-cluster-virtualbox/)
 * [k8s with ironic](https://github.com/kairen/ironic-k8s)
 
@@ -168,6 +169,7 @@
 
 ### Plain Kubernetes plugins/options
 
+* [kubectl, kind, minikube, kubeadm](https://kubernetes.io/docs/tasks/tools/)
 * https://caylent.com/50-useful-kubernetes-tools
 * https://techbeacon.com/enterprise-it/9-top-open-source-tools-monitoring-kubernetes
 
@@ -179,6 +181,7 @@
   + https://minikube.sigs.k8s.io/docs/handbook/config/ cri-o on minikube
   + https://github.com/cri-o/cri-o/blob/master/tutorials/kubernetes.md
   + https://github.com/cri-o/cri-o/blob/master/tutorials/kubeadm.md
+* [containerd - kubernetes standard container runtime from CNCF](https://containerd.io/)
 
 #### Networking
 

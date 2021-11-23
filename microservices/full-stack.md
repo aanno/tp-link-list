@@ -1,5 +1,15 @@
 # Full stack microservices
 
+## Tools
+
+* https://www.heise.de/developer/artikel/Aus-der-Werkzeugkiste-Teil-4-Adam-Bien-3755575.html?artikelseite=2
+  + https://prometheus.io
+  + https://github.com/AdamBien/porcupine
+  + http://zipkin.io/
+  + https://johnragan.wordpress.com/2009/12/08/release-it-stability-patterns-and-best-practices/
+* [squash - debug microservice deploy on kubernetes](https://squash.solo.io/) debugs go, node, java, python, c/c++
+  + https://github.com/solo-io/squash
+
 ## Generators
 
 ## Frameworks
@@ -16,11 +26,6 @@
 * https://msdn.microsoft.com/en-us/library/jj591573.aspx
 * https://jazzy.id.au/2016/10/08/cqrs-increases-consistency.html
 
-* https://www.heise.de/developer/artikel/Aus-der-Werkzeugkiste-Teil-4-Adam-Bien-3755575.html?artikelseite=2
-  + https://prometheus.io
-  + https://github.com/AdamBien/porcupine
-  + http://zipkin.io/
-  + https://johnragan.wordpress.com/2009/12/08/release-it-stability-patterns-and-best-practices/
 * https://quarkus.io/
   + https://developers.redhat.com/blog/2019/03/07/quarkus-next-generation-kubernetes-native-java-framework
   + https://developers.redhat.com/blog/2019/04/09/from-zero-to-quarkus-and-knative-the-easy-way (tutorial)

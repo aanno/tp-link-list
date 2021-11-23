@@ -26,6 +26,8 @@
 * [cloud on metacloud](https://cloud.pritunl.com)
 * https://www.openstack.org/software/project-navigator/openstack-components#openstack-services
 * [gardener - Managed Kubernetes Service](https://gardener.cloud/)
+* [gloo mesh](https://docs.solo.io/gloo-mesh-enterprise/latest/)
+  + https://github.com/solo-io/gloo-mesh
 
 ### Tools and standards
 

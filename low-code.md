@@ -30,6 +30,7 @@
 
 ### Developer-faced
 
+* [eclipse dirigible](https://www.dirigible.io/)
 * https://www.judo.codes/ modern java
 * https://www.openxava.org/en/ate/low-code-development-platform java, swing
 * http://drakon-editor.sourceforge.net/ flowcharts

@@ -6,6 +6,7 @@
 * https://www.dev-insider.de
 * https://opensource.com
 * https://news.itsfoss.com/
+* https://www.capitalone.com/tech/software-engineering/
 
 ## OS
 
@@ -134,6 +135,8 @@
 * https://hollow.how/
 
 ## DB/SQL
+
+* https://www.capitalone.com/tech/software-engineering/active-active-shared-nothing-database-architecture/
 
 ### General SQL Admin Tools
 

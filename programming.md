@@ -90,6 +90,9 @@ Alternative
 * https://www.serverless.com/open-source/ (node-based)
   + https://www.serverless.com/blog/how-to-create-a-rest-api-in-java-using-dynamodb-and-serverless/
 * https://spring.io/serverless
+* (serverless on kubernetes)[https://kyma-project.io/]
+  + https://kyma-project.io/docs/kyma/latest/01-overview/main-areas/
+  + [busola - web frontend for kyma](https://github.com/kyma-project/busola)
 
 ##### Serverless platforms
 

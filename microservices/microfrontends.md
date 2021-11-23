@@ -9,3 +9,5 @@
 
 * https://github.com/smapiot/piral
   + https://smapiot.com/
+* https://luigi-project.io/
+  + https://docs.luigi-project.io/docs/getting-started

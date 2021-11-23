@@ -85,6 +85,7 @@
 * https://platform9.com/blog/kubernetes-service-mesh-a-comparison-of-istio-linkerd-and-consul/
 * https://techbeacon.com/app-dev-testing/9-open-source-service-meshes-compared
 * https://stackshare.io/istio/alternatives
+* https://www.solo.io/open-source/#
 
 ### Implementations
 
@@ -93,6 +94,10 @@
 * [envoy](https://www.envoyproxy.io/)
   + https://www.envoyproxy.io/docs/envoy/latest/intro/arch_overview/arch_overview
   + https://github.com/envoyproxy/envoy
+  + [envoy webassembly hub - centralized place for envoy extensions](https://docs.solo.io/web-assembly-hub/latest)
+    - https://github.com/solo-io/wasm
+* [gloo edge - envoy control pane](https://docs.solo.io/gloo-edge/latest/)
+  + https://github.com/solo-io/gloo
 * [contour - envoy for kubernetes](https://projectcontour.io/)
 * https://istio.io/
 * https://github.com/Kong/kong
