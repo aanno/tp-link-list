@@ -45,17 +45,24 @@
 
 # microVM
 
-* https://katacontainers.io/
+* https://katacontainers.io/ - light as container - secure as virtualization
+  + https://github.com/kata-containers
   + https://www.ionos.de/digitalguide/server/knowhow/kata-containers-vorgestellt/
   + https://www.linux-magazin.de/ausgaben/2018/12/kata-containers/
+* [krunvm](https://github.com/containers/krunvm) use docker/oci container images on KVM virtualization
+* [SmartOS](https://www.joyent.com/smartos) solaris-kernel-based container OS
+  + https://en.m.wikipedia.org/wiki/SmartOS
 
 ## Light Hypervisors
 
 * https://github.com/cloud-hypervisor/cloud-hypervisor
 * https://firecracker-microvm.github.io/
+
 # Unikernels
 
+* [big overview and benchmark](https://github.com/cetic/unikernels) featured
 * http://unikernel.org/
+  + http://unikernel.org/projects/
 * https://github.com/Solo5/solo5 hardware virtualized tender
 
 ## Middleware
@@ -68,4 +75,6 @@
 * http://osv.io/ OSv is the versatile modular unikernel designed to run unmodified Linux applications securely on micro-VMs in the cloud. 
   + http://blog.osv.io/blog/2019/04/19/making-OSv-run-on-firecraker/
 * https://mirage.io/ ocaml
-* 
+* https://github.com/solo-io/unik meta-build for unikernels
+* [eggOS - unikernel for golang](https://github.com/icexin/eggos)
+  + https://golangexample.com/a-go-unikernel-running-on-x86-bare-metal/

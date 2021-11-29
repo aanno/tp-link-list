@@ -102,6 +102,7 @@
   + [kind on podman](https://kind.sigs.k8s.io/docs/user/rootless/)
 * [k8s on coreos on virtualbox](https://www.codetab.org/post/kubernetes-cluster-virtualbox/)
 * [k8s with ironic](https://github.com/kairen/ironic-k8s)
+* [install canonical's charmed kubernetes](https://ubuntu.com/kubernetes/docs/install-manual)
 
 #### Other kubernetes/okd setup
 

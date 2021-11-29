@@ -33,6 +33,7 @@
   - https://apps.nextcloud.com/apps/spreed
   - [TURN and STUN scripts](https://github.com/nextcloud/vm/blob/master/apps/talk.sh)
   - https://nextcloud-talk.readthedocs.io/en/latest/
+* [talked - call recording for talk](https://github.com/MetaProvide/talked)
 
 #### Spreed
 
@@ -43,6 +44,7 @@
   + https://nextcloud-talk.readthedocs.io/en/latest/standalone-signaling-api-v1/
 * https://github.com/strukturag/nextcloud-spreed-signaling
 * https://github.com/meetecho/janus-gateway
+  + https://github.com/mwalbeck/docker-janus-gateway
 * https://nats.io/download/
 * https://intux.de/2020/03/turn-server-fuer-nextcloud-talk/
 * https://arnowelzel.de/nextcloud-talk-mit-coturn-und-eigenem-signaling-server
@@ -53,7 +55,8 @@
 
 ### Screen Sharing (only)
 
-* https://obsproject.com/de
+* https://obsproject.com/de includes wayland screen sharing
+  + https://github.com/obsproject/obs-studio
   + https://de.m.wikipedia.org/wiki/Open_Broadcaster_Software
 * https://github.com/screego/server
 

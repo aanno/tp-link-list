@@ -99,6 +99,7 @@
 * [bookkeeper - storage service](https://bookkeeper.apache.org/)
 * [StreamNative - pulsar on kubernetes](https://streamnative.io/)
   + https://docs.streamnative.io/platform/v1.1.0/quickstart
+  + [pulsar/streamnative integrations](https://hub.streamnative.io/)
 * [compare pulsar to kafka](https://www.kai-waehner.de/blog/2020/06/09/apache-kafka-versus-apache-pulsar-event-streaming-comparison-features-myths-explored/)
 * https://pulsar-summit.org/
 * https://pulsar.apache.org/docs/en/concepts-messaging/

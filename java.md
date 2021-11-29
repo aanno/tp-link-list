@@ -116,8 +116,10 @@
 * http://zulu.org/download/
 * jetbrains/idea
   + https://github.com/JetBrains/JetBrainsRuntime
+  + https://confluence.jetbrains.com/display/JBR/JetBrains+Runtime
   + [jvm chromium embedded](https://plugins.jetbrains.com/docs/intellij/jcef.html)
   + [jcef replaces javafx](https://blog.jetbrains.com/platform/2020/07/javafx-and-jcef-in-the-intellij-platform/)
+  + [jcef - Java Chromium Embedded Framework](https://plugins.jetbrains.com/docs/intellij/jcef.html)
   + [DCEVM - hotswapping vm](https://blog.jetbrains.com/idea/2013/07/get-true-hot-swap-in-java-with-dcevm-and-intellij-idea/)
     - https://dcevm.github.io/ (java 8 and 11)
     - https://github.com/TravaOpenJDK/trava-jdk-11-dcevm

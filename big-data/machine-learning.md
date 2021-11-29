@@ -36,6 +36,7 @@
   + https://modelzoo.co/model/fastphotostyle
     - https://github.com/NVIDIA/FastPhotoStyle
 * https://towardsdatascience.com/how-to-train-an-image-classifier-in-pytorch-and-use-it-to-perform-basic-inference-on-single-images-99465a1e9bf5?gi=e21d41748c29
+* [dynare - macroeconomics modeling for all](https://www.dynare.org/)
 
 
 ## Pytorch
@@ -54,7 +55,7 @@
 * https://github.com/mindsdb/mindsdb (based on pytorch)
 * https://github.com/tensorflow/adanet (based on tensorflow)
 * https://github.com/automl/auto-sklearn (based on scikit)
-* https://github.com/keras-team/autokeras(based on keras)
+* https://github.com/keras-team/autokeras (based on keras)
 * https://github.com/microsoft/nni
 * https://github.com/FeatureLabs/featuretools (for feature extraction)
 * https://github.com/ray-project/ray (distributor)
@@ -67,3 +68,21 @@
 ## More Libs
 
 * https://mxnet.apache.org/ (multi-language)
+
+
+## Natural language processing
+
+* http://www.scalanlp.org/ scala-based
+* [Hugging Face](https://huggingface.co/) for jax, pytorch, tensorflow
+  + [Hugging Face Course](https://huggingface.co/course/chapter1/1)
+
+### Chatbots
+
+* https://medevel.com/open-source-chatbot-frameworks/
+* https://thirdeyedata.io/top-chatbot-development-frameworks-you-should-know-exploring-open-source-solutions-part-2/
+
+#### Implementations
+
+* https://botpress.io/
+* https://rasa.com/
+  + https://github.com/RasaHQ/rasa

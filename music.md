@@ -265,6 +265,8 @@
 * [cozy - audiobook player](https://github.com/geigi/cozy)
   + https://cozy.sh/
 * [noson - sonos controller](https://janbar.github.io/noson-app/)
+* [flox - movie watch list](https://github.com/devfake/flox)
+  + https://github.com/mwalbeck/docker-flox
 
 #### Need special file structure
 

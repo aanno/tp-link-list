@@ -84,10 +84,6 @@
 * http://aif360.mybluemix.net/
 * https://github.com/IBM/AIF360/wiki/OSCON-PORTLAND-2019
 
-## Software
-
-* https://rasa.com/
-
 ## Exploratory Data Analysis (EDA)
 
 * https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166

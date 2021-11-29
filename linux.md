@@ -16,6 +16,10 @@
 ## Distributions
 
 * http://slackermedia.info/ - your digital studio
+* https://bedrocklinux.org/ - mix and match meta-distribution
+* https://www.gobolinux.org/ - install complete independent packages
+* https://endlessos.com/ - end user and kids oriented
+* [airyx](https://airyx.org/) - freeBSD based trying to run cocoa and osx applications
 
 ## Kernel
 
@@ -84,6 +88,13 @@
 
 * http://duplicity.nongnu.org/
 * https://github.com/zertrin/duplicity-backup.sh
+
+##### Timeshift and the like
+
+* [timeshift](https://github.com/teejee2008/timeshift) - btrfs-based or rsync-based
+  + https://github.com/wmutschl/timeshift timeshift btrfs-based for fedora 33
+  + https://discussion.fedoraproject.org/t/a-quick-guide-to-setting-up-btrfs-timeshift-on-fedora-33/27573
+* https://rsnapshot.org/
 
 ##### Other
 
@@ -168,7 +179,7 @@
 
 ### Monitoring
 
-#### Other Monitoring Software
+#### Other Monitoring (and Alerting) Software
 
 * https://www.theforeman.org/ lifecycle management
 * https://www.icinga.com/
@@ -184,6 +195,9 @@
 * [netdata](https://github.com/netdata/netdata)
 * https://www.monitorix.org/
 * [apimon](https://github.com/ncarlier/apimon)
+* [alerta](https://alerta.io/) - de-duplication and correlation
+  + https://github.com/alerta/docker-alerta
+  + https://github.com/mwalbeck/docker-alerta
 
 #### Prometheus
 
@@ -249,6 +263,8 @@ It is _not_ possible to recover the public key stored on nitro, see
 
 * https://getsol.us/home/ solus and solus budgie
   + https://ubuntubudgie.org/
+* [Pop!_OS](https://pop.system76.com/)
+  + [PopOS post install](https://mutschler.eu/linux/install-guides/pop-os-post-install/)
 
 ### Firewall Distributions
 
@@ -265,6 +281,10 @@ It is _not_ possible to recover the public key stored on nitro, see
 * [nvidia driver (rpms)](https://itsfoss.com/install-nvidia-drivers-fedora/)
 * [nvidia-driver (direct)](https://www.if-not-true-then-false.com/2015/fedora-nvidia-guide/)
 * [dnf fastest mirror](https://darryldias.me/2020/how-to-setup-fastest-mirror-in-dnf/)
+* [fedora post install](https://mutschler.eu/linux/install-guides/fedora-post-install/)
+* [Cisco openH264 firefox plugin](https://fedoraproject.org/wiki/OpenH264)
+* [nvidia driver](https://www.if-not-true-then-false.com/2015/fedora-nvidia-guide/)
+* [nvidia driver container toolkit](https://www.if-not-true-then-false.com/2020/install-nvidia-container-toolkit-on-fedora/)
 
 #### Fedora third party repositories
 
@@ -291,6 +311,10 @@ It is _not_ possible to recover the public key stored on nitro, see
 
 * https://genuinetools.org/
   + https://github.com/genuinetools
+* [quadlet]](https://github.com/containers/quadlet) running podman with systemd 
+  + https://github.com/containers/quadlet/issues/12 currently no multi-container support
+* [build source image](https://github.com/containers/BuildSourceImage) Build a source code image from a collection of known .src.rpm's
+* [udica](https://github.com/containers/udica) Generate SELinux policies for containers
 
 ### Desktop Container
 
@@ -349,6 +373,8 @@ It is _not_ possible to recover the public key stored on nitro, see
 * [mocaccino - docker and luet based](https://www.mocaccino.org/)
 * [suse microos](https://microos.opensuse.org/) - suse's coreos (includes kubic)
 * [flatcar linux](https://www.flatcar-linux.org/) - community successor of coreos
+* [rlxos - immutable desktop](https://rlxos.dev/)
+  + https://tylerstech.me/2021/06/23/rlxos-a-new-and-unique-distribution/
 
 #### Fedora Silverblue
 
@@ -384,11 +410,13 @@ It is _not_ possible to recover the public key stored on nitro, see
   + http://www.damagehead.com/blog/2015/04/28/deploying-a-dns-server-using-docker/
 * https://www.adelton.com/docs/containers/complex-application-in-container
 * [pullio - keep docker-compose containters up-to-date](https://hotio.dev/pullio/)
+* [nvidia container toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html)
+  + https://github.com/NVIDIA/nvidia-docker
+  + [nvidia container toolkit and podman](https://gist.github.com/bernardomig/315534407585d5912f5616c35c7fe374)
 
 #### Container collections
 
 * [linuxserver](https://www.linuxserver.io/)
-  + 
 * [hotio](https://hotio.dev/containers/apprise/)
 
 #### Multi-process containers

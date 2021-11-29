@@ -135,6 +135,10 @@
 * https://open-paas.org/
 * https://cynapse.com/cyn-in/download/
 
+* [dev.to news/forum platform](https://dev.to/)
+  + [forem - the software behind dev.to](https://github.com/forem/forem)
+  + [self-hosting forem](https://github.com/forem/selfhost)
+
 ### Fediverse
 
 * https://fediverse.gitlab.io/
@@ -166,6 +170,8 @@
 * https://nextcloud.com/
   + https://github.com/xperimental/nextcloud-exporter (for prometheus
   + https://docs.nextcloud.com/server/latest/admin_manual/configuration_server/reverse_proxy_configuration.html)
+  + https://github.com/mwalbeck/docker-nextcloud-notify-push
+  + https://github.com/nextcloud/richdocuments
 * https://www.slant.co/topics/1882/~open-source-alternatives-to-resilio
   + https://syncthing.net/
     - https://linuxctl.com/2017/04/syncthing---why-you-should-be-using-it/
@@ -303,6 +309,8 @@
 * http://www.rainloop.net (partly commercial)
 * https://www.mailpile.is/
 * https://cypht.org/
+* [Claws Mail](https://www.claws-mail.org/index.php)
+* [betterbird - thunderbird fork](https://www.betterbird.eu/)
 
 ## docker and docker-compose solutions
 
@@ -342,6 +350,7 @@
 ## Open Source Games
 
 * https://www.lostlabyrinth.com/ (roguelike)
+* [karawan](https://www.linux-community.de/artikel/das-spiel-zum-wochenende-karawan/) full metal planète
 
 ## Business software
 

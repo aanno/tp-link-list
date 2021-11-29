@@ -49,6 +49,7 @@
 * [activej](https://activej.io/)
   + https://github.com/activej/activej
   + https://github.com/the-benchmarker/web-frameworks (benchmark in favour of activej)
+* [fastAPI](https://fastapi.tiangolo.com/) python-based
 
 * https://www.lightbend.com/learn for kubernetes
 * https://www.lagomframework.com/documentation/1.3.x/scala/ConductR.html (scala)

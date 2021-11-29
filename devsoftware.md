@@ -12,10 +12,6 @@
 
 * https://github.com/f9micro/f9-kernel (MCU, kernel for ARM M4) 
 
-## Bots
-
-* https://botpress.io/
-
 ## Business Automation
 
 * https://camunda.com/de/
@@ -43,6 +39,7 @@
   + https://github.com/avocado-framework/avocado
   + https://github.com/avocado-framework/avocado-vt (test for virtualization)
 * [sakuli](https://sakuli.io/#features) container-based e2e testing - partly commercial
+* [plainbox - testing with hardware dependencies](https://launchpad.net/plainbox)
 
 ### Metrics
 

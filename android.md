@@ -53,6 +53,11 @@
   + https://grapheneos.org/build (pixel only)
 * [lineage](https://lineageos.org/)
   + https://wiki.lineageos.org/devices/
+* [LineageOS for microG](https://lineage.microg.org/)
+* [divestOS - lineage soft fork](https://divestos.org/)
+* [CalyxOS](https://calyxinstitute.org/)
+  + https://www.golem.de/news/calyxos-im-test-ein-komfortables-android-mit-einer-extraportion-privacy-2010-151555.html
+* [NanoDroid](https://gitlab.com/Nanolx/NanoDroid)
 
 # Android ohne Google 
 

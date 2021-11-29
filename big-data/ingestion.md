@@ -8,6 +8,8 @@
 * https://nifi.apache.org/index.html
 * https://azkaban.github.io/
   + https://github.com/azkaban/azkaban
+* [miniwdl](https://github.com/chanzuckerberg/miniwdl) tasks for podman
+  + [WDL spec](https://github.com/openwdl/wdl/blob/main/versions/development/SPEC.md)
 
 ## Visualization
 
