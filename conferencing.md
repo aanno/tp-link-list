@@ -48,6 +48,7 @@
 * https://nats.io/download/
 * https://intux.de/2020/03/turn-server-fuer-nextcloud-talk/
 * https://arnowelzel.de/nextcloud-talk-mit-coturn-und-eigenem-signaling-server
+* https://www.dogado.de/vps/vserver-anwendungsfaelle/nextcloud-talk-auf-vserver-installieren
 
 ### WebRTC
 
@@ -114,3 +115,9 @@
 
 * https://github.com/coturn/coturn server (includes Stun, ICE)
 * https://github.com/jitsi/turnserver
+
+## (encrypted) chat platforms
+
+* https://www.kontalk.org/
+  + https://www.kontalk.net/
+  + https://github.com/kontalk/androidclient

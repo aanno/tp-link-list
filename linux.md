@@ -2,7 +2,7 @@
 
 * https://baireuther.de/lhb/ (Nachschlagewerk)
 
-## Nachrichten
+## Nachrichten (Linux)
 
 * https://www.linux-community.de/
 * https://www.howtoforge.de/ (Blog)
@@ -12,6 +12,13 @@
 * https://www.datacenter-insider.de/
 * https://www.linuxuprising.com/
 * https://lwn.net/
+* https://www.computerbase.de/thema/linux/
+
+## Nachrichten (open source)
+
+* https://www.sueddeutsche.de/thema/Open_Source
+* https://www.zdnet.de/
+* https://www.it-times.de/
 
 ## Distributions
 

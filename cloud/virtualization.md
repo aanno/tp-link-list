@@ -52,6 +52,7 @@
 * [krunvm](https://github.com/containers/krunvm) use docker/oci container images on KVM virtualization
 * [SmartOS](https://www.joyent.com/smartos) solaris-kernel-based container OS
   + https://en.m.wikipedia.org/wiki/SmartOS
+  + https://pkgsrc.joyent.com/
 
 ## Light Hypervisors
 

@@ -20,6 +20,7 @@
 * http://www.codex.ca/
 * http://www.eclipse.org/vex/
 * https://www.fiduswriter.org/
+* https://writefreely.org/
 
 ### Dita
 

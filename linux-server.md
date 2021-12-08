@@ -54,6 +54,7 @@
 * [wiki suite](https://wikisuite.org/Software)
   + [comparision to nextcloud, cloudron, ...](https://wikisuite.org/Alternatives) featured!
   + [tiki tracker - low code platform](https://tikitrackers.org/Database-Web-App-Builder)
+* [docker solutions for vServer hosting](https://www.dogado.de/vps)
 
 #### Home-page automation (server start page)
 

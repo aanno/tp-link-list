@@ -7,6 +7,7 @@
   + https://www.backblaze.com/de_DE/cloud-storage.html (cheapest cloud storage for devs)
   + https://www.backblaze.com/b2/integrations.html
 * https://www.veeam.com/de
+* https://blog.cloudflare.com/introducing-r2-object-storage/ s3-compatible
 
 ## Logging
 

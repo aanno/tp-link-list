@@ -14,3 +14,4 @@
 ## Visualization
 
 * https://github.com/apache/superset (data analysis, graphs)
+* https://github.com/getredash/redash (social visualization)

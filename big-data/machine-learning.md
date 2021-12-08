@@ -69,12 +69,36 @@
 
 * https://mxnet.apache.org/ (multi-language)
 
+## Classification
+
+### Naive Bayes
+
+* https://towardsdatascience.com/all-about-naive-bayes-8e13cef044cf?gi=39b3d66eb009
+* https://scikit-learn.org/stable/modules/naive_bayes.html
+
+## Domain adaption and transfer learning
+
+* https://en.wikipedia.org/wiki/Domain_adaptation
+* https://en.wikipedia.org/wiki/Transfer_learning
+
+### Implementations
+
+* [salad - domain adaption library](https://domainadaptation.org/)
+  + https://github.com/domainadaptation/salad
 
 ## Natural language processing
 
 * http://www.scalanlp.org/ scala-based
 * [Hugging Face](https://huggingface.co/) for jax, pytorch, tensorflow
   + [Hugging Face Course](https://huggingface.co/course/chapter1/1)
+* [doccano - text annotions for humans](https://doccano.herokuapp.com/de)
+  + https://github.com/doccano/doccano
+
+### mail and text classification
+
+* https://towardsdatascience.com/how-i-used-machine-learning-to-classify-emails-and-turn-them-into-insights-efed37c1e66
+* https://medium.com/dataseries/email-classification-into-categories-different-approaches-using-nlp-8bc65cf2f12f
+* https://monkeylearn.com/blog/text-classification-apis/
 
 ### Chatbots
 
