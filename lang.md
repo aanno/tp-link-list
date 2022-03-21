@@ -28,3 +28,4 @@
 
 * https://flutter.dev/
 * https://de.wikipedia.org/wiki/Flutter_(Software)
+* https://github.com/litlifesoftware/leitmotif-flutter (flutter-based web framework)

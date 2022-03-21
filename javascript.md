@@ -32,7 +32,44 @@
 
 * [use node API in frontend](https://nwjs.io/)
 * [independent component development](https://storybook.js.org/)
+
+### Svelte universe
+
 * [svelte](https://svelte.dev/)
+* [sapper (deprecated - now sveltekit)](https://sapper.svelte.dev/docs/#Comparison_with_Next_js) next for svelte
+* [sveltekit](https://kit.svelte.dev/)
+  + https://svelte.dev/blog/whats-the-deal-with-sveltekit
+
+## SSR, 0kb JS, static HTML from JS
+
+* https://jamstack.org/ (static first)
+  + https://strapi.io/blog/jamstack
+* https://dev.to/this-is-learning/is-0kb-of-javascript-in-your-future-48og
+  
+* https://preactjs.com/ (like react but ssr)
+* https://short.is/writing/next.js-with-web-components-and-a-0kb-bundle
+
+## Web components
+
+* https://en.m.wikipedia.org/wiki/Web_Components
+* https://www.ionos.de/digitalguide/websites/web-entwicklung/web-components/ featured
+* https://developer.mozilla.org/de/docs/Web/Web_Components
+* https://blog.viadee.de/web-components-teil-2
+* https://lit.dev/
+  + https://github.com/web-padawan/awesome-lit featured
+  + https://rodydavis.com/posts/flutter-and-lit/
+  + [building tools for lit](https://lit.dev/docs/tools/production/)
+  + https://github.com/lit/lit
+* https://slimjs.com/#/welcome
+
+### Web Components Widgets
+
+* [AXA Design System](https://patterns.axa.ch/?path=/story/guides-getting-started--getting-started)
+  + [AXA pattern library](https://github.com/axa-ch-webhub-cloud/pattern-library)
+* [Brightspace UI](https://github.com/BrightspaceUI)
+  + [Brightspace UI core](https://github.com/BrightspaceUI/core) includes tables, lists, cards, and more
+* [Ing Bank Lion](https://github.com/ing-bank/lion)
+  + https://lion-web.netlify.app/components/content/accordion/overview/ (no tables)
 
 ### Frontend architecture
 
@@ -169,6 +206,13 @@
   + [nuxt - static site generation](https://nuxtjs.org/docs/concepts/static-site-generation/)
   + https://www.heise.de/news/JavaScript-Nuxt-js-3-unterstuetzt-TypeScript-und-integriert-Vite-js-6214270.html
 
+#### Other UI Frameworks
+
+* https://www.solidjs.com/ (no Shadow-DOM, react influenced)
+  + https://github.com/solidjs/solid
+* https://svelte.dev/
+* https://lit.dev/
+
 ### Immutable
 
 * [list of libs](https://gist.github.com/jlongster/bce43d9be633da55053f)
@@ -219,7 +263,10 @@
 
 * https://www.snowpack.dev/
   + https://www.snowpack.dev/plugins
-* https://vitejs.dev/guide/
+* https://vitejs.dev/guide/ (js, vue, react, preact, lit, svelte)
+  + vite is rollup compatible: https://vitejs.dev/guide/api-plugin.html#path-normalization
+* https://rollupjs.org/guide/en/
+* https://deno.land/ (whole JS runtime, speaks TS)
 
 ### Monorep
 

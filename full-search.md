@@ -29,6 +29,8 @@
 
 ## Other
 
+* https://github.com/meilisearch/meilisearch (e.g. used with strapi (as plugin https://market.strapi.io/plugins/strapi-plugin-meilisearch))
+
 ### MongoDB
 
 * https://www.compose.com/articles/full-text-search-with-mongodb-and-node-js/

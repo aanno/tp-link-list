@@ -166,7 +166,6 @@
 ## CMS (and related)
 
 * https://github.com/postlight/awesome-cms
-* https://jamstack.org/
 
 * https://docs.ponzu-cms.org/
   + https://headlesscms.org/projects/ponzu/
@@ -192,6 +191,7 @@
 * https://www.netlifycms.org/ (jamstack-based)
   + https://github.com/netlify/netlify-cms
 * https://github.com/misterfresh/react-drive-cms (google-drive-based)
+* https://getgrav.org/ (flat-file based)
 
 ### Headless CMS and API server
 
@@ -243,9 +243,32 @@
 * https://getcockpit.com/ (Api first, GraphQL)
 * https://github.com/birkir/prime (small, GraphQL)
 
-### Head-only frameworks
+#### Strapi universe
+
+* [strapi plugins](https://market.strapi.io/)
+* [stapi docs](https://docs.strapi.io/developer-docs/latest/getting-started/introduction.html)
+* [strapi CLI(https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/installation/cli.html)
+* [strapi and svelte](https://strapi.io/integrations/svelte-cms)
+* [stapi, gatsby](https://strapi.io/integrations/gatsby-cms)
+
+#### Blogs examples based on headless CMS (mostly static site creation)
+
+* https://medium.com/hackernoon/react-js-cms-blog-tutorial-e090c699845b (next, react, buttercms)
+* https://carlosvin.github.io/langs/en/posts/this-is-sapper/ 
+  (sapper (now sveltekit), asciidoctor, code highlighting, rollup)
+* https://strapi.io/blog/build-a-static-blog-with-gatsby-and-strapi (gatsby 4, strapi 4)
+* https://strapi.io/blog/build-a-blog-with-next-react-js-strapi (strapi 3, next, react)
+* https://strapi.io/blog/build-a-blog-with-react-strapi-and-apollo (strapi 3, apollo, react)
+* https://strapi.io/blog/build-a-blog-with-vue-strapi-and-apollo (strapi 3, vue, apollo)
+* https://strapi.io/blog/how-to-create-a-blog-with-svelte-kit-strapi (strapi 4, sveltekit)
+* https://strapi.io/blog/how-to-build-a-blog-with-astro-strapi-and-tailwind-css (strapi 4, astro, tailwind)
+* https://strapi.io/blog/strapi-starter-react-blog (strapi 3, react)
+* https://strapi.io/blog/rendering-react-ssr-with-deno-and-deno-deploy (strapi 4, react, deno)
+
+### Head-only frameworks (js to ssr, modern static generators)
 
 * https://www.gatsbyjs.com/ (asciidoctor, katex, ...)
+* https://astro.build/
 
 ### Static Site Generators
 
@@ -274,6 +297,8 @@
 * https://www.mkdocs.org/ (heads towards documentation)
   + https://github.com/mkdocs/mkdocs/
 * [Eleventy](https://www.11ty.dev/docs/) template-agnostic, just-in-time (serverless)
+* [pelican](https://blog.getpelican.com/category/news.html)
+  + https://docs.getpelican.com/en/latest/ (python, markdown)
 
 #### Site generators based on OPA
 

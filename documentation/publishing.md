@@ -60,19 +60,20 @@
   + https://marktext.app/
 * [ghostwriter](https://wereturtle.github.io/ghostwriter/)
 * [abricotine](https://abricotine.brrd.fr/)
+* https://github.com/asciidoctor/asciidoctor-vscode
 
 #### Tooling
 
 * http://pandoc.org/epub.html (epub)
 * https://github.com/paulfurley/markdown-to-epub-mobi (epub)
 
-
 ### Asciidoctor (and Asciidoc)
-
 
 #### Asciidoctor Setup
 
 * [asciidoctor setup](https://www.informatik.htw-dresden.de/~zirkelba/notes/se/asciidoc-installation-and-configuration/)
+* https://docs.asciidoctor.org/asciidoctor.js/latest/setup/install/ (also includes Graalvm instructions)
+  + https://github.com/carlosvin/rollup-plugin-asciidoc
 
 ##### Asciidoctor Setup for Presentation
 
@@ -105,6 +106,8 @@
 * http://www.methods.co.nz/asciidoc
   + http://www.methods.co.nz/asciidoc/publishing-ebooks-with-asciidoc.html (epub)
   + http://asciidoc.org/epub-notes.html (epub)
+* https://entwickler.de/software-architektur/hitchhikers-guide-to-docs-as-code-tools-fur-asciidocasciidoctor/
+  + https://entwickler.de/testing/hitchhikers-guide-to-docs-as-code-the-beautiful-code/
 
 ## Extensions
 
