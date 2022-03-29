@@ -48,28 +48,48 @@
   
 * https://preactjs.com/ (like react but ssr)
 * https://short.is/writing/next.js-with-web-components-and-a-0kb-bundle
+* [stencil - wc compiler](https://stenciljs.com/)
 
 ## Web components
 
 * https://en.m.wikipedia.org/wiki/Web_Components
 * https://www.ionos.de/digitalguide/websites/web-entwicklung/web-components/ featured
 * https://developer.mozilla.org/de/docs/Web/Web_Components
+* https://project-awesome.org/mateusortiz/webcomponents-the-right-way (list of lists)
+* https://www.webcomponents.org/introduction
 * https://blog.viadee.de/web-components-teil-2
+* https://www.thinktecture.com/de/web-components/native-web-components-without-framework/
+* https://medium.com/tuitech/implement-a-ui-library-with-web-components-de0bffcf39ff
+* https://www.techtarget.com/searchsoftwarequality/tip/How-to-use-Web-Components-with-UI-design-tools
+* https://blog.bitsrc.io/web-component-why-you-should-stick-to-react-c56d879a30e1
+* https://kinsta.com/de/blog/web-komponenten/#web-component-kritikpunkte-und-probleme
+
+* https://www.webcomponents.org/libraries
+* [JS frameworks and there compatibility with wc](https://custom-elements-everywhere.com/)
 * https://lit.dev/
   + https://github.com/web-padawan/awesome-lit featured
   + https://rodydavis.com/posts/flutter-and-lit/
   + [building tools for lit](https://lit.dev/docs/tools/production/)
   + https://github.com/lit/lit
+  + [lit and RxJS 1](https://adrianfaciu.dev/posts/observables-litelement/)
+  + [lit and RxJS 2](https://netbasal.com/lit-rxjs-made-for-each-other-ace3d13f3c24)
 * https://slimjs.com/#/welcome
 
 ### Web Components Widgets
 
+* https://blog.bitsrc.io/9-web-component-ui-libraries-you-should-know-in-2019-9d4476c3f103
+* https://open-wc.org/guides/community/component-libraries/
+* https://soshace.com/top-9-web-components-ui-libraries/
 * [AXA Design System](https://patterns.axa.ch/?path=/story/guides-getting-started--getting-started)
   + [AXA pattern library](https://github.com/axa-ch-webhub-cloud/pattern-library)
 * [Brightspace UI](https://github.com/BrightspaceUI)
   + [Brightspace UI core](https://github.com/BrightspaceUI/core) includes tables, lists, cards, and more
 * [Ing Bank Lion](https://github.com/ing-bank/lion)
   + https://lion-web.netlify.app/components/content/accordion/overview/ (no tables)
+* [Lightning](https://lwc.dev/) (aura based)
+  + https://github.com/trailheadapps/ebikes-lwc
+  + https://developer.salesforce.com/code-samples-and-sdks
+  + https://developer.salesforce.com/blogs/2018/12/introducing-lightning-web-components
 
 ### Frontend architecture
 
@@ -92,10 +112,16 @@
 
 #### React
 
+* https://reactjsexample.com/
+
 ##### React themes
 
 * https://startreact.com/themes/
 * https://market.nativebase.io/
+
+##### React Widgets
+
+* https://chakra-ui.com/
 
 ##### React tools
 
@@ -105,6 +131,9 @@
   + https://jamstack.org/generators/
   + https://www.netlify.com/
   + https://en.wikipedia.org/wiki/Netlify
+* [react documentation](https://dev.to/sankalpswami1122/5-tools-that-have-made-react-documentation-a-piece-of-cake-2750)
+  + [docz](https://www.docz.site/) based on MDX and gatsby
+  + [react-docgen](https://github.com/reactjs/react-docgen)
 
 ##### React Builder UIs...
 
@@ -116,6 +145,10 @@
   + https://github.com/reactjs/reselect (createSelector(Creator), createStructedSelector, defaultMemoize)
   + https://github.com/acdlite/redux-actions (createAction(s), handleAction(s) (statt switch), combineActions)
   + https://github.com/erikras/ducks-modular-redux (http://redux.js.org/docs/api/bindActionCreators.html) 
+* https://blog.openreplay.com/redux-alternatives-in-2021/
+  + https://swr.vercel.app/
+  + https://redux-toolkit.js.org/
+  + https://recoiljs.org/
 
 #### Angular
 
@@ -212,6 +245,21 @@
   + https://github.com/solidjs/solid
 * https://svelte.dev/
 * https://lit.dev/
+* https://preactjs.com/ (react-replacement)
+* https://www.solidjs.com/ (react-like)
+
+### Components development
+
+* https://bit.dev/docs/quick-start
+  + https://bit.cloud/
+  + https://blog.bitsrc.io/how-is-bit-dev-different-from-storybook-892b373733bd
+  + https://brandres.medium.com/introduction-to-bit-dev-bit-harmony-for-managing-our-react-native-components-d623517db0e0
+* https://www.outsystems.com/
+
+### UI Widget development
+
+* https://storybook.js.org/
+* https://react-styleguidist.js.org/
 
 ### Immutable
 
@@ -306,3 +354,7 @@
 ## Javascript and 3d
 
 * https://threejs.org/
+
+## Content Delivery Networks
+
+* https://jspm.org/

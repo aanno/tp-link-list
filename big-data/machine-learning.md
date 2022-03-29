@@ -60,6 +60,8 @@
 * https://github.com/FeatureLabs/featuretools (for feature extraction)
 * https://github.com/ray-project/ray (distributor)
 * https://github.com/quark0/darts (automl algorithm)
+* https://github.com/salesforce/TransmogrifAI
+  + https://engineering.salesforce.com/open-sourcing-transmogrifai-4e5d0e098da2?gi=1691eec59f35
 
 ## Blogs
 

@@ -7,11 +7,17 @@
 * [list of markdown based presentation solutions](https://gist.github.com/johnloy/27dd124ad40e210e91c70dd1c24ac8c8)
 * [reveal](https://github.com/hakimel/reveal.js/) html5 presentation framework
 * [live deck](https://github.com/gaslight/live_deck) interactive html5 presentation framework
-* [spectacle - react based presentation slides](https://formidable.com/open-source/spectacle/)
 * [eagle - vue based presentation slides](https://github.com/zulko/eagle.js/)
 * [NueDeck - vue based presentation slides](https://github.com/twitwi/nuedeck)
 * [decktape](https://github.com/astefanutti/decktape) pdf from Html presentation - includes links to presentation frameworks
+* [web components based presentations](https://github.com/ChristianKohler/web-presentation)
 
+### Presentations React-based
+
+* [react-present](https://github.com/limscoder/react-present)
+* [spectacle - react based presentation slides](https://formidable.com/open-source/spectacle/)
+* [mdx deck - react based](https://github.com/jxnblk/mdx-deck)
+* https://reactjsexample.com/slideshow-framework-built-w-react-router-4/
 ## XML
 
 ### Editors
@@ -129,6 +135,7 @@
   + https://github.com/asciidoctor/asciidoctor-diagram
 * [use plantuml server for rendering](https://github.com/hsanson/asciidoctor-plantuml)
 * https://structurizr.com/ (supports md and asciidoc)
+* [asciidoctor-kroki](https://github.com/Mogztter/asciidoctor-kroki)
 
 ## asciidoctor.js
 

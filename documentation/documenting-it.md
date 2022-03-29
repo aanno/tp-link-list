@@ -20,6 +20,8 @@ see `diagrams-modelling.md`
 
 #### Docs-as-Code tools
 
+* https://entwickler.de/testing/hitchhikers-guide-to-docs-as-code-the-beautiful-code/
+  + https://entwickler.de/software-architektur/hitchhikers-guide-to-docs-as-code-tools-fur-asciidocasciidoctor/
 * [antora](https://antora.org/)
   + https://datahandwerk.aisberg.de/2021-04-20-docs-code-mit-asciidoc-und-antora/
   + https://medium.com/codeshake/replace-your-wiki-with-a-documentation-site-4f0da329fe92

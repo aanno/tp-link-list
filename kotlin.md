@@ -51,3 +51,11 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 
 * https://github.com/Yegair/kotlin-angular
 * Or: compile -> TeaVM
+
+## Kotlin for web UI
+
+* [compose](https://github.com/JetBrains/compose-jb) (android compose based)
+  + https://www.jetbrains.com/lp/compose-mpp/
+  + https://compose-web.ui.pages.jetbrains.team/
+  + https://medium.com/mindorks/build-server-driven-personalized-ui-using-jetpack-compose-a0a31689b375
+  + https://developer.android.com/jetpack/compose

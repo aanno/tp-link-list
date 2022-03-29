@@ -59,6 +59,7 @@
   + [get started](http://docs.cascading.org/impatient/)
   + https://www.cascading.org/news/
   + https://www.cascading.org/extensions/
+* [phoenix - OLTP and operational analytics](https://phoenix.apache.org/)
 
 ### Kafka and Co
 

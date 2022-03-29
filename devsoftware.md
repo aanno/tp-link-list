@@ -198,6 +198,7 @@
 * [What is a headless CMS](https://www.coredna.com/blogs/headless-vs-decoupled-cms)
 * https://cmsstash.de/empfehlungen/headless-cms
 * https://headlesscms.org
+* https://www.altkomsoftware.com/blog/headless-cms-microservice/ (based on hippo)
 
 * https://sylvainleroy.com/2017/10/15/Headless-CMS-What-to-choose/
 * https://dev.acquia.com/blog/nodejs-and-headless-cms-the-backend-building-blocks/01/03/2018/19201
@@ -250,6 +251,9 @@
 * [strapi CLI(https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/installation/cli.html)
 * [strapi and svelte](https://strapi.io/integrations/svelte-cms)
 * [stapi, gatsby](https://strapi.io/integrations/gatsby-cms)
+* [Convert the Strapi models to TypeScript interfaces](https://github.com/erikvullings/strapi-to-typescript)
+  + https://alexdevmotion.medium.com/typescript-for-strapi-lifes-too-short-to-es5-1cc852fbf504
+* [use quill html editor in strapi](https://strapi.io/blog/how-to-change-the-default-wysiwy-to-quill-editor)
 
 #### Blogs examples based on headless CMS (mostly static site creation)
 
@@ -269,6 +273,9 @@
 
 * https://www.gatsbyjs.com/ (asciidoctor, katex, ...)
 * https://astro.build/
+  + https://github.com/withastro/astro/tree/main/packages/renderers/renderer-lit
+    - https://web.dev/declarative-shadow-dom/
+* https://markojs.com/
 
 ### Static Site Generators
 

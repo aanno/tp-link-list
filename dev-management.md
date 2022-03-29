@@ -9,3 +9,14 @@
 * https://www.impulse.de/
 * https://www.impulse.de/management/personalfuehrung/wertschaetzung/7606844.html
 * [holacracy](https://www.golem.de/news/holacracy-die-hierarchie-der-kreise-2111-160954.html)
+
+## Search for alternative technologies
+
+* https://alternativeto.net/
+* https://www.libhunt.com/
+* https://www.getapp.com
+
+
+## Search for presentations/slides
+
+* https://slidedeck.io/
