@@ -8,6 +8,8 @@
 
 ## Musik
 
+* https://www.laut.de
+
 ### St Pepper
 
 * https://www.welt.de/kultur/article165126193/Was-Sgt-Pepper-uns-mit-seinem-Cover-sagen-will.html
@@ -21,3 +23,11 @@
 * https://www.spektrum.de/kolumne/die-beulen-der-erde/1559254
 * https://www.berliner-zeitung.de/kultur/interview-mit-richard-david-precht--philosophieren-ist-kein-ueberlebensvorteil--29412304
 * https://www.spektrum.de/news/wie-real-ist-die-quantenverschraenkung/1445463
+
+### Klassik
+
+#### Moderne Komponisten
+
+* https://de.wikipedia.org/wiki/Giorgio_Battistelli Oper, Vokalwerke
+* https://de.wikipedia.org/wiki/Nino_Rota Filmmusik (Fellini), Orchester
+* https://de.wikipedia.org/wiki/John_Corigliano Filmmusik (Oscar, Grammy), Orchester

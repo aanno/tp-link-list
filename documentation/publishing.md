@@ -276,6 +276,10 @@
 * https://www.princexml.com/ (commercial)
 * https://www.pdfreactor.com/ (commercial)
 
+#### Headless chrome (alternative to puppeteer)
+
+* https://github.com/atroche/rust-headless-chrome
+
 ## RTF software and tools
 
 * https://github.com/LibrePDF/OpenRTF

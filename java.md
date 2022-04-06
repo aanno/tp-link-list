@@ -159,6 +159,9 @@
 ### Java module system
 
 * https://github.com/moditect/moditect
+* https://www.jrebel.com/blog/java-9-modules-cheat-sheet
+* https://www.informatik-aktuell.de/entwicklung/programmiersprachen/java-9-das-neue-modulsystem-jigsaw-tutorial.html
+* https://stackoverflow.com/questions/43606502/can-i-require-java-9-module-via-manifest-mf
 
 ### Osgi
 
