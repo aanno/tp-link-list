@@ -162,6 +162,8 @@
 * https://teamsql.io
 * http://www.oracle.com/technetwork/developer-tools/sql-developer/overview/index.html
 * http://squirrel-sql.sourceforge.net/
+* [vitess](https://vitess.io/) horizontal scaling for mySQL
+  + https://github.com/vitessio/vitess
 
 ## CMS (and related)
 
@@ -192,12 +194,14 @@
   + https://github.com/netlify/netlify-cms
 * https://github.com/misterfresh/react-drive-cms (google-drive-based)
 * https://getgrav.org/ (flat-file based)
+* https://tina.io (headless, git based)
 
 ### Headless CMS and API server
 
 * [What is a headless CMS](https://www.coredna.com/blogs/headless-vs-decoupled-cms)
 * https://cmsstash.de/empfehlungen/headless-cms
 * https://headlesscms.org
+* https://jamstack.org/headless-cms/ (includes api-based and git-based software)
 * https://www.altkomsoftware.com/blog/headless-cms-microservice/ (based on hippo)
 
 * https://sylvainleroy.com/2017/10/15/Headless-CMS-What-to-choose/

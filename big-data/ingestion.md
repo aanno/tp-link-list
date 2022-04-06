@@ -10,6 +10,9 @@
   + https://github.com/azkaban/azkaban
 * [miniwdl](https://github.com/chanzuckerberg/miniwdl) tasks for podman
   + [WDL spec](https://github.com/openwdl/wdl/blob/main/versions/development/SPEC.md)
+* [dolt](https://github.com/dolthub/dolt) git for big data with mySQL interface
+  + https://thenewstack.io/dolt-a-relational-database-with-git-like-cloning-features/
+
 
 ## Visualization
 

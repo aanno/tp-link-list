@@ -100,6 +100,7 @@
 * https://docs.asciidoctor.org/asciidoc/latest/
 * http://asciidoctor.org/docs/asciidoc-writers-guide/
 * http://asciidoctor.org/docs/user-manual/#introduction-to-asciidoctor
+* https://powerman.name/doc/asciidoc (cheatsheet)
 
 #### Tooling
 

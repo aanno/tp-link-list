@@ -247,6 +247,8 @@
 * https://lit.dev/
 * https://preactjs.com/ (react-replacement)
 * https://www.solidjs.com/ (react-like)
+* https://alpinejs.dev/
+  + https://thenewstack.io/alpine-js-brings-javascript-interactivity-without-complexity-to-html/
 
 ### Components development
 

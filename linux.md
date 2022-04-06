@@ -237,6 +237,7 @@
 #### Nitrokey
 
 * [overview of usage szenarios](https://www.xmodulo.com/linux-security-with-nitrokey-usb-smart-card.html)
+* [openPGP on your java smartcard (javacard)](https://github.com/ANSSI-FR/SmartPGP)
 
 It is _not_ possible to recover the public key stored on nitro, see
 

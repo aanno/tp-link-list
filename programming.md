@@ -50,6 +50,8 @@
 
 ## Emerging Technologies
 
+* https://thenewstack.io/
+
 ### CQRS and event sourcing
 
 * https://github.com/Chinchilla-Software-Com/CQRS/wiki/CQRS-Architecture

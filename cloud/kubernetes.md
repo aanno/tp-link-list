@@ -204,6 +204,7 @@
 ##### Kubernetes and public cloud
 
 * https://learnk8s.io/cloud-resources-kubernetes
+* [multitenancy](https://opensource.com/article/22/3/virtual-kubernetes-clusters-new-model-multitenancy)
 
 #### Storage
 

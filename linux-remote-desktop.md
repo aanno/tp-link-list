@@ -5,6 +5,8 @@
 * [kasmVNC - in browser VNC solution]https://github.com/kasmtech/KasmVNC partly commercial
   + https://www.kasmweb.com/kasmvnc.html
   + https://www.kasmweb.com/workspace_images.html
+* https://github.com/DeshmukhPooja/webrtc-remote-desktop
+* https://github.com/screego/server (only screen sharing)
 
 # Spice
 
