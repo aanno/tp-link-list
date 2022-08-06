@@ -51,6 +51,32 @@
 - [Wayland for KDE](https://community.kde.org/KWin/Wayland)
 - [modesetting on nvidia](https://negativo17.org/wayland-modesetting-on-nvidia/)
 
+## nvidia
+
+* [nvidia offical driver from nvidia (including rpms)](https://www.nvidia.com/Download/index.aspx?lang=en-us)
+* [cuda official driver from nvidia (including rpms)](https://developer.nvidia.com/cuda-downloads)
+* [troubleshooting nvidia official drivers](https://negativo17.org/nvidia-driver/)
+
+```bash
+$ dkms status
+Deprecated feature: REMAKE_INITRD
+akvcam/1.2.2, 5.18.10-200.fc36.x86_64, x86_64: installedDeprecated feature: REMAKE_INITRD
+Deprecated feature: REMAKE_INITRD
+
+akvcam/1.2.2, 5.18.11-200.fc36.x86_64, x86_64: installedDeprecated feature: REMAKE_INITRD
+Deprecated feature: REMAKE_INITRD
+
+akvcam/1.2.2, 5.18.15-200.fc36.x86_64, x86_64: installedDeprecated feature: REMAKE_INITRD
+
+nvidia/515.65.01, 5.18.10-200.fc36.x86_64, x86_64: installed
+nvidia/515.65.01, 5.18.11-200.fc36.x86_64, x86_64: installed
+nvidia/515.65.01, 5.18.15-200.fc36.x86_64, x86_64: installed
+v4l2loopback_dc/0.0.1, 5.16.20-200.fc35.x86_64, x86_64: installed (WARNING! Missing some built modules!)
+v4l2loopback_dc/0.0.1, 5.18.10-200.fc36.x86_64, x86_64: installed
+v4l2loopback_dc/0.0.1, 5.18.11-200.fc36.x86_64, x86_64: installed
+v4l2loopback_dc/0.0.1, 5.18.15-200.fc36.x86_64, x86_64: installed
+```
+
 ## Konfiguration
 
 - [Enabling hibernation](http://blog.ordinatechnic.com/blog/2015/06/08/enabling-hibernation-suspend-to-disk-in-fedora-22/)
