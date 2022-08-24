@@ -77,6 +77,53 @@ v4l2loopback_dc/0.0.1, 5.18.11-200.fc36.x86_64, x86_64: installed
 v4l2loopback_dc/0.0.1, 5.18.15-200.fc36.x86_64, x86_64: installed
 ```
 
+### Problem: nvidia only works on old kernels
+
+Find old (and other) kernels:
+
+```bash
+$ sudo dnf --showduplicates list kernel
+Letzte Prüfung auf abgelaufene Metadaten: vor 0:00:51 am Mi 24 Aug 2022 19:45:58 CEST.
+Installierte Pakete
+kernel.x86_64                                       5.17.5-300.fc36                                                   @fedora
+kernel.x86_64                                       5.18.10-200.fc36                                                  @updates
+kernel.x86_64                                       5.18.18-200.fc36                                                  @updates
+kernel.x86_64                                       5.18.18-250.vanilla.1.fc36                                        @kernel-vanilla-fedora
+kernel.x86_64                                       5.19.2-325.vanilla.1.fc36                                         @kernel-vanilla-stable
+Verfügbare Pakete
+kernel.x86_64                                       5.17.5-300.fc36                                                   fedora
+kernel.x86_64                                       5.18.18-200.fc36                                                  updates
+```
+
+Install specific kernel version:
+
+```bash
+sudo dnf install kernel-5.17.5-300.fc36.x86_64
+sudo dnf install kernel-modules-5.17.5-300.fc36.x86_64
+sudo dnf install kernel-modules-extra-5.17.5-300.fc36.x86_64
+sudo dnf install kernel-devel-5.17.5-300.fc36.x86_64
+``
+
+Mark kernel for _not_ uninstalling:
+
+```bash
+sudo dnf mark install kernel-5.17.5-300.fc36.x86_64
+sudo dnf mark install kernel-modules-5.17.5-300.fc36.x86_64
+sudo dnf mark install kernel-modules-extra-5.17.5-300.fc36.x86_64
+sudo dnf mark install kernel-devel-5.17.5-300.fc36.x86_64
+```
+
+References:
+* https://serverfault.com/questions/932351/how-to-keep-a-specific-version-of-an-old-kernel-while-still-allowing-updates
+* https://unix.stackexchange.com/questions/266888/can-i-force-dnf-to-install-an-old-version-of-a-package
+* https://bodhi.fedoraproject.org/updates/?packages=kernel
+* installonly_limit: https://superuser.com/questions/1423559/how-can-i-change-the-number-of-kernels-retained-when-updating-in-fedora
+
+### Problem: use new kernels
+
+References:
+* https://fedoraproject.org/wiki/Kernel_Vanilla_Repositories
+
 ## Konfiguration
 
 - [Enabling hibernation](http://blog.ordinatechnic.com/blog/2015/06/08/enabling-hibernation-suspend-to-disk-in-fedora-22/)
