@@ -102,7 +102,7 @@ sudo dnf install kernel-5.17.5-300.fc36.x86_64
 sudo dnf install kernel-modules-5.17.5-300.fc36.x86_64
 sudo dnf install kernel-modules-extra-5.17.5-300.fc36.x86_64
 sudo dnf install kernel-devel-5.17.5-300.fc36.x86_64
-``
+```
 
 Mark kernel for _not_ uninstalling:
 
@@ -111,6 +111,14 @@ sudo dnf mark install kernel-5.17.5-300.fc36.x86_64
 sudo dnf mark install kernel-modules-5.17.5-300.fc36.x86_64
 sudo dnf mark install kernel-modules-extra-5.17.5-300.fc36.x86_64
 sudo dnf mark install kernel-devel-5.17.5-300.fc36.x86_64
+```
+
+Compile and install nvidia modules:
+
+```bash
+sudo dkms install nvidia/515.65.01 -k 5.17.5-300.fc36.x86_64
+# check with
+sudo dkms status
 ```
 
 References:
