@@ -274,6 +274,35 @@ Einrichtung von `xrdp`
     sudo echo "startxfce4" > ~/.Xclients
     sudo chmod +x ~/.Xclients
     sudo systemctl restart xrdp.service
+    
+## grub2, grubby
+
+```bash
+# defaults are in /etc/default/grub
+grubby --update-kernel=ALL
+# UEFI systems
+grub2-mkconfig -o "$(readlink -e /etc/grub2-efi.conf)"
+```
+
+Um einen Eintrag zu sehen:
+
+```bash
+grubby --info /boot/vmlinuz-5.18.19-200.fc36.x86_64 
+index=0
+kernel="/boot/vmlinuz-5.18.19-200.fc36.x86_64"
+args="ro resume=/dev/mapper/fedora-00 rd.lvm.lv=fedora/root rd.luks.uuid=luks-8cfdfb51-cdfa-401a-9815-d3be9a527942 rd.lvm.lv=fedora/00 rhgb quiet rd.driver.blacklist=nvidia"
+root="/dev/mapper/fedora-root"
+initrd="/boot/initramfs-5.18.19-200.fc36.x86_64.img"
+title="Fedora Linux (5.18.19-200.fc36.x86_64) 36 (Workstation Edition)"
+id="7456cbe7c3e24fe1bb4decec38f2b885-5.18.19-200.fc36.x86_64"
+```
+
+Referenzen:
+* https://www.dedoimedo.com/computers/fedora-30-grub-persistent-changes.html
+* https://unix.stackexchange.com/questions/152222/what-is-the-equivalent-of-update-grub-for-rhel-fedora-and-centos-systems
+* https://docs.fedoraproject.org/en-US/fedora/latest/system-administrators-guide/kernel-module-driver-configuration/Working_with_the_GRUB_2_Boot_Loader/
+* https://marius.bloggt-in-braunschweig.de/2019/09/22/grubby-wie-man-wieder-einen-default-kernel-setzen-kann/
+* https://fedoraproject.org/wiki/GRUB_2
 
 ## Interessante zusätzliche Programme
 
