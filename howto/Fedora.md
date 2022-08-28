@@ -304,6 +304,17 @@ Referenzen:
 * https://marius.bloggt-in-braunschweig.de/2019/09/22/grubby-wie-man-wieder-einen-default-kernel-setzen-kann/
 * https://fedoraproject.org/wiki/GRUB_2
 
+## initramfs
+
+Alle initramfs neu erstellen (hier: ohne video driver):
+
+```bash
+dracut --omit-drivers "i915 video nouveau nvidia_drm nvidia_modeset nvidia" --regenerate-all --force
+```
+
+Referenzen:
+* https://linuxconfig.org/how-to-build-an-initramfs-using-dracut-on-linux
+
 ## Interessante zusätzliche Programme
 
 - [Fedy Fedora Tweaker](http://folkswithhats.org/)
