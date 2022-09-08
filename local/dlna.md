@@ -14,4 +14,12 @@
 * [serviio](https://serviio.org/) http://192.168.10.117:23424/mediabrowser/ (only with license)
   + [serviio docs](https://serviio.org/support)
   + [local admin console](http://192.168.10.117:23423/console/)
-  
+* [owntone](https://github.com/owntone/owntone-server)
+  + [owntone docs](https://owntone.github.io/owntone-server/installation/)
+  + [owntone.local:3689](http://owntone.local:3689)
+  + [192.168.10.117:3689](http://192.168.10.117:3689)
+  + [localhost:3689](http://localhost:3689)
+* [gmrender](https://github.com/hzeller/gmrender-resurrect) DLNA renderer client
+  + [gmrender install](https://github.com/hzeller/gmrender-resurrect/blob/master/INSTALL.md)
+  + [gmrender compatibility](https://github.com/hzeller/gmrender-resurrect/wiki/Comptibility)
+* [muspnp](https://github.com/phpbg/muspnp/) DLNA control point in JS
