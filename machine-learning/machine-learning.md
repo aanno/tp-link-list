@@ -85,3 +85,27 @@ There is a UI for conda that makes life easier.
 ```bash
 ```
 
+## jupyter
+
+Just use `jupyter-lab` for notebooks. This is the newest incarnation of jupyter and runs in the browser.
+
+## Q&A
+
+### Problem: module 'collections' has no attribute 'Mapping'
+
+A python 3.10 problem:
+
+```bash
+$ grep -nri collections.Mapping /opt/miniconda3-4.10.3/lib/python3.10/site-packages/
+/opt/miniconda3-4.10.3/lib/python3.10/site-packages/binstar_client/utils/config.py:93:        if isinstance(updated_value, collections.Mapping):
+grep: /opt/miniconda3-4.10.3/lib/python3.10/site-packages/conda/_vendor/frozendict/__pycache__/__init__.cpython-310.pyc: Übereinstimmungen in Binärdatei
+/opt/miniconda3-4.10.3/lib/python3.10/site-packages/conda/_vendor/frozendict/__init__.py:14:    An immutable wrapper around dictionaries that implements the complete :py:class:`collections.Mapping`
+/opt/miniconda3-4.10.3/lib/python3.10/site-packages/repo_cli/utils/config.py:108:        if isinstance(updated_value, collections.Mapping):
+```
+
+The occurences of `collections.Mapping` must be replaced with `collections.abc.Mapping`.
+
+Reference:
+* https://stackoverflow.com/questions/70749690/attributeerror-module-collections-has-no-attribute-mapping
+
+
