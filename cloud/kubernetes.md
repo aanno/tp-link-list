@@ -270,6 +270,9 @@
 * https://github.com/boot2podman/boot2podman
   + https://podman.io/blogs/2019/01/14/podman-machine-and-boot2podman.html
 
+* [podman on windows](https://www.redhat.com/sysadmin/run-podman-windows)
+* [podman desktop](https://podman-desktop.io/)
+
 ### podman (pods interface)
 
 * https://www.techrepublic.com/article/how-to-deploy-a-pod-with-podman/

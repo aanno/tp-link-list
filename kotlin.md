@@ -13,7 +13,17 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 ## Coroutines
 
 * https://dzone.com/articles/concurrency-java-futures-and-kotlin-coroutines
-
+* https://medium.com/swlh/how-can-we-use-coroutinescopes-in-kotlin-2210695f0e89
+* documentation
+  + [basics](https://kotlinlang.org/docs/coroutines-basics.html)
+  + [context and dispatcher](https://kotlinlang.org/docs/coroutine-context-and-dispatchers.html)
+  + [channels](chttps://kotlinlang.org/docs/channels.html)
+  + [channels 2](https://kotlinlang.org/docs/coroutines-and-channels.html)
+  + [composing](https://kotlinlang.org/docs/composing-suspending-functions.html)
+  + [concurrency and coroutines](https://kotlinlang.org/docs/multiplatform-mobile-concurrency-and-coroutines.html#multithreaded-coroutines)
+  + [synchronized is deprecated in kotlin](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/synchronized.html)
+  + [examples](https://github.com/Kotlin/kotlinx.coroutines/tree/master/kotlinx-coroutines-core/jvm/test/guide)
+  + [examples 2](https://github.com/Kotlin/coroutines-examples)
 ## Link lists
 
 * https://github.com/KotlinBy/awesome-kotlin
@@ -39,7 +49,7 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 
 ### Server
 
-* https://github.com/kotlin/ktor
+* https://github.com/kotlin/ktor (server, microservices)
 * https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0
 * https://dzone.com/articles/kotlin-guice-example (guice)
 

@@ -31,12 +31,6 @@ prinzipiell der klassischen Programmierung überlegen ist.
 
 * https://scalameta.org/
 
-### Dotty/Scala 3
-
-* http://dotty.epfl.ch/#getting-started
-* http://dotty.epfl.ch/docs/reference/other-new-features/explicit-nulls.html
-  + https://ayushm4489.medium.com/explicit-nulls-in-scala-3-9aa9cdb6b10c
-
 ## Libs
 
 * https://github.com/functional-streams-for-scala/fs2 (functional streams)
@@ -139,3 +133,34 @@ prinzipiell der klassischen Programmierung überlegen ist.
 ### Lift
 
 * https://www.liftweb.net/lift_overview
+
+## Dotty/Scala 3
+
+* http://dotty.epfl.ch/#getting-started
+* http://dotty.epfl.ch/docs/reference/other-new-features/explicit-nulls.html
+  + https://ayushm4489.medium.com/explicit-nulls-in-scala-3-9aa9cdb6b10c
+
+## Scala 3
+
+* [scala 3 reference](https://docs.scala-lang.org/scala3/reference/)
+* [scala 3 book](https://docs.scala-lang.org/scala3/book/fp-functional-error-handling.html)
+
+### Scala 3 `-Yexplicit-nulls`
+
+* https://dotty.epfl.ch/3.0.0/docs/reference/other-new-features/explicit-nulls.html
+* https://stackoverflow.com/questions/70747784/scala-3-explicit-nulls-flag-makes-string-operations-quite-unusable
+
+### Special interest
+
+* http://www.scalaformachinelearning.com/
+* https://index.scala-lang.org/awesome/serverless?sort=stars
+  + https://index.scala-lang.org/typelevel/feral
+    - https://disneystreaming.github.io/smithy4s/docs/overview/intro/
+    - https://github.com/tpolecat/natchez
+* cats
+* [cat effect](https://typelevel.org/cats-effect/)
+  + https://typelevel.org/cats-effect/docs/tutorial
+  + [herding cats tutorial](https://eed3si9n.com/herding-cats/sum-function.html)
+* coroutines
+  + https://scala-coroutines.github.io/coroutines/
+    - https://monix.io/

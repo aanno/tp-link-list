@@ -38,6 +38,9 @@
 * https://towardsdatascience.com/how-to-train-an-image-classifier-in-pytorch-and-use-it-to-perform-basic-inference-on-single-images-99465a1e9bf5?gi=e21d41748c29
 * [dynare - macroeconomics modeling for all](https://www.dynare.org/)
 
+### language models
+
+* https://www.heise.de/news/Open-Source-OpenAI-veroeffentlicht-automatisches-Spracherkennungssystem-Whisper-7273104.html
 
 ## Pytorch
 

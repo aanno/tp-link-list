@@ -98,6 +98,10 @@
   + https://spring.io/blog/2021/03/11/announcing-spring-native-beta
   + https://www.heise.de/news/Java-Framework-Native-Spring-Anwendungen-laufen-ohne-die-JVM-5078681.html
 
+## Java to JS/TS
+
+* https://www.jsweet.org/
+
 ### Java 17 LTS
 
 * https://developer.oracle.com/developer-live/java-innovations-sep-2021/

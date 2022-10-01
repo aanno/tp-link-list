@@ -1,5 +1,7 @@
 # Full stack microservices
 
+* https://dev.to/javinpaul/5-best-java-frameworks-to-learn-in-2022-for-microservices-and-cloud-native-development-4732
+
 ## Tools
 
 * https://www.heise.de/developer/artikel/Aus-der-Werkzeugkiste-Teil-4-Adam-Bien-3755575.html?artikelseite=2
@@ -29,6 +31,7 @@
 * https://quarkus.io/
   + https://developers.redhat.com/blog/2019/03/07/quarkus-next-generation-kubernetes-native-java-framework
   + https://developers.redhat.com/blog/2019/04/09/from-zero-to-quarkus-and-knative-the-easy-way (tutorial)
+  + https://github.com/quarkiverse/quarkus-scala3
 * https://knative.dev/ for kubernetes
   + https://developers.redhat.com/blog/2019/03/20/knative-what-developers-need-to-know
 * https://micronaut.io/

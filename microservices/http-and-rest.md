@@ -2,8 +2,9 @@
 
 ## Polyglott
 
-* http://micronaut.io/ (java, kotlin, groovy)
+* http://micronaut.io/ (java, kotlin, groovy, scala)
   + https://jaxenter.com/micronaut-framework-microservices-142457.html
+  + [scala support in micronaut](https://github.com/micronaut-projects/micronaut-core/wiki/Scala-Support)
 
 ## Java
 
@@ -47,6 +48,7 @@
 * https://javalin.io/
 * https://ktor.io/index.html
   + https://github.com/kotlin/ktor
+  + [size of js ktor](https://youtrack.jetbrains.com/issue/KTOR-1084)
 * http://hexagonkt.com/
   + https://github.com/hexagonkt/hexagon
 * http://www.fireflysource.com/index.html (also for java)
@@ -83,7 +85,10 @@
 
 ### Overview
 
+* https://mattmoore.io/blog/scala3-microservices-http4s-doobie (wok)
 * https://www.quora.com/Which-Scala-framework-is-the-best-for-REST-API-development
+* https://www.heise.de/hintergrund/Scala-Microservices-mit-dem-Actor-Modell-serialisieren-5075590.html
+* https://www.packtpub.com/product/scala-microservices/9781786469342 (retired)
 
 ### Self-written
 

@@ -99,6 +99,8 @@ Alternative
 ##### Serverless platforms
 
 * [cloudflare workers](https://workers.cloudflare.com/)
+* https://www.serverless.com/
+  + https://github.com/serverless/serverless
 
 ### Emerging Stacks
 

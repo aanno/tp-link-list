@@ -9,3 +9,8 @@
 ## JPython
 
 * https://github.com/jythontools/clamp
+
+## Stackless Python
+
+* https://github.com/stackless-dev/stackless/wiki/
+* [stackless for conda and anaconda](https://github.com/stackless-dev/stackless/wiki/BuildForConda)
