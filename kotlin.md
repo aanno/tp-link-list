@@ -24,6 +24,17 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
   + [synchronized is deprecated in kotlin](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/synchronized.html)
   + [examples](https://github.com/Kotlin/kotlinx.coroutines/tree/master/kotlinx-coroutines-core/jvm/test/guide)
   + [examples 2](https://github.com/Kotlin/coroutines-examples)
+    - https://github.com/Kotlin/coroutines-examples/blob/master/examples/generator/generator.kt
+
+* [js-generator-like implemented in coroutine](https://github.com/Kotlin/coroutines-examples/blob/master/examples/generator/generator.kt)
+
+### Saga pattern
+
+* [saga pattern in kotlin 1](https://github.com/cingaldi/sagapattern/tree/master/src/main/kotlin/com/cingaldi/sagapattern/application)
+* [saga pattern in kotlin 2](https://gist.github.com/araqnid/02552db155c1572bcfdc3880a9d3804d)
+* [saga pattern in kotlin 3](https://github.com/nomisRev/Saga)
+  + https://nomisrev.github.io/Saga/
+
 ## Link lists
 
 * https://github.com/KotlinBy/awesome-kotlin
@@ -46,6 +57,11 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 * https://github.com/vert-x3/vertx-examples/tree/master/kotlin-example (vert.x)
 
 ## Libraries
+
+* [arrow](https://arrow-kt.io/docs/core/) - functional library
+  + https://github.com/arrow-kt/arrow
+  + [arrow monad comprehensions](https://arrow-kt.io/docs/patterns/monad_comprehensions/)
+  + [arrow and coroutines](https://arrow-kt.io/docs/fx/coroutines/)
 
 ### Server
 

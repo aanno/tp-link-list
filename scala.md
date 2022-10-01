@@ -157,10 +157,12 @@ prinzipiell der klassischen Programmierung überlegen ist.
   + https://index.scala-lang.org/typelevel/feral
     - https://disneystreaming.github.io/smithy4s/docs/overview/intro/
     - https://github.com/tpolecat/natchez
-* cats
+* [cats](https://typelevel.org/cats/)
 * [cat effect](https://typelevel.org/cats-effect/)
   + https://typelevel.org/cats-effect/docs/tutorial
   + [herding cats tutorial](https://eed3si9n.com/herding-cats/sum-function.html)
+  + [async/await with `-Xasync`](https://typelevel.org/cats-effect/docs/std/async-await)
 * coroutines
   + https://scala-coroutines.github.io/coroutines/
+  + [scala futures vs kotlin coroutines](https://gist.github.com/alexbezhan/9bb140dc25c06cdfd56bc748c7fa9c19)
     - https://monix.io/
