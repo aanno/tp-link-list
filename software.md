@@ -364,13 +364,64 @@
 
 ## DMS
 
-* https://github.com/bevuta/pepa
 * http://www.cinnamon-cms.com/ (Dita)
   + https://github.com/dewarim/cinnamon
   + https://github.com/dewarim/cinnamon/blob/master/docs/dwarves_and_giants.md
+
+### Full blown
+
 * https://docspell.org/
+  + https://github.com/eikek/docspell
 * https://github.com/jonaswinkler/paperless-ng
   + https://paperless-ng.readthedocs.io/en/latest/
+* https://www.mayan-edms.com/
+  + https://docs.mayan-edms.com/parts/installation.html
+  + https://docs.mayan-edms.com/chapters/search.html
+  + https://whoosh.readthedocs.io/en/latest/intro.html (alternative search)
+* https://www.pdfkeeper.org/
+  + https://github.com/rffrasca/PDFKeeper
+* [archivista](https://archivista.ch/cms/de/produkte/opensource/)
+
+### Full text search (only)
+
+* https://medevel.com/10-open-source-free-self-hosted-document-search-engines/
+* https://medevel.com/os-fulltext-search-solutions/
+
+* https://manticoresearch.com/install/
+  + https://repo.manticoresearch.com/repository/morphology/
+* https://zincsearch.com/
+  + https://github.com/zinclabs/zinc
+* https://openfts.sourceforge.net/ (postgresql-based)
+
+### CLI (mostly for sandwich pdf)
+
+* https://wiki.ubuntuusers.de/Texterkennung/
+* https://www.bitsgalore.org/2021/09/06/pdf-processing-and-analysis-with-open-source-tools
+
+* [ocrmypdf](https://ocrmypdf.readthedocs.io/en/latest/) tesseract-based 
+* [pdf2pdfocr](https://github.com/LeoFCardoso/pdf2pdfocr) tesseract-based
+* [use PDF-XChange Viewer](https://softwarerecs.stackexchange.com/questions/3412/free-ocr-software-that-makes-a-pdf-searchable-with-searchable-text-at-the-right)
+
+# Crawler (may contain some full-text support)
+
+* https://www.octoparse.com/blog/10-best-open-source-web-scraper#
+
+* http://stormcrawler.net/index.html
+* https://nutch.apache.org/
+
+## Desktop Crawler (normally contains full-text search)
+
+* https://alternativeto.net/software/indexer-/
+* https://medevel.com/10-open-source-free-self-hosted-document-search-engines/ (semantic web)
+
+* https://docfetcher.sourceforge.net/de/index.html
+* https://opensemanticsearch.org/connector/files/
+* https://github.com/JohannesBuchner/spuren (old)
+
+### Obsolete
+
+* https://github.com/bevuta/pepa
+* https://github.com/RD17/ambar
 
 ## PIM (catalogue)
 
