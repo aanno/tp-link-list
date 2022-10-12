@@ -157,6 +157,7 @@
 * https://wasabi.com/help/downloads/
   + [borgbackup/rclone](https://wasabi-support.zendesk.com/hc/en-us/articles/115003691192-How-do-I-use-BorgBackup-with-Wasabi-)
   + [s3fs with wasabi](https://wasabi-support.zendesk.com/hc/en-us/articles/115001744651-How-do-I-use-S3FS-with-Wasabi-)
+* https://min.io/ S3 on your linux (cluster)
 
 #### Storage data encryption
 

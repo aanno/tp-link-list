@@ -25,8 +25,11 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
   + [examples](https://github.com/Kotlin/kotlinx.coroutines/tree/master/kotlinx-coroutines-core/jvm/test/guide)
   + [examples 2](https://github.com/Kotlin/coroutines-examples)
     - https://github.com/Kotlin/coroutines-examples/blob/master/examples/generator/generator.kt
+* [kotlin coroutines with spring](https://spring.io/blog/2019/04/12/going-reactive-with-spring-coroutines-and-kotlin-flow)
+* [kotlin coroutine sdl](https://github.com/Kotlin/kotlinx.coroutines)
 
 * [js-generator-like implemented in coroutine](https://github.com/Kotlin/coroutines-examples/blob/master/examples/generator/generator.kt)
+* [discussion why the current actors are deprecated(https://github.com/Kotlin/kotlinx.coroutines/issues/87)
 
 ### Saga pattern
 
@@ -58,10 +61,10 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 
 ## Libraries
 
-* [arrow](https://arrow-kt.io/docs/core/) - functional library
-  + https://github.com/arrow-kt/arrow
-  + [arrow monad comprehensions](https://arrow-kt.io/docs/patterns/monad_comprehensions/)
-  + [arrow and coroutines](https://arrow-kt.io/docs/fx/coroutines/)
+* [kotlin libs search engine](https://kotlin.link/)
+
+* [kotlin-html - server jvm dsl](https://github.com/celtric/kotlin-html)
+* [sqldelight - type SQL](https://github.com/cashapp/sqldelight)
 
 ### Server
 
@@ -78,10 +81,39 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 * https://github.com/Yegair/kotlin-angular
 * Or: compile -> TeaVM
 
+## Kotlin Multiplatform
+
+### Kotlin Mutliplarm Execution and Memory Model
+
+### Kotlin Multiplatform Libs
+
+* https://github.com/kotlin/ktor (server, microservices)
+  + [build microservice with ktor](https://www.marcogomiero.com/posts/2021/ktor-in-memory-db-testing/)
+* [Reaktive](https://github.com/badoo/Reaktive) for JVM, Android, iOS, macOS, watchOS, tvOS, JavaScript, Linux X64, Linux ARM 32 hfp with rxjava interop
+* [Corbind](https://github.com/LDRAlighieri/Corbind) Android UI events to Flow, ReceiveChannels, and Actors
+* [alternative to Corbind](https://github.com/satoshun/CoroutineBinding)
+* [html testing and parsing](https://github.com/skrapeit/skrape.it)
+* [arrow](https://arrow-kt.io/docs/core/) - functional library
+  + https://github.com/arrow-kt/arrow
+  + [arrow monad comprehensions](https://arrow-kt.io/docs/patterns/monad_comprehensions/)
+  + [arrow and coroutines](https://arrow-kt.io/docs/fx/coroutines/)
+* [kotlinx-atomicfu](https://github.com/Kotlin/kotlinx-atomicfu)
+* [exposed - kotlin orm](https://github.com/JetBrains/Exposed)
+* [xmlutil](https://github.com/pdvrieze/xmlutil)
+
 ## Kotlin for web UI
 
 * [compose](https://github.com/JetBrains/compose-jb) (android compose based)
-  + https://www.jetbrains.com/lp/compose-mpp/
+  + [compose-mpp](https://www.jetbrains.com/de-de/lp/compose-mpp/)
+  + [compose-web](https://compose-web.ui.pages.jetbrains.team/)
   + https://compose-web.ui.pages.jetbrains.team/
   + https://medium.com/mindorks/build-server-driven-personalized-ui-using-jetpack-compose-a0a31689b375
   + https://developer.android.com/jetpack/compose
+  + [skia](https://skia.org/) - base native canvas technology
+* [MVIKotlin](https://github.com/arkivanov/MVIKotlin) elm-like
+* [Decompose](https://github.com/arkivanov/Decompose)
+* [jetpack compose effects](https://effectiveandroid.substack.com/p/jetpack-compose-effect-handlers)
+  + [side-effects](https://developer.android.com/jetpack/compose/side-effects)
+  + https://www.heise.de/news/Android-Entwicklung-UI-Toolkit-Jetpack-Compose-arbeitet-mit-aktuellem-Kotlin-7157898.html
+* [fritz2](https://github.com/jwstegemann/fritz2) elm-like
+* [kotlinx.html](https://github.com/Kotlin/kotlinx.html)

@@ -20,6 +20,9 @@
 * https://reactjsexample.com/slideshow-framework-built-w-react-router-4/
 ## XML
 
+* [xom](https://github.com/elharo/xom/) alternative to DOM
+* https://www.saxonica.com/download/java.xml
+
 ### Editors
 
 * https://www.oxygenxml.com/doc/versions/20.0/ug-editor/topics/author-dita-doc-type.html
@@ -173,15 +176,39 @@
 * https://github.com/akka/akka/tree/master/akka-docs (md to web site)
 * https://xmlgraphics.apache.org/fop/news.html
 
+## Other toolchains
+
+* https://transpect.github.io/ Toolchain based on XProc and NLM JATS/BITS/HoBots formats
+  + https://www.le-tex.de/de/products.html
+  + https://github.com/transpect
+* http://dh.obdurodon.org/ (links to many XML tutorial, e.g. for XProc)
+
 ## Formats
+
+* [JATS](https://jats.nlm.nih.gov/)
+  + https://en.wikipedia.org/wiki/Journal_Article_Tag_Suite
+  + https://www.xml.com/articles/2018/10/12/introduction-jats/
+* [ONIX](https://de.wikipedia.org/wiki/ONIX)
+  + https://vlb.de/hilfe/onix30
 
 ### Epub
 
 * https://github.com/idpf/epubcheck
 * https://github.com/futurepress/epub.js/
+* https://medevel.com/17-open-source-epub-and-ebook-creators/
+* https://opensource.com/article/18/10/book-to-website-epub-using-pandoc
+
+#### Html to Epub
+
+* https://github.com/lesjoursfr/html-to-epub typescript
+* https://github.com/gonejack/html-to-epub go
+* https://github.com/NiklasGollenstede/epub-creator js
+* https://github.com/lelinhtinh/jEpub ejs
+* https://github.com/lelinhtinh/jEpub coffeescript
 
 ## Static Generators
 
+* https://www.bookstackapp.com/
 * https://www.gatsbyjs.org/ (React based)
   + https://www.heise.de/developer/meldung/JavaScript-Statische-Websites-mit-React-und-Gatsby-entwickeln-3766769.html
 
@@ -276,6 +303,7 @@
   + https://wkhtmltopdf.org/status.html important: security flaws as based on (very old QtWebKit)
 * https://www.princexml.com/ (commercial)
 * https://www.pdfreactor.com/ (commercial)
+* [fluid-pdf](https://github.com/fluidsonic/fluid-pdf) pdf from html with chromium in kotlin
 
 #### Headless chrome (alternative to puppeteer)
 
@@ -284,3 +312,8 @@
 ## RTF software and tools
 
 * https://github.com/LibrePDF/OpenRTF
+
+
+## Html tools (sanitizers, ...)
+
+* [port of mozilla's readability](https://github.com/dankito/Readability4J)

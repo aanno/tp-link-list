@@ -22,6 +22,12 @@
 * http://www.baeldung.com/activiti-kickstart-and-rest-apps
 * https://github.com/Activiti/Activiti-AngularApp
 
+
+## Container software
+
+* [rootless mode in docker/moby](https://github.com/moby/buildkit/blob/master/docs/rootless.md)
+* https://github.com/rootless-containers/rootlesskit
+
 ## Container building
 
 * https://paketo.io/
@@ -31,6 +37,12 @@
   + https://developers.redhat.com/blog/2019/08/14/best-practices-for-running-buildah-in-a-container/
   + https://www.projectatomic.io/blog/2018/03/building-buildah-container-image-for-kubernetes/
 * https://github.com/genuinetools/img - standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder
+* BuiltKit
+  + https://docs.docker.com/develop/develop-images/build_enhancements/
+  + https://pythonspeed.com/articles/podman-buildkit/
+  + https://pythonspeed.com/articles/docker-cache-pip-downloads/
+  + https://github.com/moby/buildkit#daemonless
+  + https://blog.erebe.dev/blog/speed-up-your-ci-with-buildkit/
 
 ## Testing
 

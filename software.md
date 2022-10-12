@@ -392,6 +392,8 @@
 * https://zincsearch.com/
   + https://github.com/zinclabs/zinc
 * https://openfts.sourceforge.net/ (postgresql-based)
+* https://nutch.apache.org/
+* https://opensemanticsearch.org/connector/files/
 
 ### CLI (mostly for sandwich pdf)
 

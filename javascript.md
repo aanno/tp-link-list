@@ -42,6 +42,8 @@
 
 ## SSR, 0kb JS, static HTML from JS
 
+* https://css-tricks.com/using-web-components-with-next-or-any-ssr-framework/
+
 * https://jamstack.org/ (static first)
   + https://strapi.io/blog/jamstack
 * https://dev.to/this-is-learning/is-0kb-of-javascript-in-your-future-48og
@@ -80,6 +82,7 @@
 * https://blog.bitsrc.io/9-web-component-ui-libraries-you-should-know-in-2019-9d4476c3f103
 * https://open-wc.org/guides/community/component-libraries/
 * https://soshace.com/top-9-web-components-ui-libraries/
+* https://shoelace.style/
 * [AXA Design System](https://patterns.axa.ch/?path=/story/guides-getting-started--getting-started)
   + [AXA pattern library](https://github.com/axa-ch-webhub-cloud/pattern-library)
 * [Brightspace UI](https://github.com/BrightspaceUI)
@@ -249,6 +252,8 @@
 * https://www.solidjs.com/ (react-like)
 * https://alpinejs.dev/
   + https://thenewstack.io/alpine-js-brings-javascript-interactivity-without-complexity-to-html/
+* https://mithril.js.org/
+* https://elm-lang.org/
 
 ### Components development
 

@@ -67,6 +67,12 @@
 # Realtime OS
 
 * https://www.osrtos.com/
+* https://www.freertos.org/
+  + https://github.com/lobaro/FreeRTOS-rust
+  + https://create.arduino.cc/projecthub/feilipu/using-freertos-multi-tasking-in-arduino-ebc3cc
+* https://www.riot-os.org/
+  + https://api.riot-os.org/group__sys__arduino.html
+* https://nuttx.apache.org/
 
 ## Rust Realtime OS
 

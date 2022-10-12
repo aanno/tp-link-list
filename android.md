@@ -29,11 +29,20 @@
 
 ### Emulator
 
+* https://fossbytes.com/best-android-emulators-linux/
+
 * https://chromium.googlesource.com/chromium/src/+/HEAD/docs/android_emulator.md/
 * https://medium.com/@dai_shi/installing-google-play-services-on-an-android-studio-emulator-fffceb2c28a1
 * https://developer.android.com/studio/run/emulator-commandline
 * https://source.android.com/setup/create/avd
 * https://stackoverflow.com/questions/45778555/running-custom-android-rom-on-emulator
+
+#### Waydroid
+
+* https://waydro.id
+  + [install on fedora](https://www.orkitt.com/2022/07/install-best-android-emulator-on-fedora.html)
+  + [install apps on waydroid](https://docs.waydro.id/usage/install-and-run-android-applications)
+  + [use adb with waydroid](https://docs.waydro.id/faq/using-adb-with-waydroid)
 
 ### Docker
 

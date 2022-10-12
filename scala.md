@@ -38,6 +38,7 @@ prinzipiell der klassischen Programmierung überlegen ist.
 * https://monix.io/docs/3x/ (concurrency lib)
 * https://typelevel.org/cats/
 * https://github.com/scalaz/scalaz (fp, obsolete, use cats)
+* [galia - scala 2 data transformation](https://towardsdatascience.com/gallia-a-library-for-data-transformation-3fafaaa2d8b9)
 
 ## Links
 
@@ -166,3 +167,15 @@ prinzipiell der klassischen Programmierung überlegen ist.
   + https://scala-coroutines.github.io/coroutines/
   + [scala futures vs kotlin coroutines](https://gist.github.com/alexbezhan/9bb140dc25c06cdfd56bc748c7fa9c19)
     - https://monix.io/
+
+### Scala Multiplatform
+
+* [ui data binding](https://github.com/ThoughtWorksInc/Binding.scala) elm-like
+* [meiosis](https://meiosis.js.org/) general pattern for redux and elm-like
+
+### Scala native
+
+* https://scala-native.org/en/stable/
+  + https://scala-native.org/en/stable/blog/interflow.html
+* Scala version support: https://scala-native.org/en/stable/user/sbt.html#scala-versions
+

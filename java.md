@@ -97,6 +97,12 @@
 * [spring-native](https://docs.spring.io/spring-native/docs/current/reference/htmlsingle/)
   + https://spring.io/blog/2021/03/11/announcing-spring-native-beta
   + https://www.heise.de/news/Java-Framework-Native-Spring-Anwendungen-laufen-ohne-die-JVM-5078681.html
+* https://quarkus.io/
+
+## Alternatives to GraalVM
+
+* https://badass-runtime-plugin.beryx.org/releases/latest/ jlink-wrapper
+
 
 ## Java to JS/TS
 
