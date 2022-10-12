@@ -41,6 +41,7 @@
 * [feature flipping for java](https://github.com/ff4j/ff4j)
 * [java library of graph theory](https://jgrapht.org/)
 * [modern collections](https://guava.dev/)
+* [jps - java property service](https://github.com/openbase/jps)
 
 ## Testing
 
@@ -102,6 +103,10 @@
 ## Alternatives to GraalVM
 
 * https://badass-runtime-plugin.beryx.org/releases/latest/ jlink-wrapper
+* https://www.infoq.com/news/2022/06/project-leyden-delays-aot/
+* https://www.infoq.com/articles/native-java-aligning/
+* https://www.infoq.com/articles/native-compilations-boosts-java/
+* [openj9 builds](https://developer.ibm.com/languages/java/semeru-runtimes/downloads/)
 
 
 ## Java to JS/TS
@@ -224,6 +229,7 @@
 # Spring
 
 * https://www.baeldung.com/spring-aop-annotation
+* https://www.infoq.com/news/2022/10/spring-boot-3-jax-london/
 
 ## Security
 

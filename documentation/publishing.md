@@ -11,6 +11,7 @@
 * [NueDeck - vue based presentation slides](https://github.com/twitwi/nuedeck)
 * [decktape](https://github.com/astefanutti/decktape) pdf from Html presentation - includes links to presentation frameworks
 * [web components based presentations](https://github.com/ChristianKohler/web-presentation)
+* https://github.com/jxnblk/mdx-deck mdx
 
 ### Presentations React-based
 
@@ -131,6 +132,7 @@
   + [asciidoctor mathematical](https://docs.asciidoctor.org/asciidoctor/latest/stem/mathematical/) 
     all backend, renders math to images
   + [mathjax3 for asciidoctor](https://github.com/tani/asciidoctor-mathjax3)
+* [asciidoctor-html5s](https://github.com/jirutka/asciidoctor-html5s)
   
 ## Diagramms
 
@@ -159,6 +161,16 @@
   + https://docs.antora.org/antora/2.3/whats-new/
 * [mdx](https://mdxjs.com/) asciidoc with jsx (react)
 * [asciidoctor in vue.js](https://www.ahus1.de/post/asciidoc-content-spa)
+* https://www.ahus1.de/post/asciidoc-content-spa vue, nuxt
+
+## Site generators for code and app documentation
+
+Also see `documenting-it.md`
+
+* https://docusaurus.io/docs spa/opa, react, mdx
+* https://github.com/shuding/nextra next.js, mdx
+* https://docsify.js.org/#/
+* https://github.com/doczjs/docz/tree/new  gatsby, mdx
 
 ## Rendering components for asciidoctor
 
@@ -244,7 +256,6 @@
 
 * http://www.theologeek.ch/manuskript/
 * https://www.mkdocs.org/
-* https://docsify.js.org/#/?id=docsify
 
 ## Asciidoc(tor) based
 

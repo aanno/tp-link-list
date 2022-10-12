@@ -7,6 +7,7 @@
 * https://opensource.com
 * https://news.itsfoss.com/
 * https://www.capitalone.com/tech/software-engineering/
+* https://www.infoq.com/
 
 ## OS
 
@@ -219,6 +220,9 @@
 * https://sylvainleroy.com/2017/10/15/Headless-CMS-What-to-choose/
 * https://dev.acquia.com/blog/nodejs-and-headless-cms-the-backend-building-blocks/01/03/2018/19201
 
+* [payload](https://github.com/payloadcms/payload) typescript, Express, MongoDB and React
+  + https://payloadcms.com/use-cases
+  + https://demo.payloadcms.com/admin/login
 * https://github.com/apostrophecms/apostrophe-headless
   + https://apostrophecms.org/docs/technical-overviews/technical-overview.html
   + https://apostrophecms.org/features

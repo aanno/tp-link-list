@@ -1,5 +1,6 @@
 # big data congestion (DAG task systems)
 
+* [inlong](https://inlong.apache.org/) big data integration: cache, pulsar, kafka, iceberg, ...
 * [dolphin scheduler](https://github.com/apache/incubator-dolphinscheduler): DAG workflow scheduling system
 * [gobblin](https://github.com/apache/incubator-gobblin) big data ingestion onto hadoop
 * [hadoop tez - DAG of tasks for processing data](https://tez.apache.org/)

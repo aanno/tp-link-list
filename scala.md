@@ -146,6 +146,12 @@ prinzipiell der klassischen Programmierung überlegen ist.
 * [scala 3 reference](https://docs.scala-lang.org/scala3/reference/)
 * [scala 3 book](https://docs.scala-lang.org/scala3/book/fp-functional-error-handling.html)
 
+* [typeclasses deriving](https://www.47deg.com/blog/scala-3-deriving-typeclasses/)
+* [not in scala 3](https://www.47deg.com/blog/scala-3-dropping-baggage/)
+* [F\[_\]](https://www.47deg.com/blog/what-is-F-with-hole-in-scala/)
+* [tagless final](https://www.baeldung.com/scala/tagless-final-pattern)
+* [pattern matching](https://docs.scala-lang.org/tour/pattern-matching.html)
+
 ### Scala 3 `-Yexplicit-nulls`
 
 * https://dotty.epfl.ch/3.0.0/docs/reference/other-new-features/explicit-nulls.html
@@ -166,7 +172,8 @@ prinzipiell der klassischen Programmierung überlegen ist.
 * coroutines
   + https://scala-coroutines.github.io/coroutines/
   + [scala futures vs kotlin coroutines](https://gist.github.com/alexbezhan/9bb140dc25c06cdfd56bc748c7fa9c19)
-    - https://monix.io/
+    - https://monix.io/ Asynchronous Programming for Scala and Scala.js
+  + [zio](https://github.com/zio/zio) multiplatform asynchronous and concurrent programming
 
 ### Scala Multiplatform
 

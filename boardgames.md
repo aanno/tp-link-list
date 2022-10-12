@@ -18,3 +18,8 @@
 
 * https://github.com/tobymao/18xx/wiki
 * https://github.com/tobymao/18xx/wiki/Notifications
+
+## Blogs, Sites
+
+* https://www.abstractgames.org/
+* https://spielstein.com/

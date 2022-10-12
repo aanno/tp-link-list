@@ -54,3 +54,21 @@
   + https://hackage.haskell.org/package/lens-tutorial-1.0.4/docs/Control-Lens-Tutorial.html
 * [arrows](https://www.haskell.org/arrows/)
   + https://hackage.haskell.org/package/base-4.17.0.0/docs/Control-Arrow.html
+
+## Ocaml
+
+* https://github.com/ocaml/ocaml
+
+### Ocaml5
+
+* https://www.infoq.com/news/2021/10/ocaml-5-multicore/
+* https://tarides.com/blog/2022-06-15-ocaml-5-alpha-release/
+
+* https://github.com/kayceesrk/ocaml5-tutorial
+
+* https://github.com/ocaml-multicore
+* https://github.com/ocaml-multicore/domainslib
+
+#### Ocaml5 effects
+
+* https://kcsrk.info/webman/manual/effects.html

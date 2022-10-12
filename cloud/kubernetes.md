@@ -189,6 +189,11 @@
 * https://coredns.io/
   + https://coredns.io/plugins/etcd/
 
+#### Configuration Server (Key-Value Stores)
+
+* https://www.libelektra.org/home
+  + https://github.com/ElektraInitiative/libelektra
+
 #### Packet managment
 
 * [helm](https://helm.sh/)

@@ -10,6 +10,10 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 
 * http://kotlinlang.org/docs/tutorials/koans.html
 
+## Blogs
+
+* https://www.47deg.com/blog/technical/ kotlin, arrow, scala
+
 ## Coroutines
 
 * https://dzone.com/articles/concurrency-java-futures-and-kotlin-coroutines
@@ -28,8 +32,12 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 * [kotlin coroutines with spring](https://spring.io/blog/2019/04/12/going-reactive-with-spring-coroutines-and-kotlin-flow)
 * [kotlin coroutine sdl](https://github.com/Kotlin/kotlinx.coroutines)
 
+### Coroutines programming examples
+
 * [js-generator-like implemented in coroutine](https://github.com/Kotlin/coroutines-examples/blob/master/examples/generator/generator.kt)
 * [discussion why the current actors are deprecated(https://github.com/Kotlin/kotlinx.coroutines/issues/87)
+* https://stackoverflow.com/questions/61031827/how-to-crawl-recursive-structures-using-kotlin-coroutines
+* https://stackoverflow.com/questions/73659561/how-to-use-kotlin-coroutines-with-two-for-loops-and-channels-that-update-each-ot
 
 ### Saga pattern
 
@@ -37,6 +45,10 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 * [saga pattern in kotlin 2](https://gist.github.com/araqnid/02552db155c1572bcfdc3880a9d3804d)
 * [saga pattern in kotlin 3](https://github.com/nomisRev/Saga)
   + https://nomisrev.github.io/Saga/
+
+### Effect (handler) pattern
+
+* https://www.47deg.com/blog/effects-contexts/ featured!
 
 ## Link lists
 
@@ -87,6 +99,9 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 
 ### Kotlin Multiplatform Libs
 
+* https://libs.kmp.icerock.dev/
+* https://github.com/AAkira/Kotlin-Multiplatform-Libraries
+
 * https://github.com/kotlin/ktor (server, microservices)
   + [build microservice with ktor](https://www.marcogomiero.com/posts/2021/ktor-in-memory-db-testing/)
 * [Reaktive](https://github.com/badoo/Reaktive) for JVM, Android, iOS, macOS, watchOS, tvOS, JavaScript, Linux X64, Linux ARM 32 hfp with rxjava interop
@@ -97,11 +112,20 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
   + https://github.com/arrow-kt/arrow
   + [arrow monad comprehensions](https://arrow-kt.io/docs/patterns/monad_comprehensions/)
   + [arrow and coroutines](https://arrow-kt.io/docs/fx/coroutines/)
+  + [Why suspend () -> A instead of IO<A>](https://arrow-kt.io/docs/effects/io/)
+  + https://www.47deg.com/blog/arrow-v1-01-3-release/
 * [kotlinx-atomicfu](https://github.com/Kotlin/kotlinx-atomicfu)
 * [exposed - kotlin orm](https://github.com/JetBrains/Exposed)
 * [xmlutil](https://github.com/pdvrieze/xmlutil)
+* [korge - game engine](https://korge.org/)
+  + https://docs.korge.org/
+  + https://github.com/korlibs/korge
+  + [korim - image](https://github.com/korlibs/korge/tree/main/korim)
+  + [korio](https://github.com/korlibs/korge/tree/main/korio) Streams, TCP Client/Server, VFS
+* [resultat - Result with a loading state](https://github.com/nicolashaan/resultat)
+* [moko-network](https://github.com/icerockdev/moko-network) addition to ktor-client for android
 
-## Kotlin for web UI
+### Kotlin for web UI
 
 * [compose](https://github.com/JetBrains/compose-jb) (android compose based)
   + [compose-mpp](https://www.jetbrains.com/de-de/lp/compose-mpp/)
@@ -117,3 +141,11 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
   + https://www.heise.de/news/Android-Entwicklung-UI-Toolkit-Jetpack-Compose-arbeitet-mit-aktuellem-Kotlin-7157898.html
 * [fritz2](https://github.com/jwstegemann/fritz2) elm-like
 * [kotlinx.html](https://github.com/Kotlin/kotlinx.html)
+* [doodle](https://github.com/nacular/doodle)
+  + https://nacular.github.io/doodle/
+
+### Kotlin compilier plugins
+
+* https://kotlinlang.org/docs/ksp-overview.html
+  + https://github.com/google/ksp
+* https://arrow-kt.io/docs/meta/analysis/

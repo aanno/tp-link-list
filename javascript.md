@@ -28,6 +28,20 @@
 
 * https://stackoverflow.com/questions/526347/how-do-you-get-the-rendered-height-of-an-element
 
+### Html (and Content) parsing and processing
+
+* https://openbase.com/categories/js/best-nodejs-html-parser-libraries
+
+* https://github.com/fb55/htmlparser2 typescript
+* https://github.com/inikulin/parse5 
+* https://github.com/jsdom/jsdom
+* https://unifiedjs.com/ Content as structured data
+  + https://github.com/unifiedjs/unified
+  + https://github.com/rehypejs/rehype html transformer
+    - https://github.com/rehypejs/rehype/blob/main/doc/plugins.md#list-of-plugins
+    - https://github.com/rehypejs/awesome-rehype
+  + https://github.com/remarkjs/remark markdown transformer
+
 ## Frontend
 
 * [use node API in frontend](https://nwjs.io/)
@@ -47,6 +61,7 @@
 * https://jamstack.org/ (static first)
   + https://strapi.io/blog/jamstack
 * https://dev.to/this-is-learning/is-0kb-of-javascript-in-your-future-48og
+* https://astro.build/
   
 * https://preactjs.com/ (like react but ssr)
 * https://short.is/writing/next.js-with-web-components-and-a-0kb-bundle
@@ -116,6 +131,8 @@
 #### React
 
 * https://reactjsexample.com/
+* [electrode - react and node.js](https://github.com/electrode-io/electrode) - microfrontend
+  - https://www.electrode.io/electrode/docs/getting-started/
 
 ##### React themes
 
@@ -314,14 +331,34 @@
 
 * https://stackoverflow.com/questions/764427/how-to-capture-enter-key-being-pressed-on-pages-containing-multiple-forms
 
+## Meta Builder
+
+* https://github.com/meteor/meteor
+
 ## Build
 
+* https://themeselection.com/javascript-build-tools/
+* https://geekflare.com/node-js-bundler-and-build-tools/
+* https://brainhub.eu/library/node-js-tools-for-developers
+
+* https://github.com/evanw/esbuild go
+* https://github.com/rome/tools integrated tools, rust
 * https://www.snowpack.dev/
   + https://www.snowpack.dev/plugins
+* https://nx.dev/
 * https://vitejs.dev/guide/ (js, vue, react, preact, lit, svelte)
   + vite is rollup compatible: https://vitejs.dev/guide/api-plugin.html#path-normalization
 * https://rollupjs.org/guide/en/
 * https://deno.land/ (whole JS runtime, speaks TS)
+* https://github.com/jaredpalmer/tsdx
+* https://brunch.io/
+* https://packem.github.io/
+* https://parceljs.org/
+* https://github.com/vercel/vercel
+
+* https://yarnpkg.com/
+
+* https://github.com/vercel/pkg make binaries from node.js project
 
 ### Monorep
 

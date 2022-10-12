@@ -138,6 +138,9 @@
 * [dev.to news/forum platform](https://dev.to/)
   + [forem - the software behind dev.to](https://github.com/forem/forem)
   + [self-hosting forem](https://github.com/forem/selfhost)
+* https://nteract.io/ - build interactive apps - react-based - jupyter-notebook-like
+  + https://github.com/nteract
+  + https://semiotic.nteract.io/ data visualisation for react
 
 ### Fediverse
 
@@ -419,6 +422,12 @@
 * https://docfetcher.sourceforge.net/de/index.html
 * https://opensemanticsearch.org/connector/files/
 * https://github.com/JohannesBuchner/spuren (old)
+
+## Android scanner
+
+* https://fossbytes.com/best-android-scanner-apps/
+
+* https://github.com/mishraaditya595/ScanIt
 
 ### Obsolete
 
