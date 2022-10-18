@@ -46,6 +46,9 @@
 ## Testing
 
 * https://www.testcontainers.org/
+* https://github.com/TNG/ArchUnit checking the architecture of your Java code
+  + https://www.archunit.org/userguide/html/000_Index.html
+  + https://github.com/TNG/ArchUnit-Examples/blob/main/example-junit5/src/test/java/com/tngtech/archunit/exampletest/junit5/CodingRulesTest.java
 
 ### Table output on console
 

@@ -4,8 +4,12 @@
 
 ### Functional Programming
 
+* https://www.freecodecamp.org/news/functional-programming-patterns-cookbook-3a0dfe2d7e0a/ with ramda
+* https://www.educative.io/courses/functional-programming-patterns-with-ramdajs
 * https://github.com/stoeffel/awesome-fp-js (Link List)
 * https://github.com/MostlyAdequate/mostly-adequate-guide (Book)
+
+* https://fsharpforfunandprofit.com/fppatterns/ famous talk on F#
 
 ### RX
 

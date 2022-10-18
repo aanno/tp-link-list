@@ -81,6 +81,8 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 ### Server
 
 * https://github.com/kotlin/ktor (server, microservices)
+  + https://ktor.io/docs/compression.html#configure_content_type
+  + https://github.com/ktorio/ktor-documentation/blob/2.1.2/codeSnippets/snippets/client-content-encoding/src/main/kotlin/com/example/Application.kt
 * https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0
 * https://dzone.com/articles/kotlin-guice-example (guice)
 
@@ -112,7 +114,10 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
   + https://github.com/arrow-kt/arrow
   + [arrow monad comprehensions](https://arrow-kt.io/docs/patterns/monad_comprehensions/)
   + [arrow and coroutines](https://arrow-kt.io/docs/fx/coroutines/)
-  + [Why suspend () -> A instead of IO<A>](https://arrow-kt.io/docs/effects/io/)
+  + [Why suspend () -> A instead of IO<A>](https://arrow-kt.io/docs/effects/io/) featured!
+  + https://arrow-kt.io/docs/fx/parallel/
+  + https://arrow-kt.io/docs/core/
+    - https://arrow-kt.io/docs/apidocs/arrow-core/arrow.core.continuations/-effect/
   + https://www.47deg.com/blog/arrow-v1-01-3-release/
 * [kotlinx-atomicfu](https://github.com/Kotlin/kotlinx-atomicfu)
 * [exposed - kotlin orm](https://github.com/JetBrains/Exposed)

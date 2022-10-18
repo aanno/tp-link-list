@@ -108,6 +108,17 @@ Alternative
 
 Go is well suited also for web development. Gogs has been implemented in Go and https://gogs.io/docs gives an overview of the open source components used in that.
 
+##### Reactive Go
+
+* https://awesome-go.com/functional/
+* https://dev.to/seb7887/golang-consuming-data-in-reactive-microservices-h5
+* https://prakharsrivastav.com/posts/reactive-programming-in-go/
+
+* https://github.com/samber/mo monads for go
+* https://github.com/TeaEntityLab/fpGo
+* https://github.com/repeale/fp-go
+* https://github.com/reactivego/rx
+
 #### F#
 
 * http://fsharpforfunandprofit.com/why-use-fsharp/

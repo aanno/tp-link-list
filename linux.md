@@ -568,3 +568,9 @@ It is _not_ possible to recover the public key stored on nitro, see
 * https://fedoramagazine.org/use-the-dnf-local-plugin-to-speed-up-your-home-lab/
 * https://github.com/aesiniath/docker.proxy
 * https://gist.github.com/dergachev/8441335
+
+## Terminal
+
+### Terminal colors
+
+* https://opensource.com/article/19/9/linux-terminal-colors

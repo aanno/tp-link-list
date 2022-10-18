@@ -302,6 +302,28 @@ Also see `documenting-it.md`
 * https://github.com/rrthomas/pdfjam
 * https://github.com/pts/pdfsizeopt
 * https://pspdfkit.com/ (commercial)
+* https://www.qoppa.com/pdfstudioviewer/download/ commercial, linux (java)
+
+#### Sign pdf
+
+* http://wiki.cacert.org/PdfSigning
+* https://github.com/go-pdf-sign/go-pdf-sign
+
+##### TSA Services
+
+* https://gist.github.com/Manouchehri/fd754e402d98430243455713efada710
+
+
+* http://timestamp.entrust.net/TSS/RFC3161sha2TS
+* http://time.certum.pl
+* http://zeitstempel.dfn.de
+* http://timestamp.comodoca.com/authenticode
+* http://timestamp.globalsign.com/?signature=sha2
+* http://timestamp.sectigo.com
+* http://time.certum.pl
+* http://timestamp.digicert.com
+* http://tsa.starfieldtech.com
+
 
 ### CSS Print, i.e. rendering HTML to PDF
 

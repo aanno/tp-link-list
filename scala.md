@@ -39,6 +39,8 @@ prinzipiell der klassischen Programmierung überlegen ist.
 * https://typelevel.org/cats/
 * https://github.com/scalaz/scalaz (fp, obsolete, use cats)
 * [galia - scala 2 data transformation](https://towardsdatascience.com/gallia-a-library-for-data-transformation-3fafaaa2d8b9)
+* https://ammonite.io/ repl shell - great for scala learning
+  + https://docs.scala-lang.org/overviews/repl/overview.html simple repl included in scala
 
 ## Links
 
@@ -48,6 +50,13 @@ prinzipiell der klassischen Programmierung überlegen ist.
 * https://www.lightbend.com/platform/development
 * https://www.lightbend.com/platform/development/spark
 * http://slick.lightbend.com/ 
+
+* https://contributors.scala-lang.org language discussion like
+  + https://contributors.scala-lang.org/t/proposed-changes-and-restrictions-for-implicit-conversions/4923
+  + https://contributors.scala-lang.org/t/for-comprehension-requires-withfilter-to-destructure-tuples/5953
+    works in scala 3
+  + https://contributors.scala-lang.org/t/poor-or-rich-mans-refinement-types-in-scala-3-x/4647/2
+    works in scala 3, example: PositiveInt
 
 ## Examples
 
@@ -149,8 +158,19 @@ prinzipiell der klassischen Programmierung überlegen ist.
 * [typeclasses deriving](https://www.47deg.com/blog/scala-3-deriving-typeclasses/)
 * [not in scala 3](https://www.47deg.com/blog/scala-3-dropping-baggage/)
 * [F\[_\]](https://www.47deg.com/blog/what-is-F-with-hole-in-scala/)
-* [tagless final](https://www.baeldung.com/scala/tagless-final-pattern)
+* [tagless final](https://www.baeldung.com/scala/tagless-final-pattern) featured!
 * [pattern matching](https://docs.scala-lang.org/tour/pattern-matching.html)
+* https://www.baeldung.com/scala/implicitly
+* https://www.baeldung.com/scala/higher-kinded-types
+
+### Learn
+
+* https://typelevel.org/cats/resources_for_learners.html
+
+* https://www.scala-exercises.org/ scala, std lib, doobie (jdbc), cats, shapeless, scalacheck, cirle (json), 
+  fetch (remote data fetching), monocle (lens monad), FP in scala
+  featured!
+
 
 ### Scala 3 `-Yexplicit-nulls`
 
@@ -164,21 +184,57 @@ prinzipiell der klassischen Programmierung überlegen ist.
   + https://index.scala-lang.org/typelevel/feral
     - https://disneystreaming.github.io/smithy4s/docs/overview/intro/
     - https://github.com/tpolecat/natchez
-* [cats](https://typelevel.org/cats/)
-* [cat effect](https://typelevel.org/cats-effect/)
-  + https://typelevel.org/cats-effect/docs/tutorial
-  + [herding cats tutorial](https://eed3si9n.com/herding-cats/sum-function.html)
-  + [async/await with `-Xasync`](https://typelevel.org/cats-effect/docs/std/async-await)
 * coroutines
   + https://scala-coroutines.github.io/coroutines/
   + [scala futures vs kotlin coroutines](https://gist.github.com/alexbezhan/9bb140dc25c06cdfd56bc748c7fa9c19)
     - https://monix.io/ Asynchronous Programming for Scala and Scala.js
   + [zio](https://github.com/zio/zio) multiplatform asynchronous and concurrent programming
+* https://typelevel.org/projects/
+
+#### Cats and Cats Effects
+
+* [cats](https://typelevel.org/cats/)
+  + https://typelevel.org/cats/datatypes/state.html
+  + https://stackoverflow.com/questions/34407212/scala-and-state-monad
+  + https://en.m.wikipedia.org/wiki/Monad_(functional_programming)#Comonads
+  + https://www.scalawithcats.com/ book
+* [cats-effect](https://typelevel.org/cats-effect/)
+  + https://github.com/typelevel/cats-effect/blob/series/3.x/docs/concepts.md
+  + https://typelevel.org/cats-effect/docs/tutorial
+  + [herding cats tutorial](https://eed3si9n.com/herding-cats/sum-function.html)
+  + [async/await with `-Xasync`](https://typelevel.org/cats-effect/docs/std/async-await)
+* [cats-collections](https://github.com/typelevel/cats-collections)
+  + https://typelevel.org/cats-collections/
+* [cats-mtl](https://github.com/typelevel/cats-mtl) monad transformer library
+  + https://github.com/typelevel/cats-mtl/blob/main/docs/getting-started.md
+* [cats-tagless](https://github.com/typelevel/cats-tagless/) not for scala 3
+
 
 ### Scala Multiplatform
 
+* [all multiplatfrom libs - from index](https://index.scala-lang.org/search?languages=3.x&platforms=jvm&platforms=sjs0.6&platforms=native0.4&q=*)
+
+libs
+
 * [ui data binding](https://github.com/ThoughtWorksInc/Binding.scala) elm-like
 * [meiosis](https://meiosis.js.org/) general pattern for redux and elm-like
+* [argonaut](https://github.com/argonaut-io/argonaut) JSON (jvm, js)
+* [shapeless](https://github.com/milessabin/shapeless) type class and dependent type based generic programming
+  + https://github.com/milessabin/shapeless/wiki/Feature-overview:-shapeless-2.0.0
+
+build
+
+* https://github.com/portable-scala/sbt-crossproject
+* https://eed3si9n.com/parallel-cross-building-using-sbt-projectmatrix/
+* https://www.scala-js.org/doc/project/cross-build.html
+* https://www.scala-sbt.org/1.x/docs/Cross-Build.html
+
+### Scala.js
+
+* https://www.lihaoyi.com/hands-on-scala-js/
+* https://www.b12-consulting.com/blog/posts/scala.js-:-a-somewhat-opinionated-guide-to-going-full-stack-in-scala/
+  scala browser and server
+* https://ochrons.github.io/scalajs-spa-tutorial/en/
 
 ### Scala native
 

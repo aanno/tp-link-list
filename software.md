@@ -209,6 +209,11 @@
 * https://www.offlineimap.org/
   + https://github.com/OfflineIMAP/offlineimap
 
+
+#### Nextcloud special interest
+
+* https://decatec.de/home-server/volltextsuche-in-nextcloud-mit-ocr/
+
 #### Server push
 
 * https://github.com/nextcloud/server/issues/22379

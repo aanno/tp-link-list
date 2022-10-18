@@ -1,5 +1,10 @@
 # Linux Server (Tec)
 
+
+## Blogs
+
+* https://decatec.de/ home server
+
 ## Ubuntu 
 
 * [metal-as-a-service](https://maas.io/)
