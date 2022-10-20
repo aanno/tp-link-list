@@ -9,6 +9,14 @@
 * [nim-lang](https://github.com/nim-lang/Nim)
   + https://nim-lang.org/
 * [chapel-lang](https://chapel-lang.org/)
+* [v-lang](https://vlang.io/)
+  + https://github.com/vlang/v
+  + https://mawfig.github.io/2022/06/18/v-lang-in-2022.html#summary featured
+  + https://blog.logrocket.com/v-lang-vs-rust-comparing-build-languages/
+  + https://blog.logrocket.com/what-is-vlang-an-introduction/
+  + https://github.com/vlang/vinix os in v-lang
+  + https://github.com/elliotchance/vsql db-engine in v-lang
+    - https://medium.com/geekculture/%EF%B8%8Fvsql-is-a-sql-database-written-in-v-69ba7749cd79
 
 
 ## General lang problems
@@ -72,3 +80,29 @@
 #### Ocaml5 effects
 
 * https://kcsrk.info/webman/manual/effects.html
+
+## C lang converters
+
+* http://jarble.github.io/transpiler/
+* https://en.wikipedia.org/wiki/Source-to-source_compiler
+
+### To Java
+
+* https://www.mtsystems.com/
+
+### To go lang
+
+* https://github.com/gotranspile/cxgo
+* https://github.com/elliotchance/c2go
+  + https://elliotchance.medium.com/converting-c-to-go-584504d2d0c5
+
+### To rust lang
+
+* https://github.com/immunant/c2rust
+  + https://c2rust.com/
+  + https://locka99.gitbooks.io/a-guide-to-porting-c-to-rust/content/porting-code.html
+  + https://immunant.com/blog/2019/11/rust2020/
+
+### To kotlin
+
+* https://github.com/korlibs/ktcc

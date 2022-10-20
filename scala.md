@@ -235,6 +235,8 @@ build
 * https://www.b12-consulting.com/blog/posts/scala.js-:-a-somewhat-opinionated-guide-to-going-full-stack-in-scala/
   scala browser and server
 * https://ochrons.github.io/scalajs-spa-tutorial/en/
+* https://scalablytyped.org/docs/readme use typescript libs from scala.js
+* https://github.com/ScalablyTyped/Converter Typescript to Scala.js converter
 
 ### Scala native
 
