@@ -81,6 +81,22 @@
 
 * https://kcsrk.info/webman/manual/effects.html
 
+### Go lang
+
+#### Go lang and C
+
+* https://pkg.go.dev/cmd/cgo
+  + https://blog.marlin.org/cgo-referencing-c-library-in-go
+  + https://karthikkaranth.me/blog/calling-c-code-from-go/
+  + https://www.thegoldfish.org/2019/04/using-c-libraries-from-go/
+* https://stackoverflow.com/questions/1713214/how-to-use-c-in-go
+* https://github.com/xlab/c-for-go
+* https://github.com/h12w/cwrap
+  + https://golangexample.com/cwrap-a-go-wrapper-generator-for-c-libraries/
+* https://www.swig.org/Doc3.0/Go.html uses cgo
+* https://xuri.me/2022/04/15/go-shared-libraries.html
+  + https://stackoverflow.com/questions/1757090/shared-library-in-go
+
 ## C lang converters
 
 * http://jarble.github.io/transpiler/
