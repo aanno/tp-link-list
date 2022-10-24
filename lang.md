@@ -83,6 +83,13 @@
 
 ### Go lang
 
+### Go plugins
+
+* https://entwickler.de/go/plug-ins-mit-go-001
+* https://eli.thegreenplace.net/2021/plugins-in-go/
+
+* https://github.com/hashicorp/go-plugin
+
 #### Go lang and C
 
 * https://pkg.go.dev/cmd/cgo
@@ -96,6 +103,16 @@
 * https://www.swig.org/Doc3.0/Go.html uses cgo
 * https://xuri.me/2022/04/15/go-shared-libraries.html
   + https://stackoverflow.com/questions/1757090/shared-library-in-go
+
+* https://ugorji.net/blog/go-codecgen
+  + https://github.com/ugorji/go
+
+* https://medium.com/learning-the-go-programming-language/encoding-data-with-the-go-binary-package-42c7c0eb3e73
+* https://stackoverflow.com/questions/55681650/golang-pack-a-struct
+* https://stackoverflow.com/questions/37618399/efficient-go-serialization-of-struct-to-disk
+* https://stackoverflow.com/questions/28020070/golang-serialize-and-deserialize-back
+* https://kpbird.medium.com/golang-serialize-struct-using-gob-part-1-e927a6547c00
+* https://stackoverflow.com/questions/50660200/how-can-i-convert-a-json-string-to-a-byte-array
 
 ## C lang converters
 
