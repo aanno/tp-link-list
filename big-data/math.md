@@ -13,3 +13,9 @@
 
 * https://mathics.github.io/
 * http://www.reduce-algebra.com/ (old)
+
+##
+
+* https://datamelt.org/
+* https://octave.org
+* https://www.scilab.org/

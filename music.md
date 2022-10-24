@@ -69,6 +69,7 @@
 * https://circuitdigest.com/article/top-media-server-software-for-music-streaming-on-raspberry-pi
 * https://www.linuxlinks.com/musicservers/
 * [stream audio _to_ a server](https://volumio.github.io/docs/User_Manual/Stream_audio_to_volumio)
+* https://wiki.archlinux.org/title/Category:Media_servers
 
 ### Implementation
 
@@ -186,6 +187,8 @@
   + https://www.red5pro.com/open-source/
 * [madsonic - subsonic fork](https://beta.madsonic.org/pages/about.jsp) partly commercial
 * [emby](https://emby.media/emby-theater-linux.html) partly commercial
+* [CherryMusic](https://wiki.archlinux.org/title/CherryMusic)
+  + https://github.com/devsnd/cherrymusic
 
 #### DLNA Server
 

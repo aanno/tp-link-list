@@ -28,6 +28,10 @@
   + https://stackoverflow.com/questions/25204887/how-to-send-a-asynchronous-response-in-an-undertow-httphandler
 * https://github.com/buremba/netty-rest
 
+## Python
+
+* https://github.com/tiangolo/fastapi Python 3.7+ based on standard Python type hints
+
 ## Rest clients
 
 * https://github.com/Kong/insomnia API Client for GraphQL, REST, and gRPC with plugin system
@@ -134,3 +138,22 @@
 * https://dzone.com/articles/akka-samples-scala-and-spring
 * https://hub.darcs.net/psnively/spring-scala
 * https://github.com/dnvriend/spring-boot-with-scala
+
+
+## Async SQL and async JDBC
+
+* https://spring.io/blog/2018/12/07/reactive-programming-and-relational-databases
+* https://medium.com/@ggonchar/non-blocking-sql-in-scala-bddf327a1ca3
+* https://suchakjani.medium.com/non-blocking-jdbc-early-2021-update-b8b2a24a3b83
+### Async SQL libs
+
+* https://github.com/scalikejdbc/scalikejdbc-async scala
+  + https://github.com/scalikejdbc/scalikejdbc
+  + https://scalikejdbc.org/
+* https://github.com/jasync-sql/jasync-sql kotlin
+  + https://github.com/28Smiles/jasync-sql-extensions
+* https://github.com/darkredz/Zeko-Data-Mapper kotlin
+* https://github.com/darkredz/Zeko-SQL-Builder kotlin
+* https://spring.io/projects/spring-data-r2dbc spring java
+* https://methodpoet.com/dapper/ C+ .NET
+* https://fastapi.tiangolo.com/advanced/async-sql-databases/ python, part of fastapi
