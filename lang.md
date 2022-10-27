@@ -34,7 +34,7 @@
 
 ## Erlang
 
-### Elexir
+### Elixir
 
 * https://elixir-lang.org/
 * https://de.wikipedia.org/wiki/Elixir_(Programmiersprache)
@@ -63,9 +63,49 @@
 * [arrows](https://www.haskell.org/arrows/)
   + https://hackage.haskell.org/package/base-4.17.0.0/docs/Control-Arrow.html
 
+### Haskell Web
+
+* https://github.com/dmjio/miso
+* https://github.com/ghcjs/ghcjs
+* https://levelup.gitconnected.com/from-go-to-haskell-svelte-1ad5ff4a0520
+
 ## Ocaml
 
 * https://github.com/ocaml/ocaml
+
+### Ocaml ffi and transpiler
+
+* https://github.com/Lupus/ocaml2go
+* https://dune.readthedocs.io/en/stable/foreign-code.html?highlight=foreign
+* https://github.com/yallop/ocaml-ctypes
+
+### Ocaml meta programming (also very important for reason)
+
+* https://github.com/ocaml-ppx/ppx
+  + https://discuss.ocaml.org/t/the-future-of-ppx/3766
+  + https://github.com/ocaml-ppx/ppxlib
+
+### Ocaml Web / Reason / ReScript family
+
+* https://github.com/OvermindDL1/bucklescript-tea elm style
+
+#### Reason (old ocaml to js but ocaml compatible)
+
+* https://en.wikipedia.org/wiki/Reason_(programming_language)
+* https://reasonml.github.io/
+* https://github.com/reasonml/reason
+* https://reasonml.github.io/docs/en/external ffi
+* https://github.com/ocsigen/js_of_ocaml reason *and* ocaml to js
+  + http://ocsigen.org/js_of_ocaml/latest/manual/lwt coroutine for reason/ocaml js
+
+#### ReScript (new ocaml to js but no ocaml backend)
+
+* https://rescript-lang.org/blog/bucklescript-is-rebranding
+
+* https://rescript-lang.org/
+* https://rescript-lang.org/docs/manual/v8.0.0/introduction old syntax
+* https://rescript-lang.org/docs/manual/latest/introduction new syntax
+* https://rescript-lang.org/docs/manual/latest/null-undefined-option
 
 ### Ocaml5
 
@@ -82,6 +122,12 @@
 * https://kcsrk.info/webman/manual/effects.html
 
 ### Go lang
+
+* https://github.com/softchris/golang-book
+
+### Go lang meta programming
+
+* https://github.com/jmattheis/goverter tool for creating type-safe converters. All you have to do is create an interface and execute goverter
 
 ### Go plugins
 
