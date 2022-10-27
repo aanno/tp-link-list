@@ -195,6 +195,17 @@ Also see `documenting-it.md`
   + https://github.com/transpect
 * http://dh.obdurodon.org/ (links to many XML tutorial, e.g. for XProc)
 
+* https://en.m.wikipedia.org/wiki/Lout_(software)
+  + https://www.cas.mcmaster.ca/~kahl/Publications/Conf/Kahl-1999a.html
+  + https://www.cas.mcmaster.ca/~kahl/Haskell/VGalleys.html haskell code
+  + https://ftp.tu-chemnitz.de/pub/tex/macros/latex/contrib/l3experimental/xgalley.pdf
+  + https://de.m.wikipedia.org/wiki/Lout
+  + https://github.com/william8000/lout
+
+* https://texfaq.org/FAQ-alternatives
+* https://sile-typesetter.org/ lua harfbuzz
+* https://patoline.github.io/ ocaml old
+
 ## Formats
 
 * [JATS](https://jats.nlm.nih.gov/)
@@ -210,6 +221,21 @@ Also see `documenting-it.md`
 * https://medevel.com/17-open-source-epub-and-ebook-creators/
 * https://opensource.com/article/18/10/book-to-website-epub-using-pandoc
 
+#### Epub reader
+
+* https://github.com/futurepress/epub.js/ epub in browser
+* https://github.com/janeczku/calibre-web epub books in browser
+* https://github.com/troyeguo/koodo-reader browser epub reader
+* https://github.com/Janglee123/eplee browser reader
+
+* https://github.com/johnfactotum/foliate desktop epub reader
+
+* https://www.edrlab.org/readium-lcp/ android platform - used in _many_ reader products
+  + https://github.com/readium/mobile
+  + https://github.com/readium/kotlin-toolkit
+* https://github.com/FolioReader/FolioReader-Android old
+
+
 #### Html to Epub
 
 * https://github.com/lesjoursfr/html-to-epub typescript
@@ -217,6 +243,7 @@ Also see `documenting-it.md`
 * https://github.com/NiklasGollenstede/epub-creator js
 * https://github.com/lelinhtinh/jEpub ejs
 * https://github.com/lelinhtinh/jEpub coffeescript
+* https://github.com/danburzo/percollate js lib for html to epub, pdf, html
 
 ## Static Generators
 
@@ -257,6 +284,10 @@ Also see `documenting-it.md`
 * http://www.theologeek.ch/manuskript/
 * https://www.mkdocs.org/
 
+* https://bookdown.org R-lang
+  + https://github.com/rstudio/bookdown
+  + https://bookdown.org/yihui/bookdown/markdown-syntax.html#math-expressions
+
 ## Asciidoc(tor) based
 
 * http://www.vogella.com/tutorials/AsciiDoc/article.html
@@ -295,6 +326,8 @@ Also see `documenting-it.md`
 ## PDF
 
 * [render PDF in JS](https://pspdfkit.com/blog/2018/render-pdfs-in-the-browser-with-pdf-js/)
+* https://www.baeldung.com/pdf-conversions-java
+* https://github.com/itext/xfdf-merger
 
 ### PDF software and tools
 
@@ -303,11 +336,22 @@ Also see `documenting-it.md`
 * https://github.com/pts/pdfsizeopt
 * https://pspdfkit.com/ (commercial)
 * https://www.qoppa.com/pdfstudioviewer/download/ commercial, linux (java)
+* https://cssbox.sourceforge.net/pdf2dom/download.php
+  + https://github.com/radkovo/Pdf2Dom
+* https://www.mustangproject.org/ zugferd
+
+### PDF to Html
+
+* https://www.baeldung.com/java-html-to-pdf
+
+### Html to PDF
+
 
 #### Sign pdf
 
 * http://wiki.cacert.org/PdfSigning
 * https://github.com/go-pdf-sign/go-pdf-sign
+* https://github.com/IcoDeveloper/PDFSign C#
 
 ##### TSA Services
 
@@ -338,6 +382,11 @@ Also see `documenting-it.md`
 * https://www.pdfreactor.com/ (commercial)
 * [fluid-pdf](https://github.com/fluidsonic/fluid-pdf) pdf from html with chromium in kotlin
 
+#### Remove distractions from Html Pages
+
+* https://readium.org/awesome-readium/
+* https://github.com/readium/readium-js
+
 #### Headless chrome (alternative to puppeteer)
 
 * https://github.com/atroche/rust-headless-chrome
@@ -350,3 +399,11 @@ Also see `documenting-it.md`
 ## Html tools (sanitizers, ...)
 
 * [port of mozilla's readability](https://github.com/dankito/Readability4J)
+
+
+## Math rendering
+
+* https://tex.stackexchange.com/questions/41609/tex-rendering-in-a-java-application
+* https://github.com/opencollab/jlatexmath java used in  Scilab, Geogebra, Freeplane, Mathpiper, CaRMetal, Ultrastudio
+* https://github.com/DaveJarvis/KeenTeX/blob/master/README.md java fork of jmathtex
+* https://github.com/rototor/snuggletex java

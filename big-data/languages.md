@@ -52,6 +52,7 @@
 
 * https://julialang.org/
 * https://juliacomputing.com/ commercial
+* https://juliadatascience.io/
 
 ## Libraries
 

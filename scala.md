@@ -208,6 +208,7 @@ prinzipiell der klassischen Programmierung überlegen ist.
 * [cats-mtl](https://github.com/typelevel/cats-mtl) monad transformer library
   + https://github.com/typelevel/cats-mtl/blob/main/docs/getting-started.md
 * [cats-tagless](https://github.com/typelevel/cats-tagless/) not for scala 3
+* https://blog.knoldus.com/scala-cats-eithert/
 
 
 ### Scala Multiplatform

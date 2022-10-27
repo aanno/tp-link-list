@@ -87,6 +87,7 @@
 * https://bitfieldconsulting.com/golang/generics
 * https://blog.golang.org/generics-proposal
 * https://blog.golang.org/generics-next-step
+* https://go.dev/blog/why-generics
 
 ## Dart
 

@@ -31,6 +31,7 @@
 
 * https://grpc.io/
 * https://twitter.github.io/finagle/
+  + https://twitter.github.io/scala_school/finagle.html#fn1
   + https://github.com/twitter/finagle
   + https://github.com/novus/unfinagled
   + https://github.com/twitter/finatra

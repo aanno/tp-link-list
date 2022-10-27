@@ -129,6 +129,38 @@
 
 * https://github.com/jmattheis/goverter tool for creating type-safe converters. All you have to do is create an interface and execute goverter
 
+
+### Go lang learn
+
+* https://go.dev/talks/2012/goforc.slide featured!
+* https://yourbasic.org/golang/go-java-tutorial/
+* https://gobyexample.com/ simple
+* https://go.dev/tour/welcome/1 simple
+* https://golangdocs.com/ blog
+* https://gosamples.dev/copy-map/ blog simple
+* https://go.dev/blog/slices
+* https://go.dev/blog/strings
+  + https://henvic.dev/posts/go-utf8/
+  + https://pkg.go.dev/unicode
+  + https://coderwall.com/p/k7zvyg/dealing-with-unicode-in-go
+  + https://zetcode.com/golang/rune/
+* https://www.geeksforgeeks.org/how-to-copy-one-slice-into-another-slice-in-golang/
+* https://medium.com/@jon_43067 blog
+
+* https://go.dev/doc/faq
+* https://go.dev/blog/why-generics
+* https://vimeo.com/49718712 Rob Pike - ‘Concurrency Is Not Parallelism
+
+### Go build
+
+* https://stackoverflow.com/questions/1757090/shared-library-in-go
+
+### Go libs
+
+* https://pkg.go.dev/go.octolab.org incl. a pointer implementation
+* https://github.com/siderolabs/go-pointer
+* https://pkg.go.dev/github.com/prysmaticlabs/go-bitfield
+
 ### Go plugins
 
 * https://entwickler.de/go/plug-ins-mit-go-001
@@ -139,9 +171,15 @@
 #### Go lang and C
 
 * https://pkg.go.dev/cmd/cgo
+  + https://github.com/golang/go/wiki/cgo#turning-c-arrays-into-go-slices
+  + https://stackoverflow.com/questions/65934945/how-to-manipulate-a-c-character-array-inside-a-cgo-function
   + https://blog.marlin.org/cgo-referencing-c-library-in-go
   + https://karthikkaranth.me/blog/calling-c-code-from-go/
   + https://www.thegoldfish.org/2019/04/using-c-libraries-from-go/
+  + https://karthikkaranth.me/blog/calling-c-code-from-go/
+  + https://eli.thegreenplace.net/2019/passing-callbacks-and-pointers-to-cgo/
+  + https://14rcole.github.io/post/cgo-part1-structs/
+  + https://medium.com/@liamkelly17/working-with-packed-c-structs-in-cgo-224a0a3b708b
 * https://stackoverflow.com/questions/1713214/how-to-use-c-in-go
 * https://github.com/xlab/c-for-go
 * https://github.com/h12w/cwrap
@@ -149,6 +187,7 @@
 * https://www.swig.org/Doc3.0/Go.html uses cgo
 * https://xuri.me/2022/04/15/go-shared-libraries.html
   + https://stackoverflow.com/questions/1757090/shared-library-in-go
+* https://dev.to/mattn/call-go-function-from-c-function-1n3 go-pointer
 
 * https://ugorji.net/blog/go-codecgen
   + https://github.com/ugorji/go
@@ -185,3 +224,10 @@
 ### To kotlin
 
 * https://github.com/korlibs/ktcc
+
+
+## LLVM
+
+### Clang
+
+* https://eli.thegreenplace.net/2011/07/03/parsing-c-in-python-with-clang
