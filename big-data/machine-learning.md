@@ -4,6 +4,12 @@
 * https://medium.com/stacksharewithme/2020-ai-ml-opensource-45b3ca809133 : Overview excellent open source
 * https://www.spektrum.de/news/wie-gauss-helfen-kann-das-geheimnis-des-deep-learning-zu-lueften/1937500 - warum funktionieren NN?
 
+## Important Meta Sides
+
+* https://huggingface.co/ - github for AI
+  + https://huggingface.co/models
+  + https://huggingface.co/datasets
+
 ## Very high level frameworks
 
 * https://opensource.google/projects/dopamine : reinforcement framework
@@ -115,3 +121,13 @@
 * https://botpress.io/
 * https://rasa.com/
   + https://github.com/RasaHQ/rasa
+
+## Text to Image
+
+* https://t3n.de/news/comic-ki-dreambooth-avatar-missbrauch-1511452/
+* https://dreambooth.github.io/
+  + https://github.com/XavierXiao/Dreambooth-Stable-Diffusion
+
+## Pre-trained individual images
+
+* https://huggingface.co/ogkalu/Comic-Diffusion
