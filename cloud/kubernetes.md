@@ -311,3 +311,8 @@
 
 *  nginx-autoletsencrypt: https://github.com/profihost/podman-container-configs/
 *  jitsi-meet: https://wissen.profihost.com/wissen/artikel/installation-von-jitsi-meet/
+
+### programming and development on kubernetes
+
+* https://cdk8s.io/
+  + https://github.com/cdk8s-team/cdk8s

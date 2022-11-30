@@ -24,6 +24,12 @@
 * [draw.io (web service)](https://app.diagrams.net/)
 * [wireframer (web service)](https://devimust.github.io/wireframer/)
 
+### Multiplatform forms
+
+* https://jsonforms.io/ react, angular, vue
+  + https://github.com/eclipsesource/jsonforms
+  + https://github.com/copper-leaf/kotlin-json-forms kotlin compose
+
 ### Commercial tools
 
 ### Web Services (commercial)

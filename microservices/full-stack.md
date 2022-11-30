@@ -43,7 +43,6 @@
 * https://github.com/networknt/light-4j
   + https://www.networknt.com/
   + https://github.com/networknt/microservices-framework-benchmark
-* https://moleculer.services/ (node)
 * https://github.com/spring-projects-experimental/spring-fu kotlin and java
   + https://entwickler.de/spring/spring-fu-neues-microframework-von-spring/
 * [light-4j](https://www.networknt.com/)
@@ -53,10 +52,33 @@
   + https://github.com/activej/activej
   + https://github.com/the-benchmarker/web-frameworks (benchmark in favour of activej)
 * [fastAPI](https://fastapi.tiangolo.com/) python-based
+* https://higherkindness.io/mu/ kotlin, scala, haskell (no rest, just grpc and avro)
 
 * https://www.lightbend.com/learn for kubernetes
 * https://www.lagomframework.com/documentation/1.3.x/scala/ConductR.html (scala)
   + https://www.lightbend.com/platform/production
+
+### Node
+
+* https://geekflare.com/javascript-frameworks-for-api/
+* https://taglineinfotech.com/best-node-js-framework-for-microservices/
+
+* https://moleculer.services/
+* http://restify.com/ build-in DTrace support
+* https://hapi.dev/
+* https://loopback.io/ typescript
+* https://nestjs.com/ typescript
+* https://rokkit.dev/ typescript
+
+### Scala
+
+* https://sttp.softwaremill.com/en/latest/json.html circe, json4s, spray-json, Jsoniter-scala, ...
+  + https://sttp.softwaremill.com/en/latest/json.html
+* https://http4s.org/
+  + https://http4s.org/v0.18/json/
+* https://disneystreaming.github.io/smithy4s/
+  + https://disneystreaming.github.io/smithy4s/docs/protocols/simple-rest-json/overview/
+
 
 ### Spring and Angular
 

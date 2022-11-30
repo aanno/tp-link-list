@@ -41,6 +41,10 @@ prinzipiell der klassischen Programmierung überlegen ist.
 * [galia - scala 2 data transformation](https://towardsdatascience.com/gallia-a-library-for-data-transformation-3fafaaa2d8b9)
 * https://ammonite.io/ repl shell - great for scala learning
   + https://docs.scala-lang.org/overviews/repl/overview.html simple repl included in scala
+* https://github.com/plokhotnyuk/jsoniter-scala macro based json (de)serializer
+* https://sirthias.github.io/borer/ CBOR and JSON (de)serializer
+* [fs](https://github.com/typelevel/fs2) functional streaming
+  + https://fs2.io/#/ecosystem
 
 ## Links
 

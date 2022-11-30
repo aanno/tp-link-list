@@ -129,6 +129,13 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
   + [korio](https://github.com/korlibs/korge/tree/main/korio) Streams, TCP Client/Server, VFS
 * [resultat - Result with a loading state](https://github.com/nicolashaan/resultat)
 * [moko-network](https://github.com/icerockdev/moko-network) addition to ktor-client for android
+* [reflection-less serialization](https://github.com/Kotlin/kotlinx.serialization)  JSON, Protobuf, CBOR, Hocon, Properties
+
+### Kotlin JS
+
+* [dukat](https://github.com/Kotlin/dukat) generate kotlin stubs from typescript definitions
+* [kotlinx-nodejs](https://github.com/Kotlin/kotlinx-nodejs) kotlin access to node API
+* [kotlin js interop](https://kotlinlang.org/docs/js-interop.html) use JS from kotlin
 
 ### Kotlin for web UI
 

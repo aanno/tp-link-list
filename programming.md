@@ -187,6 +187,19 @@ Tool für polyglotte API Entwicklung und Dokumentation, insbesondere im JSON RES
 * Examples
   + https://github.com/OAI/OpenAPI-Specification/blob/master/examples/v3.0/api-with-examples.yaml
 
+### OpenAPI 3 code generation
+
+* https://github.com/OpenAPITools/openapi-generator
+  + https://openapi-generator.tech/docs/generators/
+  + https://github.com/OpenAPITools/openapi-generator/tree/master/docs/generators
+  + https://sylhare.github.io/2021/07/19/Openapi-swagger-codegen-with-kotlin.html
+* https://guardrail.dev/ akka-http-jackson http4s dropwizard spring-mvc
+  + https://github.com/guardrail-dev/guardrail
+* https://github.com/ghostbuster91/sttp-openapi-generator scala sttp
+* https://github.com/numberfour/openapi-scala
+  + https://index.scala-lang.org/numberfour/openapi-scala
+
+
 ### Springfox = Swagger + Spring
 
 * http://springfox.github.io/springfox/docs/current/

@@ -101,3 +101,12 @@
 * [Gateway load balancer GWLB](https://aws.amazon.com/de/blogs/aws/introducing-aws-gateway-load-balancer-easy-deployment-scalability-and-high-availability-for-partner-appliances/)
 * [elastic network](https://aws.amazon.com/de/blogs/aws/new-elastic-network-interfaces-in-the-virtual-private-cloud/)
 * [AWS IoT core](https://aws.amazon.com/de/iot-core/features/?pg=ln&sec=hs)
+
+### lambda/serverless
+
+* [sam cli](https://aws.amazon.com/de/serverless/sam/)
+* https://docs.aws.amazon.com/cdk/api/v2/ typescript, js, python, java, c#, .net
+  + [AWS Cloud Development Kit](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
+* [copilot](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Copilot.html) ecs tool
+* [mutato](https://stelligent.github.io/mutato/#/)
+  + https://github.com/stelligent/mutato
