@@ -187,7 +187,7 @@ Tool für polyglotte API Entwicklung und Dokumentation, insbesondere im JSON RES
 * Examples
   + https://github.com/OAI/OpenAPI-Specification/blob/master/examples/v3.0/api-with-examples.yaml
 
-### OpenAPI 3 code generation
+### OpenAPI 3 code generation (from)
 
 * https://github.com/OpenAPITools/openapi-generator
   + https://openapi-generator.tech/docs/generators/
@@ -198,6 +198,19 @@ Tool für polyglotte API Entwicklung und Dokumentation, insbesondere im JSON RES
 * https://github.com/ghostbuster91/sttp-openapi-generator scala sttp
 * https://github.com/numberfour/openapi-scala
   + https://index.scala-lang.org/numberfour/openapi-scala
+* https://github.com/deepmap/oapi-codegen golang for: echo, chi, gin, gorilla
+* https://github.com/SIMITGROUP/openapigenerator golang
+
+Only tools:
+
+* https://github.com/orgs/go-openapi/repositories?type=all golang
+* https://github.com/getkin/kin-openapi golang
+
+### OpenAPI 3 code generation (to)
+
+* https://github.com/grpc-ecosystem/grpc-gateway - Rest API proxy from protobuf *.proto files
+* https://github.com/goadesign/goa 'go spec dsl' to ...
+  + https://github.com/goadesign/plugins/tree/v3/goakit go kit
 
 
 ### Springfox = Swagger + Spring

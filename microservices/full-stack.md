@@ -20,6 +20,12 @@
 * https://medium.com/microservices-architecture/top-10-microservices-framework-for-2020-eefb5e66d1a2
 * https://jax.de/blog/core-java-jvm-languages/microframeworks-unter-der-lupe-javalin-vs-ktor-vs-spring-fu-vs-micronaut/
 
+## Benchmarks
+
+* https://www.techempower.com/benchmarks/#section=data-r21
+* https://github.com/networknt/microservices-framework-benchmark
+* https://github.com/smallnest/go-web-framework-benchmark go only
+
 ### Emerging Microservices
 
 * http://cqrs.nu/tutorial/cs/01-design
@@ -79,6 +85,22 @@
 * https://disneystreaming.github.io/smithy4s/
   + https://disneystreaming.github.io/smithy4s/docs/protocols/simple-rest-json/overview/
 
+### Go
+
+* https://pkg.go.dev/github.com/mingrammer/go-web-framework-stars#section-readme
+
+* https://go-kratos.dev/ powerful middleware with rate limiter, circuit breaker, prometheus metrics, ...
+  + https://go-kratos.dev/en/docs/guide/openapi/ plugin for swagger-ui
+* https://gofiber.io/
+  + https://github.com/gofiber/swagger plugin for swagger-ui
+  + https://github.com/swaggo/fiber-swagger another plugin for swagger-ui
+* https://micro.mu/
+* https://github.com/NYTimes/gizmo
+* https://github.com/koding/kite
+* https://github.com/beego/beego complete solution including REST support, ORM, auto API docs, ...
+* https://github.com/kataras/iris
+  + https://github.com/iris-contrib
+* https://www.gorillatoolkit.org/
 
 ### Spring and Angular
 
