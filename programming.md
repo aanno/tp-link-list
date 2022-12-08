@@ -212,6 +212,9 @@ Only tools:
 * https://github.com/goadesign/goa 'go spec dsl' to ...
   + https://github.com/goadesign/plugins/tree/v3/goakit go kit
 
+### OpenAPI documentation
+
+* https://github.com/stoplightio/elements Beautiful API documentation powered by OpenAPI and Markdown
 
 ### Springfox = Swagger + Spring
 

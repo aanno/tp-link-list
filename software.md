@@ -457,3 +457,26 @@
 * https://displaycal.net/ (old, not with python3)
 * https://www.argyllcms.com/
 * https://www.littlecms.com/
+
+## Profiling, Instrumentation, Performance Monitoring
+
+* https://en.wikipedia.org/wiki/SystemTap linux
+  + https://sourceware.org/systemtap/
+  + https://www.admin-magazin.de/Das-Heft/2010/03/Anwendungen-tracen-mit-Oprofile-und-Systemtap
+  + https://www.brendangregg.com/blog/2011-10-15/using-systemtap.html
+* https://github.com/Granulate/gprofiler python written, perf based, java, python, ruby, php, node, .net
+  + https://profiler.granulate.io/login
+  + https://gprofiler.io/
+  + https://docs.gprofiler.io/
+* [perf](https://perf.wiki.kernel.org/index.php/Main_Page) linux
+  + https://www.thomas-krenn.com/de/wiki/Linux_Performance_Counters_mit_perf_und_perf-tools
+  + https://www.linux-magazin.de/ausgaben/2019/02/perf/
+  + [perf record](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/monitoring_and_managing_system_status_and_performance/monitoring-application-performance-with-perf_monitoring-and-managing-system-status-and-performance)
+  + [perf man page](https://man7.org/linux/man-pages/man1/perf.1.html)
+  + [oprofile man page](https://man7.org/linux/man-pages/man1/oprofile.1.html)
+  + [app performance](https://unix.stackexchange.com/questions/399614/how-can-i-measure-the-speed-performance-of-a-program) `perf stat -d ./a.out`
+* [gprof man page](https://man7.org/linux/man-pages/man1/gprof.1.html) linux but only C, C++, Pascal, Fortran77
+* [dtrace](http://dtrace.org/blogs/about/) linux (dev), osx, freebsd, solaris
+* [app RAM](https://unix.stackexchange.com/questions/18841/measuring-ram-usage-of-a-program)
+  + https://github.com/gsauthof/tstime old, works only as root
+  + https://github.com/gsauthof/cgmemtime RSS+CACHE memory usage

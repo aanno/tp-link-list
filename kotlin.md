@@ -31,6 +31,7 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
     - https://github.com/Kotlin/coroutines-examples/blob/master/examples/generator/generator.kt
 * [kotlin coroutines with spring](https://spring.io/blog/2019/04/12/going-reactive-with-spring-coroutines-and-kotlin-flow)
 * [kotlin coroutine sdl](https://github.com/Kotlin/kotlinx.coroutines)
+* https://proandroiddev.com/structured-concurrency-in-action-97c749a8f755
 
 ### Coroutines programming examples
 

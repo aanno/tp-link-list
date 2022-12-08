@@ -149,7 +149,19 @@
 
 * https://go.dev/doc/faq
 * https://go.dev/blog/why-generics
-* https://vimeo.com/49718712 Rob Pike - ‘Concurrency Is Not Parallelism
+* https://vimeo.com/49718712 Rob Pike - Concurrency Is Not Parallelism
+* https://entwickler.de/go/gopher-sind-von-natur-aus-lazy 5 go gotchas
+* https://medium.com/@gauravsingharoy/asynchronous-programming-with-go-546b96cd50c1
+* [sync await](https://hackernoon.com/asyncawait-in-golang-an-introductory-guide-ol1e34sg)
+  + https://github.com/Joker666/AsyncGoDemo
+
+### Go std lib
+
+* https://pkg.go.dev/context
+  + https://www.digitalocean.com/community/tutorials/how-to-use-contexts-in-go
+* https://blog.xendit.engineer/streaming-an-avalanche-of-data-with-gos-io-package-d319226f645b
+* https://medium.com/learning-the-go-programming-language/streaming-io-in-go-d93507931185
+* https://zetcode.com/golang/string-format/
 
 ### Go build
 
@@ -160,6 +172,35 @@
 * https://pkg.go.dev/go.octolab.org incl. a pointer implementation
 * https://github.com/siderolabs/go-pointer
 * https://pkg.go.dev/github.com/prysmaticlabs/go-bitfield
+* https://github.com/ReactiveX/RxGo
+* https://github.com/shettyh/threadpool
+* https://github.com/ahmetask/worker
+  + https://medium.com/@ahmet9417/golang-thread-pool-and-scheduler-434dd094715a
+* https://github.com/jucardi/go-streams inspired in Java 8 Streams and .NET Linq
+* https://github.com/wesovilabs/koazee StreamLike, Immutable, Lazy Loading
+
+#### Go libs for enterprise stuff
+
+* [prometheus client](https://github.com/prometheus/client_golang) report metrics, read metrics
+  + https://gabrieltanner.org/blog/collecting-prometheus-metrics-in-golang/
+  + https://prometheus.io/docs/guides/go-application/
+
+* https://cloud.ibm.com/docs/go?topic=go-go-healthcheck
+* https://blog.gopheracademy.com/advent-2017/kubernetes-ready-service/
+* https://github.com/vmware-archive/healthcheck (deprecated)
+* https://go.dev/doc/diagnostics pprof, perf, callgrind
+  + https://go.dev/blog/pprof
+
+mapper
+* https://github.com/devfeel/mapper
+* https://github.com/anexia-it/go-structmapper
+* https://github.com/mashingan/smapping
+* https://github.com/mitchellh/mapstructure
+
+### Go functional programming
+
+* https://blog.fsouza.dev/functional-streams-in-go/
+  + https://github.com/golang/go/issues/49085 no type paramenters in methods (so far)
 
 ### Go plugins
 
