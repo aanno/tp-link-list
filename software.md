@@ -480,3 +480,5 @@
 * [app RAM](https://unix.stackexchange.com/questions/18841/measuring-ram-usage-of-a-program)
   + https://github.com/gsauthof/tstime old, works only as root
   + https://github.com/gsauthof/cgmemtime RSS+CACHE memory usage
+* [ps, top](https://stackoverflow.com/questions/1221555/retrieve-cpu-usage-and-memory-usage-of-a-single-process-on-linux)
+* [many interesting tools](https://unix.stackexchange.com/questions/554/how-to-monitor-cpu-memory-usage-of-a-single-process)
