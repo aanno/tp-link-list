@@ -90,6 +90,18 @@
 * https://www.backblaze.com/blog/backing-linux-backblaze-b2-duplicity-restic/
 * https://support.nine.ch/artikel/wie-erstelle-ich-ein-backup-meines-root-v-servers
 * https://www.datamate.org/duplicity-duply-datensicherung-auf-die-verlass-ist/
+* https://opensource.com/article/19/3/backup-solutions
+* https://www.computerweekly.com/de/tipp/14-Open-Source-und-Freeware-Tools-fuer-kostenloses-Backup
+
+#### Windows Backup
+
+* https://www.heise.de/tipps-tricks/Windows-11-Backup-erstellen-so-geht-s-6294027.html
+  + https://www.computerbild.de/artikel/cb-Tipps-Software-Windows-Backup-Datensicherung-8100402.html
+
+
+* https://www.ubackup.com/de/buy-ab-pro.html commercial
+* https://www.macrium.com/reflectfree commercial
+* https://www.easeus.de/backup-software/todo-backup-home-kaufen.html commercial
 
 ##### Duplicity
 
@@ -112,19 +124,28 @@
 * https://www.bacula.org/ 
 * https://burp.grke.org/
 * https://github.com/miekg/rdup (rsync like)
-* https://bup.github.io/
+* https://bup.github.io/ git-like
   + https://github.com/bup/bup
 * https://borgbackup.readthedocs.io/en/stable/
   + https://github.com/borgbackup/borg
   + https://github.com/borgbackup/community
 * https://github.com/NaPs/Marty
-* [duplicati](https://duplicati.readthedocs.io/en/latest/) (cloud-enabled)
+* [duplicati](https://duplicati.readthedocs.io/en/latest/) cloud-enabled, slow dev since 2021
+  + https://www.duplicati.com/
+  + https://github.com/duplicati/duplicati
+* https://github.com/gilbertchen/duplicacy cloud-enabled, comparasion with other backups, slow dev since 2021
 * [ogive](https://github.com/mgren/ogive) glacier backup
 * https://rclone.org/ (more a sync tool but cloud-enabled)
-* [syncovery](https://www.syncovery.com/) (commercial)
 * [cloud db backup](https://github.com/backup-manager/backup-manager)
 * [HashBackup](http://www.hashbackup.com/home)
+* http://www.amanda.org/
+* https://www.urbackup.org/
+* https://github.com/rdiff-backup/rdiff-backup
+* https://freefilesync.org/ rsync-like, with ui, for win
+* https://www.areca-backup.org/ open source, win, linux
+
 * [qBackup](https://www.qualeed.com/en/qbackup/benchmarks/) (multi-platform, semi-commercial)
+* [syncovery](https://www.syncovery.com/) (commercial)
 * https://www.msp360.com/ (commercial)
 
 ###### Cloud backup

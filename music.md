@@ -75,6 +75,8 @@
 
 * https://github.com/anacrolix/dms
 * https://gerbera.io/
+  + https://github.com/gerbera/gerbera
+  + https://github.com/gerbera/gerbera/issues/2176 showstopper bug
 * https://volumio.org/
 * https://jellyfin.org/ C#-based
 * https://github.com/UniversalMediaServer/UniversalMediaServer
@@ -102,6 +104,8 @@
 * https://www.moodeaudio.org/ webui for MPD
   + https://github.com/moode-player/moode
 * https://github.com/pupnp/pupnp library for upnp/DLNA in C
+* https://framagit.org/medoc92/npupnp an alternative implemenation of pupnp in C++
+  + https://www.lesbonscomptes.com/upmpdcli/npupnp-doc/libnpupnp.html
 * https://github.com/grimlock-/upnp_live mirror live streams on DLNA
 * https://github.com/grilofw/grilo metasearch on streams
 * https://github.com/gabrielmagno/nano-dlna DLNA control
