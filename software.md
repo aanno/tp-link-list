@@ -244,6 +244,15 @@
   + https://owncloud.dev/ocis/getting-started/
   + https://github.com/owncloud/ocis
   + https://owncloud.com/de/news/howto-install-owncloud-infinite-scale-tech-preview/
+  + https://www.admin-magazine.com/Archive/2021/64/Fast-and-scalable-ownCloud-Infinite-Scale
+  + https://www.computerbase.de/2022-12/owncloud-infinite-scale-release/
+  + https://www.heise.de/news/Mehr-Tempo-mit-Go-statt-PHP-ownCloud-Infinite-Scale-ist-einsatzbereit-7364770.html
+  + https://www.heise.de/news/ownCloud-Infinite-Scale-Go-statt-PHP-Microservices-statt-LAMP-5029244.html
+  + https://hub.docker.com/r/owncloud/ocis
+  + https://owncloud.dev/ocis/guides/ocis-local-docker/
+  + https://reva.link/
+    - https://github.com/cs3org/reva
+    - https://github.com/cs3org/cs3apis
 * https://pydio.com/
 
 ### Binary diff
