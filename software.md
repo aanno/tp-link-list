@@ -387,6 +387,9 @@
 
 ## DMS
 
+* https://medevel.com/dms-cloud-file-sharing-opensource/
+* https://medium.com/@MarktrHimanshu/top-10-free-and-open-source-document-management-system-ddd4265adf5e
+
 * http://www.cinnamon-cms.com/ (Dita)
   + https://github.com/dewarim/cinnamon
   + https://github.com/dewarim/cinnamon/blob/master/docs/dwarves_and_giants.md
@@ -404,6 +407,14 @@
 * https://www.pdfkeeper.org/
   + https://github.com/rffrasca/PDFKeeper
 * [archivista](https://archivista.ch/cms/de/produkte/opensource/)
+* https://www.opendocman.com/
+* https://github.com/ciur/papermerge
+* https://www.openkm.com/
+* https://www.alfresco.com/ecm-software/document-management
+  + https://github.com/Alfresco/alfresco-community-repo
+* nuxeo was open source: https://www.nuxeo.com/blog/nuxeo-server-source-code/
+  + https://github.com/nuxeo/nuxeo
+  + https://www.nuxeo.com/blog/lts-release-cycle/
 
 ### Full text search (only)
 

@@ -241,6 +241,7 @@
 * https://www.eclipse.org/che/docs/che-7/running-che-locally
 * [CodeReady Containers](https://access.redhat.com/documentation/en-us/red_hat_codeready_containers/1.0/html/getting_started_guide/getting-started-with-codeready-containers_gsg?extIdCarryOver=true&sc_cid=701f2000001OH6pAAG#installing-codeready-containers_gsg) single node openshift
   + https://haralduebele.blog/2019/09/13/red-hat-openshift-4-on-your-laptop/amp/
+  + https://developers.redhat.com/articles/2022/04/01/codeready-workspaces-scales-now-red-hat-openshift-dev-spaces#
 * https://github.com/openshift/okd/blob/master/README.md
 * https://www.admin-magazin.de/Das-Heft/2020/10/Kubernetes-einrichten-und-betreiben-2 (okd)
 * https://itnext.io/guide-installing-an-okd-4-5-cluster-508a2631cbee

@@ -2,6 +2,7 @@
 
 * https://geekflare.com/de/self-hosted-wiki-software/
 * http://www.clickonf5.org/internet/10-free-opensource-wiki-software-engine/7599
+* https://www.nuclino.com/alternatives/confluence-alternative (more groupware - confluence)
 
 ## Implementations
 
