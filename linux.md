@@ -175,14 +175,14 @@
 * [syncovery](https://www.syncovery.com/) (commercial)
 * https://www.msp360.com/ (commercial)
 
-###### Cloud backup
+##### Cloud backup and S3
 
-#### WebDAV
+###### WebDAV
 
 * https://www.free-online-backup-services.com/features/webdav/
 * https://docs.nextcloud.com/server/19/benutzerhandbuch/files/access_webdav.html
 
-####### Glacier 
+###### Glacier 
 
 * [boto3 to Glacier](https://superuser.com/questions/546507/i-need-a-simple-way-to-backup-files-to-amazon-glacier-from-the-command-line)
 * [s3cmd to S3/Glacier](https://gist.github.com/macbookandrew/34dd7479b78888944afd)
@@ -193,19 +193,36 @@
 * https://www.slant.co/options/2332/alternatives/~amazon-glacier-alternatives
 * https://cloud.netapp.com/blog/amazon-s3-as-a-file-system
 
-####### Backblaze B2
+###### Backblaze B2 (S3)
 
 * [S3FS with B2](https://help.backblaze.com/hc/en-us/articles/360047773653-Using-S3FS-with-B2)
 * [B2 linux support](https://help.backblaze.com/hc/en-us/articles/217664628-How-does-Backblaze-support-Linux-Users-)
   + Supported: Duplicity, MSP360, qBackup, GoodSync, HashBackup, Duplicacy, Restic
 
+###### Other S3
 
-####### Other
+* https://www.coralnodes.com/amazon-s3-alternatives/
 
 * https://wasabi.com/help/downloads/
   + [borgbackup/rclone](https://wasabi-support.zendesk.com/hc/en-us/articles/115003691192-How-do-I-use-BorgBackup-with-Wasabi-)
   + [s3fs with wasabi](https://wasabi-support.zendesk.com/hc/en-us/articles/115001744651-How-do-I-use-S3FS-with-Wasabi-)
 * https://min.io/ S3 on your linux (cluster)
+
+###### File system access to S3
+
+* https://juicefs.com/docs/community/installation/
+  + https://github.com/juicedata/juicefs
+  + https://juicefs.com/docs/community/s3_gateway/
+  + https://juicefs.com/docs/community/comparison/juicefs_vs_s3fs/
+  + https://juicefs.com/en/blog/usage-tips/juicefs-for-docker-data-persistent
+  + https://juicefs.com/docs/cloud/use_juicefs_in_docker/
+* https://github.com/s3ql/s3ql/
+* https://github.com/archiecobbs/s3backer
+* https://github.com/kahing/goofys
+* https://github.com/s3fs-fuse/s3fs-fuse
+* https://github.com/treeverse/lakeFS
+  + https://lakefs.io/
+* https://github.com/seaweedfs/seaweedfs
 
 #### Storage data encryption
 

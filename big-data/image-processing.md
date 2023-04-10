@@ -34,18 +34,40 @@
 #### Web-based photo applications
 
 * https://www.techrepublic.com/article/top-5-self-hosted-photo-storage-options/
+* https://medevel.com/os-photo-collection-self-hosted/
 
 * [photoprism](https://github.com/photoprism/photoprism)
   + https://github.com/photoprism/photoprism/wiki/Image-Classification
   + https://github.com/deki/photoprism-aws
   + https://geek-cookbook.funkypenguin.co.nz/recipes/photoprism/
   + https://docs.photoprism.app/getting-started/advanced/scalability/
+  + https://geek-cookbook.funkypenguin.co.nz/recipes/photoprism/
 * https://github.com/Librephotos/librephotos
 * https://photoview.github.io/
 * https://pixelfed.org/
 * https://piwigo.org/
+* https://docs.librephotos.com/
+  + https://github.com/LibrePhotos/librephotos
+* https://coppermine-gallery.net/
+* https://www.picapport.de/en/index.php
+  + https://wiki.picapport.de/display/PICE/PicApport-Server+Guide
+* https://github.com/photonixapp/photonix
+* https://lychee.electerious.com/
+* https://lomorage.com/
+* https://v4-docs.chevereto.com/
+  + https://chevereto.com/
 
 * https://www.digikam.org/ (include face recognition)
+
+#### Cloud-based photo applications
+
+* https://github.com/LaurenceHo/quasar-s3-photo-albums
+* https://github.com/jpsim/AWSPics
+* https://github.com/dorianm/s3-photo-gallery
+* https://github.com/brendannee/noobgallery
+* https://github.com/juankamilomarin/s3-image-bucket
+* https://github.com/joelpob/photos-gallery
+* https://github.com/selcukusta/simple-image-server
 
 ## Image Annotation
 

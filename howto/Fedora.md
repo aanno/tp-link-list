@@ -77,6 +77,107 @@ v4l2loopback_dc/0.0.1, 5.18.11-200.fc36.x86_64, x86_64: installed
 v4l2loopback_dc/0.0.1, 5.18.15-200.fc36.x86_64, x86_64: installed
 ```
 
+### nvidia driver and cuda from developer nvidia
+
+https://forums.developer.nvidia.com/t/bug-report-on-nvidia-driver-515-65-01-for-fedora-36-kernel-5-18-19-rtx-2060-rev-1/227009/9
+
+
+I need nvidia graphics driver and cuda support. Hence I did the following:
+
+1. [Follow CUDA Toolkit 11.7 Update 1 Downloads | NVIDIA Developer 10](https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&Distribution=Fedora&target_version=35&target_type=rpm_network)
+   ```
+   sudo dnf config-manager --add-repo https://developer.download.nvidia.com/compute/cuda/repos/fedora35/x86_64/cuda-fedora35.repo
+   sudo dnf clean all
+   sudo dnf -y module install nvidia-driver:latest-dkms
+   sudo dnf -y install cuda
+   ```
+   Use f35 repo. There is also a f36 repo that is known not to work.
+2. Also install
+   ```
+   sudo dnf install kmod-nvidia-latest-dkms
+   ```
+3. Ensure that nvidia modules are build or build them
+   ```
+   dkms status
+   nvidia/515.65.01, 5.17.5-300.fc36.x86_64, x86_64: installed
+   # build with
+   # sudo dkms install nvidia/515.65.01 -k 5.17.5-300.fc36.x86_64
+   ```
+4. Ensure I’ve got something like this:
+   ```
+   cat /etc/modprobe.d/nouveau-blacklist.conf 
+   blacklist nouveau
+   options nouveau modeset=0
+   ```
+5. Build right initramfs with
+   ```
+   sudo dracut -v -f --regenerate-all --omit-drivers="nouveau i915" --force-drivers="nvidia_drm nvidia_modeset nvidia_uvm nvidia"
+   ```
+6. Ensure that you habe kernel parameters including this:
+   ```
+   nouveau.modeset=0 rd.driver.blacklist=nouveau i915.modeset=0 nvidia-drm.modeset=1
+   ```
+7. If you changed kernel parameters (see below) update grub2 afterwards with:
+   ```
+   grub2-mkconfig -o "$(readlink -e /etc/grub2-efi.conf)"
+   ```
+
+My complete kernel parameters are:
+
+
+```
+ro resume=/dev/mapper/fedora-00 rd.lvm.lv=fedora/root rd.luks.uuid=luks-8cfdfb51-cdfa-401a-9815-d3be9a527942 rd.lvm.lv=fedo
+ra/00 nouveau.modeset=0 rd.driver.blacklist=nouveau rhgb quiet i915.modeset=0 nvidia-drm.modeset=1
+```
+
+After reboot you could do a small check with:
+
+```
+$ nvidia-smi 
+Sat Sep 24 08:44:32 2022       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 515.65.01    Driver Version: 515.65.01    CUDA Version: 11.7     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  NVIDIA GeForce ...  Off  | 00000000:01:00.0  On |                  N/A |
+| 30%   33C    P8    14W / 160W |    874MiB /  6144MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|    0   N/A  N/A     10827      G   /usr/bin/kwin_wayland             257MiB |
+|    0   N/A  N/A     10876      G   /usr/bin/Xwayland                   2MiB |
+|    0   N/A  N/A     10918      G   /usr/bin/plasmashell              199MiB |
+|    0   N/A  N/A     11101      G   /usr/bin/nextcloud                 16MiB |
+|    0   N/A  N/A     11339      G   ...akonadi_archivemail_agent        1MiB |
+|    0   N/A  N/A     11347      G   .../akonadi_mailfilter_agent        1MiB |
+|    0   N/A  N/A     11353      G   ...n/akonadi_sendlater_agent        1MiB |
+|    0   N/A  N/A     11358      G   ...nadi_unifiedmailbox_agent        1MiB |
+|    0   N/A  N/A     11916      G   /usr/bin/systemsettings            58MiB |
+|    0   N/A  N/A     12190      G   /usr/lib64/firefox/firefox        326MiB |
++-----------------------------------------------------------------------------+
+```
+
+Setting kernel parameters in f36 is a bit tricky. If you are in trouble read the following:
+
+* https://www.golinuxcloud.com/grubby-command-examples/ 23
+
+
+#### Update
+
+Currently the rpmfusion repos would like to upgrade the driver to version 515.76. This is not desired in my case as I need cuda. Hence I did the following:
+
+1. I disabled `/etc/yum.repos.d/rpmfusion-nonfree-nvidia-driver.repo` with a `enabled=0` line
+2. I masked packages with a `exclude=xorg-x11-drv-nvidia-kmodsrc akmod-nvidia` line in `/etc/yum.repos.d/rpmfusion-nonfree-updates.repo`.
+
+
 ### Problem: nvidia only works on old kernels
 
 Find old (and other) kernels:
