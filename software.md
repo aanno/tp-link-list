@@ -250,6 +250,11 @@
   + https://www.heise.de/news/ownCloud-Infinite-Scale-Go-statt-PHP-Microservices-statt-LAMP-5029244.html
   + https://hub.docker.com/r/owncloud/ocis
   + https://owncloud.dev/ocis/guides/ocis-local-docker/
+  + https://owncloud.com/de/news/libregraph-initiative-kopano/
+    - https://github.com/libregraph
+    - https://libregraph.github.io/
+    - https://github.com/Kopano-dev/kopano-docker
+    - https://kopano.com/featured/libregraph-initiative-and-kopano-kraph/
   + https://reva.link/
     - https://github.com/cs3org/reva
     - https://github.com/cs3org/cs3apis
