@@ -311,6 +311,7 @@ Also see `documenting-it.md`
 * http://wereturtle.github.io/ghostwriter/
 * https://www.madoko.net/
   + http://madoko.org/reference.html
+* https://hedgedoc.org/ collaborative real-time editor
 
 ## Markdown to Book
 

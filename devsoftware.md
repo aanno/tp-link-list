@@ -197,6 +197,15 @@
   + https://docs.plone.org/
   + https://docs.plone.org/4/en/old-reference-manuals/archgenxml/ (generator for plone)
 
+### Wordpress wp
+
+* https://www.wordpressdocker.com/
+* https://www.devoply.com/ A hosting control panel that installs, configures, and manages multiple WordPress
+* https://wpbuffs.com/how-to-update-wordpress-website/ update wordpress
+* https://stackoverflow.com/questions/50119409/how-to-update-wordpress-on-docker
+* https://www.ionos.de/digitalguide/server/knowhow/wordpress-in-docker-containern/
+* https://www.wpbeginner.com/beginners-guide/beginners-guide-to-wordpress-file-and-directory-structure/
+
 ### CMS cloud services
 
 * [prismic - make your website editable](https://prismic.io/) supports next.js, nuxt.js, gatsby

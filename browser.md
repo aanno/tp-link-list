@@ -2,6 +2,8 @@
 
 * https://vivaldi.com/de/
 * https://brave.com/de/
+* https://mullvad.net/de/browser
+
 ## Demos
 
 * https://developer.mozilla.org/de/docs/Web/Demos_of_open_web_technologies

@@ -39,6 +39,7 @@
 
 * https://www.wireguard.com/
   + https://fedoramagazine.org/build-a-virtual-private-network-with-wireguard/
+  + https://www.wireguard.com/netns/
 * https://github.com/pirate/wireguard-docs
 * [wireguard on fcos](https://docs.fedoraproject.org/en-US/fedora-coreos/sysconfig-configure-wireguard/)
 * https://www.stavros.io/posts/how-to-configure-wireguard/
@@ -115,11 +116,20 @@
 ## Self-hosting
 
 * https://github.com/Kickball/awesome-selfhosted
+* https://goneuland.de self-hosting with docker
+  + https://goneuland.de/nextcloud-server-mit-docker-compose-und-traefik-installieren/
+  + https://goneuland.de/traefik-v2-reverse-proxy-mit-crowdsec-einrichten/
+  + https://goneuland.de/rustdesk-server-mit-docker-compose-installieren/
+  + https://goneuland.de/mailcow-e-mail-komplettsytem-mit-antivirus-spam-filer-webmail-webfrontend-installieren-mittels-docker-und-traefik/
+* https://geek-cookbook.funkypenguin.co.nz/
+* https://www.dogado.de/vps/vserver-anwendungsfaelle/onlyoffice-auf-vserver-installieren
+* https://mwalbeck.org/how-to-setup-shadowsocks-on-debian-9-stretch
 
 * https://sandstorm.io/
 * https://wikisuite.org/Software
 * https://www.bookstackapp.com/
-* https://www.casebox.org/
+* https://uwazi.io/
+  + https://www.casebox.org/ obsolete
 
 ## IT Management
 
@@ -331,6 +341,11 @@
 * https://github.com/hardware/mailserver
 * https://mailu.io/
 * https://github.com/frankh/docker-compose-mailbox (old)
+* https://goneuland.de/debian-9-mailserver-mit-spam-filter-antivirus-roundcube-schnell-und-einfach-einrichten/
+  + https://roundcube.net/
+* https://goneuland.de/mailcow-e-mail-komplettsytem-mit-antivirus-spam-filer-webmail-webfrontend-installieren-mittels-docker-und-traefik/
+  + https://www.servercow.de/mailcow
+  + https://mailcow.email/
 
 ## Aggregators, news reader, RSS/ATOM, podcast
 

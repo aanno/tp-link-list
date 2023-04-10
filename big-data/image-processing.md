@@ -29,10 +29,22 @@
 * [pigo](https://github.com/esimov/pigo) (only face detection)
 * https://github.com/esimov/caire (only preprocessing)
 
-#### Customer Tools
+### Customer Tools
+
+#### Web-based photo applications
+
+* https://www.techrepublic.com/article/top-5-self-hosted-photo-storage-options/
 
 * [photoprism](https://github.com/photoprism/photoprism)
   + https://github.com/photoprism/photoprism/wiki/Image-Classification
+  + https://github.com/deki/photoprism-aws
+  + https://geek-cookbook.funkypenguin.co.nz/recipes/photoprism/
+  + https://docs.photoprism.app/getting-started/advanced/scalability/
+* https://github.com/Librephotos/librephotos
+* https://photoview.github.io/
+* https://pixelfed.org/
+* https://piwigo.org/
+
 * https://www.digikam.org/ (include face recognition)
 
 ## Image Annotation

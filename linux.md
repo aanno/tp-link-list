@@ -14,6 +14,13 @@
 * https://lwn.net/
 * https://www.computerbase.de/thema/linux/
 
+## Blogs
+
+* https://linuxnews.de/
+* https://gnulinux.ch/
+* https://www.michlfranken.de
+* https://www.renefuerst.eu/blog/
+
 ## Nachrichten (open source)
 
 * https://www.sueddeutsche.de/thema/Open_Source
@@ -63,9 +70,29 @@
 ### Administration
 
 * http://sdkman.io/ (jvm package manager)
+
+### usb boot sticks (iso)
+
+* https://ventoy.net/en/index.html With ventoy, you don't need to format the disk over and over, you just need to copy the ISO
+* https://www.balena.io/etcher
+* https://en.wikipedia.org/wiki/Startup_Disk_Creator
+* https://rufus.ie/en/ (windows)
+* https://developers.redhat.com/blog/2016/04/26/fedora-media-writer-the-fastest-way-to-create-live-usb-boot-media liveusb-creator, now mediawriter
+  + https://en.wikipedia.org/wiki/Fedora_Media_Writer
+* https://docs.fedoraproject.org/en-US/quick-docs/creating-and-using-a-live-installation-image/
+* https://github.com/livecd-tools/livecd-tools cli
+* https://gitlab.gnome.org/GNOME/gnome-disk-utility
+
+#### Firewall and Security
+
+* https://logz.io/blog/5-open-source-nids/
 * https://www.fail2ban.org/wiki/index.php/Main_Page
   + https://fedoraproject.org/wiki/Fail2ban_with_FirewallD
   + https://serverfault.com/questions/646167/why-is-fail2ban-not-banning-this-attack
+* https://www.snort.org/ intrusion detection, its
+* https://www.crowdsec.net/ its, blacklist
+  + https://docs.crowdsec.net/docs/bouncers/nginx/
+  + https://www.crowdsec.net/blog/crowdsec-with-nginx-proxy-manager
   
 #### Disk Usage
 
@@ -201,6 +228,8 @@
 ### Office 
 
 * http://wps-community.org/
+* https://github.com/ONLYOFFICE/CommunityServer web-based
+  + https://www.onlyoffice.com/blog/de/2017/12/onlyoffice-vs-collabora-ein-kritischer-vergleich/
 
 ### Clustering
 

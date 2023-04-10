@@ -186,6 +186,9 @@
   + [jellyfin docker image](https://hub.docker.com/r/jellyfin/jellyfin)
   + https://jellyfin.org/docs/general/administration/installing.html#docker
   + https://github.com/jellyfin/jellyfin
+  + https://mwalbeck.org/watching-livestreams-with-friends-using-the-syncplay-feature-in-jellyfin
+  + https://jellyfin.org/posts/jellyfin-10-6-0/ syncplay
+  + https://syncplay.pl/
 * [universal media server](https://www.universalmediaserver.com/)
 * [red5 - old](https://github.com/Red5/red5-server) partly commercial
   + https://www.red5pro.com/open-source/
