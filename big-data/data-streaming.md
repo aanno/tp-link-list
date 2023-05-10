@@ -34,6 +34,7 @@
 * [YoMo - serverless framework for real-time data processing and analytics](https://yomo.run/) (QUIC-based)
   + https://github.com/yomorun/yomo
 * [twister2](https://twister2.org/) python-based
+* [apache flume](https://flume.apache.org/)
 
 ## Big data streaming and kubernetes
 

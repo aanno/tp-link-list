@@ -18,6 +18,7 @@
 ### Kscript
 
 * https://github.com/holgerbrandl/kscript
+* https://github.com/Kotlin/kotlin-interactive-shell
 
 ## Rust
 

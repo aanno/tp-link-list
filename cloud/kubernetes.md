@@ -55,6 +55,7 @@
     - based on docker-ce (and cfssl)
   + https://k8slens.dev/ devop ui
 * https://rancher.com/products
+  + https://ranchermanager.docs.rancher.com/pages-for-subheaders/quick-start-guides
   + [rke](https://rancher.com/docs/rke/latest/en/installation/)
     - cool idea but also docker-ce based
 * https://github.com/boot2podman/boot2podman has kubernetes support!
@@ -289,6 +290,7 @@
 * https://github.com/containers/libpod/blob/master/docs/source/markdown/podman-play-kube.1.md
 * https://github.com/containers/libpod/blob/master/docs/source/markdown/podman-generate-kube.1.md
 * https://developers.redhat.com/blog/2019/01/29/podman-kubernetes-yaml/
+* https://www.redhat.com/sysadmin/compose-kubernetes-podman
 
 ### other podman interfaces
 
@@ -296,6 +298,8 @@
 * https://github.com/containers/podman-compose
 * [docker api](https://podman.readthedocs.io/en/latest/_static/api.html)
 * [toolbox](https://github.com/containers/toolbox)
+* https://serverfault.com/questions/964862/podman-method-to-convert-docker-compose-files-to-systemd-unit-files
+
 
 ### podman network: CNI (rootful)
 

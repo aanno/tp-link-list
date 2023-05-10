@@ -31,6 +31,7 @@
 
 * http://slackermedia.info/ - your digital studio
 * https://bedrocklinux.org/ - mix and match meta-distribution
+  + https://linuxnews.de/blendos-eines-fuer-fast-alle/
 * https://www.gobolinux.org/ - install complete independent packages
 * https://endlessos.com/ - end user and kids oriented
 * [airyx](https://airyx.org/) - freeBSD based trying to run cocoa and osx applications
@@ -45,9 +46,17 @@
 
 #### KSM (Kernel Samepage Merging)
 
+* https://vleu.net/projects/ksmp_preload/
+  + https://github.com/unbrice/ksm_preload/forks
+  + https://github.com/binfess/ksm_preload
+* https://wiki.openvz.org/KSM_(kernel_same-page_merging)
 * [KSM](https://www.kernel.org/doc/Documentation/vm/ksm.txt)
 * https://lwn.net/Articles/330589/
 * https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_tuning_and_optimization_guide/chap-ksm
+* https://access.redhat.com/documentation/de-de/red_hat_enterprise_linux/7/html/virtualization_tuning_and_optimization_guide/chap-ksm
+* https://lwn.net/Articles/928510/
+* https://lwn.net/Articles/330589/
+* https://dannyda.com/2020/12/10/how-to-tune-ksm-kernel-samepage-merging-sharing-in-proxmox-ve-pve/
 
 ## Webcam
 
@@ -93,6 +102,7 @@
 * https://www.crowdsec.net/ its, blacklist
   + https://docs.crowdsec.net/docs/bouncers/nginx/
   + https://www.crowdsec.net/blog/crowdsec-with-nginx-proxy-manager
+* https://iplists.firehol.org/
   
 #### Disk Usage
 
@@ -232,6 +242,11 @@
   + https://www.admin-magazin.de/Das-Heft/2015/06/Workshop-Das-deduplizierende-Dateisystem-OpenDedup
 
 * https://github.com/dyne/Tomb
+
+#### Simple Solutions
+
+* https://stackoverflow.com/questions/60221575/how-to-use-javascript-and-ajax-to-upload-into-wasabi-storage
+  + https://wasabi-support.zendesk.com/hc/en-us/articles/360045339072-How-do-I-perform-client-side-browser-based-uploads-with-Wasabi
 
 ### Multimedia
 
@@ -389,6 +404,7 @@ It is _not_ possible to recover the public key stored on nitro, see
   + https://github.com/genuinetools
 * [quadlet]](https://github.com/containers/quadlet) running podman with systemd 
   + https://github.com/containers/quadlet/issues/12 currently no multi-container support
+  + https://www.redhat.com/sysadmin/multi-container-application-podman-quadlet
 * [build source image](https://github.com/containers/BuildSourceImage) Build a source code image from a collection of known .src.rpm's
 * [udica](https://github.com/containers/udica) Generate SELinux policies for containers
 
@@ -587,6 +603,8 @@ It is _not_ possible to recover the public key stored on nitro, see
 # Huge pages 
 
 * https://wiki.debian.org/Hugepages
+* https://access.redhat.com/documentation/de-de/openshift_container_platform/4.6/html/scalability_and_performance/what-huge-pages-do-and-how-they-are-consumed
+* https://kubernetes.io/docs/tasks/manage-hugepages/scheduling-hugepages/ in kubernetes
 
 ## Linux package systems
 

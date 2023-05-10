@@ -42,6 +42,9 @@
   + https://geek-cookbook.funkypenguin.co.nz/recipes/photoprism/
   + https://docs.photoprism.app/getting-started/advanced/scalability/
   + https://geek-cookbook.funkypenguin.co.nz/recipes/photoprism/
+  + https://lukas.zapletalovi.com/posts/2020/deploy-photoprism-in-centos-80/ on podman
+  + https://techviewleo.com/manage-and-share-your-photo-collection-with-photoprism/
+  + https://www.allerstorfer.at/photoprism-ki-gestuetzte-foto-app/
 * https://github.com/Librephotos/librephotos
 * https://photoview.github.io/
 * https://pixelfed.org/

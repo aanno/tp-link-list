@@ -26,8 +26,13 @@
 
 ## Container software
 
+* https://linuxcontainers.org/
 * [rootless mode in docker/moby](https://github.com/moby/buildkit/blob/master/docs/rootless.md)
 * https://github.com/rootless-containers/rootlesskit
+* https://en.wikipedia.org/wiki/Singularity_(software) HPC container, nvida and cuda friendly
+  + https://github.com/sylabs/singularity
+  + https://sylabs.io/2022/06/singularityce-is-singularity/
+  + https://docs.sylabs.io/guides/3.11/user-guide/security.html
 
 ## Container building
 
@@ -336,6 +341,10 @@
 * [pelican](https://blog.getpelican.com/category/news.html)
   + https://docs.getpelican.com/en/latest/ (python, markdown)
 
+* [publii](https://getpublii.com/) static side cms
+  + https://linuxnews.de/backend-gefluester-wechsel-des-cms-serverless/
+* [bludit](https://www.bludit.com/) flat-file cms
+
 #### Site generators based on OPA
 
 * [vue 1](https://blog.bitsrc.io/best-static-site-generators-for-vue-js-e273d52ea208?gi=dfba03caa602)
@@ -467,6 +476,19 @@
   
 ### Active Directory/Samba4/AD
 
+#### Kerberos
+
+* https://ssimo.org/blog/id_016.html
+* https://www.techblog.moebius.space/posts/2018-05-25-kerberos-an-overview-of-principals-and-keytabs/
+* 
+
+##### Keytabs
+
+* https://www.systranbox.com/how-to-create-krb5-keytab-file-in-linux/
+* https://stackoverflow.com/questions/43153592/what-is-needed-to-generate-kerberos-keytab-file-on-windows
+* https://techjogging.com/create-keytab-file-for-kerberos-authentication-in-windows.html
+* https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ktpass
+
 #### Samba4 AD docker images
 
 * https://github.com/Fmstrat/samba-domain
@@ -539,6 +561,8 @@
 
 * https://github.com/babelouest/glewlwyd
 * https://github.com/ory/hydra
+* https://openid.net/developers/certified/
+* https://andifalk.gitbook.io/openid-connect-workshop/
 
 #### JWT
 

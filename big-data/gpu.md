@@ -53,6 +53,27 @@ This is a list of (quick) tensorflow examples:
 * https://gpuopen.com/rocm-tensorflow-1-8-release/
 * https://github.com/maxpumperla/deep_learning_and_the_game_of_go
 
+### Tensorflow language bindings
+
+* [tensorflow go(https://pgaleone.eu/tensorflow/go/2017/05/29/understanding-tensorflow-using-go/)
+  + https://docs.photoprism.app/developer-guide/technologies/tensorflow/
+
+### Tensorflow articles
+
+* https://aws.amazon.com/de/blogs/machine-learning/how-to-deploy-deep-learning-models-with-aws-lambda-and-tensorflow/
+
+### Remote tensorflow
+
+* https://www.tensorflow.org/guide/keras/training_keras_models_on_cloud
+* https://www.tensorflow.org/guide/distributed_training
+* https://www.tensorflow.org/cloud
+
+### Tensorflow in containers
+
+* https://discussion.fedoraproject.org/t/how-to-run-tensorflow-gpu-in-podman/74060/9
+* https://www.tensorflow.org/install/docker
+* https://hub.docker.com/r/tensorflow/tensorflow/
+
 ## Theano
 
 Theano will use (python's?) `libgpuarray` aka `pygpu`.

@@ -30,11 +30,13 @@
 
 ### Developer-faced
 
+* https://linuxnews.de/rei3-update-der-open-source-anwendungsplattform/
 * [eclipse dirigible](https://www.dirigible.io/)
 * https://www.judo.codes/ modern java
 * https://www.openxava.org/en/ate/low-code-development-platform java, swing
 * http://drakon-editor.sourceforge.net/ flowcharts
 * https://tikitrackers.org/Database-Web-App-Builder
+* [tiki tracker - low code platform](https://tikitrackers.org/Database-Web-App-Builder)
 
 ### mobile apps only
 

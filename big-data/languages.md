@@ -71,3 +71,9 @@
 
 * https://julialang.org/learning/
 * https://bookauthority.org/books/best-julia-programming-books
+
+## Ballerina: AI as a service language and network service glue
+
+* https://ballerina.io/usecases/ai/
+  + https://ballerina.io/
+  + https://camunda.com/blog/2022/09/seven-best-programming-languages-for-microservices/

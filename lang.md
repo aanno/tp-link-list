@@ -44,6 +44,8 @@
 * https://nordicapis.com/13-frameworks-for-building-apis-in-elixir/
 * https://www.icicletech.com/blog/top-open-source-frameworks-in-elixir
 * https://phoenixframework.org/
+  + https://en.wikipedia.org/wiki/Phoenix_(web_framework)
+  + https://pragmaticstudio.com/tutorials/what-is-phoenix-liveview
 
 ## Dart
 
@@ -97,6 +99,7 @@
 * https://reasonml.github.io/docs/en/external ffi
 * https://github.com/ocsigen/js_of_ocaml reason *and* ocaml to js
   + http://ocsigen.org/js_of_ocaml/latest/manual/lwt coroutine for reason/ocaml js
+* https://en.wikipedia.org/wiki/Reason_(programming_language)
 
 #### ReScript (new ocaml to js but no ocaml backend)
 

@@ -11,6 +11,7 @@
 ## kvm, qemu, libvirt
 
 * https://libvirt.org/
+* https://github.com/quickemu-project/quickemu
 
 ### networking
 

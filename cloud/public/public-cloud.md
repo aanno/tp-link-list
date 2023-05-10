@@ -46,6 +46,10 @@
 
 ## Provisioning
 
+* https://www.servertribe.com/best-terraform-alternatives/
+
+* [harvester HCI](https://harvesterhci.io/) meta-provisioning
+  + https://docs.harvesterhci.io/v1.1
 * https://www.nomadproject.io/api-docs
   + https://www.heise.de/select/ix/2017/7/1499098548285194
 * https://www.pulumi.com/
@@ -53,12 +57,18 @@
   + https://www.pulumi.com/docs/intro/concepts/
   + https://www.pulumi.com/docs/intro/concepts/state/
   + https://www.pulumi.com/docs/troubleshooting/faq/
+  + https://github.com/pulumi/pulumi
 * [tinkerbell](https://tinkerbell.org/)
   + [tink-cli](https://docs.tinkerbell.org/services/tink-cli/)
 * [ironic - for metal](https://ironicbaremetal.org/)
   + [bifrost - ansible scripts to install ironic](https://opendev.org/openstack/bifrost)
 * [google's anthos](https://cloud.google.com/anthos/docs/concepts/overview) (for GKE)
   + https://github.com/GoogleCloudPlatform/anthos-workshop
+* [ansible](https://www.redhat.com/sysadmin/ansible-provisioning-aws-cloud)
+  + https://upcloud.com/resources/tutorials/automate-cloud-server-provisioning-ansible
+  + https://www.ansible.com/integrations/cloud
+* [attune](https://github.com/Attune-Automation)
+  + https://www.servertribe.com/download-attune-registration/
 
 ### Terraform
 

@@ -2,6 +2,12 @@
 
 * https://www.golem.de/news/big-blue-button-wie-ccc-urgesteine-gegen-teams-und-zoom-kaempfen-2005-148560.html
 
+## Sip
+
+* https://www.asterisk.org/ sip and phone server
+* [linphone sip client](https://www.linphone.org/technical-corner/linphone?qt-technical_corner=2#qt-technical_corner)
+  + https://gitlab.linphone.org/BC/public/linphone-desktop
+
 ## Fake Background and Image Processing
 
 * https://github.com/fangfufu/Linux-Fake-Background-Webcam

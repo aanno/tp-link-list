@@ -59,6 +59,8 @@
   + https://github.com/the-benchmarker/web-frameworks (benchmark in favour of activej)
 * [fastAPI](https://fastapi.tiangolo.com/) python-based
 * https://higherkindness.io/mu/ kotlin, scala, haskell (no rest, just grpc and avro)
+  + https://github.com/higherkindness/mu-scala
+  + https://github.com/higherkindness/mu-haskell
 
 * https://www.lightbend.com/learn for kubernetes
 * https://www.lagomframework.com/documentation/1.3.x/scala/ConductR.html (scala)

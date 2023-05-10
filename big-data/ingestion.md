@@ -13,6 +13,7 @@
   + [WDL spec](https://github.com/openwdl/wdl/blob/main/versions/development/SPEC.md)
 * [dolt](https://github.com/dolthub/dolt) git for big data with mySQL interface
   + https://thenewstack.io/dolt-a-relational-database-with-git-like-cloning-features/
+* https://en.wikipedia.org/wiki/Slurm_Workload_Manager
 
 
 ## Visualization
@@ -20,3 +21,8 @@
 * https://github.com/apache/superset (data analysis, graphs)
 * https://github.com/getredash/redash (social visualization)
 * https://observablehq.com/ (web services)
+
+## Python libs
+
+* https://pandas.pydata.org/
+* https://docs.dask.org/en/latest/

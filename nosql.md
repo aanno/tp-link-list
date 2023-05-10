@@ -7,13 +7,18 @@
 ## Products
 
 * https://www.mongodb.com/
-* https://redis.io/
 * https://github.com/OpenHFT/Chronicle-Map
 * https://www.aerospike.com/products/product-matrix/
 * https://www.unidata.ucar.edu/software/thredds/current/tds/
   + https://github.com/Unidata/thredds-docker
 * https://rethinkdb.com/ (abadonned?)
   + https://github.com/rethinkdb/rethinkdb
+
+### Key-Value
+
+* https://redis.io/
+* https://github.com/facebook/rocksdb
+* https://quarkdb.web.cern.ch/quarkdb/docs/master/
 
 ## Cassandra
 
