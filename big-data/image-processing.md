@@ -29,6 +29,11 @@
 * [pigo](https://github.com/esimov/pigo) (only face detection)
 * https://github.com/esimov/caire (only preprocessing)
 
+### image recognition (object separation)
+
+* https://github.com/aim-uofa/AdelaiDet
+  + https://github.com/facebookresearch/detectron2
+
 ### Customer Tools
 
 #### Web-based photo applications

@@ -84,3 +84,8 @@
   + https://calyxinstitute.org/projects/seedvault-encrypted-backup-for-android
 * https://github.com/SecUSo/privacy-friendly-backup
   + https://secuso.aifb.kit.edu/1491.php
+
+## Remote Android
+
+* https://github.com/Genymobile/scrcpy version 2.0
+  + https://opensource.com/article/19/9/mirror-android-screen-guiscrcpy

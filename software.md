@@ -56,6 +56,7 @@
   + https://cyber5k.com/
   + https://www.mistborn.cloud/impressionen/
   + https://www.buymeacoffee.com/cyber5k
+* [wireguard installer](https://github.com/angristan/wireguard-install) for VPN internet access
 
 #### wg LAN-to-LAN
 

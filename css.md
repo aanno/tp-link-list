@@ -33,6 +33,8 @@
 * https://tailwindcss.com/
 * https://postcss.org/
 * https://cssinjs.org css in js
+* https://granneman.com/downloads/web-dev/CSS-Preprocessors.pdf
+* 
 
 ### @extend
 
@@ -44,6 +46,8 @@
 * http://bourbon.io/
 
 ### CSS Frameworks
+
+* https://opensource.com/article/20/4/open-source-css-frameworks
 
 * [material design lite (no JS)](https://getmdl.io/)
 * [bootstrap](https://getbootstrap.com/)

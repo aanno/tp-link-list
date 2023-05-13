@@ -60,6 +60,7 @@
   + [comparision to nextcloud, cloudron, ...](https://wikisuite.org/Alternatives) featured!
   + [tiki tracker - low code platform](https://tikitrackers.org/Database-Web-App-Builder)
 * [docker solutions for vServer hosting](https://www.dogado.de/vps)
+* https://www.cloudpanel.io/ cloud self hosting
 
 #### Home-page automation (server start page)
 

@@ -201,6 +201,9 @@
 * https://plone.org/
   + https://docs.plone.org/
   + https://docs.plone.org/4/en/old-reference-manuals/archgenxml/ (generator for plone)
+* https://www.concretecms.com/about/features open source, php
+  + https://github.com/concretecms/concretecms
+  + https://www.concrete5.de/
 
 ### Wordpress wp
 
@@ -277,6 +280,9 @@
 * https://directus.io/ (RDBM, SQL)
 * https://getcockpit.com/ (Api first, GraphQL)
 * https://github.com/birkir/prime (small, GraphQL)
+* https://github.com/squidex/squidex
+  + https://squidex.io/
+  + https://medium.com/squidex/squidex-7-1-released-graphql-subscriptions-and-translation-status-e52386440a1a
 
 #### Strapi universe
 
@@ -517,6 +523,8 @@
 
 ## Git
 
+* https://stackoverflow.com/questions/31653922/git-ignore-line-endings
+
 ### Git extensions
 
 * [repo, an alternative to `git submodule`](https://source.android.com/setup/develop/repo)
@@ -617,3 +625,9 @@
 
 * https://gruntwork.io/how-it-works/
   + https://gruntwork.io/infrastructure-as-code-library/#open-source
+
+## Ticket systems (like jira)
+
+* https://github.com/znuny/Znuny
+  + https://www.znuny.org/de
+  + https://www.heise.de/news/Ticketsystem-Znuny-7-als-Open-Source-Alternative-zu-OTRS-8969167.html

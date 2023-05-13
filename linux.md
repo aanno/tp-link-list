@@ -212,11 +212,24 @@
 ###### Other S3
 
 * https://www.coralnodes.com/amazon-s3-alternatives/
+* https://dev.to/cloud_bs/wasabi-storj-backblaze-et-al-are-promising-80-savings-compared-to-amazon-s3-whats-the-catch-4h62
+* https://www.bestbackupreviews.com/guides/the-best-aws-s3-alternatives/
+* https://www.coralnodes.com/amazon-s3-alternatives/
 
 * https://wasabi.com/help/downloads/
   + [borgbackup/rclone](https://wasabi-support.zendesk.com/hc/en-us/articles/115003691192-How-do-I-use-BorgBackup-with-Wasabi-)
   + [s3fs with wasabi](https://wasabi-support.zendesk.com/hc/en-us/articles/115001744651-How-do-I-use-S3FS-with-Wasabi-)
+  + [How does SSE-C Encryption work with Wasabi](https://wasabi-support.zendesk.com/hc/en-us/articles/4414850567963-How-does-SSE-C-Encryption-work-with-Wasabi-)
 * https://min.io/ S3 on your linux (cluster)
+* https://developers.cloudflare.com/r2/pricing/
+  + https://r2-calculator.cloudflare.com/
+
+##### S3 clients
+
+* https://askubuntu.com/questions/202072/what-is-a-good-amazon-s3-client
+
+* https://github.com/minio/mc cli, go
+* https://github.com/rclone/rclone go, many storages
 
 ###### File system access to S3
 
@@ -233,6 +246,18 @@
 * https://github.com/treeverse/lakeFS
   + https://lakefs.io/
 * https://github.com/seaweedfs/seaweedfs
+
+#### Google Cloud Storage GCS
+
+##### Comparasion GCS vs. S3
+
+* https://cloudmounter.net/amazon-s3-vs-google-cloud-storage/
+* https://cloudinfrastructureservices.co.uk/aws-s3-vs-google-cloud-storage-which-is-better/
+
+##### File system access to GCS
+
+* https://github.com/GoogleCloudPlatform/gcsfuse
+  + https://cloud.google.com/storage/docs/gcs-fuse?hl=de
 
 #### Storage data encryption
 
@@ -316,6 +341,7 @@
 * https://www.autistici.org/ (hosting for you)
 * https://www.kuketz-blog.de/empfehlungsecke/
 * https://curius.de/
+* https://blog.while-true-do.io/security-physical-security/
 
 #### Nitrokey
 
@@ -605,6 +631,7 @@ It is _not_ possible to recover the public key stored on nitro, see
 * https://wiki.debian.org/Hugepages
 * https://access.redhat.com/documentation/de-de/openshift_container_platform/4.6/html/scalability_and_performance/what-huge-pages-do-and-how-they-are-consumed
 * https://kubernetes.io/docs/tasks/manage-hugepages/scheduling-hugepages/ in kubernetes
+* https://access.redhat.com/solutions/46111
 
 ## Linux package systems
 

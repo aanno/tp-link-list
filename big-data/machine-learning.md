@@ -131,3 +131,7 @@
 ## Pre-trained individual images
 
 * https://huggingface.co/ogkalu/Comic-Diffusion
+
+## Media
+
+* https://www.br.de/extra/br-data/index.html

@@ -372,6 +372,10 @@ Also see `documenting-it.md`
 
 ### CSS Print, i.e. rendering HTML to PDF
 
+* https://www.print-css.rocks/tools
+* https://www.parson-europe.com/en/knowledge-base/html-to-pdf-with-css-paged-media
+* https://publishing-project.rivendellweb.net/revisting-html-to-pdf-conversion-with-css-paged-media/
+
 * https://github.com/peterdemartini/html5-to-pdf puppeteer/chrome based
 * https://github.com/RelaxedJS/ReLaXed markdown to PDF (puppeteer/chrome based)
 * https://weasyprint.org/ own rendering engine
@@ -382,6 +386,11 @@ Also see `documenting-it.md`
 * https://www.princexml.com/ (commercial)
 * https://www.pdfreactor.com/ (commercial)
 * [fluid-pdf](https://github.com/fluidsonic/fluid-pdf) pdf from html with chromium in kotlin
+* https://pagedjs.org/documentation/
+* https://github.com/RelaxedJS/ReLaXed
+* https://docraptor.com/open-source-html-to-pdf
+* https://typeset.sh/en commercial (but cheap)
+* https://www.pdfreactor.com/ commercial, expensive
 
 #### Remove distractions from Html Pages
 

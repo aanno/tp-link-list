@@ -235,6 +235,9 @@
 #### OKD setup
 
 * [openshift installer](https://github.com/openshift/installer)
+* https://docs.okd.io/latest/installing/index.html
+* https://www.okd.io/installation/
+* https://docs.okd.io/latest/welcome/index.html
 * https://developer.fedoraproject.org/deployment/openshift/about.html
 * https://www.openshift.com/blog/guide-to-installing-an-okd-4-4-cluster-on-your-home-lab
   + https://medium.com/@craig_robinson/openshift-4-4-okd-bare-metal-install-on-vmware-home-lab-6841ce2d37eb
@@ -249,6 +252,12 @@
 * AWS
   + https://docs.okd.io/latest/installing/installing_aws/installing-aws-default.html 
 * [Simulate Bare-Metal IPMI/BMC on libvirt/virt-manage](https://gist.github.com/williamcaban/aba796f856264799326d554ac11a4a66) needed for bare-metal setup
+
+#### OKD SNO setup (single node install)
+
+* https://www.okd.io/guides/upi-sno/?h=sno
+* https://upstreamwithoutapaddle.com/blog%20post/2023/03/06/Back-To-Where-It-All-Started.html
+* https://www.okd.io/guides/virt-baremetal-upi/
 
 #### Related projects
 
