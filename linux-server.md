@@ -61,6 +61,7 @@
   + [tiki tracker - low code platform](https://tikitrackers.org/Database-Web-App-Builder)
 * [docker solutions for vServer hosting](https://www.dogado.de/vps)
 * https://www.cloudpanel.io/ cloud self hosting
+* https://fedoramagazine.org/deploy-your-own-matrix-server-on-fedora-coreos/ matrix on fcos
 
 #### Home-page automation (server start page)
 

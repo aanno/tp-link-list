@@ -122,3 +122,9 @@
 ## Web Service (commercial)
 
 * https://fivetran.com/
+
+
+## Click stream analytics (mostly commercial)
+
+* https://miso.ai/docs/quickstart/ interesting for supported catalogs and stream data sources
+

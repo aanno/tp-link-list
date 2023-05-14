@@ -23,6 +23,9 @@
   + https://coreos.github.io/butane/config-fcos-v1_5/ fcc spec for ignition files
   + [coreos-installer](https://github.com/coreos/coreos-installer)
   + https://coreos.github.io/coreos-installer/ coreos-installer docs
+  + https://developers.redhat.com/blog/2020/03/12/how-to-customize-fedora-coreos-for-dedicated-workloads-with-ostree#testing_the_new_instance
+  + https://discussion.fedoraproject.org/t/how-to-trigger-expand-on-root-partition/17870
+  + https://github.com/coreos/fedora-coreos-tracker/issues/1135 root partition
 * X11/Xvfb
   + https://unix.stackexchange.com/questions/577831/initiate-a-new-x11-desktop-session-on-a-remote-host
 

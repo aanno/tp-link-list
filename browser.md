@@ -37,3 +37,7 @@
 ### 2nd factor (2FA, OTP, FIDO, FIDO2)
 
 * [overview of sites with OTP and/or dongle](https://www.buybitcoinworldwide.com/dongle-auth/)
+* https://webauthn.io/
+  + https://www.heise.de/hintergrund/FIDO-nimmt-neuen-Anlauf-als-Passwort-Killer-6613194.html
+* [passkey](https://www.techradar.com/how-to/how-to-set-up-a-passkey-for-your-google-account)
+  + http://g.co/passkeys

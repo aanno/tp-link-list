@@ -350,6 +350,8 @@
 * [publii](https://getpublii.com/) static side cms
   + https://linuxnews.de/backend-gefluester-wechsel-des-cms-serverless/
 * [bludit](https://www.bludit.com/) flat-file cms
+* [middleman](https://middlemanapp.com/) ruby-based
+  + https://github.com/middleman/middleman
 
 #### Site generators based on OPA
 

@@ -43,11 +43,19 @@
 * https://fullstackdeeplearning.com/cloud-gpus/
 * https://geekflare.com/best-cloud-gpu-platforms/
 * https://cloud-gpus.com/ prices (old)
+* https://www.computerwoche.de/a/die-besten-cloud-plattformen-im-vergleich
 
 * https://www.ovhcloud.com/de/public-cloud/gpu/
 * https://aws.amazon.com/de/getting-started/hands-on/train-tune-deep-learning-model-amazon-sagemaker/?refid=16d7371a-b59f-470f-890c-6d3cbdd99fe3
 * https://cloud.google.com/ai-platform/training/docs/using-gpus?hl=de
+  + https://cloud.google.com/compute/gpus-pricing?hl=de
 * https://www.vultr.com/pricing/#cloud-gpu
+* https://www.linode.com/products/gpu/ (now akamai)
+  + https://www.linode.com/docs/products/compute/compute-instances/plans/gpu/
+* https://learn.microsoft.com/en-us/azure/virtual-machines/sizes-gpu
+  + https://azure.microsoft.com/en-us/contact/pricing/#popular-resources
+* https://www.exoscale.com/gpu/gpu2/
+  + https://www.exoscale.com/pricing/
 
 ## Install FCOS (Fedora Coreos) on cloud
 

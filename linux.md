@@ -102,6 +102,7 @@
 * https://www.crowdsec.net/ its, blacklist
   + https://docs.crowdsec.net/docs/bouncers/nginx/
   + https://www.crowdsec.net/blog/crowdsec-with-nginx-proxy-manager
+  + https://goneuland.de/nextcloud-absichern-mit-crowdsec/
 * https://iplists.firehol.org/
   
 #### Disk Usage
@@ -215,12 +216,16 @@
 * https://dev.to/cloud_bs/wasabi-storj-backblaze-et-al-are-promising-80-savings-compared-to-amazon-s3-whats-the-catch-4h62
 * https://www.bestbackupreviews.com/guides/the-best-aws-s3-alternatives/
 * https://www.coralnodes.com/amazon-s3-alternatives/
+* https://sourceforge.net/software/compare/Amazon-S3-vs-Vultr-vs-Wasabi/
+* https://www.taloflow.ai/compare/wasabi-hot-cloud-storage-vs-backblaze-b2-cloud-storage
+* https://www.g2.com/compare/amazon-simple-storage-service-s3-vs-vultr
 
 * https://wasabi.com/help/downloads/
   + [borgbackup/rclone](https://wasabi-support.zendesk.com/hc/en-us/articles/115003691192-How-do-I-use-BorgBackup-with-Wasabi-)
   + [s3fs with wasabi](https://wasabi-support.zendesk.com/hc/en-us/articles/115001744651-How-do-I-use-S3FS-with-Wasabi-)
   + [How does SSE-C Encryption work with Wasabi](https://wasabi-support.zendesk.com/hc/en-us/articles/4414850567963-How-does-SSE-C-Encryption-work-with-Wasabi-)
 * https://min.io/ S3 on your linux (cluster)
+* https://github.com/scality/cloudserver S3 server
 * https://developers.cloudflare.com/r2/pricing/
   + https://r2-calculator.cloudflare.com/
 
@@ -230,6 +235,9 @@
 
 * https://github.com/minio/mc cli, go
 * https://github.com/rclone/rclone go, many storages
+* [s3cmd](https://s3tools.org/usage)
+* [aws cli](https://wasabi-support.zendesk.com/hc/en-us/articles/115001910791-How-do-I-use-AWS-CLI-with-Wasabi-)
+* [s3sync](https://github.com/larrabee/s3sync)
 
 ###### File system access to S3
 

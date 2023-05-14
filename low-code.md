@@ -4,6 +4,8 @@
 
 * https://en.wikipedia.org/wiki/Low-code_development_platform
 * https://en.wikipedia.org/wiki/List_of_low-code_development_platforms
+* https://budibase.com/blog/open-source-low-code-platforms/
+* https://medevel.com/19-open-source-low-code/
 
 ## Lists
 
@@ -37,6 +39,8 @@
 * http://drakon-editor.sourceforge.net/ flowcharts
 * https://tikitrackers.org/Database-Web-App-Builder
 * [tiki tracker - low code platform](https://tikitrackers.org/Database-Web-App-Builder)
+* [mendix](https://www.mendix.com/de/ein-leitfaden-zur-app-entwicklung-mit-low-code/)
+* [frappe](https://frappeframework.com/)
 
 ### mobile apps only
 

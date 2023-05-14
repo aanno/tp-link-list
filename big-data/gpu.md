@@ -75,6 +75,9 @@ This is a list of (quick) tensorflow examples:
 * https://hub.docker.com/r/tensorflow/tensorflow/
   + https://hub.docker.com/r/nvidia/cuda
 * [How to setup nvidia-container-runtime and podman/runc](https://gist.github.com/bernardomig/315534407585d5912f5616c35c7fe374)
+* [tensorman](https://github.com/pop-os/tensorman) tensorflow container manager
+* https://en.wikipedia.org/wiki/Singularity_(software) HPC container, nvida and cuda friendly
+
 
 ### Tensorflow on FCOS (and in containers with container-toolkit)
 
@@ -82,6 +85,7 @@ This is a list of (quick) tensorflow examples:
   + https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/overview.html
 * https://container-toolkit-fcos.gitlab.io/container-runtime/
   + https://gitlab.com/container-toolkit-fcos/container-runtime
+  + https://gitlab.com/container-toolkit-fcos/driver
   + https://run.tournament.org.il/redhat-oel-8-self-repo-package-is-filtered-out-by-modular-filtering/ fix for modular repos in fcos
   + https://unix.stackexchange.com/questions/644322/libssh2-filtered-out-by-modular-filtering-on-rhel-8
 * https://docs.nvidia.com/datacenter/cloud-native/driver-containers/overview.html also run nidia driver in container

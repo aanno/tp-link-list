@@ -258,6 +258,8 @@
 * https://www.okd.io/guides/upi-sno/?h=sno
 * https://upstreamwithoutapaddle.com/blog%20post/2023/03/06/Back-To-Where-It-All-Started.html
 * https://www.okd.io/guides/virt-baremetal-upi/
+* https://developers.redhat.com/blog/2023/02/08/sno-spot# sno on AWS
+  + https://developers.redhat.com/products/red-hat-openshift-service-on-aws/overview
 
 #### Related projects
 
