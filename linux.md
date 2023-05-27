@@ -235,9 +235,24 @@
 
 * https://github.com/minio/mc cli, go
 * https://github.com/rclone/rclone go, many storages
+  + https://rclone.org/rc/ even provides rest api
+  + https://rclone.org/crypt/ include encryption layer
 * [s3cmd](https://s3tools.org/usage)
 * [aws cli](https://wasabi-support.zendesk.com/hc/en-us/articles/115001910791-How-do-I-use-AWS-CLI-with-Wasabi-)
 * [s3sync](https://github.com/larrabee/s3sync)
+* [s5cmd](https://github.com/peak/s5cmd) extremly fast, go-lang
+* [aws cli](https://wasabi-support.zendesk.com/hc/en-us/articles/115001910791-How-do-I-use-AWS-CLI-with-Wasabi-)
+
+##### S3 UI Clients (mostly capable to see other cloud storage)
+
+* https://github.com/mickael-kerjean/filestash
+* https://kapitainsky.github.io/RcloneBrowser/ native, rclone-based
+  + https://github.com/kapitainsky/RcloneBrowser
+* https://rclone.org/gui/ official rclone, browser-based, experimental
+  + https://github.com/jasonchrion/rclone-webui-react
+  + https://github.com/rclone/rclone-webui-react/tree/master
+  + https://rclone.github.io/rclone-webui-react/#/login
+* https://doublecommander.com/ really?
 
 ###### File system access to S3
 
@@ -661,6 +676,7 @@ It is _not_ possible to recover the public key stored on nitro, see
   + https://www.digitalocean.com/community/tutorials/how-to-use-fpm-to-easily-create-packages-in-multiple-formats
   + https://fpm.readthedocs.io/en/latest/intro.html
   + https://opensource.com/article/18/9/how-build-rpm-packages
+* [debbuild](https://github.com/debbuild/debbuild) Build deb packages from rpm specifications 
 
 
 ### RPM

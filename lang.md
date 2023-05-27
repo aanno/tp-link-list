@@ -254,6 +254,8 @@ mapper
 
 ### To go lang
 
+* https://github.com/goplus/c2go
+  + https://github.com/goplus/gop
 * https://github.com/gotranspile/cxgo
 * https://github.com/elliotchance/c2go
   + https://elliotchance.medium.com/converting-c-to-go-584504d2d0c5

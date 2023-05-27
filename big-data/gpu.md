@@ -81,6 +81,10 @@ This is a list of (quick) tensorflow examples:
 
 ### Tensorflow on FCOS (and in containers with container-toolkit)
 
+* https://towardsdatascience.com/how-to-properly-use-the-gpu-within-a-docker-container-4c699c78c6d1?gi=cd1a60598a09
+* https://www.howtogeek.com/devops/how-to-use-an-nvidia-gpu-with-docker-containers/
+* https://stackoverflow.com/questions/57066162/how-to-get-docker-to-recognize-nvidia-drivers
+* https://github.com/NVIDIA/nvidia-docker/wiki
 * https://gitlab.com/fifofonix/container-toolkit
   + https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/overview.html
 * https://container-toolkit-fcos.gitlab.io/container-runtime/

@@ -11,6 +11,7 @@
 * [cloud-init](https://cloud-init.io/) customising cloud instances
 * [multipass](https://multipass.run/) Ubuntu VMs on demand
   + https://multipass.run/docs
+* https://www.digitalocean.com/community/tutorials/how-to-handle-apt-key-and-add-apt-repository-deprecation-using-gpg-to-add-external-repositories-on-ubuntu-22-04
 
 ## Logging
 

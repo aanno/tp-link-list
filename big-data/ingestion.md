@@ -26,3 +26,5 @@
 
 * https://pandas.pydata.org/
 * https://docs.dask.org/en/latest/
+* https://github.com/quiltdata/quilt versioned big data on s3
+  + https://open.quiltdata.com/

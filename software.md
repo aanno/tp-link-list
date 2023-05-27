@@ -202,6 +202,9 @@
 * https://www.seafile.com/en/home/
 * https://cmissync.com/#arch (sync with ecm/dms: alfresco, documentum, ...)
 * https://github.com/zelon88/HRCloud2 (alternative to owncloud, nextcloud)
+* [zsync](http://zsync.moria.org.uk/)
+* https://github.com/hbons/SparkleShare git-based
+* https://www.symmetricds.org/ java-based, file and db replication
 
 ### JMAP (push for everything)
 
