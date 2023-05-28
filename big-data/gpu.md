@@ -77,6 +77,8 @@ This is a list of (quick) tensorflow examples:
 * [How to setup nvidia-container-runtime and podman/runc](https://gist.github.com/bernardomig/315534407585d5912f5616c35c7fe374)
 * [tensorman](https://github.com/pop-os/tensorman) tensorflow container manager
 * https://en.wikipedia.org/wiki/Singularity_(software) HPC container, nvida and cuda friendly
+* [rocker project](https://rocker-project.org/) r-lang on docker
+  + [cuda on rocker](https://rocker-project.org/images/versioned/cuda)
 
 
 ### Tensorflow on FCOS (and in containers with container-toolkit)

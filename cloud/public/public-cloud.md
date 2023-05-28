@@ -70,6 +70,9 @@
   + https://www.ansible.com/integrations/cloud
 * [attune](https://github.com/Attune-Automation)
   + https://www.servertribe.com/download-attune-registration/
+* [uyuni](https://github.com/uyuni-project/uyuni) manage cloud vms (with ansible and salt)
+  + https://www.uyuni-project.org/
+* [karpenter](https://github.com/aws/karpenter) provisioning for kubernetes (mostly auto scaling)
 
 ### Terraform
 

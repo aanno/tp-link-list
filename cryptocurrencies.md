@@ -175,6 +175,7 @@ Supply limit	Unlimited
 * https://flare.network/introduction-to-flare/ blockchain for data
 * https://pendulumchain.org/ link between Fiat and DeFi
 * https://hedera.com/ public ledger
+* https://cardano.org/ouroboros/ proof-of-stake on cardano
 
 ## Lending, stacking, exchange
 

@@ -20,6 +20,7 @@
 * https://gnulinux.ch/
 * https://www.michlfranken.de
 * https://www.renefuerst.eu/blog/
+* https://thenewstack.io/ dev-centered
 
 ## Nachrichten (open source)
 
@@ -35,12 +36,52 @@
 * https://www.gobolinux.org/ - install complete independent packages
 * https://endlessos.com/ - end user and kids oriented
 * [airyx](https://airyx.org/) - freeBSD based trying to run cocoa and osx applications
+* [open source suse projects](https://opensource.suse.com/)
+* [open suse](https://www.opensuse.org/)
 
 ## Kernel
 
 * https://lwn.net/Articles/724198/ (AIO defects)
 * https://lwn.net/Articles/724307/ (Block layer error handling)
 * [overview of linux kernel](https://tldp.org/LDP/tlk/tlk-toc.html)
+
+## Partion Layout
+
+* [How to backup partition layout?](https://serverfault.com/questions/631949/how-to-backup-partition-layout)
+
+## FUSE filesystems
+
+* [mergerfs](https://github.com/trapexit/mergerfs)
+  + https://fedoramagazine.org/using-mergerfs-to-increase-your-virtual-storage/
+* [blobfuse2](https://github.com/Azure/azure-storage-fuse) access Azure storage
+* [gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) access gcs
+  + https://cloud.google.com/storage/docs/gcs-fuse?hl=de
+
+## Encrypted Filesystems
+
+* https://alternativeto.net/software/veracrypt
+* https://www.tecmint.com/file-and-disk-encryption-tools-for-linux/
+* https://www.fosslinux.com/50005/top-10-file-and-disk-encryption-tools-for-linux.htm
+
+### File-based Encryption
+
+* [sirikali](https://mhogomchungu.github.io/sirikali/) UI for cryfs, gocryptfs, securefs, ...
+  + https://github.com/mhogomchungu/sirikali c++, 
+
+* [gocryptfs](https://github.com/rfjakob/gocryptfs) go-lang, includes FIDO2 support
+  + [cppcryptfs](https://github.com/bailey27/cppcryptfs) c++ port of gocryptfs (for Windows)
+  + https://nuetzlich.net/gocryptfs/quickstart/
+* [cryfs](https://www.cryfs.org/)
+  + https://github.com/cryfs/cryfs c++
+* [picocrypt](https://github.com/HACKERALERT/Picocrypt) go-lang
+* [kryptor](https://www.kryptor.co.uk/features) c#
+  + https://github.com/samuel-lucas6/Kryptor
+* [veracrypt](https://www.veracrypt.fr/en/Home.html)
+* [cryptomator](https://cryptomator.org/)
+  + https://github.com/cryptomator/cryptomator java
+* https://hat.sh/ JS-based file encryption in browser
+  + https://github.com/sh-dv/hat.sh
+* [file lock pea](https://eck.cologne/peafactory/en/html/file_pea.html)
 
 ### Memory management
 
@@ -192,6 +233,7 @@
 
 * https://www.free-online-backup-services.com/features/webdav/
 * https://docs.nextcloud.com/server/19/benutzerhandbuch/files/access_webdav.html
+* https://www.webdavsystem.com/javaserver/server_examples/spring_boot_s3/ own WebDAV server in spring
 
 ###### Glacier 
 
@@ -224,10 +266,19 @@
   + [borgbackup/rclone](https://wasabi-support.zendesk.com/hc/en-us/articles/115003691192-How-do-I-use-BorgBackup-with-Wasabi-)
   + [s3fs with wasabi](https://wasabi-support.zendesk.com/hc/en-us/articles/115001744651-How-do-I-use-S3FS-with-Wasabi-)
   + [How does SSE-C Encryption work with Wasabi](https://wasabi-support.zendesk.com/hc/en-us/articles/4414850567963-How-does-SSE-C-Encryption-work-with-Wasabi-)
+  + [wasabi documentation](https://docs.wasabi.com/docs/rest-api-introduction)
 * https://min.io/ S3 on your linux (cluster)
 * https://github.com/scality/cloudserver S3 server
 * https://developers.cloudflare.com/r2/pricing/
   + https://r2-calculator.cloudflare.com/
+
+###### Azure Blob Storage and S3 compatibility
+
+* [S3 Proxy for Azure](https://devblogs.microsoft.com/cse/2016/05/22/access-azure-blob-storage-from-your-apps-using-s3-api/)
+  + [s3proxy](https://github.com/bouncestorage/s3proxy) old, for azure, gcs
+  + https://ventral.digital/posts/2020/10/11/s3-api-compatibility-on-microsoft-azure
+* [glacier-proxy](https://github.com/bouncestorage/glacier-proxy)
+* https://cloudblogs.microsoft.com/opensource/2017/11/09/s3cmd-amazon-s3-compatible-apps-azure-storage/
 
 ##### S3 clients
 
@@ -356,6 +407,7 @@
 ### Security
 
 * https://www.certdepot.net/rhel7-get-started-random-number-generator/
+* https://0pointer.net/blog/authenticated-boot-and-disk-encryption-on-linux.html linux secure boot problem
 
 #### Security blogs
 
@@ -508,14 +560,20 @@ It is _not_ possible to recover the public key stored on nitro, see
   + http://janberan.tech/en/2021/02/devconf-making-fedora-flatpaks-from-rpms/
 * [official flatpak package build files](https://github.com/flathub)
 
-### Container-faced Linux Distributions
+### Container-faced Linux Distributions (mostly immutable)
 
 * [qubes](https://www.qubes-os.org/) - most apps in it's own xen VM - super secure
 * [mocaccino - docker and luet based](https://www.mocaccino.org/)
 * [suse microos](https://microos.opensuse.org/) - suse's coreos (includes kubic)
+  + https://en.opensuse.org/Portal:MicroOS/Downloads
 * [flatcar linux](https://www.flatcar-linux.org/) - community successor of coreos
 * [rlxos - immutable desktop](https://rlxos.dev/)
   + https://tylerstech.me/2021/06/23/rlxos-a-new-and-unique-distribution/
+* [AWS Bottlerocket](https://aws.amazon.com/de/bottlerocket/)
+  + [bottlerocket nvidia support](https://aws.amazon.com/de/about-aws/whats-new/2022/03/bottlerocket-support-gpu-ec2-instance-types-powered-by-nvidia/)
+  + https://aws.amazon.com/de/about-aws/whats-new/2022/06/bottlerocket-ecs-variant-nvidia-gpus/
+  + https://aws.amazon.com/de/blogs/containers/announcing-nvidia-gpu-support-for-bottlerocket-on-amazon-ecs/
+  + https://github.com/bottlerocket-os/bottlerocket
 
 #### Fedora Silverblue
 
@@ -666,6 +724,7 @@ It is _not_ possible to recover the public key stored on nitro, see
 ## Linux package build
 
 * https://wiki.archlinux.org/title/Creating_packages_for_other_distributions
+* https://www.redhat.com/sysadmin/create-rpm-package
 
 ### Cross-linux
 

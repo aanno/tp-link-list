@@ -243,3 +243,8 @@
 * https://spring.io/guides/tutorials/spring-boot-oauth2/
 * https://projects.spring.io/spring-security-oauth/docs/oauth2.html
 * https://stackoverflow.com/questions/31338742/spring-security-how-to-get-oauth2-userinfo-during-sso-logged-in
+
+## Java Cloud Support
+
+* [apache jclouds](https://jclouds.apache.org/start/) abstraction for compute/vms, storage and load balancing
+

@@ -28,14 +28,19 @@
 ## AWS Development
 
 * [Retrieve metadata](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-retrieval.html)
+
+
 ### AWS CLI
 
 * [Loading AWS CLI parameters from a file](https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-parameters-file.html)
 * [Generating AWS CLI skeleton](https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-skeleton.html)
+* [AWS Scala](https://github.com/seratch/AWScala) alternative CLI based on Scala
+  + https://www.baeldung.com/scala/awscala-aws-sdk-for-scala
 
 ### SDKs
 
 * https://aws.amazon.com/de/getting-started/tools-sdks/
+* [kotlin SDK coroutine support](https://docs.aws.amazon.com/sdk-for-kotlin/latest/developer-guide/coroutines.html)
 
 #### AWS Java SDK
 

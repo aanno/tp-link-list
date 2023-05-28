@@ -225,6 +225,10 @@
 
 ## OpenShift family
 
+* https://cloud.redhat.com/blog/openshift-4-a-noops-platform
+  + https://github.com/openshift/machine-config-operator
+  + https://github.com/openshift/machine-config-operator/blob/master/docs/UsingLayering.md
+
 ### OKD
 
 * https://github.com/openshift/okd

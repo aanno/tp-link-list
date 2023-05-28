@@ -34,7 +34,7 @@
   + https://sylabs.io/2022/06/singularityce-is-singularity/
   + https://docs.sylabs.io/guides/3.11/user-guide/security.html
 
-## Container building
+## Container build
 
 * https://paketo.io/
   + https://paketo.io/docs/
@@ -49,6 +49,7 @@
   + https://pythonspeed.com/articles/docker-cache-pip-downloads/
   + https://github.com/moby/buildkit#daemonless
   + https://blog.erebe.dev/blog/speed-up-your-ci-with-buildkit/
+* [kiwi iso/image builder](https://osinside.github.io/kiwi/image_types_and_results.html)
 
 ## Testing
 
