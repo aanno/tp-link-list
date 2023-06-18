@@ -8,6 +8,9 @@
 * https://cointelegraph.com/
 * https://www.btc-echo.de/
 * https://www.blocktrainer.de/
+* https://cvj.ch/
+* https://coinmarketcap.com/alexandria
+* https://www.coindesk.com/
 
 ## Charts
 
@@ -190,6 +193,8 @@ Supply limit	Unlimited
 * https://cardano.org/ouroboros/ proof-of-stake on cardano
 * https://www.canton.network/ traditional bank attempt to dlt
 * https://alephzero.org/ Aleph Zero is a layer 1 privacy-enhancing blockchain (native: AZERO)
+* [rollup](https://vitalik.ca/general/2021/01/05/rollup.html)
+  + https://docs.zksync.io/userdocs/tech/#instant-confirmations
 
 ## centralized exchanges
 
@@ -201,8 +206,15 @@ Supply limit	Unlimited
 ## Lending, stacking, exchange
 
 * https://blockchainwelt.de/yield-farming/
+* https://medium.com/coinmonks/understanding-impermanent-loss-9ac6795e5baa
 * https://bitcompare.net/
+* https://coinmarketcap.com/alexandria/article/the-ultimate-guide-to-ethereum-liquid-staking
 * https://freecurrencyrates.com/en/convert-XLM-USDC/coinmarket#400; Online Currency Converter
+* [lsd](https://cvj.ch/fokus/hintergrund/was-sind-liquid-staking-derivates-lsds/)
+* https://www.coindesk.com/learn/what-is-yield-farming-the-rocket-fuel-of-defi-explained/
+* https://medium.com/everstake/staking-or-liquidity-providing-which-is-right-for-you-a382efb034a9
+* https://www.blockchain-council.org/defi/staking-vs-yield-farming-vs-liquidity-mining/
+* https://stakingcrypto.info overview of earning/staking offers
 
 * https://app.venus.io
   + https://coinmarketcap.com/exchanges/venus/
@@ -216,11 +228,20 @@ Supply limit	Unlimited
 * https://core.app/swap/
 * https://bridge.connext.network
 * https://pro.apex.exchange
+* https://earnpark.com/
+* https://app.multichain.org/#/router
+* https://crosschainbridge.org DEX
+  + https://docs.crosschainbridge.org/tokenomics
 
 ## Exchange
 
+* https://www.techtarget.com/whatis/feature/The-best-cross-chain-bridges
+
 * https://simpleswap.io
 * https://changelly.com/
+* https://symbiosis.finance/ etherium only
+* https://spooky.fi/#/bridge
+* https://cbridge.celer.network/
 
 ### Protocols
 

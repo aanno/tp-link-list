@@ -73,3 +73,18 @@
 * https://www.zdf.de/dokumentation/zdfzeit/zdfzeit-die-wahrheit-uebers-erben-100.html
 * https://www.nzz.ch/finanzen/streit-um-immobilien-erbe-das-sind-die-fuenf-haeufigsten-faelle-ld.1650554
 * https://taz.de/Erben-in-Deutschland/!5810657/
+
+## Magazine
+
+* https://www.blaetter.de/
+* https://www.ad-magazin.de/ Architektur
+* https://www.riffreporter.de/de
+* https://correctiv.org/
+* https://krautreporter.de
+* https://www.theeuropean.de/
+
+### English
+
+* https://www.foreignaffairs.com/
+* https://www.economist.com/
+

@@ -69,3 +69,10 @@
    * ssl/tls on `s3.eu-central-2.wasabisys.com`
    * Use `tpasch` for path
    * Use AWS Access ID and AWS Access Key
+
+
+## Links
+
+* [duplicati](https://duplicati.readthedocs.io/en/latest/) cloud-enabled, slow dev since 2021
+  + https://www.duplicati.com/
+  + https://github.com/duplicati/duplicati
