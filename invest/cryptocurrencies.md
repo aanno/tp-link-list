@@ -1,6 +1,13 @@
 # Crypto Currency
 
 * https://en.wikipedia.org/wiki/Cryptocurrency
+* https://www.foreignaffairs.com/articles/united-states/americas-crypto-currency-conundrum
+
+## Sites
+
+* https://cointelegraph.com/
+* https://www.btc-echo.de/
+* https://www.blocktrainer.de/
 
 ## Charts
 
@@ -34,6 +41,11 @@
 * https://atomicdex.io/en/blog/self-custody-wallets/
 
 * https://blog.containerize.com/2021/11/17/top-5-free-open-source-crypto-wallets-in-2021/
+
+
+#### Hardware Wallets
+
+* https://bitbox.swiss/de/
 
 #### self-custody wallets
 
@@ -176,6 +188,15 @@ Supply limit	Unlimited
 * https://pendulumchain.org/ link between Fiat and DeFi
 * https://hedera.com/ public ledger
 * https://cardano.org/ouroboros/ proof-of-stake on cardano
+* https://www.canton.network/ traditional bank attempt to dlt
+* https://alephzero.org/ Aleph Zero is a layer 1 privacy-enhancing blockchain (native: AZERO)
+
+## centralized exchanges
+
+* https://relai.app mobile only
+* https://www.mtpelerin.com/ mobile only
+* https://www.bitpanda.com
+* https://www.etoro.com
 
 ## Lending, stacking, exchange
 
