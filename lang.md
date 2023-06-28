@@ -17,6 +17,9 @@
   + https://github.com/vlang/vinix os in v-lang
   + https://github.com/elliotchance/vsql db-engine in v-lang
     - https://medium.com/geekculture/%EF%B8%8Fvsql-is-a-sql-database-written-in-v-69ba7749cd79
+* [zig](https://ziglang.org/) simple, C-like, embedded
+  + https://en.m.wikipedia.org/wiki/Zig_(programming_language)
+* [D](https://en.m.wikipedia.org/wiki/D_(programming_language))
 
 
 ## General lang problems

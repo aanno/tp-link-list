@@ -2,6 +2,15 @@
 
 * https://www.indoition.com/xml-dita-tools-technical-documentation.htm
 
+## Types and typesetting
+
+* https://www.typewolf.com/
+
+## Web Services
+
+* [zotero](https://www.zotero.org/) collect, organize, annotate, cite, and share research
+  + [zoterobib](https://zbib.org/) bibliography tool for zotero
+
 ## Presentations
 
 * [list of markdown based presentation solutions](https://gist.github.com/johnloy/27dd124ad40e210e91c70dd1c24ac8c8)
@@ -132,7 +141,12 @@
   + [asciidoctor mathematical](https://docs.asciidoctor.org/asciidoctor/latest/stem/mathematical/) 
     all backend, renders math to images
   + [mathjax3 for asciidoctor](https://github.com/tani/asciidoctor-mathjax3)
+  + [math-api](https://github.com/chialab/math-api) Rest Server for mathjax rendering
+  + [mml2tex](https://github.com/transpect/mml2tex) XProc/XSLT-library to convert MathML to LaTeX
+  + http://asciimath.org/
+  + https://katex.org/
 * [asciidoctor-html5s](https://github.com/jirutka/asciidoctor-html5s)
+* https://www.data2type.de/xml-xslt-xslfo/docbook/block-elemente/gleichungen/einfache-formeln-mit-mathphras/ docbook minimal math support
   
 ## Diagramms
 
@@ -205,6 +219,26 @@ Also see `documenting-it.md`
 * https://texfaq.org/FAQ-alternatives
 * https://sile-typesetter.org/ lua harfbuzz
 * https://patoline.github.io/ ocaml old
+
+* [xatapult](https://github.com/xatapult/xtpxlib-xdoc) xdoc is an extension to docbook, will be converted to docbook, xslt/xproc approach
+  + https://xdoc.xtpxlib.org/
+  + https://xdoc.xtpxlib.org/1_Description.html
+* [opentorah gradle plugin for docbook](https://github.com/opentorah/opentorah/tree/master/docbook) includes math support but is no longer in active development
+* https://quarto.org/ pandoc-based scientific and technical publishing system (successor of R Markdown)
+  + https://quarto.org/docs/visual-editor/technical.html
+  + https://blog.ouseful.info/2021/09/07/a-quick-look-at-the-quarto-pandoc-publishing-system-and-visual-markdown-editor/
+  + https://statistik-dresden.de/archives/17921 
+  + https://github.com/quarto-dev/quarto-cli
+* Obskure
+  + https://opensource.com/article/18/3/scientific-publishing-software
+  + https://elifesciences.org/inside-elife/33e4127f/elife-introduces-libero-a-new-open-source-tool-for-publishing
+  + https://github.com/stencila/stencila collaboration?, wiki?
+    - https://help.stenci.la/guides/sources/elife/
+  + https://web.hypothes.is/ commercial, free-for-private-use
+* [sciflow](https://www.sciflow.net/en/) commercial, free-for-private-use
+* [typst](https://typst.app/) latex successor
+  + https://typst.app/docs/
+  + https://github.com/typst/hayagriva bibliography management
 
 ## Formats
 
@@ -312,6 +346,9 @@ Also see `documenting-it.md`
 * https://www.madoko.net/
   + http://madoko.org/reference.html
 * https://hedgedoc.org/ collaborative real-time editor
+* https://manubot.org/
+  + https://manubot.org/catalog/
+  + https://github.com/manubot
 
 ## Markdown to Book
 

@@ -34,3 +34,8 @@
 ### IT
 
 * https://teachyourselfcs.com/
+
+## learning with flash cards
+
+* [anki](https://apps.ankiweb.net/)
+  + https://docs.ankiweb.net/getting-started.html

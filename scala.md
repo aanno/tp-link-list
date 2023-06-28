@@ -30,6 +30,7 @@ prinzipiell der klassischen Programmierung überlegen ist.
 ## Extensions
 
 * https://scalameta.org/
+* https://github.com/scala/scala-xml/wiki/XML-Processing
 
 ## Libs
 
