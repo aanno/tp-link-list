@@ -46,6 +46,29 @@
 * https://blog.containerize.com/2021/11/17/top-5-free-open-source-crypto-wallets-in-2021/
 
 
+#### Cross platform software wallets
+
+* https://trustwallet.com/ owned by binance, recommended, platform
+* https://atomicwallet.io/
+* https://freewallet.org/crypto-wallet (includes web/browser support)
+
+#### Desktop Wallets
+
+
+#### Desktop Browser Wallets
+
+
+#### Android Wallets
+
+##### Android with own key
+
+* https://unstoppable.money/
+  + https://github.com/horizontalsystems/unstoppable-wallet-android
+
+##### Android exchange platforms
+
+* https://guarda.com/
+
 #### Hardware Wallets
 
 * https://bitbox.swiss/de/
@@ -145,6 +168,7 @@ Website	stellar.org
 * https://en.wikipedia.org/wiki/Stellar_(payment_network)
 * https://phemex.com/academy/stellar-lumens-xlm
 * https://blockchainwelt.de/stellar-prognose/
+* https://www.stellar.org/
 
 * https://developers.stellar.org/docs/building-apps/custom-assets tokens on stellar
   + https://www.leewayhertz.com/issue-assets-on-stellar-blockchain/
@@ -154,6 +178,15 @@ Website	stellar.org
 * https://www.stellarx.com/
 * https://stellarterm.com/
 * https://stellarport.io/exchange
+* https://scopuly.com
+* https://accountviewer.stellar.org/ (no login transfer available!)
+* https://ultrastellar.com/ company behind lobstr, stellarx, stellarterm
+* https://lumenswap.io/select-app
+
+### yield on stellar
+
+* https://blog.okcoin.com/what-is-yeth-and-how-will-it-benefit-eth/
+* https://ultrastellar.com/assets/ apy for yxml, yusdc, ybtc, yeth
 
 ### Stellar Projects
 
@@ -195,6 +228,7 @@ Supply limit	Unlimited
 * https://alephzero.org/ Aleph Zero is a layer 1 privacy-enhancing blockchain (native: AZERO)
 * [rollup](https://vitalik.ca/general/2021/01/05/rollup.html)
   + https://docs.zksync.io/userdocs/tech/#instant-confirmations
+* https://tron.network/
 
 ## centralized exchanges
 
@@ -202,6 +236,16 @@ Supply limit	Unlimited
 * https://www.mtpelerin.com/ mobile only
 * https://www.bitpanda.com
 * https://www.etoro.com
+* https://www.coingecko.com
+* https://www.binance.com/en
+* https://crypto.com/
+* https://www.kraken.com/
+* https://www.coinbase.com/
+
+## crypto currency information
+
+* https://coinmarketcap.com/ best overview over Cryptocurrencies and Exchanges
+* https://dappradar.com/rankings/protocol/tron/category/exchanges find the right exchange
 
 ## Lending, stacking, exchange
 
@@ -215,6 +259,8 @@ Supply limit	Unlimited
 * https://medium.com/everstake/staking-or-liquidity-providing-which-is-right-for-you-a382efb034a9
 * https://www.blockchain-council.org/defi/staking-vs-yield-farming-vs-liquidity-mining/
 * https://stakingcrypto.info overview of earning/staking offers
+* https://yearn.finance/
+* https://coinmarketcap.com/alexandria/article/li.fi-the-stablecoin-bridge-almanac-2023 bridges for stable coins
 
 * https://app.venus.io
   + https://coinmarketcap.com/exchanges/venus/
@@ -232,6 +278,18 @@ Supply limit	Unlimited
 * https://app.multichain.org/#/router
 * https://crosschainbridge.org DEX
   + https://docs.crosschainbridge.org/tokenomics
+* https://app.swapswap.org/#/swap
+* https://pancakeswap.finance/swap
+  + https://bridge.pancakeswap.finance/
+* https://trade.dydx.exchange/trade/ETH-USD
+* https://curve.fi/#/ethereum/swap
+* https://app.aave.com/
+* https://sunswap.com/#/home
+  + https://sun.io/?lang=en-US#/more_page
+* https://allbridge.io/core/ mainly stable coins
+* https://stablecoinswap.io/#/ mainly stable coins
+* https://www.stablex.finance/#/swap mainly stable coins
+* https://bridge.arbitrum.io/
 
 ## Exchange
 
@@ -242,6 +300,8 @@ Supply limit	Unlimited
 * https://symbiosis.finance/ etherium only
 * https://spooky.fi/#/bridge
 * https://cbridge.celer.network/
+* https://www.okx.com/de
+* https://app.crosschainbridge.org/
 
 ### Protocols
 

@@ -103,6 +103,8 @@
   + https://spring.io/blog/2021/03/11/announcing-spring-native-beta
   + https://www.heise.de/news/Java-Framework-Native-Spring-Anwendungen-laufen-ohne-die-JVM-5078681.html
 * https://quarkus.io/
+* polyglott
+  + https://technology.amis.nl/software-development/java/calling-out-from-java-to-javascript-with-call-back-leveraging-interoperability-support-of-graalvm/
 
 ## Alternatives to GraalVM
 
