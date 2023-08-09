@@ -239,6 +239,7 @@ Also see `documenting-it.md`
 * [typst](https://typst.app/) latex successor
   + https://typst.app/docs/
   + https://github.com/typst/hayagriva bibliography management
+  + https://typst.app/docs/packages/
 
 ## Formats
 
@@ -257,17 +258,25 @@ Also see `documenting-it.md`
 
 #### Epub reader
 
+* https://github.com/sevinalucia/epub-reader js and browser extension
+* https://github.com/e-alfred/epubreader php
+
 * https://github.com/futurepress/epub.js/ epub in browser
+* https://github.com/MrMYHuang/cbetar2 epub.js based, chineese!
 * https://github.com/janeczku/calibre-web epub books in browser
 * https://github.com/troyeguo/koodo-reader browser epub reader
 * https://github.com/Janglee123/eplee browser reader
 
 * https://github.com/johnfactotum/foliate desktop epub reader
+* https://github.com/mignaway/EpubReader ElectronJS based desktop
 
+* https://github.com/lrusso/TinyEPUBReader android
 * https://www.edrlab.org/readium-lcp/ android platform - used in _many_ reader products
   + https://github.com/readium/mobile
   + https://github.com/readium/kotlin-toolkit
 * https://github.com/FolioReader/FolioReader-Android old
+
+* https://github.com/vers-one/EpubReader library for .net
 
 
 #### Html to Epub

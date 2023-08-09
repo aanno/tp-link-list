@@ -41,10 +41,27 @@
 
 ### Wallets
 
+* https://wallets.com/
 * https://atomicdex.io/en/blog/self-custody-wallets/
 
 * https://blog.containerize.com/2021/11/17/top-5-free-open-source-crypto-wallets-in-2021/
 
+
+#### Hardware Wallets
+
+* https://bitbox.swiss/de/
+
+#### self-custody wallets
+
+* https://metamask.io/ featured, web3 wallet, eth l2 centered 
+  + https://support.metamask.io/hc/en-us/articles/4404424659995-User-Guide-Custom-networks-and-sidechains
+  + https://support.metamask.io/hc/en-us/articles/4415758179355-Network-profile-Avalanche-AVAX- adding networks
+    - https://chainlist.wtf/
+  + https://support.metamask.io/hc/en-us/articles/10055915089819-How-to-use-MetaMask-Bridges
+    - https://portfolio.metamask.io/bridge
+* https://walletconnect.com/products
+* https://unstoppable.money/ good, eth l2 centered, open source, kotlin
+  + https://github.com/horizontalsystems/unstoppable-wallet-android
 
 #### Cross platform software wallets
 
@@ -62,31 +79,26 @@
 
 ##### Android with own key
 
+* https://cakewallet.com/ good, pw + 2fa, only supports xmr, btc, eth, ltc, xhv (heaven)
+* https://mathwallet.org/de-de/ good, web3 wallet, eth l2 centered
+* https://guarda.com/ only pw security, many alt coins inkluding ada, xlm, nano, ...
+* https://www.exodus.com/ over-engineered and slow, many alt coins, staking option
+* https://electrum.org/ bit-coin only wallet, open source
+  + https://electrum.readthedocs.io/en/latest/
 * https://unstoppable.money/
   + https://github.com/horizontalsystems/unstoppable-wallet-android
+* [trust wallet](https://trustwallet.com/) (related to binance)
 
 ##### Android exchange platforms
 
-* https://guarda.com/
-
-#### Hardware Wallets
-
-* https://bitbox.swiss/de/
-
-#### self-custody wallets
-
-* https://metamask.io/ web3 wallet
-  + https://support.metamask.io/hc/en-us/articles/4404424659995-User-Guide-Custom-networks-and-sidechains
-  + https://support.metamask.io/hc/en-us/articles/4415758179355-Network-profile-Avalanche-AVAX- adding networks
-    - https://chainlist.wtf/
-  + https://support.metamask.io/hc/en-us/articles/10055915089819-How-to-use-MetaMask-Bridges
-    - https://portfolio.metamask.io/bridge
-* https://walletconnect.com/products
-
-#### List of Wallets
-
-* [trust wallet](https://trustwallet.com/) (related to binance)
+* https://bitpay.com/wallet/ only for btc, eth, bch, ltc, dodge, shib, ape, matic, not tested by me
+* https://alphawallet.com/ web3 wallet, eth l2 centered
 * [coinbase wallet](https://www.coinbase.com/de/wallet)
+
+###### single coin wallets
+
+* https://nault.cc/configure-wallet browser for nano
+  + https://github.com/Nault/Nault
 
 ### User faced features
 
@@ -172,6 +184,9 @@ Website	stellar.org
 
 * https://developers.stellar.org/docs/building-apps/custom-assets tokens on stellar
   + https://www.leewayhertz.com/issue-assets-on-stellar-blockchain/
+* https://stellar.org/anchorplatform
+* https://github.com/jillesvangurp/stellar-kotlin-client 
+* https://github.com/rahimklaber/stellar_kt
 
 ### XLM trade
 
@@ -183,10 +198,22 @@ Website	stellar.org
 * https://ultrastellar.com/ company behind lobstr, stellarx, stellarterm
 * https://lumenswap.io/select-app
 
+### Other assets on stellar
+
+* https://aqua.network/
+  + https://medium.com/aquarius-aqua
+
 ### yield on stellar
 
 * https://blog.okcoin.com/what-is-yeth-and-how-will-it-benefit-eth/
 * https://ultrastellar.com/assets/ apy for yxml, yusdc, ybtc, yeth
+
+### stellar (XLM) wallets
+
+* https://lobstr.co/ featured
+* https://solarwallet.io/
+* https://rabet.io/ old, deprecated
+  + https://github.com/rabetofficial/rabet-extension
 
 ### Stellar Projects
 
@@ -194,7 +221,7 @@ Website	stellar.org
   + https://github.com/stellar/starbridge
 * https://developers.stellar.org/docs
 * https://soroban.stellar.org/docs
-
+* https://communityfund.stellar.org/projects
 
 #### Monero
 
@@ -217,6 +244,14 @@ Supply limit	Unlimited
 
 * https://docs.filecoin.io/store/filecoin-plus/
 
+
+#### IOTA
+
+* https://firefly.iota.org/
+  + https://github.com/iotaledger/firefly
+* https://www.blockchaincenter.net/iota/iota-wallet/
+* https://www.nelium.io/
+
 ## Projects
 
 * https://reserve.org/ stablecoin protocol and framework
@@ -229,6 +264,18 @@ Supply limit	Unlimited
 * [rollup](https://vitalik.ca/general/2021/01/05/rollup.html)
   + https://docs.zksync.io/userdocs/tech/#instant-confirmations
 * https://tron.network/
+* https://cosmos.network/
+  + https://tendermint.com/
+* https://www.digitalasset.com/developers DAML - enterprise blockchain
+  + https://serokell.io/blog/daml-interview
+* https://www.multichain.com/ - enterprise blockchain, backward compatible with eth
+  + https://github.com/MultiChain
+
+## Deep-dives
+
+* [mina](https://coinmarketcap.com/alexandria/article/what-is-mina-protocol) Zero-Knowledge Succinct Non-Interactive Arguments of Knowledge (zk-SNARKs)
+  + https://docs.minaprotocol.com/
+* https://coinmarketcap.com/alexandria/categories/crypto-basics
 
 ## centralized exchanges
 
@@ -241,6 +288,8 @@ Supply limit	Unlimited
 * https://crypto.com/
 * https://www.kraken.com/
 * https://www.coinbase.com/
+* https://www.moonpay.com/de
+* https://www.coinspot.com.au/
 
 ## crypto currency information
 
@@ -290,6 +339,8 @@ Supply limit	Unlimited
 * https://stablecoinswap.io/#/ mainly stable coins
 * https://www.stablex.finance/#/swap mainly stable coins
 * https://bridge.arbitrum.io/
+* https://v2.vires.finance/ staking
+* https://wx.network/ (was https://waves.exchange/) DEX
 
 ## Exchange
 
@@ -306,5 +357,3 @@ Supply limit	Unlimited
 ### Protocols
 
 * https://docs.compound.finance/
-
-
