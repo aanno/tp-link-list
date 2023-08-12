@@ -45,6 +45,11 @@
 * https://atomicdex.io/en/blog/self-custody-wallets/
 
 * https://blog.containerize.com/2021/11/17/top-5-free-open-source-crypto-wallets-in-2021/
+* https://www.coingecko.com/learn/metamask-alternatives
+* https://de.beincrypto.com/lernen/die-11-besten-metamask-alternativen-im-jahr-2023/
+
+* https://www.blocktrainer.de/hd-wallets-ableitungspfade/
+* https://www.ledger.com/de/academy/was-sind-hierarchische-deterministische-hd-wallets
 
 
 #### Hardware Wallets
@@ -57,6 +62,7 @@
   + https://support.metamask.io/hc/en-us/articles/4404424659995-User-Guide-Custom-networks-and-sidechains
   + https://support.metamask.io/hc/en-us/articles/4415758179355-Network-profile-Avalanche-AVAX- adding networks
     - https://chainlist.wtf/
+    - https://chainlist.org/?search=bsc
   + https://support.metamask.io/hc/en-us/articles/10055915089819-How-to-use-MetaMask-Bridges
     - https://portfolio.metamask.io/bridge
 * https://walletconnect.com/products
@@ -74,6 +80,8 @@
 
 #### Desktop Browser Wallets
 
+* https://blockwallet.io/ web3
+* https://frame.sh/ web3
 
 #### Android Wallets
 
@@ -88,6 +96,7 @@
 * https://unstoppable.money/
   + https://github.com/horizontalsystems/unstoppable-wallet-android
 * [trust wallet](https://trustwallet.com/) (related to binance)
+* https://stackwallet.com/ open source, one wallet by currency, web3, xlm, xmr, ban, wow, xno, part, ...
 
 ##### Android exchange platforms
 
@@ -99,6 +108,10 @@
 
 * https://nault.cc/configure-wallet browser for nano
   + https://github.com/Nault/Nault
+* https://daedaluswallet.io/ full node cardano wallet
+* https://typhonwallet.io/#/ cardano wallet
+* https://yoroi-wallet.com/ cardano wallet
+  + https://github.com/Emurgo/yoroi-frontend
 
 ### User faced features
 
@@ -129,6 +142,7 @@
 * https://en.wikipedia.org/wiki/Ring_signature
 * https://en.wikipedia.org/wiki/Multiple_encryption
 * https://en.wikipedia.org/wiki/Fungibility
+* https://www.blocktrainer.de/was-ist-ein-unspent-transaction-output-utxo/
 
 ### Fraud faced features
 
@@ -181,6 +195,8 @@ Website	stellar.org
 * https://phemex.com/academy/stellar-lumens-xlm
 * https://blockchainwelt.de/stellar-prognose/
 * https://www.stellar.org/
+* https://developers.stellar.org/docs/fundamentals-and-concepts/stellar-consensus-protocol
+* https://www.stellar.org/papers/stellar-consensus-protocol
 
 * https://developers.stellar.org/docs/building-apps/custom-assets tokens on stellar
   + https://www.leewayhertz.com/issue-assets-on-stellar-blockchain/
@@ -211,7 +227,8 @@ Website	stellar.org
 ### stellar (XLM) wallets
 
 * https://lobstr.co/ featured
-* https://solarwallet.io/
+* https://xbull.app/
+* https://solarwallet.io/ old, no development
 * https://rabet.io/ old, deprecated
   + https://github.com/rabetofficial/rabet-extension
 
@@ -245,12 +262,44 @@ Supply limit	Unlimited
 * https://docs.filecoin.io/store/filecoin-plus/
 
 
-#### IOTA
+#### IOTA (MIOTA)
 
-* https://firefly.iota.org/
+* https://www.iota.org/get-started/what-is-iota
+* https://www.iota.org/solutions/technologies
+* https://iota-einsteiger-guide.de/tangle/
+* https://firefly.iota.org/ wallet
   + https://github.com/iotaledger/firefly
 * https://www.blockchaincenter.net/iota/iota-wallet/
 * https://www.nelium.io/
+
+##### IOTA 2.0
+
+* https://v2.iota.org/
+* https://wiki.iota.org/IOTA-2.0-Research-Specifications/Preface
+* https://iota-einsteiger-guide.de/shimmer-3/
+* https://wiki.iota.org/learn/about-iota/roadmap-to-decentralization/
+
+#### Nano (XNO)
+
+* [lattice blockchain](https://docs.nano.org/protocol-design/ledger/)
+* https://docs.nano.org/integration-guides/the-basics/#block-lattice-design
+* https://docs.nano.org/whitepaper/english/#raiblocks-components
+* https://blog.nano.org/looking-up-to-confirmation-height-69f0cd2a85bc?gi=c94afb01960c
+
+#### MINA
+
+* https://minaprotocol.com/blog/meet-pickles-snark-enabling-smart-contracts-on-coda-protocol
+* https://minaprotocol.com/blog/mina-token-distribution-and-supply#supercharged
+* https://www.aurowallet.com/ wallet
+  + https://www.aurowallet.com/mina-staking-guide/
+
+#### Algorand
+
+* https://algorand.com/technology/
+* https://algorand.com/technology/algorand-protocol/
+* https://www.algorand.foundation/ecosystem
+* [algokit for web3](https://www.prnewswire.com/news-releases/algokit-introduces-web2-developer-experience-for-building-web3-applications-on-algorand-301784640.html)
+* https://defly.app/ wallet
 
 ## Projects
 
@@ -296,8 +345,15 @@ Supply limit	Unlimited
 * https://coinmarketcap.com/ best overview over Cryptocurrencies and Exchanges
 * https://dappradar.com/rankings/protocol/tron/category/exchanges find the right exchange
 
+## Staking search engines
+
+* https://stakingcrypto.io/
+* https://www.stakingrewards.com/
+
 ## Lending, stacking, exchange
 
+* https://coinmarketcap.com/alexandria/article/crypto-staking-guide
+* https://cryptonews.com/news/best-crypto-staking-platforms.htm
 * https://blockchainwelt.de/yield-farming/
 * https://medium.com/coinmonks/understanding-impermanent-loss-9ac6795e5baa
 * https://bitcompare.net/
@@ -316,6 +372,7 @@ Supply limit	Unlimited
 * https://compound.finance/markets
   + https://coinmarketcap.com/exchanges/compound/
 * https://app.uniswap.org
+  + https://coinmarketcap.com/alexandria/article/uniswap-vs-pancakeswap
 * https://curve.fi
 * https://app.aave.com
 * https://app.1inch.io
@@ -341,6 +398,10 @@ Supply limit	Unlimited
 * https://bridge.arbitrum.io/
 * https://v2.vires.finance/ staking
 * https://wx.network/ (was https://waves.exchange/) DEX
+* [dodo](https://dodoex.io/en) DEX
+* https://yieldflow.com/
+* https://app.hop.exchange DEX
+* https://connextscan.io/ DEX
 
 ## Exchange
 
@@ -353,6 +414,7 @@ Supply limit	Unlimited
 * https://cbridge.celer.network/
 * https://www.okx.com/de
 * https://app.crosschainbridge.org/
+* https://across.to/bridge
 
 ### Protocols
 
