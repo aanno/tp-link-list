@@ -278,14 +278,28 @@ EDID readings:
    Idea: Add something like `video=HDMI-A-1:1280x1024@85` to grub<br/>
    Problem: `dmesg` complains that mode is not supported: 
    + [    1.163006] simple-framebuffer simple-framebuffer.0: [drm] User-defined mode not supported: "3840x2160": 60 712254 3840 4152 4576 5312 2160 2161 2164 2235 0x20 0x6
+* https://ubuntuhandbook.org/index.php/2021/05/custom-screen-resolution-ubuntu-wayland-xorg/ <br/>
+   same as above
 * https://www.baeldung.com/linux/primary-monitor-x-wayland <br/>
    Problem: Not a solution, focus on primary monitor only
 * https://forums.developer.nvidia.com/t/bug-report-for-fedora-37-with-wayland-rtx-2060-rev-1-x11-works-but-wayland-only-provides-1024x768-resolution/249329 <br/>
    My problem report on nvidia forum
 * https://blogs.nologin.es/rickyepoderi/index.php?/archives/149-Custom-mode-lines-in-Wayland.html <br/>
     Idea: Generate your own edid and force kernel to use it
+* https://discussion.fedoraproject.org/t/second-monitor-not-found-fedora-38-nvidia-rtx-4070-gpu/86255 <br/>
+   similiar problem - no solution
+   
+## edid references
 
+* https://developer.nvidia.com/docs/drive/drive-os/archives/6.0.4/linux/sdk/common/topics/util_setup/SW-EDID40.html
+* https://www.kernel.org/doc/html/latest/admin-guide/edid.html
 
 ## wayland plasma cannot be choosen with gdm
 
 * Adjust `/usr/lib/udev/rules.d/61-gdm.rules`
+* Reference: https://wiki.archlinux.org/title/GDM
+
+## install nvidia driver on fedora (dkms)
+
+* https://forums.developer.nvidia.com/t/bug-report-on-nvidia-driver-515-65-01-for-fedora-36-kernel-5-18-19-rtx-2060-rev-1/227009/8
+
