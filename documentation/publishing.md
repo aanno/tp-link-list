@@ -28,10 +28,16 @@
 * [spectacle - react based presentation slides](https://formidable.com/open-source/spectacle/)
 * [mdx deck - react based](https://github.com/jxnblk/mdx-deck)
 * https://reactjsexample.com/slideshow-framework-built-w-react-router-4/
+
 ## XML
 
 * [xom](https://github.com/elharo/xom/) alternative to DOM
 * https://www.saxonica.com/download/java.xml
+
+* https://www.xml-director.info/ enterprise XML content manager (plone based)
+* https://www.speedata.de professional XML to PDF tool
+  + https://doc.speedata.de
+  + https://github.com/speedata/publisher
 
 ### Editors
 
@@ -215,9 +221,20 @@ Also see `documenting-it.md`
   + https://ftp.tu-chemnitz.de/pub/tex/macros/latex/contrib/l3experimental/xgalley.pdf
   + https://de.m.wikipedia.org/wiki/Lout
   + https://github.com/william8000/lout
+  + https://github.com/smartmic/addfonts
+  + https://github.com/smartmic/letter-template-lout
 
 * https://texfaq.org/FAQ-alternatives
+  + https://tex.stackexchange.com/questions/120271/alternatives-to-latex
+* https://tectonic-typesetting.github.io/en-US/ rust-based reimplementation of xetex and texlive
+  + https://github.com/tectonic-typesetting/tectonic
+  + https://tectonic-typesetting.github.io/book/latest/installation/
 * https://sile-typesetter.org/ lua harfbuzz
+  + https://github.com/sile-typesetter/sile
+* https://docs.racket-lang.org/pollen/index.html racket-based, for html
+  + https://typographyforlawyers.com/
+  + https://beautifulracket.com/
+  + https://practicaltypography.com/
 * https://patoline.github.io/ ocaml old
 
 * [xatapult](https://github.com/xatapult/xtpxlib-xdoc) xdoc is an extension to docbook, will be converted to docbook, xslt/xproc approach
@@ -229,6 +246,11 @@ Also see `documenting-it.md`
   + https://blog.ouseful.info/2021/09/07/a-quick-look-at-the-quarto-pandoc-publishing-system-and-visual-markdown-editor/
   + https://statistik-dresden.de/archives/17921 
   + https://github.com/quarto-dev/quarto-cli
+* https://pandoc.org
+  + https://pandoc.org/MANUAL.html#option--pdf-engine
+  + https://jdhao.github.io/2019/05/30/markdown2pdf_pandoc/ md to pdf with pandoc
+  + https://waylonwalker.com/convert-markdown-pdf-linux/
+  + https://stackoverflow.com/questions/44177555/how-to-convert-html-to-pdf-using-pandoc
 * Obskure
   + https://opensource.com/article/18/3/scientific-publishing-software
   + https://elifesciences.org/inside-elife/33e4127f/elife-introduces-libero-a-new-open-source-tool-for-publishing
@@ -387,6 +409,8 @@ Also see `documenting-it.md`
   + https://github.com/radkovo/Pdf2Dom
 * https://www.mustangproject.org/ zugferd
 
+* https://boxesandglue.dev/ PDF generation lib in go
+
 ### PDF to Html
 
 * https://www.baeldung.com/java-html-to-pdf
@@ -419,6 +443,7 @@ Also see `documenting-it.md`
 ### CSS Print, i.e. rendering HTML to PDF
 
 * https://www.print-css.rocks/tools
+  + https://print-css.rocks/ compares many print-css tools
 * https://www.parson-europe.com/en/knowledge-base/html-to-pdf-with-css-paged-media
 * https://publishing-project.rivendellweb.net/revisting-html-to-pdf-conversion-with-css-paged-media/
 
