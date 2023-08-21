@@ -56,7 +56,7 @@
 
 * https://bitbox.swiss/de/
 
-#### self-custody wallets
+#### self-custodial wallets
 
 * https://metamask.io/ featured, web3 wallet, eth l2 centered 
   + https://support.metamask.io/hc/en-us/articles/4404424659995-User-Guide-Custom-networks-and-sidechains
@@ -68,20 +68,25 @@
 * https://walletconnect.com/products
 * https://unstoppable.money/ good, eth l2 centered, open source, kotlin
   + https://github.com/horizontalsystems/unstoppable-wallet-android
+* https://rabby.io/
+  + https://github.com/RabbyHub/Rabby
 
 #### Cross platform software wallets
 
 * https://trustwallet.com/ owned by binance, recommended, platform
 * https://atomicwallet.io/
 * https://freewallet.org/crypto-wallet (includes web/browser support)
+* https://atomicwallet.io/de stacking, non-custodial
 
 #### Desktop Wallets
 
 
 #### Desktop Browser Wallets
 
+* https://brave.com/de/wallet/ browser as wallet
 * https://blockwallet.io/ web3
 * https://frame.sh/ web3
+* https://phantom.app/download self-custodial, 
 
 #### Android Wallets
 
@@ -131,6 +136,17 @@
   + https://en.wikipedia.org/wiki/Zcash (ZEC) 
   + https://en.wikipedia.org/wiki/Firo_(cryptocurrency) (FIRO)
   + https://en.wikipedia.org/wiki/Monero (XMR)
+  + https://en.wikipedia.org/wiki/MobileCoin (MOB)
+    - https://mobilecoin.com/learn/explain-like-im-five/zeroknowledge/
+    - https://en.wikipedia.org/wiki/Oblivious_RAM
+    - https://crypto.stackexchange.com/questions/64437/what-is-a-pedersen-commitment
+    - https://github.com/mobilecoinfoundation/mobilecoin
+    - https://github.com/mobilecoinofficial/desktop-wallet
+  + https://particl.wiki/learn/privacy/transaction-types/ (PART)
+  + https://minaprotocol.com/ (MINA)
+* https://elementsproject.org/features/confidential-transactions
+  + https://eprint.iacr.org/2015/1098.pdf
+* https://en.wikipedia.org/wiki/Ring_signature
 
 #### Law
 
@@ -402,6 +418,10 @@ Supply limit	Unlimited
 * https://yieldflow.com/
 * https://app.hop.exchange DEX
 * https://connextscan.io/ DEX
+* https://app.optimism.io/bridge/withdraw
+* https://rainbowbridge.app/transfer
+* https://1inch.io/
+* https://www.bitforex.com/
 
 ## Exchange
 

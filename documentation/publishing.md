@@ -1,6 +1,7 @@
 # Publishing
 
 * https://www.indoition.com/xml-dita-tools-technical-documentation.htm
+* https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages
 
 ## Types and typesetting
 
@@ -42,10 +43,13 @@
 ### Editors
 
 * https://www.oxygenxml.com/doc/versions/20.0/ug-editor/topics/author-dita-doc-type.html
+* https://leanpub.com/markua/read
 * http://www.codex.ca/
 * http://www.eclipse.org/vex/
 * https://www.fiduswriter.org/
 * https://writefreely.org/
+* https://panwriter.com/try/
+  + https://github.com/mb21/panwriter
 
 ### Dita
 
@@ -59,6 +63,13 @@
 
 * https://www.dita-ot.org/
 
+## Open access
+
+* https://coko.foundation/products.html
+* https://ketida.community/ single source book production
+  + https://waxjs.net/features/
+  + https://prosemirror.net/
+* https://kotahi.community/features/ scholarly publishing platform
 
 ## Markup
 
@@ -408,8 +419,18 @@ Also see `documenting-it.md`
 * https://cssbox.sourceforge.net/pdf2dom/download.php
   + https://github.com/radkovo/Pdf2Dom
 * https://www.mustangproject.org/ zugferd
+* [groff](https://www.gnu.org/software/groff/groff.html) html, pdf, dvi, used by pandoc
+  + https://www.gnu.org/software/groff/groff-and-mom.pdf
+* [mandoc](http://mandoc.bsd.lv/) bsd alternative to groff
+  + https://mandoc.bsd.lv/docbook2mdoc/
+  + [mandoc vs docbook](https://undeadly.org/cgi?action=article&sid=20190419101505)
 
 * https://boxesandglue.dev/ PDF generation lib in go
+* https://github.com/parallax/jsPDF old, js
+* https://github.com/foliojs/pdfkit low level
+  + https://pdfkit.org/
+* https://github.com/bpampuch/pdfmake high level, incomplete
+  + https://pdfmake.github.io/docs/0.3/
 
 ### PDF to Html
 
@@ -462,6 +483,11 @@ Also see `documenting-it.md`
 * https://docraptor.com/open-source-html-to-pdf
 * https://typeset.sh/en commercial (but cheap)
 * https://www.pdfreactor.com/ commercial, expensive
+* https://pagedjs.org/documentation/cheatsheet/
+  + https://gitlab.coko.foundation/pagedjs/pagedjs
+  + https://github.com/pagedjs/pagedjs
+* https://www.mediaevent.de/print-preview/
+* https://www.mediaevent.de/pdf-on-the-fly-mit-javascript-erzeugen-jspdf/
 
 #### Remove distractions from Html Pages
 
