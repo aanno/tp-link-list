@@ -176,6 +176,14 @@ Supply limit	Unlimited
 * https://pendulumchain.org/ link between Fiat and DeFi
 * https://hedera.com/ public ledger
 * https://cardano.org/ouroboros/ proof-of-stake on cardano
+* [icp - Internet Computer Protocol](https://github.com/dfinity/ic) blockchain that runs at web speed and can increase its capacity without bound
+  + https://internetcomputer.org/
+  + https://internetcomputer.org/docs/current/developer-docs/setup/cycles/cycles-wallet
+  + https://github.com/dfinity/cycles-wallet
+
+### Client Projects
+
+* [quill](https://github.com/dfinity/quill) Minimalistic cli ledger and governance toolkit for cold wallets
 
 ## Lending, stacking, exchange
 
