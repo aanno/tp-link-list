@@ -335,6 +335,14 @@ Supply limit	Unlimited
   + https://serokell.io/blog/daml-interview
 * https://www.multichain.com/ - enterprise blockchain, backward compatible with eth
   + https://github.com/MultiChain
+* [icp - Internet Computer Protocol](https://github.com/dfinity/ic) blockchain that runs at web speed and can increase its capacity without bound
+  + https://internetcomputer.org/
+  + https://internetcomputer.org/docs/current/developer-docs/setup/cycles/cycles-wallet
+  + https://github.com/dfinity/cycles-wallet
+
+### Client Projects
+
+* [quill](https://github.com/dfinity/quill) Minimalistic cli ledger and governance toolkit for cold wallets
 
 ## Deep-dives
 
