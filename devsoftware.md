@@ -9,6 +9,10 @@
 * https://www.capitalone.com/tech/software-engineering/
 * https://www.infoq.com/
 
+## Papers
+
+* [the journal of open source software](https://joss.theoj.org/)
+
 ## OS
 
 * https://github.com/f9micro/f9-kernel (MCU, kernel for ARM M4) 

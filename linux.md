@@ -83,6 +83,11 @@
   + https://github.com/sh-dv/hat.sh
 * [file lock pea](https://eck.cologne/peafactory/en/html/file_pea.html)
 
+## FUSE-like for windows
+
+* [winfsp](https://github.com/winfsp/winfsp)
+  + https://winfsp.dev/doc/Known-File-Systems/
+
 ### Memory management
 
 #### KSM (Kernel Samepage Merging)
@@ -184,8 +189,12 @@
 
 ##### Duplicity
 
-* http://duplicity.nongnu.org/
+* https://duplicity.gitlab.io/
+  + https://github.com/librsync/librsync
 * https://github.com/zertrin/duplicity-backup.sh
+* https://github.com/rhasselbaum/duplicity-unattended S3 backup with duplicity
+* https://rdiff-backup.net/
+  + https://github.com/rdiff-backup/rdiff-backup/
 
 ##### Timeshift and the like
 
@@ -206,13 +215,18 @@
 * https://bup.github.io/ git-like
   + https://github.com/bup/bup
 * https://borgbackup.readthedocs.io/en/stable/
+  + https://www.borgbackup.org/
   + https://github.com/borgbackup/borg
   + https://github.com/borgbackup/community
 * https://github.com/NaPs/Marty
+* [kopia](https://kopia.io/)
+  + https://github.com/kopia/kopia
 * [duplicati](https://duplicati.readthedocs.io/en/latest/) cloud-enabled, slow dev since 2021
   + https://www.duplicati.com/
   + https://github.com/duplicati/duplicati
-* https://github.com/gilbertchen/duplicacy cloud-enabled, comparasion with other backups, slow dev since 2021
+* https://github.com/gilbertchen/duplicacy cloud-enabled, comparasion with other backups, slow dev since 2021, semi-commercial
+  + https://duplicacy.com/
+  + https://duplicacy.com/buy.html
 * [ogive](https://github.com/mgren/ogive) glacier backup
 * https://rclone.org/ (more a sync tool but cloud-enabled)
 * [cloud db backup](https://github.com/backup-manager/backup-manager)
@@ -304,6 +318,8 @@
   + https://github.com/rclone/rclone-webui-react/tree/master
   + https://rclone.github.io/rclone-webui-react/#/login
 * https://doublecommander.com/ really?
+* https://cyberduck.io
+* https://mountainduck.io/
 
 ###### File system access to S3
 

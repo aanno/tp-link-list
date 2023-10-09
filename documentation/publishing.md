@@ -1,6 +1,16 @@
 # Publishing
 
 * https://www.indoition.com/xml-dita-tools-technical-documentation.htm
+* https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages
+
+## Types and typesetting
+
+* https://www.typewolf.com/
+
+## Web Services
+
+* [zotero](https://www.zotero.org/) collect, organize, annotate, cite, and share research
+  + [zoterobib](https://zbib.org/) bibliography tool for zotero
 
 ## Presentations
 
@@ -19,18 +29,27 @@
 * [spectacle - react based presentation slides](https://formidable.com/open-source/spectacle/)
 * [mdx deck - react based](https://github.com/jxnblk/mdx-deck)
 * https://reactjsexample.com/slideshow-framework-built-w-react-router-4/
+
 ## XML
 
 * [xom](https://github.com/elharo/xom/) alternative to DOM
 * https://www.saxonica.com/download/java.xml
 
+* https://www.xml-director.info/ enterprise XML content manager (plone based)
+* https://www.speedata.de professional XML to PDF tool
+  + https://doc.speedata.de
+  + https://github.com/speedata/publisher
+
 ### Editors
 
 * https://www.oxygenxml.com/doc/versions/20.0/ug-editor/topics/author-dita-doc-type.html
+* https://leanpub.com/markua/read
 * http://www.codex.ca/
 * http://www.eclipse.org/vex/
 * https://www.fiduswriter.org/
 * https://writefreely.org/
+* https://panwriter.com/try/
+  + https://github.com/mb21/panwriter
 
 ### Dita
 
@@ -44,6 +63,13 @@
 
 * https://www.dita-ot.org/
 
+## Open access
+
+* https://coko.foundation/products.html
+* https://ketida.community/ single source book production
+  + https://waxjs.net/features/
+  + https://prosemirror.net/
+* https://kotahi.community/features/ scholarly publishing platform
 
 ## Markup
 
@@ -132,7 +158,12 @@
   + [asciidoctor mathematical](https://docs.asciidoctor.org/asciidoctor/latest/stem/mathematical/) 
     all backend, renders math to images
   + [mathjax3 for asciidoctor](https://github.com/tani/asciidoctor-mathjax3)
+  + [math-api](https://github.com/chialab/math-api) Rest Server for mathjax rendering
+  + [mml2tex](https://github.com/transpect/mml2tex) XProc/XSLT-library to convert MathML to LaTeX
+  + http://asciimath.org/
+  + https://katex.org/
 * [asciidoctor-html5s](https://github.com/jirutka/asciidoctor-html5s)
+* https://www.data2type.de/xml-xslt-xslfo/docbook/block-elemente/gleichungen/einfache-formeln-mit-mathphras/ docbook minimal math support
   
 ## Diagramms
 
@@ -201,10 +232,47 @@ Also see `documenting-it.md`
   + https://ftp.tu-chemnitz.de/pub/tex/macros/latex/contrib/l3experimental/xgalley.pdf
   + https://de.m.wikipedia.org/wiki/Lout
   + https://github.com/william8000/lout
+  + https://github.com/smartmic/addfonts
+  + https://github.com/smartmic/letter-template-lout
 
 * https://texfaq.org/FAQ-alternatives
+  + https://tex.stackexchange.com/questions/120271/alternatives-to-latex
+* https://tectonic-typesetting.github.io/en-US/ rust-based reimplementation of xetex and texlive
+  + https://github.com/tectonic-typesetting/tectonic
+  + https://tectonic-typesetting.github.io/book/latest/installation/
 * https://sile-typesetter.org/ lua harfbuzz
+  + https://github.com/sile-typesetter/sile
+* https://docs.racket-lang.org/pollen/index.html racket-based, for html
+  + https://typographyforlawyers.com/
+  + https://beautifulracket.com/
+  + https://practicaltypography.com/
 * https://patoline.github.io/ ocaml old
+
+* [xatapult](https://github.com/xatapult/xtpxlib-xdoc) xdoc is an extension to docbook, will be converted to docbook, xslt/xproc approach
+  + https://xdoc.xtpxlib.org/
+  + https://xdoc.xtpxlib.org/1_Description.html
+* [opentorah gradle plugin for docbook](https://github.com/opentorah/opentorah/tree/master/docbook) includes math support but is no longer in active development
+* https://quarto.org/ pandoc-based scientific and technical publishing system (successor of R Markdown)
+  + https://quarto.org/docs/visual-editor/technical.html
+  + https://blog.ouseful.info/2021/09/07/a-quick-look-at-the-quarto-pandoc-publishing-system-and-visual-markdown-editor/
+  + https://statistik-dresden.de/archives/17921 
+  + https://github.com/quarto-dev/quarto-cli
+* https://pandoc.org
+  + https://pandoc.org/MANUAL.html#option--pdf-engine
+  + https://jdhao.github.io/2019/05/30/markdown2pdf_pandoc/ md to pdf with pandoc
+  + https://waylonwalker.com/convert-markdown-pdf-linux/
+  + https://stackoverflow.com/questions/44177555/how-to-convert-html-to-pdf-using-pandoc
+* Obskure
+  + https://opensource.com/article/18/3/scientific-publishing-software
+  + https://elifesciences.org/inside-elife/33e4127f/elife-introduces-libero-a-new-open-source-tool-for-publishing
+  + https://github.com/stencila/stencila collaboration?, wiki?
+    - https://help.stenci.la/guides/sources/elife/
+  + https://web.hypothes.is/ commercial, free-for-private-use
+* [sciflow](https://www.sciflow.net/en/) commercial, free-for-private-use
+* [typst](https://typst.app/) latex successor
+  + https://typst.app/docs/
+  + https://github.com/typst/hayagriva bibliography management
+  + https://typst.app/docs/packages/
 
 ## Formats
 
@@ -223,17 +291,25 @@ Also see `documenting-it.md`
 
 #### Epub reader
 
+* https://github.com/sevinalucia/epub-reader js and browser extension
+* https://github.com/e-alfred/epubreader php
+
 * https://github.com/futurepress/epub.js/ epub in browser
+* https://github.com/MrMYHuang/cbetar2 epub.js based, chineese!
 * https://github.com/janeczku/calibre-web epub books in browser
 * https://github.com/troyeguo/koodo-reader browser epub reader
 * https://github.com/Janglee123/eplee browser reader
 
 * https://github.com/johnfactotum/foliate desktop epub reader
+* https://github.com/mignaway/EpubReader ElectronJS based desktop
 
+* https://github.com/lrusso/TinyEPUBReader android
 * https://www.edrlab.org/readium-lcp/ android platform - used in _many_ reader products
   + https://github.com/readium/mobile
   + https://github.com/readium/kotlin-toolkit
 * https://github.com/FolioReader/FolioReader-Android old
+
+* https://github.com/vers-one/EpubReader library for .net
 
 
 #### Html to Epub
@@ -312,6 +388,9 @@ Also see `documenting-it.md`
 * https://www.madoko.net/
   + http://madoko.org/reference.html
 * https://hedgedoc.org/ collaborative real-time editor
+* https://manubot.org/
+  + https://manubot.org/catalog/
+  + https://github.com/manubot
 
 ## Markdown to Book
 
@@ -340,6 +419,18 @@ Also see `documenting-it.md`
 * https://cssbox.sourceforge.net/pdf2dom/download.php
   + https://github.com/radkovo/Pdf2Dom
 * https://www.mustangproject.org/ zugferd
+* [groff](https://www.gnu.org/software/groff/groff.html) html, pdf, dvi, used by pandoc
+  + https://www.gnu.org/software/groff/groff-and-mom.pdf
+* [mandoc](http://mandoc.bsd.lv/) bsd alternative to groff
+  + https://mandoc.bsd.lv/docbook2mdoc/
+  + [mandoc vs docbook](https://undeadly.org/cgi?action=article&sid=20190419101505)
+
+* https://boxesandglue.dev/ PDF generation lib in go
+* https://github.com/parallax/jsPDF old, js
+* https://github.com/foliojs/pdfkit low level
+  + https://pdfkit.org/
+* https://github.com/bpampuch/pdfmake high level, incomplete
+  + https://pdfmake.github.io/docs/0.3/
 
 ### PDF to Html
 
@@ -373,6 +464,7 @@ Also see `documenting-it.md`
 ### CSS Print, i.e. rendering HTML to PDF
 
 * https://www.print-css.rocks/tools
+  + https://print-css.rocks/ compares many print-css tools
 * https://www.parson-europe.com/en/knowledge-base/html-to-pdf-with-css-paged-media
 * https://publishing-project.rivendellweb.net/revisting-html-to-pdf-conversion-with-css-paged-media/
 
@@ -391,6 +483,11 @@ Also see `documenting-it.md`
 * https://docraptor.com/open-source-html-to-pdf
 * https://typeset.sh/en commercial (but cheap)
 * https://www.pdfreactor.com/ commercial, expensive
+* https://pagedjs.org/documentation/cheatsheet/
+  + https://gitlab.coko.foundation/pagedjs/pagedjs
+  + https://github.com/pagedjs/pagedjs
+* https://www.mediaevent.de/print-preview/
+* https://www.mediaevent.de/pdf-on-the-fly-mit-javascript-erzeugen-jspdf/
 
 #### Remove distractions from Html Pages
 

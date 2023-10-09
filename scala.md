@@ -30,6 +30,7 @@ prinzipiell der klassischen Programmierung überlegen ist.
 ## Extensions
 
 * https://scalameta.org/
+* https://github.com/scala/scala-xml/wiki/XML-Processing
 
 ## Libs
 
@@ -159,6 +160,7 @@ prinzipiell der klassischen Programmierung überlegen ist.
 * [scala 3 reference](https://docs.scala-lang.org/scala3/reference/)
 * [scala 3 book](https://docs.scala-lang.org/scala3/book/fp-functional-error-handling.html)
 
+* [explicit nulls](https://docs.scala-lang.org/scala3/reference/experimental/explicit-nulls.html#)
 * [typeclasses deriving](https://www.47deg.com/blog/scala-3-deriving-typeclasses/)
 * [not in scala 3](https://www.47deg.com/blog/scala-3-dropping-baggage/)
 * [F\[_\]](https://www.47deg.com/blog/what-is-F-with-hole-in-scala/)
@@ -166,6 +168,11 @@ prinzipiell der klassischen Programmierung überlegen ist.
 * [pattern matching](https://docs.scala-lang.org/tour/pattern-matching.html)
 * https://www.baeldung.com/scala/implicitly
 * https://www.baeldung.com/scala/higher-kinded-types
+
+### Not null, non-nullable
+
+* https://stackoverflow.com/questions/1522367/library-support-for-scalas-notnull-trait
+* https://stackoverflow.com/questions/48713965/scala-how-to-determine-if-a-type-is-nullable
 
 ### Learn
 
@@ -193,7 +200,9 @@ prinzipiell der klassischen Programmierung überlegen ist.
   + [scala futures vs kotlin coroutines](https://gist.github.com/alexbezhan/9bb140dc25c06cdfd56bc748c7fa9c19)
     - https://monix.io/ Asynchronous Programming for Scala and Scala.js
   + [zio](https://github.com/zio/zio) multiplatform asynchronous and concurrent programming
+  + [suspendable functions and coroutines](https://contributors.scala-lang.org/t/suspendable-functions-and-coroutines/3772/4)
 * https://typelevel.org/projects/
+* [coroutine - fibers - effects in react](https://www.yld.io/blog/continuations-coroutines-fibers-effects/) off-topic
 
 #### Cats and Cats Effects
 
@@ -207,6 +216,7 @@ prinzipiell der klassischen Programmierung überlegen ist.
   + https://typelevel.org/cats-effect/docs/tutorial
   + [herding cats tutorial](https://eed3si9n.com/herding-cats/sum-function.html)
   + [async/await with `-Xasync`](https://typelevel.org/cats-effect/docs/std/async-await)
+  + [cats effect vs zio](https://softwaremill.com/cats-effect-vs-zio/)
 * [cats-collections](https://github.com/typelevel/cats-collections)
   + https://typelevel.org/cats-collections/
 * [cats-mtl](https://github.com/typelevel/cats-mtl) monad transformer library

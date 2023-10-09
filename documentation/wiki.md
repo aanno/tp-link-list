@@ -20,3 +20,7 @@
   + https://rendering.xwiki.org/xwiki/bin/view/Main/ rendering in xwiki
   + [asciidoctor plugin](https://extensions.xwiki.org/xwiki/bin/view/Extension/AsciiDoc%20Syntax%201.0/)
   + [plantUML macro](https://extensions.xwiki.org/xwiki/bin/view/Extension/PlantUML%20Macro)
+* https://github.com/melmothx/amusewiki
+  + https://amusewiki.org/special/index git based, own markup, epub, pdf support
+  + https://amusewiki.org/library/manual markup
+  + https://amusewiki.org/library/bookbuilder-tutorial build books from wiki

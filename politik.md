@@ -39,6 +39,14 @@
 * https://www.muenchen.de/rathaus/Stadtverwaltung/Referat-fuer-Gesundheit-und-Umwelt/Luft_und_Strahlung/FAQ_Dieselfahrverbot.html
 * https://www.muenchen.de/aktuell/2018-07/masterplan-luftreinhaltung-verabschiedet.html
 
+#### Ozon
+
+* [Übersicht Ozonbelastung](https://www.umweltbundesamt.de/daten/luft/ozon-belastung#herkunft)
+* https://www.br.de/wetter/action/biowetter/ozon.do (Bayern Karte)
+* [Ozon Bericht](https://www.lfu.bayern.de/luft/immissionsmessungen/ozon/bericht/index.htm)
+* [Ozonwerte Johanniskirchen](https://www.wetteronline.de/ozonwerte/muenchen)
+* [Ozonkarte Deutschland](https://www.wetteronline.de/?gid=DL&paraid=O3&pcid=pc_luft_data&pid=p_city_luft&sid=ColorMap)
+
 ## Ökologie
 
 * http://www.sueddeutsche.de/wissen/orang-utans-die-opfer-des-palmoel-booms-1.3950833
@@ -59,6 +67,7 @@
 ## Recht 
 
 * https://www.zeit.de/serie/fischer-im-recht
+* https://www.lto.de/
 
 ## Satire
 
@@ -73,3 +82,18 @@
 * https://www.zdf.de/dokumentation/zdfzeit/zdfzeit-die-wahrheit-uebers-erben-100.html
 * https://www.nzz.ch/finanzen/streit-um-immobilien-erbe-das-sind-die-fuenf-haeufigsten-faelle-ld.1650554
 * https://taz.de/Erben-in-Deutschland/!5810657/
+
+## Magazine
+
+* https://www.blaetter.de/
+* https://www.ad-magazin.de/ Architektur
+* https://www.riffreporter.de/de
+* https://correctiv.org/
+* https://krautreporter.de
+* https://www.theeuropean.de/
+
+### English
+
+* https://www.foreignaffairs.com/
+* https://www.economist.com/
+
