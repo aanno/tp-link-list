@@ -616,6 +616,7 @@
 * https://github.com/orbitalci/orbital
 * https://github.com/concourse/concourse
 * https://www.infrabox.net
+* https://cctray.org/servers/ tray client app for CI/CD (but also a list of CI/CD servers)
 
 ### Web Services (commercial)
 

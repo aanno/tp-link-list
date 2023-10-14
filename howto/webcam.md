@@ -55,7 +55,19 @@ $ v4l2-ctl -d /dev/video2 --list-ctrls
 * https://linuxundich.de/gnu-linux/microsoft-lifecam-cinema-unter-ubuntu/
 * https://wiki.archlinux.org/index.php/webcam_setup
 
-## akvcam kernel module
+## Virtual Camera
+
+Basically, there are 2 kernel modules: akvkam and v4l2loopback. v4l2loopback_dc is an old version of v4l2loopback from/for [droidcam](https://www.dev47apps.com/).
+
+On Windows, there are several options: OBS, [splitcam](https://splitcam.de.softonic.com/), [Intel Arc Driver](https://www.intel.de/content/www/de/de/products/docs/discrete-gpus/arc/software/drivers.html), or [akvirtualcamera](https://github.com/webcamoid/akvirtualcamera)
+
+### v4l2loopback kernel module
+
+#### References v4l2loopback
+
+* https://github.com/umlaeute/v4l2loopback
+
+### akvcam kernel module
 
 ```
 $ sudo insmod /lib/modules/5.11.16-300.fc34.x86_64/extra/akvcam.ko.xz
@@ -90,18 +102,18 @@ Microsoft® LifeCam Studio(TM): (usb-0000:00:14.0-9):
 
 ```
 
-### References akvcam kernel module
+#### References akvcam kernel module
 
 * https://github.com/webcamoid/akvcam
+  + https://github.com/webcamoid/akvcam/wiki/Configure-the-cameras
+  + https://github.com/webcamoid/akvcam/blob/master/share/config_example.ini
 * https://gist.github.com/okapies/550e541535d299717536f103802520a6 (akvcam config)
-
-* https://github.com/umlaeute/v4l2loopback
 
 ## Webcam Parameter
 
 from guvcview
 
-### Microsoft Livecam Studia
+### Microsoft Livecam Studio
 
 ```
 resolution   1920x1080     1280x720     960x544      640x480

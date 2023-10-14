@@ -270,6 +270,42 @@ EDID readings:
 ```
 
 ```bash
+$ cat lg.bin | monitor-parse-edid 
+Name: LG HDR 4K
+EISA ID: GSM7707
+EDID version: 1.4
+EDID extension blocks: 1
+Screen size: 60.0 cm x 34.0 cm (27.15 inches, aspect ratio 16/9 = 1.76)
+Gamma: 2.2
+Digital signal
+Max video bandwidth: 560 MHz
+
+        HorizSync 30-135
+        VertRefresh 56-61
+
+        # Monitor preferred modeline (60.0 Hz vsync, 133.3 kHz hsync, ratio 16/9, 162 dpi)
+        ModeLine "3840x2160" 533.25 3840 3888 3920 4000 2160 2214 2219 2222 -hsync +vsync
+
+        # Monitor supported modeline (30.0 Hz vsync, 66.7 kHz hsync, ratio 16/9, 162 dpi)
+        ModeLine "3840x2160" 266.64 3840 3848 3992 4000 2160 2214 2219 2222 -hsync +vsync
+
+        # Monitor supported CEA modeline (60.0 Hz vsync, 67.5 kHz hsync, ratio 16/9, 81 dpi)
+        ModeLine "1920x1080" 148.5 1920 2008 2052 2200 1080 1084 1089 1125 +hsync +vsync
+
+        # Monitor supported CEA modeline (60.0 Hz vsync, 45.0 kHz hsync, ratio 16/9, 54 dpi)
+        ModeLine "1280x720" 74.25 1280 1390 1430 1650 720 725 730 750 +hsync +vsync
+
+        # Monitor supported CEA modeline (59.9 Hz vsync, 31.5 kHz hsync, ratio 3/2, 30x35 dpi) (bad ratio)
+        ModeLine "720x480" 27 720 736 798 858 480 489 495 525 -hsync -vsync
+
+        # Monitor supported CEA modeline (59.9 Hz vsync, 31.5 kHz hsync, ratio 4/3, 27x35 dpi) (bad ratio)
+        ModeLine "640x480" 25.175 640 656 752 800 480 490 492 525 -hsync -vsync
+
+        # Monitor supported modeline (60.0 Hz vsync, 67.5 kHz hsync, ratio 16/9, 81 dpi)
+        ModeLine "1920x1080" 148.5 1920 2008 2052 2200 1080 1084 1089 1125 +hsync +vsync
+
+        # Monitor supported modeline (60.0 Hz vsync, 88.8 kHz hsync, ratio 16/9, 108 dpi)
+        ModeLine "2560x1440" 241.5 2560 2608 2640 2720 1440 1443 1448 1481 -hsync +vsync
 ```
 
 ### Non-working solutions from internet

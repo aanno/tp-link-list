@@ -306,6 +306,7 @@
 * [aws cli](https://wasabi-support.zendesk.com/hc/en-us/articles/115001910791-How-do-I-use-AWS-CLI-with-Wasabi-)
 * [s3sync](https://github.com/larrabee/s3sync)
 * [s5cmd](https://github.com/peak/s5cmd) extremly fast, go-lang
+  + https://knowledgebase.wasabi.com/hc/en-us/articles/360044600552-How-do-I-use-s5cmd-with-Wasabi-
 * [aws cli](https://wasabi-support.zendesk.com/hc/en-us/articles/115001910791-How-do-I-use-AWS-CLI-with-Wasabi-)
 
 ##### S3 UI Clients (mostly capable to see other cloud storage)
