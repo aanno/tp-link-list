@@ -53,7 +53,7 @@
   + https://docs.harvesterhci.io/v1.1
 * https://www.nomadproject.io/api-docs
   + https://www.heise.de/select/ix/2017/7/1499098548285194
-* https://www.pulumi.com/
+* https://www.pulumi.com/ (now commercial)
   + https://www.pulumi.com/docs/intro/languages/
   + https://www.pulumi.com/docs/intro/concepts/
   + https://www.pulumi.com/docs/intro/concepts/state/
@@ -83,6 +83,9 @@
   + https://discuss.hashicorp.com/t/is-terraform-really-cloud-agnostic/5980/2
 * Terraform state is version dependant - so what to do?
   + https://londonappdeveloper.com/how-to-use-terraform-via-docker-compose-for-professional-developers/#top
+* [opentofu](https://opentofu.org/) terraform open source fork
+  + https://github.com/opentofu/opentofu
+  + https://github.com/opentofu/manifesto
 
 #### Terraform primer
 

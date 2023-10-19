@@ -336,3 +336,26 @@
 
 * https://cdk8s.io/
   + https://github.com/cdk8s-team/cdk8s
+
+## kubernetes and openshift provisioning
+
+* https://www.harness.io/blog/helm-vs-kustomize featured!
+* https://phoenixnap.com/blog/helm-vs-terraform
+* https://spacelift.io/blog/kustomize-vs-helm
+
+* [terraform with helm](https://registry.terraform.io/providers/llomgui/openshift/latest/docs/guides/getting-started)
+
+### kubernetes and openshift package managers and configuration management
+
+* https://helm.sh/ (standard for openshift)
+* https://kustomize.io/ (standard for kubernetes)
+
+## kubernetes and openshift CI/CD
+
+* https://tekton.dev/docs/ (standard for openshift)
+
+## kubernetes and openshift deployment
+
+* https://skaffold.dev/ (pluggable into helm and kustomize)
+  + https://skaffold.dev/docs/pipeline-stages/deployers/helm/
+  + https://skaffold.dev/docs/pipeline-stages/deployers/kustomize/
