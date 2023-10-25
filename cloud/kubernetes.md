@@ -223,6 +223,11 @@
 * https://knative.dev/
   + https://www.redhat.com/de/topics/microservices/what-is-knative
 
+#### Other kubernetes/openshift projects, add-ons, extensions
+
+* [Gateway policies for kubernetes](https://kuadrant.io/) modern api management
+  + https://github.com/Kuadrant/kuadrant-operator
+
 ## OpenShift family
 
 * https://cloud.redhat.com/blog/openshift-4-a-noops-platform
@@ -332,23 +337,33 @@
 *  nginx-autoletsencrypt: https://github.com/profihost/podman-container-configs/
 *  jitsi-meet: https://wissen.profihost.com/wissen/artikel/installation-von-jitsi-meet/
 
-### programming and development on kubernetes
+### programming and development on openshift/kubernetes
 
 * https://cdk8s.io/
   + https://github.com/cdk8s-team/cdk8s
+* [pods vs deployments](https://stackoverflow.com/questions/41325087/what-is-the-difference-between-a-pod-and-a-deployment) featured!
 
 ## kubernetes and openshift provisioning
 
+* [Helm vs. oc Templates vs. Kustomize vs. Operators](https://learn.redhat.com/t5/Containers-DevOps-OpenShift/Helm-chart-Templates-or-Kustomization-file/td-p/22285) featured!
 * https://www.harness.io/blog/helm-vs-kustomize featured!
 * https://phoenixnap.com/blog/helm-vs-terraform
 * https://spacelift.io/blog/kustomize-vs-helm
 
 * [terraform with helm](https://registry.terraform.io/providers/llomgui/openshift/latest/docs/guides/getting-started)
+* [parameters with openshift deployment](https://move2kube.konveyor.io/tutorials/customizing-the-output/custom-parameterization-of-helm-charts-kustomize-octemplates)
+* [using oc templates](https://docs.openshift.com/container-platform/4.13/openshift_images/using-templates.html)
 
 ### kubernetes and openshift package managers and configuration management
 
 * https://helm.sh/ (standard for openshift)
 * https://kustomize.io/ (standard for kubernetes)
+
+#### kustomize
+
+* https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/
+* https://github.com/kubernetes-sigs/kustomize
+* https://kubectl.docs.kubernetes.io/references/kustomize/glossary/#kustomization
 
 ## kubernetes and openshift CI/CD
 
@@ -359,3 +374,11 @@
 * https://skaffold.dev/ (pluggable into helm and kustomize)
   + https://skaffold.dev/docs/pipeline-stages/deployers/helm/
   + https://skaffold.dev/docs/pipeline-stages/deployers/kustomize/
+
+## migration to openshift/kubernetes.md
+
+* https://github.com/konveyor/move2kube/ featured!
+  + https://www.konveyor.io/
+  + https://www.konveyor.io/ecosystem/
+  + https://github.com/konveyor/operator
+  + https://github.com/konveyor/move2kube-demos
