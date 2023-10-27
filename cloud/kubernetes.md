@@ -342,8 +342,87 @@
 * https://cdk8s.io/
   + https://github.com/cdk8s-team/cdk8s
 * [pods vs deployments](https://stackoverflow.com/questions/41325087/what-is-the-difference-between-a-pod-and-a-deployment) featured!
+  + https://docs.openshift.com/container-platform/4.13/applications/deployments/what-deployments-are.html
+* [projects vs namespaces](https://serverfault.com/questions/1025637/what-is-the-difference-between-objects-project-and-namespace-in-openshift-4-x) featured!
+  + https://docs.openshift.com/container-platform/4.13/applications/projects/working-with-projects.html
+  + https://docs.openshift.com/online/pro/architecture/core_concepts/projects_and_users.html
+* [access API from containers](https://docs.openshift.com/container-platform/4.13/nodes/containers/nodes-containers-downward-api.html)
+* [source-to-image (s2i)](https://github.com/openshift/source-to-image)
+
+#### debug on openshift/kubernetes
+
+* [debug java](https://www.redhat.com/en/blog/remote-debugging-java-applications-openshift)
+* [debug java with cdk](https://developers.redhat.com/blog/2016/07/21/debugging-java-applications-using-the-red-hat-container-development-kit)
+* [use odo (debug)](https://www.opensourcerers.org/2021/03/08/cloud-native-appdev-without-tears-using-odo-to-boost-your-workflow/)
+  + https://developers.redhat.com/products/odo/overview
+* [debug with vscode](https://developers.redhat.com/blog/2020/02/28/debugging-components-in-openshift-using-vs-code#)
+
+#### programming
+
+##### serverless
+
+* https://www.baeldung.com/ops/knative-serverless
+  + https://knative.dev/docs/
+  + https://docs.openshift.com/container-platform/4.13/cli_reference/kn-cli-tools.html
+* https://www.baeldung.com/spring-cloud-function
+  + https://spring.io/serverless
+* https://piotrminkowski.com/2021/03/01/spring-boot-on-knative/
+
+#### special apps on openshift
+
+* [flink operator](https://cloud.redhat.com/blog/a-quick-guide-to-automated-data-streaming-with-the-flink-operator-on-openshift)
+  + https://github.com/vemonet/flink-on-openshift
+* [spark helm](https://github.com/CSCfi/spark-openshift)
+  + https://cloud.redhat.com/blog/getting-started-running-spark-workloads-on-openshift
+* [tekton](https://tekton.dev/docs/concepts/overview/)
+  + https://access.redhat.com/documentation/de-de/openshift_container_platform/4.10/html/cli_tools/pipelines-cli-tkn
+  + https://docs.openshift.com/pipelines/1.12/tkn_cli/installing-tkn.html
+* [camel K](https://camel.apache.org/camel-k/2.0.x/installation/platform/openshift.html)
+  + https://access.redhat.com/documentation/de-de/red_hat_integration/2021.q1/html-single/deploying_camel_k_integrations_on_openshift/index
+
+##### Nginx on openshift
+
+* https://stackoverflow.com/questions/54360223/openshift-nginx-permission-problem-nginx-emerg-mkdir-var-cache-nginx-cli
+* [nginx openshift template](https://gist.github.com/exaV/978c4d9ac66b2940da141340f08bb82a)
+* [nginx configuration through configmap](https://gist.github.com/petitviolet/d36f33d145d0bbf4b54eb187b79d0244)
+
+### Redhat openshift developer sandbox
+
+* https://developers.redhat.com/developer-sandbox
+* https://developers.redhat.com/blog/2021/04/21/access-your-developer-sandbox-for-red-hat-openshift-from-the-command-line
+
+#### Tooling
+
+* [virtctl - kubevirt](https://kubevirt.io/labs/kubernetes/lab1.html) use VM on openshift/kubernetes
+* [oc](https://docs.openshift.com/container-platform/4.13/cli_reference/openshift_cli/getting-started-cli.html)
+* [opc](https://pkg.go.dev/github.com/openshift-pipelines/opc)
+
+#### openshift/kubernetes multi-cluster
+
+* [OCM](https://open-cluster-management.io/)
+* [subctl - submariner](https://submariner.io/getting-started/)
+
+#### Alternatives to Redhat openshift developer sandbox
+
+* https://killercoda.com/
+* https://minikube.sigs.k8s.io/docs/start/
+* https://kind.sigs.k8s.io/
+* https://kubernetes.io/docs/setup/production-environment/turnkey-solutions/
 
 ## kubernetes and openshift provisioning
+
+* https://cloudogu.com/en/blog/gitops-tools#operators-in-comparison-argocd-vs-flux-v2 featured!
+  + https://github.com/weaveworks/awesome-gitops
+  + [gitops tech book](https://www.gitops.tech/) Cloud-native Continuous Deployment
+    - https://leanpub.com/gitops
+  + [werf](https://github.com/werf/werf) CI/CD based on Dockerfiles and helm
+  + [pipecd](https://github.com/pipe-cd/pipecd) CI/CD deploy anywhere
+  + [fleet](https://github.com/rancher/fleet) CI/CD deploy anywhere from git
+  + [argo CD](https://github.com/argoproj/argo-cd) Declarative Continuous Delivery for Kubernetes
+  + [argo rollouts](https://github.com/argoproj/argo-rollouts/) CRD alternative to RollingUpdate (works with supported API gateways)
+  + [flux2](https://github.com/fluxcd/flux2)
+  + [flagger](https://github.com/fluxcd/flagger)
+  + [atlantis](https://github.com/runatlantis/atlantis) Runs terraform plan, import, apply remotely and comments back on the pull request with the output
 
 * [Helm vs. oc Templates vs. Kustomize vs. Operators](https://learn.redhat.com/t5/Containers-DevOps-OpenShift/Helm-chart-Templates-or-Kustomization-file/td-p/22285) featured!
 * https://www.harness.io/blog/helm-vs-kustomize featured!
@@ -351,8 +430,11 @@
 * https://spacelift.io/blog/kustomize-vs-helm
 
 * [terraform with helm](https://registry.terraform.io/providers/llomgui/openshift/latest/docs/guides/getting-started)
+  + https://developer.hashicorp.com/terraform/tutorials/kubernetes/helm-provider
 * [parameters with openshift deployment](https://move2kube.konveyor.io/tutorials/customizing-the-output/custom-parameterization-of-helm-charts-kustomize-octemplates)
 * [using oc templates](https://docs.openshift.com/container-platform/4.13/openshift_images/using-templates.html)
+* pulumi
+  + https://github.com/pulumi/pulumi
 
 ### kubernetes and openshift package managers and configuration management
 
@@ -361,7 +443,7 @@
 
 #### kustomize
 
-* https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/
+* https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/ featured!
 * https://github.com/kubernetes-sigs/kustomize
 * https://kubectl.docs.kubernetes.io/references/kustomize/glossary/#kustomization
 
@@ -374,6 +456,7 @@
 * https://skaffold.dev/ (pluggable into helm and kustomize)
   + https://skaffold.dev/docs/pipeline-stages/deployers/helm/
   + https://skaffold.dev/docs/pipeline-stages/deployers/kustomize/
+* https://docs.openshift.com/container-platform/4.13/security/container_security/security-deploy.html
 
 ## migration to openshift/kubernetes.md
 
