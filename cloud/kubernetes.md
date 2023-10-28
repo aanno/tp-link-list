@@ -401,6 +401,8 @@
 
 * [OCM](https://open-cluster-management.io/)
 * [subctl - submariner](https://submariner.io/getting-started/)
+* [karmada](https://github.com/karmada-io/karmada)
+* [kubernetes cluster API](https://cluster-api.sigs.k8s.io/introduction)
 
 #### Alternatives to Redhat openshift developer sandbox
 
@@ -409,7 +411,7 @@
 * https://kind.sigs.k8s.io/
 * https://kubernetes.io/docs/setup/production-environment/turnkey-solutions/
 
-## kubernetes and openshift provisioning
+## kubernetes and openshift gitops
 
 * https://cloudogu.com/en/blog/gitops-tools#operators-in-comparison-argocd-vs-flux-v2 featured!
   + https://github.com/weaveworks/awesome-gitops
@@ -421,8 +423,18 @@
   + [argo CD](https://github.com/argoproj/argo-cd) Declarative Continuous Delivery for Kubernetes
   + [argo rollouts](https://github.com/argoproj/argo-rollouts/) CRD alternative to RollingUpdate (works with supported API gateways)
   + [flux2](https://github.com/fluxcd/flux2)
+    - https://fluxcd.io/flux/get-started/
+    - https://fluxcd.io/flux/concepts/
+    - https://fluxcd.io/flux/
   + [flagger](https://github.com/fluxcd/flagger)
   + [atlantis](https://github.com/runatlantis/atlantis) Runs terraform plan, import, apply remotely and comments back on the pull request with the output
+* https://www.redhat.com/de/technologies/cloud-computing/openshift/gitops
+  + https://cloud.redhat.com/blog/introduction-to-gitops-with-openshift
+* https://devopsdozen.com/tools-and-services-categories/
+* https://cluster-api.sigs.k8s.io/developer/providers/implementers-guide/controllers_and_reconciliation.html concepts shared between cluster API and gitops
+  + https://www.youtube.com/watch?v=8JYn0PIHQEY
+
+## kubernetes and openshift provisioning
 
 * [Helm vs. oc Templates vs. Kustomize vs. Operators](https://learn.redhat.com/t5/Containers-DevOps-OpenShift/Helm-chart-Templates-or-Kustomization-file/td-p/22285) featured!
 * https://www.harness.io/blog/helm-vs-kustomize featured!
@@ -458,10 +470,24 @@
   + https://skaffold.dev/docs/pipeline-stages/deployers/kustomize/
 * https://docs.openshift.com/container-platform/4.13/security/container_security/security-deploy.html
 
-## migration to openshift/kubernetes.md
+## custom resource definitions (CRDs) and extending kubernetes
+
+* https://kubebuilder.io/introduction
+  + https://github.com/kubernetes-sigs/kubebuilder
+  + https://kubebuilder.io/reference/watching-resources/externally-managed connection to gitops
+* [crossplane](https://github.com/crossplane/crossplane) native access to public cloud from private kubernetes
+  + https://docs.crossplane.io/latest/getting-started/introduction/
+  + https://docs.crossplane.io/latest/getting-started/provider-aws/
+
+## migration to openshift/kubernetes
 
 * https://github.com/konveyor/move2kube/ featured!
   + https://www.konveyor.io/
   + https://www.konveyor.io/ecosystem/
   + https://github.com/konveyor/operator
   + https://github.com/konveyor/move2kube-demos
+
+## openshift/kubernetes secrets management
+
+* https://github.com/getsops/sops
+* https://kyverno.io/ policy engine designed for Kubernetes (not needed for openshift)

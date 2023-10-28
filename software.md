@@ -407,6 +407,7 @@
 
 * https://medevel.com/dms-cloud-file-sharing-opensource/
 * https://medium.com/@MarktrHimanshu/top-10-free-and-open-source-document-management-system-ddd4265adf5e
+* https://medevel.com/15-dms/
 
 * http://www.cinnamon-cms.com/ (Dita)
   + https://github.com/dewarim/cinnamon
