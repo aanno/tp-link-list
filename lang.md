@@ -70,9 +70,19 @@
 
 ### Haskell Web
 
+* https://www.slant.co/topics/727/~best-haskell-web-frameworks-for-building-restful-web-services
+
 * https://github.com/dmjio/miso
 * https://github.com/ghcjs/ghcjs
 * https://levelup.gitconnected.com/from-go-to-haskell-svelte-1ad5ff4a0520
+* https://www.yesodweb.com/
+* https://www.servant.dev/
+* https://hasura.io/
+  + https://hasura.io/products/instant-api rest and graphql
+* https://morpheusgraphql.com/
+
+
+* https://dev.to/fabianveal/building-a-rest-api-with-haskell-2d54
 
 ## Ocaml
 
@@ -123,9 +133,15 @@
 * https://github.com/ocaml-multicore
 * https://github.com/ocaml-multicore/domainslib
 
-#### Ocaml5 effects
+* https://github.com/ocaml-community/awesome-ocaml
+* https://aantron.github.io/dream/ ocaml web framework
+
+#### Ocaml5 effects and parallelism
 
 * https://kcsrk.info/webman/manual/effects.html
+* https://ocamlverse.net/content/parallelism.html
+  + https://github.com/ocsigen/lwt
+* https://github.com/ocaml-multicore/ocaml5-tutorial
 
 ### Go lang
 

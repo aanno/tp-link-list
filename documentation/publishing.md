@@ -2,6 +2,7 @@
 
 * https://www.indoition.com/xml-dita-tools-technical-documentation.htm
 * https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages
+* https://www.dewanahmed.com/markdown-asciidoc-restructuredtext/ featured!
 
 ## Types and typesetting
 
@@ -190,7 +191,6 @@
 * [antora](https://gitlab.com/antora) html5 site generation for technical documentation
   + https://gitlab.com/antora/antora
   + https://docs.antora.org/antora/2.3/whats-new/
-* [mdx](https://mdxjs.com/) asciidoc with jsx (react)
 * [asciidoctor in vue.js](https://www.ahus1.de/post/asciidoc-content-spa)
 * https://www.ahus1.de/post/asciidoc-content-spa vue, nuxt
 
@@ -326,6 +326,7 @@ Also see `documenting-it.md`
 * https://www.bookstackapp.com/
 * https://www.gatsbyjs.org/ (React based)
   + https://www.heise.de/developer/meldung/JavaScript-Statische-Websites-mit-React-und-Gatsby-entwickeln-3766769.html
+  + https://github.com/hasura/gatsby-gitbook-starter
 
 ## Dynamic Generators
 
@@ -391,6 +392,8 @@ Also see `documenting-it.md`
 * https://manubot.org/
   + https://manubot.org/catalog/
   + https://github.com/manubot
+* [mdx](https://mdxjs.com/) markdown with jsx (react)
+* [markdoc - alternative to mdx](https://markdoc.dev/docs/faq)
 
 ## Markdown to Book
 

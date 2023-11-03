@@ -218,11 +218,6 @@
 * https://longhorn.io/
   + https://www.heise.de/tests/Kubernetes-Speicher-einfach-verwalten-mit-Longhorn-6177422.html
 
-#### Serverless
-
-* https://knative.dev/
-  + https://www.redhat.com/de/topics/microservices/what-is-knative
-
 #### Other kubernetes/openshift projects, add-ons, extensions
 
 * [Gateway policies for kubernetes](https://kuadrant.io/) modern api management
@@ -264,11 +259,16 @@
 
 #### OKD SNO setup (single node install)
 
-* https://www.okd.io/guides/upi-sno/?h=sno
+* https://www.okd.io/guides/upi-sno/
+  + https://upstreamwithoutapaddle.com/
+  + https://upstreamwithoutapaddle.com/home-lab/lab-intro/
+  + https://github.com/cgruver/kamarotos
 * https://upstreamwithoutapaddle.com/blog%20post/2023/03/06/Back-To-Where-It-All-Started.html
 * https://www.okd.io/guides/virt-baremetal-upi/
 * https://developers.redhat.com/blog/2023/02/08/sno-spot# sno on AWS
   + https://developers.redhat.com/products/red-hat-openshift-service-on-aws/overview
+* https://techbloc.net/archives/5074
+* https://medium.com/swlh/guide-okd-4-5-single-node-cluster-832693cb752b
 
 #### Related projects
 
@@ -367,6 +367,11 @@
 * https://www.baeldung.com/spring-cloud-function
   + https://spring.io/serverless
 * https://piotrminkowski.com/2021/03/01/spring-boot-on-knative/
+* https://knative.dev/
+  + https://www.redhat.com/de/topics/microservices/what-is-knative
+* https://openwhisk.apache.org/
+  + https://github.com/apache/openwhisk
+
 
 #### special apps on openshift
 
@@ -403,6 +408,8 @@
 * [subctl - submariner](https://submariner.io/getting-started/)
 * [karmada](https://github.com/karmada-io/karmada)
 * [kubernetes cluster API](https://cluster-api.sigs.k8s.io/introduction)
+* https://spinnaker.io/
+  + https://github.com/spinnaker/halyard
 
 #### Alternatives to Redhat openshift developer sandbox
 
@@ -410,6 +417,7 @@
 * https://minikube.sigs.k8s.io/docs/start/
 * https://kind.sigs.k8s.io/
 * https://kubernetes.io/docs/setup/production-environment/turnkey-solutions/
+* [loom](https://github.com/datawire/loom) enables operations engineers to provide a self-serve Kubernetes provisioning experience for developers
 
 ## kubernetes and openshift gitops
 
@@ -428,6 +436,7 @@
     - https://fluxcd.io/flux/
   + [flagger](https://github.com/fluxcd/flagger)
   + [atlantis](https://github.com/runatlantis/atlantis) Runs terraform plan, import, apply remotely and comments back on the pull request with the output
+* [gitkube](https://github.com/hasura/gitkube)
 * https://www.redhat.com/de/technologies/cloud-computing/openshift/gitops
   + https://cloud.redhat.com/blog/introduction-to-gitops-with-openshift
 * https://devopsdozen.com/tools-and-services-categories/
@@ -451,6 +460,11 @@
 ### kubernetes and openshift package managers and configuration management
 
 * https://helm.sh/ (standard for openshift)
+  + https://www.howtogeek.com/devops/how-to-get-started-writing-helm-charts-for-your-kubernetes-applications/
+  + https://blog.nillsf.com/index.php/2019/11/23/writing-a-helm-v3-chart/
+  + https://helm.sh/de/docs/howto/charts_tips_and_tricks/
+  + https://helm.sh/docs/topics/charts/
+  + https://codefresh.io/blog/using-helm-with-gitops/
 * https://kustomize.io/ (standard for kubernetes)
 
 #### kustomize
@@ -491,3 +505,14 @@
 
 * https://github.com/getsops/sops
 * https://kyverno.io/ policy engine designed for Kubernetes (not needed for openshift)
+
+## kubernetes/openshift and java
+
+* (java client for complete kubernetes/openshift API)[https://github.com/fabric8io/kubernetes-client] also includes interesting projects
+  + https://github.com/bmuschko/gradle-kubernetes-plugin
+  + https://camel.apache.org/camel-k/next/apis/java.html
+* https://fabric8.io/ mostly discontinued, but some projects has survived
+* [java operators](https://developers.redhat.com/articles/2022/02/15/write-kubernetes-java-java-operator-sdk#why_write_operators_in_java_)
+  + https://javaoperatorsdk.io/
+  + https://blog.container-solutions.com/cloud-native-java-infrastructure-automation-with-kubernetes-operators
+  + https://github.com/operator-framework/java-operator-sdk

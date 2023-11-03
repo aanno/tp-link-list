@@ -77,6 +77,8 @@
   + [`rhoas` CLI](https://access.redhat.com/documentation/en-us/red_hat_openshift_streams_for_apache_kafka/1/guide/f520e427-cad2-40ce-823d-96234ccbc047)
 * [Kafka DSL and Joins](https://kafka.apache.org/20/documentation/streams/developer-guide/dsl-api.html)
   + https://supergloo.com/kafka-streams/kafka-streams-joins-examples/
+* https://hevodata.com/learn/kafka-big-data/
+* https://nexocode.com/blog/posts/apache-kafka-architecture-for-big-data-processing/
 
 #### Kafka integrationn with x
 

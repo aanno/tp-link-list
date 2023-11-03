@@ -53,7 +53,14 @@
 * https://julialang.org/
 * https://juliacomputing.com/ commercial
 * https://juliadatascience.io/
+* [genie - web framework](https://learn.genieframework.com/docs/guides/creating-an-api/)
 
+### FP in Julia
+
+* https://github.com/thautwarm/MLStyle.jl
+* https://discourse.julialang.org/t/functional-programming-in-julia/55548
+* https://github.com/ninjaaron/oo-and-polymorphism-in-julia
+* https://marketsplash.com/tutorials/julia/julia-functional-programming/
 ## Libraries
 
 * https://www.juliadiff.org/
