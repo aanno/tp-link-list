@@ -199,10 +199,16 @@
 
 * [helm](https://helm.sh/)
   + [helm hub](https://hub.helm.sh/)
+  + [helm charts from artifacthub](https://artifacthub.io/packages/search?kind=0)
   + https://www.heise.de/developer/meldung/Kubernetes-Paketmanager-Helm-3-verzichtet-auf-Tiller-4586105.html
   + https://github.com/helm/charts
   + https://github.com/gruntwork-io/helmcharts
   + https://github.com/gruntwork-io/helm-kubernetes-services
+* [helm chart overview](https://helm.sh/docs/topics/charts/)
+* [helm chart templates for developers](https://helm.sh/docs/chart_template_guide/)
+  + https://helm.sh/docs/howto/charts_tips_and_tricks/
+  + [go templates](https://pkg.go.dev/text/template)
+  + [sprig templates](https://masterminds.github.io/sprig/)
 * https://operatorhub.io/ Operators for kubernetes
   + https://operatorhub.io/operator/eclipse-che (as example)
   + https://github.com/eclipse/che-operator
@@ -531,8 +537,11 @@
   + https://blog.container-solutions.com/cloud-native-java-infrastructure-automation-with-kubernetes-operators
   + https://github.com/operator-framework/java-operator-sdk
 
-### istio (envoy) and service mesh
+### istio (envoy) and (other) service mesh
 
-* [introduction](https://www.baeldung.com/ops/istio-service-mesh)
+* [istio introduction](https://www.baeldung.com/ops/istio-service-mesh)
+  + [kiali - console for istio](https://kiali.io/) also included in openshift service mesh
 * [openshift service mesh - istio based](https://docs.openshift.com/container-platform/4.14/service_mesh/v2x/servicemesh-release-notes.html)
   + https://cloud.redhat.com/blog/introducing-openshift-service-mesh-2.0
+  + [3scale adapter on service mesh](https://docs.openshift.com/container-platform/4.14/service_mesh/v1x/threescale-adapter.html)
+* [istio and dynatrace](https://www.dynatrace.com/news/blog/automatic-intelligent-observability-into-envoy-proxied-services-of-your-istio-service-mesh/)
