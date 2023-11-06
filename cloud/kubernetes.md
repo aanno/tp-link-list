@@ -399,6 +399,7 @@
 #### Tooling
 
 * [virtctl - kubevirt](https://kubevirt.io/labs/kubernetes/lab1.html) use VM on openshift/kubernetes
+* [sandboxed containers - a more obscure alternative to virtctl](https://github.com/openshift/sandboxed-containers-operator)
 * [oc](https://docs.openshift.com/container-platform/4.13/cli_reference/openshift_cli/getting-started-cli.html)
 * [opc](https://pkg.go.dev/github.com/openshift-pipelines/opc)
 
@@ -506,13 +507,32 @@
 * https://github.com/getsops/sops
 * https://kyverno.io/ policy engine designed for Kubernetes (not needed for openshift)
 
-## kubernetes/openshift and java
+## openshift for developers
 
-* (java client for complete kubernetes/openshift API)[https://github.com/fabric8io/kubernetes-client] also includes interesting projects
+* [openshift resources](https://github.com/mikeroyal/OpenShift-Guide/blob/main/README.md) featured!
+* [oreilly book 2021](https://github.com/openshift-for-developers)
+* [openshift courses for developers](https://medium.com/javarevisited/6-best-openshift-courses-for-beginners-and-experienced-developers-d124edd2baff)
+
+### kubernetes API clients (SDKs)
+
+* [kubernetes client libs](https://kubernetes.io/docs/reference/using-api/client-libraries/)
+
+#### kubernetes/openshift and java
+
+* (java client for complete kubernetes/openshift API) [https://github.com/fabric8io/kubernetes-client] also includes interesting projects
   + https://github.com/bmuschko/gradle-kubernetes-plugin
   + https://camel.apache.org/camel-k/next/apis/java.html
+* (official java client) [introduction to k8s java client](https://www.baeldung.com/kubernetes-java-client)
+  + https://github.com/kubernetes-client/java
 * https://fabric8.io/ mostly discontinued, but some projects has survived
 * [java operators](https://developers.redhat.com/articles/2022/02/15/write-kubernetes-java-java-operator-sdk#why_write_operators_in_java_)
+  + https://developers.redhat.com/articles/2022/03/22/write-kubernetes-java-java-operator-sdk-part-2
   + https://javaoperatorsdk.io/
   + https://blog.container-solutions.com/cloud-native-java-infrastructure-automation-with-kubernetes-operators
   + https://github.com/operator-framework/java-operator-sdk
+
+### istio (envoy) and service mesh
+
+* [introduction](https://www.baeldung.com/ops/istio-service-mesh)
+* [openshift service mesh - istio based](https://docs.openshift.com/container-platform/4.14/service_mesh/v2x/servicemesh-release-notes.html)
+  + https://cloud.redhat.com/blog/introducing-openshift-service-mesh-2.0
