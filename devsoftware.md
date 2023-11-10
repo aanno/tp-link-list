@@ -115,6 +115,10 @@
 
 * https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
 
+#### VS Code Tips
+
+* [dev Container support](https://code.visualstudio.com/docs/devcontainers/create-dev-container) devcontainer.json
+
 #### based on VS Code
 
 * https://github.com/eclipse/lsp4j

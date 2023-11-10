@@ -401,6 +401,7 @@
 
 * https://developers.redhat.com/developer-sandbox
 * https://developers.redhat.com/blog/2021/04/21/access-your-developer-sandbox-for-red-hat-openshift-from-the-command-line
+* [learn openshift in sandbox](https://developers.redhat.com/developer-sandbox/activities)
 
 #### Tooling
 
@@ -449,6 +450,9 @@
 * https://devopsdozen.com/tools-and-services-categories/
 * https://cluster-api.sigs.k8s.io/developer/providers/implementers-guide/controllers_and_reconciliation.html concepts shared between cluster API and gitops
   + https://www.youtube.com/watch?v=8JYn0PIHQEY
+* [harness](https://www.harness.io/products/platform) commercial
+  + https://github.com/harness
+  + https://developer.harness.io/docs/get-started
 
 ## kubernetes and openshift provisioning
 
@@ -500,6 +504,11 @@
   + https://docs.crossplane.io/latest/getting-started/introduction/
   + https://docs.crossplane.io/latest/getting-started/provider-aws/
 
+## differences between openshift and kubernetes
+
+* https://k21academy.com/openshift/openshift-vs-kubernetes/
+* https://www.redhat.com/en/technologies/cloud-computing/openshift/red-hat-openshift-kubernetes
+
 ## migration to openshift/kubernetes
 
 * https://github.com/konveyor/move2kube/ featured!
@@ -518,6 +527,18 @@
 * [openshift resources](https://github.com/mikeroyal/OpenShift-Guide/blob/main/README.md) featured!
 * [oreilly book 2021](https://github.com/openshift-for-developers)
 * [openshift courses for developers](https://medium.com/javarevisited/6-best-openshift-courses-for-beginners-and-experienced-developers-d124edd2baff)
+* [Openshift Guide](https://github.com/mikeroyal/OpenShift-Guide/blob/main/README.md) featured!
+
+* [Openshift Dev Spaces](https://developers.redhat.com/products/openshift-dev-spaces/download) - eclipse che on the cluster
+* [Red Hat Openshift Dev Tools](https://developers.redhat.com/products/openshift/download)
+* [Eclipse JKube](https://projects.eclipse.org/projects/ecd.jkube) cloud-native java apps
+* [devfile](https://devfile.io/)
+  + [spring petclinic](https://github.com/redhat-developer-demos/spring-petclinic/tree/main) openshift devfile example
+
+### openshift/kubernetes developer testing
+
+* [microcks](https://microcks.io/documentation/getting-started/)
+  + https://github.com/microcks/microcks
 
 ### kubernetes API clients (SDKs)
 
