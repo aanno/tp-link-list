@@ -2,6 +2,9 @@
 
 * https://voxeu.org/
 * https://www.rnd.de/
+* https://www.refinery29.com
+* https://krautreporter.de
+* https://www.jetzt.de
 
 ## Sicherheit
 

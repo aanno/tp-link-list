@@ -353,7 +353,6 @@
 * https://vitejs.dev/guide/ (js, vue, react, preact, lit, svelte)
   + vite is rollup compatible: https://vitejs.dev/guide/api-plugin.html#path-normalization
 * https://rollupjs.org/guide/en/
-* https://deno.land/ (whole JS runtime, speaks TS)
 * https://github.com/jaredpalmer/tsdx
 * https://brunch.io/
 * https://packem.github.io/
@@ -363,6 +362,17 @@
 * https://yarnpkg.com/
 
 * https://github.com/vercel/pkg make binaries from node.js project
+
+## Alternatives to node.js
+
+* https://deno.land/ (whole JS runtime, speaks TS)
+  + https://deno.com/
+  + https://b-nova.com/home/content/is-deno-really-that-much-better-faster-and-more-secure-than-node-js/
+* https://bun.sh/ fast JS runtime
+  + https://entwickler.de/javascript/ssr-bun-node-javascript
+  + https://github.com/oven-sh/bun
+    - https://ziglang.org/ bun is written in zig
+    - https://github.com/ziglang/zig
 
 ### Monorep
 

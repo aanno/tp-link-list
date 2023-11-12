@@ -51,7 +51,7 @@
   + https://www.jdieter.net/posts/2020/05/31/multi-region-vpn-aws/
   + https://m.habr.com/en/post/449234/
 * [wireguard and iptables](https://www.cyberciti.biz/faq/how-to-set-up-wireguard-firewall-rules-in-linux/)
-* [mistborn - self hosted anonymiser (including nextcloud)](https://gitlab.com/cyber5k/mistborn) wireguard based anonymiser and platform
+* [mistborn - self-hosted anonymiser (including nextcloud)](https://gitlab.com/cyber5k/mistborn) wireguard based anonymiser and platform
   + https://gitlab.com/cyber5k/mistborn/-/wikis/Mistborn-Network-Security
   + https://cyber5k.com/
   + https://www.mistborn.cloud/impressionen/

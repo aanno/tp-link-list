@@ -120,9 +120,11 @@
   + https://console.redhat.com/openshift/create/local
   + https://developers.redhat.com/developer-sandbox/get-started
   + https://github.com/code-ready/crc
+* [okd installers overview](https://docs.okd.io/latest/installing/index.html)
 * [okd on coreos on digitalocean](https://dustymabe.com/2020/07/28/openshift-okd-on-fedora-coreos-on-digitalocean-part-0-preparation/)
 * [okd4 on coreos on metal (official docs)](https://docs.okd.io/latest/installing/installing_bare_metal/installing-bare-metal.html)
 * [openshift installer](https://github.com/openshift/installer) featured
+  + [openshift assisted installer](https://access.redhat.com/documentation/en-us/assisted_installer_for_openshift_container_platform/2023/html/assisted_installer_for_openshift_container_platform/installing-with-ui)
 
 ### kubernetes commands and features
 
@@ -234,6 +236,9 @@
 * https://cloud.redhat.com/blog/openshift-4-a-noops-platform
   + https://github.com/openshift/machine-config-operator
   + https://github.com/openshift/machine-config-operator/blob/master/docs/UsingLayering.md
+* [openshift documentation](https://docs.openshift.com/)
+  + https://access.redhat.com/documentation/en-us/openshift_container_platform/4.14 - all components
+    - [openshift serverless](https://docs.openshift.com/serverless/1.30/about/about-serverless.html) knative-based
 
 ### OKD
 
@@ -423,9 +428,19 @@
 
 * https://killercoda.com/
 * https://minikube.sigs.k8s.io/docs/start/
-* https://kind.sigs.k8s.io/
 * https://kubernetes.io/docs/setup/production-environment/turnkey-solutions/
 * [loom](https://github.com/datawire/loom) enables operations engineers to provide a self-serve Kubernetes provisioning experience for developers
+
+* [openshift local](https://access.redhat.com/documentation/en-us/red_hat_openshift_local/2.28/html-single/getting_started_guide/index)
+* [minicube](https://minikube.sigs.k8s.io/docs/start/)
+  + https://kubernetes.io/de/docs/tasks/tools/install-minikube/
+* [microk8s](https://microk8s.io/) ubuntu - multipass-vm-based
+  + https://multipass.run/
+* [microshift](https://microshift.io/) iot-faced
+  + https://www.redhat.com/en/topics/edge-computing/microshift
+  + https://github.com/openshift/microshift
+* [k3s](https://k3s.io/) iot-faced
+* [kind](https://kind.sigs.k8s.io/) container-in-container
 
 ## kubernetes and openshift gitops
 
@@ -442,8 +457,11 @@
     - https://fluxcd.io/flux/get-started/
     - https://fluxcd.io/flux/concepts/
     - https://fluxcd.io/flux/
+    - https://medium.com/@aaltundemir/demystifying-gitops-bootstrapping-flux-fbfee94f8188
   + [flagger](https://github.com/fluxcd/flagger)
   + [atlantis](https://github.com/runatlantis/atlantis) Runs terraform plan, import, apply remotely and comments back on the pull request with the output
+* [carvel](https://carvel.dev/)
+  + [carvel as meta chart/operators platform](https://hackmd.io/@carvel/Bkhq99UJ9)
 * [gitkube](https://github.com/hasura/gitkube)
 * https://www.redhat.com/de/technologies/cloud-computing/openshift/gitops
   + https://cloud.redhat.com/blog/introduction-to-gitops-with-openshift
@@ -452,6 +470,8 @@
   + https://www.youtube.com/watch?v=8JYn0PIHQEY
 * [harness](https://www.harness.io/products/platform) commercial
   + https://github.com/harness
+* [kubeapps](https://kubeapps.dev/) UI for kubernetes
+  + https://kubeapps.dev/docs/latest/project/readme/
   + https://developer.harness.io/docs/get-started
 
 ## kubernetes and openshift provisioning

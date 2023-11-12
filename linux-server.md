@@ -61,8 +61,21 @@
   + [comparision to nextcloud, cloudron, ...](https://wikisuite.org/Alternatives) featured!
   + [tiki tracker - low code platform](https://tikitrackers.org/Database-Web-App-Builder)
 * [docker solutions for vServer hosting](https://www.dogado.de/vps)
-* https://www.cloudpanel.io/ cloud self hosting
+* https://www.cloudpanel.io/ cloud self-hosting
 * https://fedoramagazine.org/deploy-your-own-matrix-server-on-fedora-coreos/ matrix on fcos
+* [cloudogu](https://cloudogu.com/en/ecosystem/architecture/) cloud self-hosting - commercial
+  + [smeagol wiki](https://github.com/cloudogu/smeagol)
+  + [standalone smeagol wiki](https://github.com/schnatterer/smeagol-galore)
+  + https://cloudogu.com/de/blog/smeagol-das-open-source-git-wiki
+  + [agosense - project management](https://agosense.com/de/produkte/agosensefidelia) - commercial
+  + [scm-manager](https://scm-manager.org/)
+    - https://github.com/scm-manager/scm-manager
+* https://kinsta.com/ cloud self-hosting
+
+### NAS
+
+* [TrueNAS Scale](https://www.truenas.com/truenas-scale/) linux-based NAS, openzfs, and containers
+  + [TrueCharts](https://truecharts.org/manual/SCALE/guides/scale-intro/) helm charts for TrueNAS Scale
 
 #### Home-page automation (server start page)
 

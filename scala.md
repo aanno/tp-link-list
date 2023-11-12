@@ -27,10 +27,31 @@ prinzipiell der klassischen Programmierung überlegen ist.
 * https://github.com/scala/scala-java8-compat
 * https://blog.takipi.com/compiling-lambda-expressions-scala-vs-java-8/
 
+## Scala Native
+
+* https://scala-native.org/en/stable/
+* https://github.com/tindzk/awesome-scala-native
+* https://scala-native.org/en/stable/lib/javalib.html
+
+## Scala Concurrency
+
+* [fs2](https://fs2.io) - input and output on the JVM, Node.js, and Scala Native
+* [skunk](https://typelevel.org/skunk/) - async postgres on JVM, Node.js, and Native
+* [epollcat](https://github.com/armanbilge/epollcat) cats effects implementation for Native
+
+## Scala Web
+
+* https://www.scala-lang.org/#creating-services
+* [tapir](https://tapir.softwaremill.com/en/latest/#) describe HTTP API endpoints as immutable Scala values
+* [http4s](https://http4s.org) - Http4s provides a standard interface for defining services and clients
+* [snunit](https://github.com/lolgab/snunit) - nginx unit based Native web server
+
 ## Extensions
 
 * https://scalameta.org/
 * https://github.com/scala/scala-xml/wiki/XML-Processing
+* [scalafix](https://scalacenter.github.io/scalafix/) refactoring and linting tool
+* [magnolia](https://github.com/softwaremill/magnolia) automatic type classes for case classes and enum on JVM, Node.js, and Native
 
 ## Libs
 
@@ -181,6 +202,8 @@ prinzipiell der klassischen Programmierung überlegen ist.
 * https://www.scala-exercises.org/ scala, std lib, doobie (jdbc), cats, shapeless, scalacheck, cirle (json), 
   fetch (remote data fetching), monocle (lens monad), FP in scala
   featured!
+* https://docs.scala-lang.org/
+  + [Scala 3 Book](https://docs.scala-lang.org/scala3/book/introduction.html)
 
 
 ### Scala 3 `-Yexplicit-nulls`
@@ -211,6 +234,8 @@ prinzipiell der klassischen Programmierung überlegen ist.
   + https://stackoverflow.com/questions/34407212/scala-and-state-monad
   + https://en.m.wikipedia.org/wiki/Monad_(functional_programming)#Comonads
   + https://www.scalawithcats.com/ book
+  + [Comonad](https://typelevel.org/cats/typeclasses/comonad.html)
+    - https://softwareengineering.stackexchange.com/questions/322431/what-is-a-comonad-and-how-are-they-useful
 * [cats-effect](https://typelevel.org/cats-effect/)
   + https://github.com/typelevel/cats-effect/blob/series/3.x/docs/concepts.md
   + https://typelevel.org/cats-effect/docs/tutorial

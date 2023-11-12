@@ -67,6 +67,7 @@
   + https://hackage.haskell.org/package/lens-tutorial-1.0.4/docs/Control-Lens-Tutorial.html
 * [arrows](https://www.haskell.org/arrows/)
   + https://hackage.haskell.org/package/base-4.17.0.0/docs/Control-Arrow.html
+  + https://en.m.wikibooks.org/wiki/Haskell/Arrow_tutorial
 
 ### Haskell Web
 
@@ -83,6 +84,17 @@
 
 
 * https://dev.to/fabianveal/building-a-rest-api-with-haskell-2d54
+
+### Haskell Concurrency
+
+* https://wiki.haskell.org/Applications_and_libraries/Concurrency_and_parallelism
+  + https://wiki.haskell.org/Parallel
+  + https://wiki.haskell.org/Concurrency
+  + https://en.m.wikibooks.org/wiki/Haskell/Concurrency
+  + https://en.m.wikibooks.org/wiki/Haskell/Continuation_passing_style
+* [parallel](https://hackage.haskell.org/package/parallel-3.2.2.0/docs/Control-Parallel-Strategies.html)
+* [monad-par](https://hackage.haskell.org/package/monad-par)
+* [monad-coroutine](https://hackage.haskell.org/package/monad-coroutine)
 
 ## Ocaml
 
