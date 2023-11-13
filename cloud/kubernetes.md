@@ -555,6 +555,10 @@
 * [devfile](https://devfile.io/)
   + [spring petclinic](https://github.com/redhat-developer-demos/spring-petclinic/tree/main) openshift devfile example
 
+### openshift/kubernetes developers tips
+
+* [switch cluster and project](http://jstakun.blogspot.com/2019/10/switching-context-between-clusters.html)
+
 ### openshift/kubernetes developer testing
 
 * [microcks](https://microcks.io/documentation/getting-started/)
@@ -586,3 +590,36 @@
   + https://cloud.redhat.com/blog/introducing-openshift-service-mesh-2.0
   + [3scale adapter on service mesh](https://docs.openshift.com/container-platform/4.14/service_mesh/v1x/threescale-adapter.html)
 * [istio and dynatrace](https://www.dynatrace.com/news/blog/automatic-intelligent-observability-into-envoy-proxied-services-of-your-istio-service-mesh/)
+
+#### kiali setup (openshift)
+
+1. Deploy the operator
+2. Deploy kiali instance in project/n
+   ```yaml
+   apiVersion: kiali.io/v1alpha1
+    kind: Kiali
+    metadata:
+      name: kiali
+      namespace: aanno-sm
+    spec:
+      auth:
+        strategy: "token"
+      deployment:
+        view_only_mode: false
+      server:
+        web_root: "/kiali"
+   ```
+
+```bash
+# wait for end of deploying instance
+oc get kiali kiali -o json
+
+# also 
+oc describe kiali kiali -n aanno-sm
+```
+
+References:
+* https://kiali.io/docs/installation/quick-start/
+* https://kiali.io/docs/installation/installation-guide/example-install/
+* https://github.com/kiali/kiali
+
