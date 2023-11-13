@@ -125,6 +125,8 @@
 ### Administration
 
 * http://sdkman.io/ (jvm package manager)
+* [neofetch](https://github.com/dylanaraps/neofetch) information about operating system, software and hardware
+  + https://www.cyberciti.biz/howto/neofetch-awesome-system-info-bash-script-for-linux-unix-macos/
 
 ### usb boot sticks (iso)
 
