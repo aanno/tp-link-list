@@ -591,7 +591,7 @@
   + [3scale adapter on service mesh](https://docs.openshift.com/container-platform/4.14/service_mesh/v1x/threescale-adapter.html)
 * [istio and dynatrace](https://www.dynatrace.com/news/blog/automatic-intelligent-observability-into-envoy-proxied-services-of-your-istio-service-mesh/)
 
-#### kiali setup (openshift)
+#### kiali setup (kubernetes)
 
 1. Deploy the operator
 2. Deploy kiali instance in project/n

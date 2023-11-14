@@ -638,6 +638,10 @@
 * https://gruntwork.io/how-it-works/
   + https://gruntwork.io/infrastructure-as-code-library/#open-source
 
+### Site Reliability Engineering (SRE)
+
+* https://sre.google/books/ free books!
+
 ## Ticket systems (like jira)
 
 * https://github.com/znuny/Znuny
