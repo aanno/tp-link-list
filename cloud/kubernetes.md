@@ -554,6 +554,7 @@
 * [Eclipse JKube](https://projects.eclipse.org/projects/ecd.jkube) cloud-native java apps
 * [devfile](https://devfile.io/)
   + [spring petclinic](https://github.com/redhat-developer-demos/spring-petclinic/tree/main) openshift devfile example
+* [JKube](https://eclipse.dev/jkube/) maven and gradle plugin for openshift/kubernetes deployment
 
 ### openshift/kubernetes developers tips
 
