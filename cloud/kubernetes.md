@@ -607,6 +607,8 @@
 * [apache skywalking](https://skywalking.apache.org/) performance monitor tool for distributed systems
 * [spiffe](https://spiffe.io/) provide strongly attested, cryptographic identities to distributed workloads
   + [SPIRE use-cases](https://spiffe.io/docs/latest/spire-about/use-cases/)
+* [cert-manager](https://cert-manager.io/docs/) certificates and certificate issuers as resource types in Kubernetes clusters, and simplifies the process of obtaining, renewing and using those certificates (includes venafi support)
+  + https://istio.io/latest/docs/ops/integrations/certmanager/
 
 #### kiali setup (kubernetes)
 
