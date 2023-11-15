@@ -80,3 +80,7 @@
 * https://github.com/solo-io/unik meta-build for unikernels
 * [eggOS - unikernel for golang](https://github.com/icexin/eggos)
   + https://golangexample.com/a-go-unikernel-running-on-x86-bare-metal/
+
+# Windows - Hyper-V
+
+* [vmplex](https://github.com/0xf005ba11/vmplex-ws) open source ui for hyper-v

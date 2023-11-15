@@ -431,7 +431,7 @@
 * https://kubernetes.io/docs/setup/production-environment/turnkey-solutions/
 * [loom](https://github.com/datawire/loom) enables operations engineers to provide a self-serve Kubernetes provisioning experience for developers
 
-* [openshift local](https://access.redhat.com/documentation/en-us/red_hat_openshift_local/2.28/html-single/getting_started_guide/index)
+* [openshift local](https://access.redhat.com/documentation/en-us/red_hat_openshift_local/2.29/html-single/getting_started_guide/index)
 * [minicube](https://minikube.sigs.k8s.io/docs/start/)
   + https://kubernetes.io/de/docs/tasks/tools/install-minikube/
 * [microk8s](https://microk8s.io/) ubuntu - multipass-vm-based
@@ -444,6 +444,7 @@
 
 ## kubernetes and openshift gitops
 
+* https://loft.sh/blog/gitops-kubernetes-comparing-argo-cd-vs-jenkins-x-vs-flux-vs-spinnaker/
 * https://cloudogu.com/en/blog/gitops-tools#operators-in-comparison-argocd-vs-flux-v2 featured!
   + https://github.com/weaveworks/awesome-gitops
   + [gitops tech book](https://www.gitops.tech/) Cloud-native Continuous Deployment
@@ -463,8 +464,11 @@
 * [carvel](https://carvel.dev/)
   + [carvel as meta chart/operators platform](https://hackmd.io/@carvel/Bkhq99UJ9)
 * [gitkube](https://github.com/hasura/gitkube)
-* https://www.redhat.com/de/technologies/cloud-computing/openshift/gitops
+* https://www.redhat.com/de/technologies/cloud-computing/openshift/gitops tekton-based
   + https://cloud.redhat.com/blog/introduction-to-gitops-with-openshift
+* [spinnaker](https://spinnaker.io/)
+  + [spinnaker features](https://www.opsmx.com/what-is-spinnaker)
+  + [halyard](https://github.com/spinnaker/halyard) config and update spinnaker
 * https://devopsdozen.com/tools-and-services-categories/
 * https://cluster-api.sigs.k8s.io/developer/providers/implementers-guide/controllers_and_reconciliation.html concepts shared between cluster API and gitops
   + https://www.youtube.com/watch?v=8JYn0PIHQEY
@@ -591,6 +595,18 @@
   + https://cloud.redhat.com/blog/introducing-openshift-service-mesh-2.0
   + [3scale adapter on service mesh](https://docs.openshift.com/container-platform/4.14/service_mesh/v1x/threescale-adapter.html)
 * [istio and dynatrace](https://www.dynatrace.com/news/blog/automatic-intelligent-observability-into-envoy-proxied-services-of-your-istio-service-mesh/)
+
+#### istio universe
+
+* [jaeger](https://www.jaegertracing.io/) distributed tracing
+  + [jaeger operator](https://github.com/jaegertracing/jaeger-operator)
+  + [kubernetes ingress nginx controller](https://kubernetes.github.io/ingress-nginx/) needed by jaeger operator
+    - https://kubernetes.github.io/ingress-nginx/deploy/
+* [kiali](https://kiali.io/) console for istio
+  + [kiali operator](https://github.com/kiali/kiali-operator)
+* [apache skywalking](https://skywalking.apache.org/) performance monitor tool for distributed systems
+* [spiffe](https://spiffe.io/) provide strongly attested, cryptographic identities to distributed workloads
+  + [SPIRE use-cases](https://spiffe.io/docs/latest/spire-about/use-cases/)
 
 #### kiali setup (kubernetes)
 

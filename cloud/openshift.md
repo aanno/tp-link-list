@@ -15,6 +15,7 @@
 
 * [Building applications docs](https://access.redhat.com/documentation/en-us/openshift_container_platform/4.14/html/building_applications/index)
 * [rhthsa Openshift demo](https://github.com/rhthsa/openshift-demo/tree/main) featured!
+* [Red Hat cloud native tutorials](https://redhat-scholars.github.io/cloudnative-tutorials/index.html) part of devnation
 
 ### Old/obsolete
 

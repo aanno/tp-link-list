@@ -79,7 +79,10 @@ Install:
 ```bash
 $ istioctl install --set profile=demo -y
 $ kubectl apply -f ${ISTIO_HOME}/samples/addons/
+$ # kiali ui
 $ kubectl port-forward svc/kiali 20001:20001 -n istio-system
+$ # jaeger ui
+$ kubectl port-forward svc/tracing 31000:80  -n istio-system
 ```
 
 Sample application:
@@ -129,3 +132,15 @@ References:
 * https://istio.io/latest/docs/setup/platform-setup/kind/
 * https://kiali.io/docs/installation/quick-start/
 * [loadbalancer on kind](https://kind.sigs.k8s.io/docs/user/loadbalancer/)
+
+
+### istio-fleetman udemy course
+
+```bash
+cd istio-fleetman/_course_files/x86_amd64/1-Telemetry
+...
+kubectl.exe apply -f 5-application-no-istio.yaml
+# webapp
+kubectl poport-forward svc/fleetman-webapp 30080:30080
+
+```
