@@ -385,6 +385,7 @@
   + https://www.redhat.com/de/topics/microservices/what-is-knative
 * https://openwhisk.apache.org/
   + https://github.com/apache/openwhisk
+* https://www.openfaas.com/
 
 
 #### special apps on openshift
@@ -450,6 +451,8 @@
 ## kubernetes management tools
 
 * https://docs.google.com/spreadsheets/d/1FCgqz1Ci7_VCz_wdh8vBitZ3giBtac_H8SBw4uxnrsE/edit#gid=0 featured!
+* [kubetools](https://collabnix.github.io/kubetools/) featured!
+* https://www.augmentedmind.de/2022/08/21/kubernetes-development-tools/
 
 ## kubernetes and openshift gitops
 
@@ -573,6 +576,9 @@
 * [odo](https://odo.dev/)
 * [tilt](https://tilt.dev/)
 * [cloud code](https://cloud.google.com/code)
+* [DevSpace](https://github.com/devspace-sh/devspace)
+* [draft](https://github.com/Azure/draft)
+* [garden](https://github.com/garden-io/garden) partly commercial
 
 ### odo
 
