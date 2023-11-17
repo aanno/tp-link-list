@@ -214,6 +214,9 @@
 * https://operatorhub.io/ Operators for kubernetes
   + https://operatorhub.io/operator/eclipse-che (as example)
   + https://github.com/eclipse/che-operator
+* [Kpt](https://kpt.dev/guides/rationale) - kustomize done right
+  + [configsync](https://kpt.dev/gitops/configsync/) gitops for Kpt
+* [cdk8s](https://cdk8s.io/docs/latest/) kubernetes manifests from typescript, python, java, go-lang
 
 ##### Kubernetes and public cloud
 
@@ -440,7 +443,13 @@
   + https://www.redhat.com/en/topics/edge-computing/microshift
   + https://github.com/openshift/microshift
 * [k3s](https://k3s.io/) iot-faced
+  + [k3d](https://github.com/k3d-io) wrapper for k3s
 * [kind](https://kind.sigs.k8s.io/) container-in-container
+* [Rancher Desktop (by Suse)](https://rancherdesktop.io/)
+
+## kubernetes management tools
+
+* https://docs.google.com/spreadsheets/d/1FCgqz1Ci7_VCz_wdh8vBitZ3giBtac_H8SBw4uxnrsE/edit#gid=0 featured!
 
 ## kubernetes and openshift gitops
 
@@ -491,6 +500,7 @@
 * [using oc templates](https://docs.openshift.com/container-platform/4.13/openshift_images/using-templates.html)
 * pulumi
   + https://github.com/pulumi/pulumi
+* [karpenter](https://github.com/aws/karpenter)
 
 ### kubernetes and openshift package managers and configuration management
 
@@ -556,9 +566,73 @@
 * [Openshift Dev Spaces](https://developers.redhat.com/products/openshift-dev-spaces/download) - eclipse che on the cluster
 * [Red Hat Openshift Dev Tools](https://developers.redhat.com/products/openshift/download)
 * [Eclipse JKube](https://projects.eclipse.org/projects/ecd.jkube) cloud-native java apps
+  + [JKube](https://eclipse.dev/jkube/) maven and gradle plugin for openshift/kubernetes deployment
 * [devfile](https://devfile.io/)
   + [spring petclinic](https://github.com/redhat-developer-demos/spring-petclinic/tree/main) openshift devfile example
-* [JKube](https://eclipse.dev/jkube/) maven and gradle plugin for openshift/kubernetes deployment
+* [skaffold](https://skaffold.dev/)
+* [odo](https://odo.dev/)
+* [tilt](https://tilt.dev/)
+* [cloud code](https://cloud.google.com/code)
+
+### odo
+
+* https://odo.dev/
+* github 733 stars
+* Languages: node.js, java (spring boot), .NET, go-lang
+* Config file: https://devfile.io/
+  + Registry with templates: https://registry.devfile.io/viewer
+* Cloud: kubernetes, openshift, podman (local)
+* Debug: true
+* container file change (inner loop): true
+* container image build (outer loop): true
+* supports: che, jetbrains (openshift toolkit), vscode, devspaces
+  + details: https://devfile.io/docs/2.2.2/innerloop-vs-outerloop
+* written in: go-lang
+* overview: https://odo.dev/docs/development/architecture/how-odo-works
+* parent support
+
+### tilt
+
+* https://tilt.dev/
+* github 7000 stars
+* Languages: node.js, java, C#, go-lang, python, Bazel
+* Config file: https://docs.tilt.dev/api
+  + based on : https://github.com/bazelbuild/starlark (python-like) from Bazel
+* Cloud: kubernetes
+* Debug: true
+* container file change (inner loop): when configured
+* container image build (outer loop): true
+* supports: vscode (only but own ui)
+* written in: go-lang, python
+* overview: https://docs.tilt.dev/controlloop
+* find itself better than scaffold: https://docs.tilt.dev/skaffold.html
+
+### scaffold
+
+* https://skaffold.dev/
+* github 14300 stars
+* Languages: agnostic
+* Config file: https://skaffold.dev/docs/references/yaml/
+* Cloud: kubernetes
+* Debug: true
+* container file change (inner loop): true (file sync)
+* container image build (outer loop): true
+* images: Docker, Jib, Bazel, Buildpacks, ko
+  + on: local, cluster, google cloud build
+* manifest render and deploy: raw/kubectl, helm, kustomize, Kpt, cloud run, docker
+* supports: cloud code (vscode, intellij), (google) cloud shell, (google) cloud run, cli
+* written in: go-lang
+* overview: https://skaffold.dev/docs/design/
+* integrated in: https://github.com/GoogleCloudPlatform/solutions-builder
+
+### image building (alternatives to Dockerfile)
+
+* https://buildpacks.io/
+* [openshift source-to-image (s2i)](https://github.com/openshift/source-to-image)
+* [jib](https://github.com/GoogleContainerTools/jib) cli, maven, gradle
+* [kaniko](https://github.com/GoogleContainerTools/kaniko) build images in kubernetes
+* [ko](https://ko.build/) build images for go-lang apps
+* [shipwright](https://github.com/shipwright-io/build) meta image builder supports: kaniko, buildkit, buildah, ...
 
 ### openshift/kubernetes developers tips
 
