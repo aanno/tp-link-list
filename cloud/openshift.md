@@ -39,6 +39,10 @@
 * [telemetry](https://docs.openshift.com/container-platform/4.14/service_mesh/v2x/ossm-observability.html)
 * [tutorial from rhthsa openshift demo](https://github.com/rhthsa/openshift-demo/blob/main/openshift-service-mesh.md)
 
+#### Alternative Service Meshes
+
+* [traefik mesh](https://github.com/traefik/mesh)
+
 #### Old/obsolete
 
 * [tutorial](https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-openshift-service-mesh)
@@ -67,3 +71,36 @@
 ## Openshift Developer Sandbox
 
 ### Operators available on Openshift Developer Sandbox
+
+
+## Openshift/k8s API gateways overview
+
+* [k8s own API gateways](https://www.nginx.com/blog/5-reasons-to-try-the-kubernetes-gateway-api/) GatewayClass, Gateway, HTTPRoute - the alternatives to ingress
+  + https://gateway-api.sigs.k8s.io/
+* https://www.cyberlands.io/opensourceapigateways
+* https://geekflare.com/api-gateway/
+* https://www.tecmint.com/open-source-api-gateways-and-management-tools/
+* https://nordicapis.com/6-open-source-api-gateways/
+* [evolution of API gateways](https://wso2.com/library/blogs/the-future-of-api-gateways-on-kubernetes/)
+
+### Openshift/k8s API gateways implementations
+
+* [apisix](https://apisix.apache.org/) complete solution
+* [fusio](https://www.fusio-project.org/) complete solution
+* [kusk](https://kusk.io/) openapi-driven
+* [emissary ingress](https://github.com/emissary-ingress/emissary) k8s, python, golang
+  + https://www.getambassador.io/products/api-gateway
+* [ocelot](https://github.com/ThreeMammals/Ocelot) in .net
+* [express gateway](https://www.express-gateway.io/)
+* [traefik](https://github.com/traefik/traefik)
+* [kong](https://konghq.com/products/kong-gateway) semi commercial
+* [gloo gateway](https://www.solo.io/products/gloo-gateway/) semi commercial
+  + [gloo edge](https://docs.solo.io/gloo-edge/latest/)
+* [gravitee](https://github.com/gravitee-io) semi commercial, java, native event driven
+  + https://www.gravitee.io/api-management-buyers-guide-event-native
+* [enroute](https://github.com/saarasio/enroute/) semi commercial
+  + https://www.getenroute.io/features
+  + [enroute Wasm support](https://www.getenroute.io/blog/developer-program-ingress-wasm-validate-verify-transform)
+* [krakend](https://www.krakend.io/)
+* [tyk](https://tyk.io/open-source-api-gateway/)
+* [cast](https://cast.ai/lp/kubernetes-management-and-automation) commercial
