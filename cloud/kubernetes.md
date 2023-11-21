@@ -361,7 +361,6 @@
   + https://docs.openshift.com/container-platform/4.13/applications/projects/working-with-projects.html
   + https://docs.openshift.com/online/pro/architecture/core_concepts/projects_and_users.html
 * [access API from containers](https://docs.openshift.com/container-platform/4.13/nodes/containers/nodes-containers-downward-api.html)
-* [source-to-image (s2i)](https://github.com/openshift/source-to-image)
 
 #### debug on openshift/kubernetes
 

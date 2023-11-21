@@ -262,6 +262,8 @@
 * [nuxt - vue framework](https://nuxtjs.org/)
   + [nuxt - static site generation](https://nuxtjs.org/docs/concepts/static-site-generation/)
   + https://www.heise.de/news/JavaScript-Nuxt-js-3-unterstuetzt-TypeScript-und-integriert-Vite-js-6214270.html
+* [quasar](https://github.com/quasarframework/quasar)
+  + https://quasar.dev/introduction-to-quasar/
 
 #### Other UI Frameworks
 
