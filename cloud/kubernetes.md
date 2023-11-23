@@ -211,6 +211,8 @@
   + https://helm.sh/docs/howto/charts_tips_and_tricks/
   + [go templates](https://pkg.go.dev/text/template)
   + [sprig templates](https://masterminds.github.io/sprig/)
+* [Operator Lifecycle Manager (olm)](https://olm.operatorframework.io/docs/) use operators on kubernetes
+  + [operator framework](https://github.com/operator-framework)
 * https://operatorhub.io/ Operators for kubernetes
   + https://operatorhub.io/operator/eclipse-che (as example)
   + https://github.com/eclipse/che-operator
