@@ -435,8 +435,12 @@
 * [loom](https://github.com/datawire/loom) enables operations engineers to provide a self-serve Kubernetes provisioning experience for developers
 
 * [openshift local](https://access.redhat.com/documentation/en-us/red_hat_openshift_local/2.29/html-single/getting_started_guide/index)
-* [minicube](https://minikube.sigs.k8s.io/docs/start/)
+* [minikube](https://minikube.sigs.k8s.io/docs/start/)
   + https://kubernetes.io/de/docs/tasks/tools/install-minikube/
+  + [hello minikube](https://kubernetes.io/de/docs/tutorials/hello-minikube/)
+  + [own/untrusted CA PKI](https://minikube.sigs.k8s.io/docs/handbook/untrusted_certs/)
+  + [accessing apps](https://minikube.sigs.k8s.io/docs/handbook/accessing/)
+  + [use helm with minikube](https://docs.bitnami.com/kubernetes/get-started-kubernetes/)
 * [microk8s](https://microk8s.io/) ubuntu - multipass-vm-based
   + https://multipass.run/
 * [microshift](https://microshift.io/) iot-faced
