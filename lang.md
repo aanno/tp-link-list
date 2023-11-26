@@ -122,6 +122,7 @@
 * https://github.com/ghcjs/ghcjs
 * https://levelup.gitconnected.com/from-go-to-haskell-svelte-1ad5ff4a0520
 * https://www.yesodweb.com/
+  + https://www.yesodweb.com/book/web-application-interface
   + [haskell-yesod](https://github.com/OpenAPITools/openapi-generator/blob/master/docs/generators/haskell-yesod.md) openapi-generator for yesod
 * https://www.servant.dev/
   + [servant-openapi](https://hackage.haskell.org/package/servant-openapi3) Generate a Swagger/OpenAPI/OAS 3.0 specification for your servant API
@@ -152,6 +153,7 @@
 ## Ocaml
 
 * https://github.com/ocaml/ocaml
+* https://github.com/ocaml-community/awesome-ocaml
 
 ### Ocaml ffi and transpiler
 

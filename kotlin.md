@@ -32,6 +32,10 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 * [kotlin coroutines with spring](https://spring.io/blog/2019/04/12/going-reactive-with-spring-coroutines-and-kotlin-flow)
 * [kotlin coroutine sdl](https://github.com/Kotlin/kotlinx.coroutines)
 * https://proandroiddev.com/structured-concurrency-in-action-97c749a8f755
+* in java
+  + [Calling Kotlin Suspending Functions from Java](https://www.baeldung.com/kotlin/suspend-functions-from-java)
+  + https://stackoverflow.com/questions/41559105/can-i-take-advantage-of-kotlins-coroutines-by-using-them-in-java-code
+  + [difference between coroutine and async await](https://stackoverflow.com/questions/56249553/difference-between-kotlin-coroutine-android-async-task-and-async-await)
 
 ### Coroutines programming examples
 

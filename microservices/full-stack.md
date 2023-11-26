@@ -127,6 +127,8 @@
 
 ### Websocket and SSE
 
+* [websocket-shootout](https://github.com/hashrocket/websocket-shootout)
+
 #### SSE
 
 * https://apifriends.com/api-streaming/server-sent-events/

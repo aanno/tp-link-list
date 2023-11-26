@@ -30,6 +30,7 @@ prinzipiell der klassischen Programmierung überlegen ist.
 ## Scala Native
 
 * https://scala-native.org/en/stable/
+  + [no multithreading](https://scala-native.org/en/stable/user/lang.html#multithreading)
 * https://github.com/tindzk/awesome-scala-native
 * https://scala-native.org/en/stable/lib/javalib.html
 

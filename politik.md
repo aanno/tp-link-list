@@ -5,10 +5,13 @@
 * https://www.refinery29.com
 * https://krautreporter.de
 * https://www.jetzt.de
+* https://www.2050.de
+* https://www.fluter.de
 
 ## Sicherheit
 
-* http://www.zeit.de/digital/datenschutz/2017-05/verfassungsschutz-staatstrojaner-ueberwachung-gesetze?campaign_id=A100
+* http://www.zeit.de/digital/datenschutz/2017-05/verfassungsschutz-staatstrojaner-ueberwachung-gesetze
+* [intersango](https://patrickpaypeople.com)
 
 ### BND
 

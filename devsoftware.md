@@ -162,6 +162,10 @@
 
 * https://www.capitalone.com/tech/software-engineering/active-active-shared-nothing-database-architecture/
 
+### RDB
+
+* https://kinsta.com/blog/mariadb-vs-postgresql/
+
 ### General SQL Admin Tools
 
 * https://wiki.postgresql.org/wiki/PostgreSQL_Clients (mostly general tools)
@@ -612,13 +616,15 @@
 
 ## Continuous Integration (CI/CD)
 
+* https://github.com/ligurio/awesome-ci
 * https://www.ionos.de/digitalguide/websites/web-entwicklung/continuous-integration-tools/
 * https://anchore.com/blog/5-cicd-platforms-container-technology/
 * https://cloud.redhat.com/blog/top-open-source-ci/cd-tools-for-kubernetes-to-know
 * https://earthly.dev/
   + https://github.com/earthly/earthly
 * https://github.com/orbitalci/orbital
-* https://github.com/concourse/concourse
+* https://concourse-ci.org/
+  + https://github.com/concourse/concourse
 * https://www.infrabox.net
 * https://cctray.org/servers/ tray client app for CI/CD (but also a list of CI/CD servers)
 

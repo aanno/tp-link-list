@@ -48,6 +48,15 @@
 
 * https://www.heise.de/news/Open-Source-OpenAI-veroeffentlicht-automatisches-Spracherkennungssystem-Whisper-7273104.html
 * https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models modells available on azure (e.g. GPT-4)
+* https://openai.com/blog/introducing-gpts create your own version of GPT
+
+#### language identification
+
+* https://stackoverflow.com/questions/58319996/commands-to-predict-the-language-with-fasttext-in-linux
+  + https://fasttext.cc/blog/2017/10/02/blog-post.html
+  + https://github.com/facebookresearch/fastText/
+* https://softwarerecs.stackexchange.com/questions/50173/language-detection-at-shell-command
+  + https://tika.apache.org/
 
 ## Pytorch
 

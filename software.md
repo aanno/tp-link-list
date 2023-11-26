@@ -439,6 +439,14 @@
 * nuxeo was open source: https://www.nuxeo.com/blog/nuxeo-server-source-code/
   + https://github.com/nuxeo/nuxeo
   + https://www.nuxeo.com/blog/lts-release-cycle/
+* [openkm](https://www.openkm.com/en/open-source-document-management-system.html)
+* [papermerge](https://papermerge.com/)
+  + https://github.com/papermerge
+  + https://github.com/papermerge/s3
+  + https://github.com/ciur/papermerge (?)
+* [teedy](https://github.com/sismics/docs)
+* [mailpiler](https://www.mailpiler.org/features-of-piler/) only for mail archiving
+  + https://bitbucket.org/jsuto/piler/src/master/
 
 ### Full text search (only)
 
