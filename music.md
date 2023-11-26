@@ -125,6 +125,7 @@
 * [spotifyd](https://github.com/Spotifyd/spotifyd)
   + https://spotifyd.github.io/spotifyd/installation/index.html
 * [spop](https://github.com/Schnouki/spop)
+* [spicetify](https://spicetify.app/) modify the official app
 
 ### Spotify API
 

@@ -63,11 +63,55 @@
 
 ## Haskell
 
+* [ghc](https://aosabook.org/en/v2/ghc.html)
 * [lens - structured getter and setter](https://hackage.haskell.org/package/lens)
   + https://hackage.haskell.org/package/lens-tutorial-1.0.4/docs/Control-Lens-Tutorial.html
 * [arrows](https://www.haskell.org/arrows/)
   + https://hackage.haskell.org/package/base-4.17.0.0/docs/Control-Arrow.html
   + https://en.m.wikibooks.org/wiki/Haskell/Arrow_tutorial
+
+### free learning
+
+* [Hask](https://smunix.github.io/dev.stephendiehl.com/hask/index.html) What I Wish I Knew When Learning Haskell - featured!
+* [real world haskell](https://book.realworldhaskell.org/) 2008
+
+* [ghcup](https://www.haskell.org/ghcup/install/#manual-installation)
+  + [stack](https://docs.haskellstack.org/en/stable/)
+* [intelliJ Haskell](https://rikvdkleij.github.io/intellij-haskell/)
+  + https://github.com/rikvdkleij/intellij-haskell
+  + https://getbetter.ro/tech/setting-up-a-haskell-environment-with-stack-ghcid-and-intellij/
+ 
+### Haskell programming
+
+* [500 lines or less](https://aosabook.org/en/500L/introduction.html)
+
+### Haskell libs
+
+* [conduit](https://github.com/snoyberg/conduit) stream processing
+  + https://www.stackage.org/package/conduit
+  + https://hackage.haskell.org/package/conduit
+* [aeson](https://github.com/haskell/aeson) JSON processing
+* [mlt](https://github.com/haskell/mtl) (monad) transformers for CPS, Except, Read-Write-State, Accum, Select, ...
+  + [transformers](https://hackage.haskell.org/package/transformers)
+  + https://smunix.github.io/dev.stephendiehl.com/hask/index.html#monad-transformers
+* [containers](https://github.com/haskell/containers) sets, maps, sequences
+  + https://haskell-containers.readthedocs.io/en/latest/
+* [exceptions](https://hackage.haskell.org/package/exceptions) catch, pure (not limited to IO monad)
+* [mono-traversable](https://github.com/snoyberg/mono-traversable)
+  + mono-traversable providing a set of classes for dealing with monomorphic data structures (like ByteString and Text) in a similar way to how the standard libraries treat polymorphic structures like lists
+    - mono-traversable-instances, containing orphans instances for mono-traversable classes
+    chunked-data, providing typeclasses for dealing with various chunked data representations
+  + mutable-containers, abstractions and concrete implementations of mutable containers
+  + conduit-combinators, commonly used conduit functions, for both chunked and unchunked data
+  + classy-prelude, a Prelude replacement based around the above packages (and many others)
+    - classy-prelude-conduit, extends classy-prelude with conduit support
+    - classy-prelude-yesod, extends classy-prelude-conduit with Yesod web framework support
+  + minlen, provided a newtype wrapper with type-level annotation of minimum container length. This is a generalization of the Data.NonNull module in mono-traversable
+* [graphql-spice](https://hackage.haskell.org/package/graphql-spice) Various extensions and convenience functions for the core graphql package
+  + [graphql](https://hackage.haskell.org/package/graphql)
+  + https://git.caraus.tech/OSS/graphql/wiki
+* [attoparsec](https://hackage.haskell.org/package/attoparsec) Fast combinator parsing for bytestrings and text
+* [openapi3](https://hackage.haskell.org/package/openapi3) OpenAPI 3.0 data model
 
 ### Haskell Web
 
@@ -77,10 +121,18 @@
 * https://github.com/ghcjs/ghcjs
 * https://levelup.gitconnected.com/from-go-to-haskell-svelte-1ad5ff4a0520
 * https://www.yesodweb.com/
+  + [haskell-yesod](https://github.com/OpenAPITools/openapi-generator/blob/master/docs/generators/haskell-yesod.md) openapi-generator for yesod
 * https://www.servant.dev/
+  + [servant-openapi](https://hackage.haskell.org/package/servant-openapi3) Generate a Swagger/OpenAPI/OAS 3.0 specification for your servant API
+* https://aosabook.org/en/posa/warp.html
 * https://hasura.io/
   + https://hasura.io/products/instant-api rest and graphql
 * https://morpheusgraphql.com/
+  + https://vivshaw.github.io/blog/haskell-snacks-1-yesod-morpheus-graphql/
+  + https://stackoverflow.com/questions/58366794/what-is-the-purpose-of-liftio
+  + https://hoogle.haskell.org/?hoogle=liftIO
+* [serverless haskell](https://www.serverless.com/plugins/serverless-haskell) haskell on AWS lambda
+  + https://theam.github.io/aws-lambda-haskell-runtime/
 
 
 * https://dev.to/fabianveal/building-a-rest-api-with-haskell-2d54

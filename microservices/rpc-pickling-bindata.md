@@ -20,7 +20,8 @@
 * [apollo GraphQL implementation for JS](https://www.apollographql.com/)
   + https://www.apollographql.com/docs/react/development-testing/static-typing/
   + https://www.apollographql.com/blog/tooling/apollo-codegen/typescript-graphql-code-generator-generate-graphql-types/
-  + https://apollo-angular.com/docs/get-started/
+  + https://apollo-angular.com/docs/get-started
+* [graphiql](https://github.com/graphql/graphiql) graphical interactive in-browser GraphQL IDE in typescript
 
 #### GraphQL Server
 
