@@ -16,6 +16,12 @@
 ## Elastic Search
 
 
+## Other
+
+* [full text index in mariadb](https://mariadb.com/kb/en/full-text-index-overview/)
+* [full text search in postgresql](https://www.postgresql.org/docs/current/textsearch.html)
+* [sphinx](https://sphinxsearch.com/) not really open source - but free to use
+
 
 ### Front end
 

@@ -227,6 +227,8 @@
 #### Nextcloud special interest
 
 * https://decatec.de/home-server/volltextsuche-in-nextcloud-mit-ocr/
+* [fulltextsearch](https://github.com/nextcloud/fulltextsearch/wiki) elasticsearch
+  + https://www.c-rieger.de/volltextsuche-mit-nextcloud-elasticsearch-und-tessaract/
 
 #### Server push
 
@@ -408,6 +410,7 @@
 * https://medevel.com/dms-cloud-file-sharing-opensource/
 * https://medium.com/@MarktrHimanshu/top-10-free-and-open-source-document-management-system-ddd4265adf5e
 * https://medevel.com/15-dms/
+* https://workpress.plattform32.de/2021/05/dms-2021-wieder-dem-papierkrieg/
 
 * http://www.cinnamon-cms.com/ (Dita)
   + https://github.com/dewarim/cinnamon
@@ -417,8 +420,10 @@
 
 * https://docspell.org/
   + https://github.com/eikek/docspell
+  + [docspell full text search](https://docspell.org/docs/configure/fulltext-search/) postgresql or solr
 * https://github.com/jonaswinkler/paperless-ng
   + https://paperless-ng.readthedocs.io/en/latest/
+  + [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) active fork
 * https://www.mayan-edms.com/
   + https://docs.mayan-edms.com/parts/installation.html
   + https://docs.mayan-edms.com/chapters/search.html

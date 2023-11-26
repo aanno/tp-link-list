@@ -80,6 +80,7 @@
 * [intelliJ Haskell](https://rikvdkleij.github.io/intellij-haskell/)
   + https://github.com/rikvdkleij/intellij-haskell
   + https://getbetter.ro/tech/setting-up-a-haskell-environment-with-stack-ghcid-and-intellij/
+* [leksah](https://github.com/leksah/leksah) dead or slow moving
  
 ### Haskell programming
 
