@@ -657,9 +657,13 @@
 ### container image scanner (vulnerabilities detection)
 
 * https://geekflare.com/de/container-security-scanners/
+* https://opensource.com/article/18/8/tools-container-security
 
 * [clair](https://github.com/quay/clair)
   + https://www.redhat.com/de/topics/containers/what-is-clair
+* [trivy](https://github.com/aquasecurity/trivy)
+  + https://www.heise.de/ratgeber/Trivy-So-durchleuchten-Sie-Container-Images-auf-Sicherheitsluecken-6237078.html
+* [scout](https://docs.docker.com/scout/)
 * [xray](https://jfrog.com/de/integration/xray-docker-security-scanning) commercial
 
 ### openshift/kubernetes developers tips
