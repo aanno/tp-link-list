@@ -192,6 +192,14 @@
 * https://coredns.io/
   + https://coredns.io/plugins/etcd/
 
+##### Certificates and CAs
+
+* [pull image from private registry](https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/)
+* [k8s-signed certificate not trusted within pod](https://stackoverflow.com/questions/64892404/k8s-signed-certificate-not-trusted-within-pod)
+* [how to add certificates to kubernetes](https://serverfault.com/questions/1020310/how-do-i-add-certificates-to-kubernetes-to-allow-images-to-be-pulled-from-a-cust)
+* [CAs on kube](https://github.com/kubernetes-sigs/kind/issues/2055)
+  + https://github.com/containerd/containerd/blob/main/docs/cri/config.md#registry-configuration
+
 #### Configuration Server (Key-Value Stores)
 
 * https://www.libelektra.org/home
@@ -384,6 +392,7 @@
 * https://piotrminkowski.com/2021/03/01/spring-boot-on-knative/
 * https://knative.dev/
   + https://www.redhat.com/de/topics/microservices/what-is-knative
+  + [kourier](https://github.com/knative-extensions/net-kourier) lightweight alternative for the Istio ingress for knative
 * https://openwhisk.apache.org/
   + https://github.com/apache/openwhisk
 * https://www.openfaas.com/
@@ -644,6 +653,14 @@
 * [kaniko](https://github.com/GoogleContainerTools/kaniko) build images in kubernetes
 * [ko](https://ko.build/) build images for go-lang apps
 * [shipwright](https://github.com/shipwright-io/build) meta image builder supports: kaniko, buildkit, buildah, ...
+
+### container image scanner (vulnerabilities detection)
+
+* https://geekflare.com/de/container-security-scanners/
+
+* [clair](https://github.com/quay/clair)
+  + https://www.redhat.com/de/topics/containers/what-is-clair
+* [xray](https://jfrog.com/de/integration/xray-docker-security-scanning) commercial
 
 ### openshift/kubernetes developers tips
 

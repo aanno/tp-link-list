@@ -92,3 +92,8 @@
 * https://github.com/jveitchmichaelis/deeplabel
 * https://lost.training/
 * https://github.com/NaturalIntelligence/imglab
+
+## Free Image Sources (royalty-free images and stock)
+
+* https://pixabay.com/
+* https://search.creativecommons.org/
