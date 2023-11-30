@@ -291,6 +291,32 @@
 * https://storybook.js.org/
 * https://react-styleguidist.js.org/
 
+### UI widget libraries (component libraries)
+
+* [SAP UI5](https://sapui5.hana.ondemand.com/sdk/#/topic)
+  + https://sap.github.io/ui5-webcomponents/
+  + [UI5 for angular](https://github.com/SAP/ui5-webcomponents-ngx)
+  + https://ui5-webcomponents-ngx.netlify.app/?path=/docs/introduction--docs
+
+#### ... for Angular
+
+* https://www.infragistics.com/community/blogs/b/infragistics/posts/best-angular-component-libraries
+* https://dreamix.eu/insights/10-best-angular-ui-libraries/
+* https://www.syncfusion.com/blogs/post/top-angular-component-libraries.aspx
+* https://hackernoon.com/what-are-the-best-ui-component-libraries-for-angular-in-2022
+
+* [material](https://material.angular.io/)
+
+##### prime ecosystem
+
+* [primeng](https://primeng.org/) prime for angular
+  + [primeng v8 lts](https://www.primefaces.org/primeng-v8-lts/#/setup)
+* [primestore](https://www.primefaces.org/store/templates.xhtml)
+* [primeblocks](https://www.primefaces.org/primeblocks-jsf/) for JSF
+  + [primeblocks for angular](https://blocks.primeng.org/#/)
+* [designer](https://designer.primeng.org/#/) deprecated
+* [primeflex](https://primeflex.org/) responsive CSS library for prime
+
 ### Immutable
 
 * [list of libs](https://gist.github.com/jlongster/bce43d9be633da55053f)

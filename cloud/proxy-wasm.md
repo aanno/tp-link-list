@@ -9,6 +9,7 @@
   + [technical overview](https://github.com/tetratelabs/proxy-wasm-go-sdk/blob/main/doc/OVERVIEW.md) featured!
   + based on [tinygo](https://tinygo.org/)
   + gc problems, better with [nottinygc](https://github.com/wasilibs/nottinygc)
+* [emscripten](https://emscripten.org/docs/introducing_emscripten/about_emscripten.html) toolchain for C/C++
 
 ## use
 
@@ -43,6 +44,10 @@ consists of:
   + [camel](https://camel.apache.org/)
   + [apache activemq artemis](https://activemq.apache.org/components/artemis/)
   + not sure, if fuse is still included in RH integration (in Nov 2023)
+  + [AMQ to REST tutorial](https://access.redhat.com/documentation/en-us/red_hat_fuse/7.12/html/fuse_online_sample_integration_tutorials/amq-to-rest-api_tutorials)
+* [fuse documentation](https://access.redhat.com/documentation/en-us/red_hat_fuse/7.12)
+  + [fuse on openshift](https://access.redhat.com/documentation/en-us/red_hat_fuse/7.12/html/fuse_on_openshift_guide/index)
+  + [use fuse to create 3scale custom policies](https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.11/html/administering_the_api_gateway/transform-with-policy-extension_3scale) e.g. XML to JSON
 
 ### 3scale
 
@@ -86,3 +91,13 @@ consists of:
 ### 3scale webassembly development
 
 * [3scale proxy-wasm rust sdk](https://github.com/3scale/proxy-wasm-rust-sdk)
+
+## IBM API Connect
+
+* https://www.ibm.com/products/api-connect
+  + https://www.ibm.com/de-de/products/api-connect
+
+## Google Apigee
+
+* https://cloud.google.com/apigee
+

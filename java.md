@@ -100,6 +100,14 @@
 
 * https://www.graalvm.org/
   + https://www.graalvm.org/reference-manual/native-image/
+  + [truffle library](https://www.graalvm.org/latest/graalvm-as-a-platform/language-implementation-framework/TruffleLibraries/) @Specialization with @Cached
+  + [graal compiler](https://www.graalvm.org/latest/reference-manual/java/compiler/)
+    - [compiler operating modes](https://www.graalvm.org/latest/reference-manual/java/)
+  + [graal jit compiler](https://www.baeldung.com/graal-java-jit-compiler)
+  + [Auxiliary Engine Caching ](https://www.graalvm.org/latest/graalvm-as-a-platform/language-implementation-framework/AuxiliaryEngineCachingEnterprise/)
+* [mandrel](https://github.com/graalvm/mandrel) graalvm downstream for serverless
+* [native image support in spring boot 3](https://docs.spring.io/spring-boot/docs/current/reference/html/native-image.html)
+* [spring-native vs quarkus](https://devonfw.com/website/pages/docs/devonfw-guide_devon4j.wiki_Spring-native-vs-Quarkus.asciidoc.html)
 * [spring-native](https://docs.spring.io/spring-native/docs/current/reference/htmlsingle/)
   + https://spring.io/blog/2021/03/11/announcing-spring-native-beta
   + https://www.heise.de/news/Java-Framework-Native-Spring-Anwendungen-laufen-ohne-die-JVM-5078681.html

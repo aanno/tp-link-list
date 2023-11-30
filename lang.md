@@ -117,6 +117,9 @@
 ### Haskell Web
 
 * https://www.slant.co/topics/727/~best-haskell-web-frameworks-for-building-restful-web-services
+* http://wiki.haskell.org/Web/Frameworks
+  + https://haste-lang.org/ old
+* [Haskell JS problem](https://wiki.haskell.org/The_JavaScript_Problem)
 
 * https://github.com/dmjio/miso
 * https://github.com/ghcjs/ghcjs
