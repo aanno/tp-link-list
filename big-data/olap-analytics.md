@@ -75,3 +75,14 @@
   + https://camel.apache.org/manual/faq/what-is-camel.html
   + [camel-quarkus](https://camel.apache.org/camel-quarkus/next/reference/index.html)
   + [camel-k - camel on kubernetes](https://camel.apache.org/camel-k/1.6.x/index.html)
+  + [routes](https://camel.apache.org/manual/routes.html)
+  + [processor](https://camel.apache.org/manual/processor.html)
+  + [message exchange(https://camel.apache.org/manual/exchange.html)
+
+### Camel tutorials
+
+* [migrate SOAP to REST](https://developers.redhat.com/blog/2018/07/24/migrate-soap-to-rest-with-camel#)
+* [SOAP to REST example](https://github.com/fabric8-quickstarts/spring-boot-camel-soap-rest-bridge)
+* [Open Source Integration](https://dzone.com/articles/open-source-integration-apache) IBM Fuse
+* [SOAP transformation](https://dzone.com/articles/soap-transformation-with-apache-camel-java-dsl)
+* [IBM Fuse overview](https://developers.redhat.com/products/fuse/overview)
