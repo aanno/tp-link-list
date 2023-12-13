@@ -1,5 +1,17 @@
 # Http and REST microservers
 
+## Specs
+
+* https://stackshare.io/open-api/alternatives
+
+* [odata](https://www.odata.org/)
+  + [olingo](https://olingo.apache.org/) java implementation of odata
+* [openapi 3.1 spec](https://swagger.io/specification/)
+  + https://www.openapis.org/
+  + https://openapi.tools/
+* [raml](https://raml.org/)
+* [TypeAPI](https://typeapi.org/)
+
 ## Polyglott
 
 * http://micronaut.io/ (java, kotlin, groovy, scala)
