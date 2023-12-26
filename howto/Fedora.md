@@ -79,6 +79,8 @@ v4l2loopback_dc/0.0.1, 5.18.15-200.fc36.x86_64, x86_64: installed
 
 ### nvidia driver and cuda from developer nvidia
 
+Also tested on f39 (f38, f37)!
+
 https://forums.developer.nvidia.com/t/bug-report-on-nvidia-driver-515-65-01-for-fedora-36-kernel-5-18-19-rtx-2060-rev-1/227009/9
 
 
@@ -86,13 +88,14 @@ I need nvidia graphics driver and cuda support. Hence I did the following:
 
 1. [Follow CUDA Toolkit 11.7 Update 1 Downloads | NVIDIA Developer 10](https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&Distribution=Fedora&target_version=35&target_type=rpm_network)
    ```
-   sudo dnf config-manager --add-repo https://developer.download.nvidia.com/compute/cuda/repos/fedora35/x86_64/cuda-fedora35.repo
+   sudo dnf config-manager --add-repo https://developer.download.nvidia.com/compute/cuda/repos/fedora37/x86_64/cuda-fedora37.repo
    sudo dnf clean all
    sudo dnf -y module install nvidia-driver:latest-dkms
+   # sometimes `modprobe` hangs here
    sudo dnf -y install cuda
    ```
-   Use f35 repo. There is also a f36 repo that is known not to work.
-2. Also install
+   Use f37 repo. There is also a f36 repo that is known not to work.
+2. Also ensure that `nvidia-driver:latest-dkms` has been installed
    ```
    sudo dnf install kmod-nvidia-latest-dkms
    ```
@@ -109,6 +112,7 @@ I need nvidia graphics driver and cuda support. Hence I did the following:
    blacklist nouveau
    options nouveau modeset=0
    ```
+   Perhaps you want the same for i915.
 5. Build right initramfs with
    ```
    sudo dracut -v -f --regenerate-all --omit-drivers="nouveau i915" --force-drivers="nvidia_drm nvidia_modeset nvidia_uvm nvidia"

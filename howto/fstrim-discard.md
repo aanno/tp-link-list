@@ -64,6 +64,15 @@ By default lvm2 does _not_ trim or discard. To enable it, the following is neede
 issue_discards = 1
 ```
 
+It is disputed if this only effects shrinking partitions or if it is _needed_ for submission of trim operation from fs to black device as well.
+
+## Security implications
+
+* https://askubuntu.com/questions/399211/is-enabling-trim-on-an-encrypted-ssd-a-security-risk
+* http://asalor.blogspot.com/2011/08/trim-dm-crypt-problems.html
+
+Unused sectors could be tracked. Recovery of trimmed sectors is _not_ possible.
+
 ### References
 
 * https://mvysny.github.io/ssd-discard/
@@ -79,6 +88,7 @@ sudo blkdiscard /dev/sde5
 ### References
 
 * https://superuser.com/questions/308251/how-to-trim-discard-a-whole-ssd-partition-on-linux
+* https://superuser.com/questions/1801429/looking-for-smartctl-nvme-log-error-explanation-0xa013-0x8004-and-0x9016-0x8004 smart error log
 
 ```bash
 ```
