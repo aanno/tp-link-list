@@ -3,6 +3,17 @@
 * https://learnai-platform.bemyapp.com/#/event
 * https://www.tensorflow.org/ml-community-day
 
+## Misc Sites
+
+* https://www.geeksforgeeks.org/ featured!
+* https://towardsdatascience.com/
+* https://analyticsindiamag.com/
+
+## Misc Blogs
+
+* https://odsc.medium.com/
+  + https://odsc.medium.com/the-30-most-useful-python-libraries-for-data-engineering-ec9aa91176ba
+
 ## Watson AutoAI
 
 * https://cloud.ibm.com/login

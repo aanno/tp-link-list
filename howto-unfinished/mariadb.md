@@ -1,0 +1,117 @@
+# Mariadb Howto
+
+## After install
+
+```bash
+$ mariadb-secure-installation 
+```
+
+## Create DB
+
+```sql
+CREATE DATABASE db1;
+```
+
+## List DBs
+
+```sql
+SHOW DATABASES;
+```
+
+## List users
+
+```sql
+SELECT User FROM mysql.user;
+```
+
+## Alter user password
+
+```sql
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'MyN3wP4ssw0rd';
+flush privileges;
+```
+
+## Create user
+
+```sql
+CREATE USER 'matthew'@'%' IDENTIFIED BY 'supersecretpassword';
+/* GRANT priv_type ON priv_level TO 'username'@'hostname'; */
+GRANT ALL PRIVILEGES ON * . * TO 'matthew'@'%';
+FLUSH PRIVILEGES;
+```
+
+## Backup and Restore
+
+* https://mariadb.com/kb/en/backup-and-restore-overview/
+* [physical backup](https://mariadb.com/kb/en/full-backup-and-restore-with-mariabackup/) _not_ recommended
+
+## Container (docker, podman)
+
+### use external DB files
+
+```bash
+#!/bin/bash -x
+# https://hub.docker.com/_/mariadb
+
+podman rm -f mariadb || true
+
+podman run --name mariadb \
+  -v ./var/lib/mysql:/var/lib/mysql:z \
+  -v ./backup:/backup:z \
+  -p 3306:3306 \
+  -e MARIADB_ROOT_PASSWORD=<whatever> \
+  -it \
+  mariadb:11.1 \
+  bash
+
+# -d \
+# -h192.168.10.137
+# --database digikam
+
+# podman exec -it mariadb bash
+
+podman logs mariadb
+
+```
+
+## References
+
+* [create DB](https://mariadb.com/kb/en/create-database/)
+* [reset root password](https://www.digitalocean.com/community/tutorials/how-to-reset-your-mysql-or-mariadb-root-password)
+* [create user](https://www.beekeeperstudio.io/blog/how-to-create-a-user-in-mariadb)
+  + [official create user](https://mariadb.com/kb/en/create-user/)
+  + https://phoenixnap.com/kb/how-to-create-mariadb-user-grant-privileges
+  + https://www.educba.com/mariadb-add-user/
+* [list users](https://www.cyberciti.biz/faq/how-to-show-list-users-in-a-mysql-mariadb-database/)
+* [root password](https://www.ibm.com/docs/en/spectrum-lsf-rtm/10.2.0?topic=ssl-configuring-default-root-password-mysqlmariadb)
+
+```bash
+```
+
+```sql
+```
+
+```sql
+```
+
+```sql
+```
+
+```sql
+```
+
+```bash
+```
+
+```bash
+```
+
+```bash
+```
+
+```bash
+```
+
+```bash
+```
+

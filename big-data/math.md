@@ -14,8 +14,17 @@
 * https://mathics.github.io/
 * http://www.reduce-algebra.com/ (old)
 
-##
+## Numerical Tools
 
 * https://datamelt.org/
 * https://octave.org
 * https://www.scilab.org/
+  + https://www.scilab.org/software/xcos
+
+## Algebra and Symbolic Tools
+
+* https://alternativeto.net/software/gnu-octave/
+
+* https://www.sagemath.org/
+* https://maxima.sourceforge.io/
+  + http://wxmaxima-developers.github.io/wxmaxima/

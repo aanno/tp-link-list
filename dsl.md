@@ -61,6 +61,7 @@
 * https://github.com/eclipse/sprotty
 * https://github.com/eclipse/elk
 * Vega und Vega lite
+  + https://vega.github.io/vega-lite/
   + https://vega.github.io/editor/#/examples/vega-lite/interactive_splom
   + https://vega.github.io/vega/examples/force-directed-layout/
 * https://jankoehnlein.github.io/FXDiagram/
@@ -77,6 +78,7 @@
 * http://sigmajs.org/ (js)
 * https://www.yworks.com/products/yed (commercial but free to use)
 * https://mermaid-js.github.io/mermaid/#/ (uml, flow, pie, gantt, sequence, mindmap)
+* [ggplot2](https://ggplot2.tidyverse.org/) R-lang
 
 #### Graph layouting
 

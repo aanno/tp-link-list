@@ -172,6 +172,9 @@
 * https://www.adminer.org/de/
 * https://github.com/hangum/TadpoleForDBTools
 
+* https://dbeaver.io/
+* http://squirrel-sql.sourceforge.net/
+
 ### Airtable like (using DB as excelsheet directly on the web)
 
 * [NocoDB - open source Airtable](https://github.com/nocodb/nocodb)
@@ -192,7 +195,6 @@
 * https://www.devart.com/dbforge/mysql/studio/mariadb-gui-client.html
 * https://teamsql.io
 * http://www.oracle.com/technetwork/developer-tools/sql-developer/overview/index.html
-* http://squirrel-sql.sourceforge.net/
 * [vitess](https://vitess.io/) horizontal scaling for mySQL
   + https://github.com/vitessio/vitess
 

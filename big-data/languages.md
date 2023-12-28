@@ -27,6 +27,10 @@
 
 #### Alternatives to Jupyter
 
+* https://jupyterlab.readthedocs.io/en/latest/ (modern browser based jupyter)
+* https://nteract.io (more another UI for jupyter)
+  + https://docs.nteract.io/getting-started-with-nteract/
+  + https://github.com/nteract/docs/blob/master/getting-started/install.md
 * https://zeppelin.apache.org/
 * https://github.com/spark-notebook/spark-notebook (old)
 

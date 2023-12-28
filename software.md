@@ -273,9 +273,12 @@
   
 ## project management
 
+* https://www.capterra.com.de/directory/30862/project-portfolio-management/pricing/free/software
 * https://opensource.com/business/16/3/top-project-management-tools-2016
 * https://opensource.com/article/21/3/open-source-project-management
 * https://opensource.com/article/18/2/agile-project-management-tools
+
+* https://www.openproject.org/collaboration-software-features/project-portfolio-management/
 
 ### full-blown
 
@@ -540,3 +543,10 @@
   + https://github.com/gsauthof/cgmemtime RSS+CACHE memory usage
 * [ps, top](https://stackoverflow.com/questions/1221555/retrieve-cpu-usage-and-memory-usage-of-a-single-process-on-linux)
 * [many interesting tools](https://unix.stackexchange.com/questions/554/how-to-monitor-cpu-memory-usage-of-a-single-process)
+
+## Iventory Management
+
+* https://www.goodfirms.co/warehouse-management-software/blog/best-free-open-source-Warehouse-Management-Software
+
+* https://inventree.org/
+* https://partkeepr.org/

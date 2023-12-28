@@ -1,5 +1,8 @@
 # Python
 
+## IDEs
+
+* https://www.spyder-ide.org/
 
 ## Python Typing
 

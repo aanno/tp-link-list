@@ -39,6 +39,7 @@
 * https://github.com/blazegraph/database
 * https://www.arangodb.com/community-server/
 * https://neo4j.com/
+* https://github.com/twitter/cassovary
 
 ## Time Series DBs
 

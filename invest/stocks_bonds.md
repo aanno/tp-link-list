@@ -1,7 +1,7 @@
 
 
 
-# Stocks and Bonds
+# Stocks and Bonds Portfolio Analysis
 
 ## Sites
 
@@ -25,8 +25,21 @@
 * https://www.boerse.de/marktberichte/
 * https://www.onvista.de/news/marktberichte
 
+## Finance Math (Quatitative Finance)
+
+* https://www.bogleheads.org/wiki/Using_open_source_software_for_portfolio_analysis featured!
+* https://medium.com/geekculture/quantitative-finance-in-julia-the-markowitz-portfolio-optimization-problem-26cb1a8d187b
+
 ## Market Information
 
 ## Charts
 
+## Software
+
+* https://alternativeto.net/software/jgnash/
+* https://alternative.me/jgnash
+
+* https://jgnash.github.io/ java, personal finance
+* https://ghostfol.io/en/start dashboard for your personal finances
+* https://www.portfolio-performance.info/en/ overall performance of an investment portfolio
 

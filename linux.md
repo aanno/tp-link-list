@@ -41,6 +41,10 @@
 
 ## Kernel
 
+* https://www.kernel.org/doc/html/v4.19/media/index.html linux media subsystem
+* https://docs.kernel.org/wmi/devices/wmi-bmof.html
+* https://elixir.bootlin.com/linux/latest/source cross referencer
+* https://cateee.net/lkddb/ linux kernel driver database
 * https://lwn.net/Articles/724198/ (AIO defects)
 * https://lwn.net/Articles/724307/ (Block layer error handling)
 * [overview of linux kernel](https://tldp.org/LDP/tlk/tlk-toc.html)
