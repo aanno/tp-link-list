@@ -8,6 +8,7 @@
 * https://www.geeksforgeeks.org/ featured!
 * https://towardsdatascience.com/
 * https://analyticsindiamag.com/
+* https://soumyajit.vercel.app/project
 
 ## Misc Blogs
 

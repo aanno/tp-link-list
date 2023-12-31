@@ -5,6 +5,15 @@
 * http://taz.de/Patience-von-Comiczeichner-Clowes/!5422682/
 * http://taz.de/Comic-Zeichner-Ralf-Koenig-uebers-Altern/!5422875/
 * http://www.faz.net/aktuell/feuilleton/kunst/lorenzo-mattotti-in-basel-meister-der-schwarzen-kunst-15440761.html
+* https://taz.de/Flix-Comic-Held/!5971849/
+
+### Lesen
+
+* https://lcb.de/skizzenblog/bruno-giannori-doppler-effekt/ 24h Comics
+
+### Autoren
+
+* https://www.mawil.net/category/comics/
 
 ## Musik
 
