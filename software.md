@@ -9,6 +9,8 @@
 * https://itsfoss.com/best-video-editing-software-linux/
 * https://wiki.ubuntuusers.de/Videobearbeitung/
 * https://github.com/mifi/lossless-cut
+* [Davinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve/) commercial
+  + [DavinciBox](https://github.com/zelikos/davincibox)
 
 ### Video editing cli
 
@@ -112,6 +114,8 @@
 * [use GPG keybase key to sign all commits on github](https://github.com/pstadler/keybase-gpg-github)
 * [tor hidden services](https://www.heise.de/security/artikel/Tor-und-die-versteckten-Dienste-3280904.html)
 * [tails - unmodifiable tor linux distribution](https://tails.boum.org/about/index.de.html)
+* [qubes](https://www.qubes-os.org/) - most apps in it's own xen VM - super secure
+* [kali](https://www.kali.org/) penetration testing distribution
 * [open scap security scanner](https://www.open-scap.org/)
 
 ## Self-hosting
@@ -512,12 +516,20 @@
 
 * https://wiki.ubuntuusers.de/Monitor_profilieren_mit_ArgyllCMS/
   
-### Software
+### Color and Monitor Software
 
 * Screen Night Mode: https://github.com/jonls/redshift
 * https://displaycal.net/ (old, not with python3)
+* [displaycal-py3](https://github.com/eoyilmaz/displaycal-py3)
 * https://www.argyllcms.com/
 * https://www.littlecms.com/
+
+#### Color handling
+
+* https://wiki.ubuntuusers.de/Monitor_profilieren_mit_ArgyllCMS/ featured!
+* [wayland: colormgr device-add-profile](https://wiki.archlinux.org/title/ICC_profiles#Wayland)
+* https://help.ubuntu.com/stable/ubuntu-help/color.html.de
+* https://www.drucker-kalibrieren.com/drucken-mit-icc-profil/drucken-mit-icc-profil-in-linux/
 
 ## Profiling, Instrumentation, Performance Monitoring
 

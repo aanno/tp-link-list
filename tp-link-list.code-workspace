@@ -5,6 +5,8 @@
 		}
 	],
 	"settings": {
-		"svn.ignoreMissingSvnWarning": true
+		"svn.ignoreMissingSvnWarning": true,
+		"terminal.integrated.gpuAcceleration": "off",
+		"terminal.integrated.rendererType": "dom"
 	}
 }

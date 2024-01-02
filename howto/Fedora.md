@@ -27,6 +27,9 @@
 ## Zusätzliche Repositories
 
 - [Copr Personal Repositories](http://copr.fedorainfracloud.org/)
+- [RPM fusion](https://rpmfusion.org/) semi-official additions for fedora
+- [EPEL](https://docs.fedoraproject.org/en-US/epel/) extra packages for RHEL (normally not needed on fedora)
+- [negativo multimedia](https://negativo17.org/multimedia/) DVD, Bluerays, ffmpeg with cuda support and the like
 
 ### United RPMs
 
@@ -79,7 +82,7 @@ v4l2loopback_dc/0.0.1, 5.18.15-200.fc36.x86_64, x86_64: installed
 
 ### nvidia driver and cuda from developer nvidia
 
-Also tested on f39 (f38, f37)!
+Also tested on f38 (f37) but does _not_ work with f39 (use akmod from rpmfusion instead).
 
 https://forums.developer.nvidia.com/t/bug-report-on-nvidia-driver-515-65-01-for-fedora-36-kernel-5-18-19-rtx-2060-rev-1/227009/9
 
@@ -427,3 +430,8 @@ Referenzen:
 - Stand von KDE Plasma auf Fedora:
   [1](https://community.kde.org/Plasma/Packages),
   [2](https://apps.fedoraproject.org/packages/plasma-workspace)
+
+## Wichtige Komponenten
+
+* [akmods](https://github.com/ublue-os/akmods) replacement for dkms (mit Übersicht über extra Kernel Module)
+* https://rpmfusion.org/Packaging/KernelModules/Akmods

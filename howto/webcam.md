@@ -63,9 +63,13 @@ On Windows, there are several options: OBS, [splitcam](https://splitcam.de.softo
 
 ### v4l2loopback kernel module
 
+* https://github.com/webcamoid/akvcam
+
 #### References v4l2loopback
 
+* f39: `akmod-v4l2loopback` (no more dkms)
 * https://github.com/umlaeute/v4l2loopback
+* https://github.com/webcamoid/akvcam/wiki/Build-and-install
 
 ### akvcam kernel module
 
@@ -185,4 +189,3 @@ sudo modprobe snd-aloop
 
 ## More References
 
-* 

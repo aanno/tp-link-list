@@ -23,6 +23,8 @@
 
 * https://jgrulich.cz/2019/08/01/tutorial-screen-sharing-and-remote-desktop-on-fedora-workstation-30/
 * https://www.linux-community.de/ausgaben/linuxuser/2019/03/draufgeschaut/
+* [waypipe](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/getting_started_with_the_gnome_desktop_environment/remotely-accessing-an-individual-application-wayland_getting-started-with-the-gnome-desktop-environment)
+* [KDE uses RDP](https://planet.kde.org/arjen-hiemstra-2023-08-08-remote-desktop-using-the-rdp-protocol-for-plasma-wayland/)
 
 #### remote wayland software
 

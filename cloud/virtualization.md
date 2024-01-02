@@ -10,6 +10,8 @@
 
 ## kvm, qemu, libvirt
 
+* https://virt-manager.org/
+* [gnome-boxes](https://help.gnome.org/users/gnome-boxes/stable/)
 * https://libvirt.org/
 * https://github.com/quickemu-project/quickemu
 
@@ -84,3 +86,7 @@
 # Windows - Hyper-V
 
 * [vmplex](https://github.com/0xf005ba11/vmplex-ws) open source ui for hyper-v
+
+# Linux
+
+* [osboxes](https://www.osboxes.org/) Simply download any image you want and run it as VM

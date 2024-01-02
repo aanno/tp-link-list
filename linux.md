@@ -792,3 +792,7 @@ It is _not_ possible to recover the public key stored on nitro, see
 ### Terminal colors
 
 * https://opensource.com/article/19/9/linux-terminal-colors
+
+## Firmware update
+
+* [fwupdmgr](https://itsfoss.com/update-firmware-ubuntu/)

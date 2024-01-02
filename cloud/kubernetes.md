@@ -518,6 +518,8 @@
 * pulumi
   + https://github.com/pulumi/pulumi
 * [karpenter](https://github.com/aws/karpenter)
+* [launchpad](https://www.jetpack.io/launchpad)
+  + https://www.jetpack.io/launchpad/docs/getting-started/how-launchpad-works/
 
 ### kubernetes and openshift package managers and configuration management
 

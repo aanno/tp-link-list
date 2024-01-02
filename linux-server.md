@@ -77,6 +77,11 @@
 * [TrueNAS Scale](https://www.truenas.com/truenas-scale/) linux-based NAS, openzfs, and containers
   + [TrueCharts](https://truecharts.org/manual/SCALE/guides/scale-intro/) helm charts for TrueNAS Scale
 
+#### QNAP
+
+* https://www.qnap.com/en/how-to/tutorial/article/qpkg-development-guidelines
+* https://github.com/qeek-dev/create-dpkg
+
 #### Home-page automation (server start page)
 
 Here, there screenshots are also interesting for looking what others are hosting...
