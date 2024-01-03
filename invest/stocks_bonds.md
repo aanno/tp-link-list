@@ -50,15 +50,14 @@
   + https://www.parqet.com/blog/parqet-vs-portfolio-performance
 * https://www.finanzen.net/echtgeld/banksearch?createUser=true
 
-## Software
+## Accounting Software
 
 * https://alternativeto.net/software/jgnash/
 * https://alternative.me/jgnash
 
+### personal finance software
+
 * https://jgnash.github.io/ java, personal finance
-* https://ghostfol.io/en/start dashboard for your personal finances
-* https://www.portfolio-performance.info/en/ overall performance of an investment portfolio, eclipse java
-* https://gitlab.com/ywiyogo/assetfolio C++
 * https://code.gnucash.org/website/
   + https://github.com/Gnucash/gnucash
   + https://www.gnucash.org/viewdoc.phtml
@@ -69,3 +68,15 @@
     - https://hledger.org/ledger.html
   + https://beancount.github.io/
 
+### portfolio management software
+
+* https://ghostfol.io/en/start dashboard for your personal finances
+* https://www.portfolio-performance.info/en/ overall performance of an investment portfolio, eclipse java
+* https://gitlab.com/ywiyogo/assetfolio C++
+
+### general accounting (but smaller than ERP)
+
+* https://akaunting.com/ php, featured!
+  + https://github.com/akaunting/akaunting
+* https://github.com/abivia/ledger php
+* https://github.com/idurar/idurar-erp-crm js, mongodb

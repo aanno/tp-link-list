@@ -18,8 +18,9 @@
 
 ## Visualization
 
-* https://github.com/apache/superset (data analysis, graphs)
-* https://github.com/getredash/redash (social visualization)
+* https://elise-deux.medium.com/the-list-of-graph-visualization-libraries-7a7b89aab6a6
+* https://speckyboy.com/open-source-javascript-data-chart-libraries/
+
 * https://observablehq.com/ (web services)
 * [kitware open source](https://www.kitware.com/open-source/)
   + https://vtk.org/ Process images and create 3D computer graphics
@@ -27,6 +28,34 @@
   + https://trame.kitware.com/ Visual Analytics (in Browser)
   + https://www.paraview.org/ post-processing visualization engine
     - https://pvw.kitware.com/ paraviewweb
+
+### Interactive Visualization and Analysis (like Tableau)
+
+* https://docs.kanaries.net/articles/tableau-open-source-alternatives
+* https://hevodata.com/learn/tableau-open-source/
+* https://nikkilopez2.medium.com/top-5-free-open-source-alternatives-to-tableau-for-data-analytics-ff67350a5db8
+
+#### Interactive Visualization software
+
+* [superset](https://superset.apache.org/) featured! (data analysis, graphs)
+* [RATH](https://kanaries.net/home?ref=docs)
+  + https://github.com/kanaries/rath
+* [graphic walker](https://github.com/Kanaries/graphic-walker)
+  + https://docs.kanaries.net/graphic-walker
+* [redash](https://github.com/getredash/redash) (social visualization)
+* [metabase](https://www.metabase.com/)
+* [knime](https://www.knime.com/knime-analytics-platform)
+* [rill](https://github.com/rilldata/rill) dashboards for data lakes, based on duckdb
+* [perspective](https://perspective.finos.org/) interactive analytics and data visualization component in js
+* [rawgraphs](https://www.rawgraphs.io/)
+* [grafana](https://grafana.com/)
+* [interactive pivot table](https://pivottable.js.org/examples/)
+  + https://en.wikipedia.org/wiki/Pivot_table
+* [knowage suite](https://www.knowage-suite.com/site/licensing/community-edition/) semi-commercial
+  + https://github.com/KnowageLabs/Knowage-Server
+* [qlikview](https://www.qlik.com/de-de/products/qlikview) commercial
+* [plotly dash](https://plotly.com/dash/) commercial
+* [scichart](https://www.scichart.com/javascript-chart-features/) commercial, WebGL & WebAssembly in the browser
 
 ### Plots and Charts
 
@@ -43,6 +72,9 @@ see also: dsl.md -> Visualization
 * [XChart](https://knowm.org/open-source/xchart/)
 * [Chart Construction Kit](https://jcckit.sourceforge.net/) old
 * [krayon](https://github.com/JuulLabs/krayon) kotlin, low-level
+* [EvilPlot](https://cibotech.github.io/evilplot/) scala combinators for graphics
+  + https://cibotech.github.io/evilplot/plot-catalog.html
+  + https://medium.com/@CiboEng/evilplot-a-combinator-based-plotting-library-for-scala-4531f00208
 
 #### Julia
 

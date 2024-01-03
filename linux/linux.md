@@ -617,6 +617,7 @@ It is _not_ possible to recover the public key stored on nitro, see
 * [kernel args](https://docs.fedoraproject.org/en-US/fedora-coreos/kernel-args/)
   + [control group v2](https://www.kernel.org/doc/html/latest/admin-guide/cgroup-v2.html)
 * [example with firewall](https://www.portainer.io/blog/from-zero-to-production-with-fedora-coreos-portainer-and-wordpress-in-7-easy-steps)
+* [add user manually](https://github.com/endocode/coreos-docs/blob/master/os/adding-users.md) is this really true/relevant
 
 ##### Based on Fedora CoreOS
 

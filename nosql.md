@@ -1,4 +1,6 @@
-# No SQL
+# No SQL (nosql db)
+
+See also: olap-analytics.md
 
 * http://nosql-database.org/
 * https://de.wikipedia.org/wiki/NoSQL
@@ -13,6 +15,8 @@
   + https://github.com/Unidata/thredds-docker
 * https://rethinkdb.com/ (abadonned?)
   + https://github.com/rethinkdb/rethinkdb
+* https://couchdb.apache.org/
+  + https://pouchdb.com/
 
 ### Key-Value
 

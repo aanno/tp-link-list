@@ -52,6 +52,7 @@
 
 * [what is yarn](https://blog.cloudera.com/apache-hadoop-yarn-concepts-and-applications/)
 * [parquet - columnar storage format](https://parquet.apache.org/)
+  + https://parquet.apache.org/docs/
 * [impala - analytic db for hadoop](https://impala.apache.org/)
 * [kudu - distributed data storage engine](https://kudu.apache.org/) (with impala integration)
 * [ozone - object store for hadoop](https://ozone.apache.org/)

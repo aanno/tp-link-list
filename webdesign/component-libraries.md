@@ -106,5 +106,5 @@
 
 ### in angular
 
-* [angular data grid(https://www.telerik.com/blogs/using-angular-material-build-data-grid)
+* [angular data grid](https://www.telerik.com/blogs/using-angular-material-build-data-grid)
 * [angular performance of lists](https://www.thecodecampus.de/blog/optimize-the-performances-of-large-lists-in-your-angular-application/)

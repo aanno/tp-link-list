@@ -88,3 +88,19 @@
 * https://ballerina.io/usecases/ai/
   + https://ballerina.io/
   + https://camunda.com/blog/2022/09/seven-best-programming-languages-for-microservices/
+
+## Mojo - usability of Python with the performance of C
+
+* https://www.modular.com/max/mojo
+  + https://docs.modular.com/mojo/manual/get-started/
+  + https://docs.modular.com/mojo/manual/python/ python compatibility
+  + https://www.modular.com/max#max-editions commercial offer
+
+## MS semantic kernel
+
+Use Large Language Models (LLMs) like OpenAI, Azure OpenAI, and Hugging Face with conventional programming languages like C#, Python, and Java.
+
+* https://github.com/microsoft/semantic-kernel
+* [blog](https://devblogs.microsoft.com/semantic-kernel/)
+* [plugins](https://devblogs.microsoft.com/semantic-kernel/skills-to-plugins-fully-embracing-the-openai-plugin-spec-in-semantic-kernel/)
+* [roadmap for v1](https://devblogs.microsoft.com/semantic-kernel/what-to-expect-from-v1-and-beyond-for-semantic-kernel/)

@@ -82,6 +82,13 @@
 * https://github.com/salesforce/TransmogrifAI
   + https://engineering.salesforce.com/open-sourcing-transmogrifai-4e5d0e098da2?gi=1691eec59f35
 
+## Stan
+
+state-of-the-art platform for statistical modeling and high-performance statistical computation
+
+* https://mc-stan.org/
+  + https://www.cibotechnologies.com/blog/scalastan-and-evilplot-bayesian-statistics-meets-combinator-based-visualization/
+
 ## Blogs
 
 * https://ai.googleblog.com/

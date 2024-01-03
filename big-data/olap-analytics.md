@@ -1,5 +1,7 @@
 # OLAP and analytics
 
+* https://sourceforge.net/software/product/Apache-Parquet/alternatives
+
 ## SQL
 
 * https://trino.io/
@@ -8,20 +10,27 @@
   + [presto is now trino](https://trino.io/blog/2020/12/27/announcing-trino.html)
   + https://ahana.io/ (commercial support for presto)
   + [AWS athena _is_ presto](https://ahana.io/blog/aws-athena-alternatives/)
+  + https://github.com/prestodb/presto
 * [OmniSciDB aka MapD - GPU accelerated RDB](https://github.com/omnisci/omniscidb)
   + https://docs.omnisci.com/v5.3.0/index.html
   + https://www.omnisci.com/
+* https://www.monetdb.org/ hybrid transactional/analytical processing
+* https://kudu.apache.org/ distributed data storage engine that makes fast analytics on fast and changing data easy
+  + https://kudu.apache.org/overview.html
 
-## No-SQL
+## No-SQL (nosql)
 
 * https://en.wikipedia.org/wiki/Comparison_of_OLAP_servers
 * https://druid.apache.org/use-cases
 * https://kylin.apache.org/
 * https://pinot.apache.org/
 * [no-sql distributed query engine](https://drill.apache.org/)
+* http://duckdb.org/ in-process SQL OLAP database
 
 ## Data Lake
 
+* [delta lake](https://github.com/delta-io/delta) featured! in scala for Spark, PrestoDB, Flink, Trino, and Hive
+  + https://delta.io/
 * https://kylo.io/ (open source data lake management)
 * https://www.dremio.com/open-source/
   + https://arrow.apache.org/ in-memory analytics
