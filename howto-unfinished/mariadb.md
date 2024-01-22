@@ -42,8 +42,37 @@ FLUSH PRIVILEGES;
 
 ## Backup and Restore
 
+Backup:
+
+```bash
+mariadb-dump --single-transaction --default-character-set=utf8mb4 -h [server] -u [username] -p[password] [db_name] > nextcloud-sqlbkp_`date +"%Y%m%d"`.bak
+```
+
+* depending on the engine, you need `--lock-tables` instead of `--single-transaction`
+* perhaps you also need `--routines --triggers --events --compress` ?
+* if you want to backup all-in-one: `--all-databases`
+
+## Restore
+
+```bash
+mysql -h [server] -u [username] -p[password] [db_name] < nextcloud-sqlbkp.bak
+```
+
+### Backup and Restore References
+
+* https://docs.nextcloud.com/server/latest/admin_manual/maintenance/backup.html featured!
+* https://docs.nextcloud.com/server/latest/admin_manual/maintenance/restore.html
+* https://mariadb.com/kb/en/making-backups-with-mariadb-dump/
 * https://mariadb.com/kb/en/backup-and-restore-overview/
+* https://dba.stackexchange.com/questions/19532/safest-way-to-perform-mysqldump-on-a-live-system-with-active-reads-and-writes
+* https://stackoverflow.com/questions/49379538/how-take-mysqldump-with-utf8
+* https://mariadb.com/kb/en/mariadb-dump/ (ref for mariadb-dump)
+* https://mariadb.com/kb/en/restoring-data-from-dump-files/
 * [physical backup](https://mariadb.com/kb/en/full-backup-and-restore-with-mariabackup/) _not_ recommended
+
+## Character Sets and Collations
+
+* https://mariadb.com/kb/en/setting-character-sets-and-collations/
 
 ## Container (docker, podman)
 
@@ -84,6 +113,7 @@ podman logs mariadb
   + https://www.educba.com/mariadb-add-user/
 * [list users](https://www.cyberciti.biz/faq/how-to-show-list-users-in-a-mysql-mariadb-database/)
 * [root password](https://www.ibm.com/docs/en/spectrum-lsf-rtm/10.2.0?topic=ssl-configuring-default-root-password-mysqlmariadb)
+* [Character Sets and Collations](https://mariadb.com/kb/en/setting-character-sets-and-collations/)
 
 ```bash
 ```

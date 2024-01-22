@@ -59,3 +59,19 @@
 * https://github.com/sagioto/maven2gradle
 * [gradle-maven-exec-plugin](https://github.com/dkorotych/gradle-maven-exec-plugin)
 * [gradle-pom-plugin](https://github.com/xvik/gradle-pom-plugin)
+
+### Gradle
+
+* [kotlin dsl overview](https://docs.gradle.org/current/userguide/kotlin_dsl.html)
+* [toolchains](https://docs.gradle.org/current/userguide/toolchains.html) separate gradle jvm and build jvm
+* [gradle properties](https://docs.gradle.org/current/userguide/build_environment.html)
+* [kotlin dsl reference](https://docs.gradle.org/current/kotlin-dsl/gradle/org.gradle.api/-project/file-tree.html)
+
+#### Important Gradle Plugins
+
+* [foojay](https://github.com/gradle/foojay-toolchains) download the right jvm for project
+  + https://plugins.gradle.org/plugin/org.gradle.toolchains.foojay-resolver-convention
+  + [disco api](https://github.com/foojayio/discoapi)
+* [idea](https://docs.gradle.org/current/userguide/idea_plugin.html)
+* [jvm test suite](https://docs.gradle.org/current/userguide/jvm_test_suite_plugin.html) model multiple groups of automated tests (i.e. suites)
+

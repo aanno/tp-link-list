@@ -7,6 +7,12 @@
 * http://www.faz.net/aktuell/feuilleton/kunst/lorenzo-mattotti-in-basel-meister-der-schwarzen-kunst-15440761.html
 * https://taz.de/Flix-Comic-Held/!5971849/
 
+## Cartoons
+
+* https://www.t-online.de/nachrichten/id_85730132/bilder/cartoons-von-mario-lars.html
+* https://www.idioten-die-im-weg-stehen.com 
+* https://joscha.com/ (nicht lustig)
+
 ### Lesen
 
 * https://lcb.de/skizzenblog/bruno-giannori-doppler-effekt/ 24h Comics

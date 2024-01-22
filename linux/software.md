@@ -190,6 +190,8 @@
   + https://docs.nextcloud.com/server/latest/admin_manual/configuration_server/reverse_proxy_configuration.html)
   + https://github.com/mwalbeck/docker-nextcloud-notify-push
   + https://github.com/nextcloud/richdocuments
+* [snappy nextcloud](https://github.com/nextcloud-snap/nextcloud-snap) nextcloud as snap
+  + [client push for snappy nextcloud](https://github.com/nextcloud-snap/nextcloud-snap/wiki/Configure-HPB-client-push-for-Nextcloud-snap)
 * https://www.slant.co/topics/1882/~open-source-alternatives-to-resilio
   + https://syncthing.net/
     - https://linuxctl.com/2017/04/syncthing---why-you-should-be-using-it/
@@ -373,6 +375,25 @@
 * https://goneuland.de/mailcow-e-mail-komplettsytem-mit-antivirus-spam-filer-webmail-webfrontend-installieren-mittels-docker-und-traefik/
   + https://www.servercow.de/mailcow
   + https://mailcow.email/
+
+### MessagePack, compress and uncompress eml files
+
+* https://msgpack.org/ overviews, meta, implementations, featured!
+
+* https://github.com/ludocode/mpack c-lang, tool, featured!
+  + https://ludocode.github.io/mpack/
+* https://github.com/hannob/uudeview c-lang, tool
+* https://github.com/FrugalTPH/mail-parser c#, tool
+* https://github.com/inflex/ripMIME c-lang, tool, ?only attachments?
+  + https://pldaniels.com/ripmime/
+* https://github.com/jgru/mailworm python, tools, ?only meta?
+
+#### MessagePack Libs
+
+* https://github.com/msgpack/msgpack-c c-lang
+  + https://github.com/msgpack/msgpack-c/wiki/v2_0_cpp_unpacker
+* https://github.com/ludocode/mpack c-lang
+* https://github.com/libmpack/libmpack c-lang
 
 ## Aggregators, news reader, RSS/ATOM, podcast
 
