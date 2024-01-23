@@ -18,6 +18,18 @@
 
 ## Java centered
 
+### Jar repos
+
+* [jitpack](https://jitpack.io/) Easy to use package repository for Git
+* [mvnrepository](https://mvnrepository.com/) maven jar repo search
+* [sonatype maven search](https://search.maven.org/?eh=)
+
+### Source code formatting
+
+* [spotless](https://github.com/diffplug/spotless) format 
+  antlr | c | c# | c++ | css | flow | graphql | groovy | html | java | javascript | json | jsx | kotlin | less | license headers | markdown | objective-c | protobuf | python | scala | scss | shell | sql | typeScript | vue | yaml | anything 
+  using gradle | maven | sbt | anything
+
 ### Maven
 
 * https://blog.sonatype.com/2011/01/maven-how-to-merging-plugin-configuration-in-complex-projects/
@@ -74,4 +86,5 @@
   + [disco api](https://github.com/foojayio/discoapi)
 * [idea](https://docs.gradle.org/current/userguide/idea_plugin.html)
 * [jvm test suite](https://docs.gradle.org/current/userguide/jvm_test_suite_plugin.html) model multiple groups of automated tests (i.e. suites)
+* [ktlint-gradle](https://github.com/JLLeitschuh/ktlint-gradle) ktlint for kotlin
 

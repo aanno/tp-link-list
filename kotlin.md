@@ -14,6 +14,23 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 
 * https://www.47deg.com/blog/technical/ kotlin, arrow, scala
 
+## documentation kotlin
+
+* [kdoc](ttps://kotlinlang.org/docs/kotlin-doc.html) kotlin's 'javadoc'
+  + [kdoc overview](https://www.baeldung.com/kotlin/kdoc)
+* [dokka](https://kotlinlang.org/docs/dokka-introduction.html) API documentation
+  + [dokka on github](https://github.com/Kotlin/dokka)
+* [kdocify idea plugin](https://plugins.jetbrains.com/plugin/22727-kdocify--kotlin-doc-generator)
+* [kotlinx.knit](https://github.com/Kotlin/kotlinx-knit) Kotlin source example files and tests from markdown documents with embedded snippets of Kotlin code
+* [orchid](https://orchid.run/) doc server (for kotlin, java, swift, and ?scala?)
+  + [quick start](https://orchid.run/wiki/user-manual/getting-started/quickstart)
+  + [orchid manual](https://orchid.run/wiki/user-manual/getting-started)
+  + [orchid kotlin howto](https://orchid.run/wiki/learn/tutorials/how-to-document-kotlin)
+  + [orchid on github](https://github.com/orchidhq/orchid)
+  + [orchid plugins](https://orchid.run/plugins/orchidcore)
+    - https://orchid.run/plugins/orchidkotlindoc
+    - https://orchid.run/plugins/orchidsearch
+
 ## Coroutines
 
 * https://dzone.com/articles/concurrency-java-futures-and-kotlin-coroutines
@@ -100,7 +117,7 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 * https://github.com/Yegair/kotlin-angular
 * Or: compile -> TeaVM
 
-## Kotlin Multiplatform
+## Kotlin Multiplatform (mpp)
 
 ### Kotlin Mutliplarm Execution and Memory Model
 
@@ -115,15 +132,6 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 * [Corbind](https://github.com/LDRAlighieri/Corbind) Android UI events to Flow, ReceiveChannels, and Actors
 * [alternative to Corbind](https://github.com/satoshun/CoroutineBinding)
 * [html testing and parsing](https://github.com/skrapeit/skrape.it)
-* [arrow](https://arrow-kt.io/docs/core/) - functional library
-  + https://github.com/arrow-kt/arrow
-  + [arrow monad comprehensions](https://arrow-kt.io/docs/patterns/monad_comprehensions/)
-  + [arrow and coroutines](https://arrow-kt.io/docs/fx/coroutines/)
-  + [Why suspend () -> A instead of IO<A>](https://arrow-kt.io/docs/effects/io/) featured!
-  + https://arrow-kt.io/docs/fx/parallel/
-  + https://arrow-kt.io/docs/core/
-    - https://arrow-kt.io/docs/apidocs/arrow-core/arrow.core.continuations/-effect/
-  + https://www.47deg.com/blog/arrow-v1-01-3-release/
 * [kotlinx-atomicfu](https://github.com/Kotlin/kotlinx-atomicfu)
 * [exposed - kotlin orm](https://github.com/JetBrains/Exposed)
 * [xmlutil](https://github.com/pdvrieze/xmlutil)
@@ -163,6 +171,79 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 
 ### Kotlin compilier plugins
 
-* https://kotlinlang.org/docs/ksp-overview.html
+* https://kotlinlang.org/docs/ksp-overview.html Kotlin Symbol Processing (KSP) is an API that you can use to develop lightweight compiler plugins
   + https://github.com/google/ksp
 * https://arrow-kt.io/docs/meta/analysis/
+* https://kotlinlang.org/docs/sam-with-receiver-plugin.html compiler plugins shipped with kotlin
+
+### Kotlin pure functional programming (pfp, arrow)
+
+Kotlin multi platform FPF
+
+* [arrow kt](https://arrow-kt.io/learn/overview/)
+  + [summary](https://arrow-kt.io/learn/summary/)
+  + [typed errors and validation](https://arrow-kt.io/learn/typed-errors/)
+  + [High-level concurrency](https://arrow-kt.io/learn/coroutines/parallel/)
+    - [kolinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
+    - [flow](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/-flow/)
+  + [resilience](https://arrow-kt.io/learn/resilience/intro/)
+  + [immutable data, optics and lenses](https://arrow-kt.io/learn/immutable-data/intro/)
+    - [kotlinx.serialization.jsonpath](https://github.com/nomisRev/kotlinx-serialization-jsonpath)
+  + [serialization gotchas](https://arrow-kt.io/learn/quickstart/serialization/)
+  + [arrow-kt core on github](https://github.com/arrow-kt/arrow)
+* [arrow analysis](https://arrow-kt.io/ecosystem/analysis/quickstart/) static analyzer compile time plugin, 
+  including support for pre and post conditions
+* [arrow suspendapp](https://arrow-kt.io/ecosystem/suspendapp/) graceful shutdown without resource leaks,
+  including kafka and ktor support
+* [quiver](https://github.com/cashapp/quiver) make functional programming in Kotlin even more accessible
+* [libs based on arrow](https://arrow-kt.io/libraries/)
+
+#### arrow ecosystem
+
+* [inikio](https://github.com/serras/inikio) Initial-style DSL (monadic) made easy
+  + http://serranofp.com/inikio/
+* [arrow-exact](https://github.com/arrow-kt/arrow-exact) easy smart constructors for restricted types
+* [arrow-tracing](https://github.com/arrow-kt/arrow-tracing) distributed tracing based on opentracing/jvm
+* [arrow-reflection](https://github.com/arrow-kt/arrow-reflection) meta programming for kotlin/arrow
+* [kopykat](https://github.com/kopykat-kt/kopykat) alternative to optics and lenses
+* [arrow-gradle-config](https://github.com/arrow-kt/arrow-gradle-config) gradle template for mpp
+
+#### fundaments of arrow
+
+* https://blog.rockthejvm.com/kotlin-context-receivers/
+* https://xebia.com/blog/the-suspend-receivers-style-in-kotlin/
+* https://arrow-kt.io/learn/design/effects-contexts/
+* https://arrow-kt.io/learn/design/receivers-flatmap/
+* https://arrow-kt.io/learn/design/suspend-io/
+
+#### old arrow
+
+Arrow has formerly been more in line with PFP of other languages (haskell, 
+scala). However this effort was surrendered in favour of a kotlin specific
+way to handle PFP.
+
+Old docs are currently still available:
+
+* [arrow](https://arrow-kt.io/docs/core/) - functional library
+  + https://github.com/arrow-kt/arrow
+  + [arrow monad comprehensions](https://old.arrow-kt.io/docs/patterns/monad_comprehensions/) old arrow
+  + [arrow and coroutines](https://old.arrow-kt.io/docs/fx/coroutines/)
+  + [Why suspend () -> A instead of IO<A>](https://old.arrow-kt.io/docs/effects/io/) featured!
+  + https://old.arrow-kt.io/docs/fx/parallel/
+  + https://old.arrow-kt.io/docs/core/
+    - https://old.arrow-kt.io/docs/apidocs/arrow-core/arrow.core.continuations/-effect/
+  + https://www.47deg.com/blog/arrow-v1-01-3-release/
+* [migration to arrow 2.0](https://arrow-kt.io/learn/quickstart/migration/)
+* [openrewrite recipe to arrow 2.0](https://github.com/arrow-kt/rewrite-arrow)
+
+### Kotlin Testing
+
+* [kotlin.test](https://kotlinlang.org/api/latest/kotlin.test/)
+* [kotest](https://kotest.io/) Framework Extensions Assertions Property Testing Intellij Plugin
+  + [quick start](https://kotest.io/docs/quickstart/)
+  + [bald](https://www.baeldung.com/kotlin/kotest)
+  + [property testing](https://kotest.io/docs/proptest/property-based-testing.html)
+
+#### fundaments of kotlin testing
+
+* https://phauer.com/2018/best-practices-unit-testing-kotlin/

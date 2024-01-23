@@ -20,6 +20,7 @@ prinzipiell der klassischen Programmierung überlegen ist.
 * Ternary operator
   + https://stackoverflow.com/questions/2705920/how-to-define-a-ternary-operator-in-scala-which-preserves-leading-tokens
   + https://stackoverflow.com/questions/4947535/ternary-operator-similar-to/4949295
+* https://rockthejvm.com/ great content for Scala, Kotlin, Spark, Flink, ZIO, Akka, featured!
   
 ### Using together with Java 8
 
