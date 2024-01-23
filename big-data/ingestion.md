@@ -92,8 +92,10 @@ see also: dsl.md -> Visualization
 * https://pandas.pydata.org/
   + https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html
   + https://www.geeksforgeeks.org/adding-new-column-to-existing-dataframe-in-pandas/
-* [arrow](https://arrow.apache.org/docs/index.html) alternative to panda, cross platform
+* [arrow](https://arrow.apache.org/docs/index.html) alternative to panda, cross platform and for 
+  C, C++, C#, Go, Java, JavaScript, Julia, MATLAB, Python, R, Ruby, and Rust
   + https://arrow.apache.org/docs/python/csv.html
+  + https://github.com/apache/arrow
 * https://docs.dask.org/en/latest/
 * https://github.com/quiltdata/quilt versioned big data on s3
   + https://open.quiltdata.com/

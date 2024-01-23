@@ -69,11 +69,13 @@
 * [arrows](https://www.haskell.org/arrows/)
   + https://hackage.haskell.org/package/base-4.17.0.0/docs/Control-Arrow.html
   + https://en.m.wikibooks.org/wiki/Haskell/Arrow_tutorial
+* [applicative operators](https://stackoverflow.com/questions/3242361/what-is-called-and-what-does-it-do) (<*>)
 
 ### free learning
 
 * [Hask](https://smunix.github.io/dev.stephendiehl.com/hask/index.html) What I Wish I Knew When Learning Haskell - featured!
 * [real world haskell](https://book.realworldhaskell.org/) 2008
+* [from first principles](https://haskellbook.com/) commercial
 
 * [ghcup](https://www.haskell.org/ghcup/install/#manual-installation)
   + [stack](https://docs.haskellstack.org/en/stable/)

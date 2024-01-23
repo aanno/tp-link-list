@@ -87,4 +87,5 @@
 * [idea](https://docs.gradle.org/current/userguide/idea_plugin.html)
 * [jvm test suite](https://docs.gradle.org/current/userguide/jvm_test_suite_plugin.html) model multiple groups of automated tests (i.e. suites)
 * [ktlint-gradle](https://github.com/JLLeitschuh/ktlint-gradle) ktlint for kotlin
+* [scala plugin](https://docs.gradle.org/current/userguide/scala_plugin.html)
 

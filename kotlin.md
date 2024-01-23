@@ -100,7 +100,20 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 * [kotlin-html - server jvm dsl](https://github.com/celtric/kotlin-html)
 * [sqldelight - type SQL](https://github.com/cashapp/sqldelight)
 
-### Server
+### Injection frameworks
+
+* [dagger](https://dagger.dev/) fully static, compile-time dependency injection framework for Java, Kotlin, and Android
+  + [hilt](https://dagger.dev/hilt/)
+    - [hilt-android](https://developer.android.com/training/dependency-injection/hilt-android)
+
+## Metadata
+
+* [@Metadata](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-metadata/) present on any class file produced by the Kotlin compiler and is read by the compiler and reflection
+* [kotlinx-metadata](https://github.com/JetBrains/kotlin/tree/master/libraries/kotlinx-metadata) platform-agnostic part of the Kotlin Metadata library
+  + [kotinx-metadata-jvm](https://kotlinlang.org/api/kotlinx-metadata-jvm/kotlinx-metadata-jvm/kotlinx.metadata/)
+  + https://github.com/JetBrains/kotlin/blob/master/libraries/kotlinx-metadata/jvm/ReadMe.md
+
+## Server
 
 * https://github.com/kotlin/ktor (server, microservices)
   + https://ktor.io/docs/compression.html#configure_content_type
@@ -108,7 +121,7 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 * https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0
 * https://dzone.com/articles/kotlin-guice-example (guice)
 
-#### Vert.x
+### Vert.x
 
 * https://github.com/kohesive/kovert (REST)
 
@@ -197,6 +210,13 @@ Kotlin multi platform FPF
   including kafka and ktor support
 * [quiver](https://github.com/cashapp/quiver) make functional programming in Kotlin even more accessible
 * [libs based on arrow](https://arrow-kt.io/libraries/)
+* [moebius](https://spotify.github.io/mobius/concepts/) PFP redux pattern
+  + https://github.com/spotify/mobius
+
+#### learn Kotlin PFP
+
+* [fpk-materials](https://github.com/kodecocodes/fpk-materials)
+  + [Functional Programming in Kotlin by Tutorials](https://www.kodeco.com/books/functional-programming-in-kotlin-by-tutorials)
 
 #### arrow ecosystem
 
@@ -222,6 +242,9 @@ Arrow has formerly been more in line with PFP of other languages (haskell,
 scala). However this effort was surrendered in favour of a kotlin specific
 way to handle PFP.
 
+Old code has used kapt processing for compile time annotation processing.
+This is all gone now (and optics uses KSP).
+
 Old docs are currently still available:
 
 * [arrow](https://arrow-kt.io/docs/core/) - functional library
@@ -233,8 +256,12 @@ Old docs are currently still available:
   + https://old.arrow-kt.io/docs/core/
     - https://old.arrow-kt.io/docs/apidocs/arrow-core/arrow.core.continuations/-effect/
   + https://www.47deg.com/blog/arrow-v1-01-3-release/
+* [Function Programming in Kotlin](https://github.com/fpinkotlin/fpinkotlin) manning book
+  + https://github.com/eureka84/functional-programming-in-kotlin-book-exercise
 * [migration to arrow 2.0](https://arrow-kt.io/learn/quickstart/migration/)
 * [openrewrite recipe to arrow 2.0](https://github.com/arrow-kt/rewrite-arrow)
+* [For-Comprehension Free Monads in Kotlin - Mini Howto](https://gist.github.com/PhBastiani/26d8734ff33001cb0304df337ea936a1) featured!
+* https://abdulkj.medium.com/idiomatic-validation-in-kotlin-using-applicatives-911035cda9b6
 
 ### Kotlin Testing
 
@@ -247,3 +274,14 @@ Old docs are currently still available:
 #### fundaments of kotlin testing
 
 * https://phauer.com/2018/best-practices-unit-testing-kotlin/
+
+### Static Code Analysis
+
+#### Detekt
+
+* [detekt](https://detekt.dev/docs/intro)
+  + [quick start gradle](https://detekt.dev/docs/gettingstarted/gradle/)
+  + [type resolution](https://detekt.dev/docs/gettingstarted/type-resolution/#is-my-rule-using-type-resolution) experimental feature
+  + [marketplace for rules](https://detekt.dev/marketplace/)
+  + [detekt.yml file from github](https://github.com/detekt/detekt/blob/main/config/detekt/detekt.yml)
+* [detekt rules for arrow](https://github.com/woltapp/arrow-detekt-rules) find missing calls to `.bind()`

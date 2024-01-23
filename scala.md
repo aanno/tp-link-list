@@ -21,6 +21,9 @@ prinzipiell der klassischen Programmierung überlegen ist.
   + https://stackoverflow.com/questions/2705920/how-to-define-a-ternary-operator-in-scala-which-preserves-leading-tokens
   + https://stackoverflow.com/questions/4947535/ternary-operator-similar-to/4949295
 * https://rockthejvm.com/ great content for Scala, Kotlin, Spark, Flink, ZIO, Akka, featured!
+* [scalacenter](https://scala.epfl.ch/)
+  + https://github.com/scalacenter
+* [scala home page](https://www.scala-lang.org/)
   
 ### Using together with Java 8
 
@@ -54,6 +57,8 @@ prinzipiell der klassischen Programmierung überlegen ist.
 * https://github.com/scala/scala-xml/wiki/XML-Processing
 * [scalafix](https://scalacenter.github.io/scalafix/) refactoring and linting tool
 * [magnolia](https://github.com/softwaremill/magnolia) automatic type classes for case classes and enum on JVM, Node.js, and Native
+* [metals](https://scalameta.org/metals/) scala language server
+* [scastie](https://scastie.scala-lang.org/) try scala in browser
 
 ## Libs
 
@@ -102,6 +107,24 @@ prinzipiell der klassischen Programmierung überlegen ist.
 * http://www.scala-sbt.org/0.13/docs/sbt-new-and-Templates.html
 
 * https://chris-martin.org/2015/gradle-scala-repl
+
+### Build systems
+
+* [sbt](https://www.scala-sbt.org/)
+  + https://github.com/sbt/sbt
+  + [sbt-coursier](https://get-coursier.io/docs/sbt-coursier)
+    - [coursier](https://get-coursier.io/) Pure Scala Artifact Fetching
+* [mill](https://mill-build.com/mill/Intro_to_Mill.html)
+  + [mill on github](https://github.com/com-lihaoyi/mill)
+* [bloop](https://scalacenter.github.io/bloop/)
+  + https://github.com/scalacenter/bloop
+* [pantsbuild](https://www.pantsbuild.org/) Python-based for Python, Go, Java, Scala, Kotlin, Shell, and Docker
+  + https://github.com/pantsbuild/pants
+* [scala rules for bazel](https://github.com/higherkindness/rules_scala)
+
+## Compiler
+
+* [zinc](https://github.com/sbt/zinc) scala incremental compiler (from sbt)
 
 ## Language features
 
