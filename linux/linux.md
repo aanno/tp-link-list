@@ -720,6 +720,7 @@ It is _not_ possible to recover the public key stored on nitro, see
   + https://wiki.archlinux.org/index.php/systemd/User
   + https://wiki.ubuntuusers.de/systemd/User_Units/
 * [timers](https://wiki.archlinux.de/title/Systemd/Timers) alternative to crond
+* [list failed units](https://www.cyberciti.biz/faq/systemd-systemctl-list-all-failed-units-services-on-linux/)
 
 ### alternatives to systemd
 
@@ -797,3 +798,10 @@ It is _not_ possible to recover the public key stored on nitro, see
 ## Firmware update
 
 * [fwupdmgr](https://itsfoss.com/update-firmware-ubuntu/)
+
+## Linux Power Management
+
+* [powertop with systemd](https://wiki.archlinux.org/title/powertop)
+* [alternatives to powertop](https://getalternative.net/software/powertop)
+* [tools to measure power consumption](https://luiscruz.github.io/2021/07/20/measuring-energy.html)
+* [likwid](https://hpc.fau.de/research/tools/likwid/)

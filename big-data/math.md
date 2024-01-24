@@ -18,6 +18,7 @@
 
 * https://datamelt.org/
 * https://octave.org
+  + [number formats](https://stackoverflow.com/questions/40847760/how-to-configure-octave-terminal-to-output-numbers-without-scientific-notation)
 * https://www.scilab.org/
   + https://www.scilab.org/software/xcos
 

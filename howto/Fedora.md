@@ -23,6 +23,17 @@
 - [Top things after installation](http://www.2daygeek.com/top-things-to-do-after-installing-fedora-24-workstation/#)
 - [25 things to do](http://www.tecmint.com/things-to-do-after-fedora-24-workstation-installation/)
 - [Using on libreoffice flatpak](https://whatofhow.wordpress.com/2016/06/01/libreoffice-5-2-beta-flatpak/)
+- [create a br0 bridge with nmcli](https://www.cyberciti.biz/faq/how-to-add-network-bridge-with-nmcli-networkmanager-on-linux/)
+- [usb modeswitch](https://github.com/Danw33/usb-modeswitch)
+  + [use usb modeswitch on boot](https://askubuntu.com/questions/1080944/automatically-use-usb-modeswitch-for-wifi-usb)
+- [long wait on NetworkManager-wait-online](https://networkmanager.dev/docs/api/latest/NetworkManager-wait-online.service.html)
+- [Bluetooth Audio Headsets](https://wiki.archlinux.org/title/bluetooth_headset#Switch_between_HSP/HFP_and_A2DP_setting)
+
+### automount
+
+* [automount with systemd](https://community.hetzner.com/tutorials/automount-filesystems-with-systemd/)
+* [systemd.automount options](https://www.freedesktop.org/software/systemd/man/latest/systemd.automount.html)
+* [systemd.mount options](https://www.freedesktop.org/software/systemd/man/latest/systemd.mount.html)
 
 ## Zusätzliche Repositories
 
