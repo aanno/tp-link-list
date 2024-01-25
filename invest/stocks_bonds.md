@@ -25,6 +25,13 @@
 * https://www.boerse.de/marktberichte/
 * https://www.onvista.de/news/marktberichte
 
+## Indices
+
+### Index Composition
+
+* [Euro Stoxx 50](https://www.boerse.de/gewichtung/Euro-Stoxx-50-Aktien/EU0009658145)
+  + https://de.wikipedia.org/wiki/EURO_STOXX_50
+
 ## Finance Math (Quatitative Finance)
 
 * https://www.bogleheads.org/wiki/Using_open_source_software_for_portfolio_analysis featured!

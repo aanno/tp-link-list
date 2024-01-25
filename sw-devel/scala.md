@@ -9,6 +9,18 @@ Scala ist eine funktionale Alternative zu Java auf der JVM, die mittlerweile in 
 
 prinzipiell der klassischen Programmierung überlegen ist.
 
+## blogs
+
+* [Turing Taco Tales](https://www.turingtaco.com/) Python Scala 3 Haskell CS MOOCs
+
+## fundaments of pure functional programming
+
+* [Typeclass Chronicle: A Series on ADTs](https://www.turingtaco.com/the-typeclass-chronicle-a-series-on-adts/) with code in scala and haskell
+  + [ADTs](https://www.turingtaco.com/algebraic-data-types-structuring-data-in-functional-programming/)
+  + [functors](https://www.turingtaco.com/functors-the-key-to-scalable-functional-code/)
+  + [applicatives](https://www.turingtaco.com/applicatives-cooking-up-compositions-with-ease/)
+  + [monads](https://www.turingtaco.com/monad-mixology-harnessing-composability-for-better-code/)
+
 ## Link lists
 
 * https://github.com/lauris/awesome-scala
@@ -70,6 +82,11 @@ prinzipiell der klassischen Programmierung überlegen ist.
 * [galia - scala 2 data transformation](https://towardsdatascience.com/gallia-a-library-for-data-transformation-3fafaaa2d8b9)
 * https://ammonite.io/ repl shell - great for scala learning
   + https://docs.scala-lang.org/overviews/repl/overview.html simple repl included in scala
+* [scala-cli](https://scala-cli.virtuslab.org/) repl and build tool especially for scala learning
+  + [cheat sheet](https://github.com/yadavan88/ScalaCLI-Cheatsheet)
+  + [Scala CLI Tutorial](https://blog.rockthejvm.com/scala-cli-and-scala-native/)
+  + [scala CLI intro](https://www.baeldung.com/scala/scala-cli-intro)
+  + [setup coursier with cs](https://get-coursier.io/docs/cli-setup)
 * https://github.com/plokhotnyuk/jsoniter-scala macro based json (de)serializer
 * https://sirthias.github.io/borer/ CBOR and JSON (de)serializer
 * [fs](https://github.com/typelevel/fs2) functional streaming

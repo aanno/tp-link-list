@@ -622,7 +622,7 @@
 * https://www.ionos.de/digitalguide/websites/web-entwicklung/continuous-integration-tools/
 * https://anchore.com/blog/5-cicd-platforms-container-technology/
 * https://cloud.redhat.com/blog/top-open-source-ci/cd-tools-for-kubernetes-to-know
-* https://earthly.dev/
+* https://earthly.dev/ container-based solution to CI/CD featured!
   + https://github.com/earthly/earthly
 * https://github.com/orbitalci/orbital
 * https://concourse-ci.org/

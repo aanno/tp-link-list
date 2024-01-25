@@ -262,6 +262,7 @@ Old docs are currently still available:
 * [openrewrite recipe to arrow 2.0](https://github.com/arrow-kt/rewrite-arrow)
 * [For-Comprehension Free Monads in Kotlin - Mini Howto](https://gist.github.com/PhBastiani/26d8734ff33001cb0304df337ea936a1) featured!
 * https://abdulkj.medium.com/idiomatic-validation-in-kotlin-using-applicatives-911035cda9b6
+* [Baeldung on arrow](https://www.baeldung.com/kotlin/arrow)
 
 ### Kotlin Testing
 

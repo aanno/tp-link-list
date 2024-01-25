@@ -280,6 +280,7 @@ Only tools:
 * https://github.com/felipec/git-remote-hg
 * https://www.perforce.com/blog/your-git-repository-database-pluggable-backends-libgit2
 * https://git-secret.io/
+* [pre-commit](https://pre-commit.com/) managing and maintaining multi-language pre-commit hooks
 
 # Copied
 

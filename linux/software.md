@@ -37,6 +37,14 @@
 * [anonymise selective](https://github.com/jamesmcm/vopono)
 * [multi-protocol anonymiser](https://github.com/StreisandEffect/streisand)
 
+### VPN implementations
+
+* [lightway](https://github.com/expressvpn/lightway-core) open source VPN used by https://www.expressvpn.com
+
+### VPN Services
+
+* https://www.expressvpn.com
+
 ### Wireguard
 
 * https://www.wireguard.com/
@@ -59,6 +67,7 @@
   + https://www.mistborn.cloud/impressionen/
   + https://www.buymeacoffee.com/cyber5k
 * [wireguard installer](https://github.com/angristan/wireguard-install) for VPN internet access
+* [wg-easy](https://github.com/wg-easy/wg-easy)
 
 #### wg LAN-to-LAN
 
