@@ -16,6 +16,8 @@
   + Ausgabe kaufen auf https://www.ikiosk.de/
 * https://www.boersen-zeitung.de
 * https://www.boerse-online.de/
+* https://www.alleaktien.de commercial
+* https://www.justetf.com/de/
 
 ## Fundamental Analysis
 
@@ -24,6 +26,12 @@
 * https://www.erste-am.de/de/institutionelle-anleger
 * https://www.boerse.de/marktberichte/
 * https://www.onvista.de/news/marktberichte
+
+## vote proxies
+
+* https://www.dsw-info.de/anlegerschutz/hauptversammlung/stimmrechtsvertretung/
+  + https://betterfinance.eu/de/was-wir-tun/eurovote/
+* https://sdk.org/leistungen/stimmrechtsvertretung/
 
 ## Indices
 

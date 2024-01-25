@@ -277,6 +277,7 @@
   + https://thenewstack.io/alpine-js-brings-javascript-interactivity-without-complexity-to-html/
 * https://mithril.js.org/
 * https://elm-lang.org/
+* https://qooxdoo.org/
 
 ### Components development
 

@@ -130,3 +130,12 @@
 * https://github.com/callemall/material-ui
   + http://www.material-ui.com/#/customization/styles
   + https://stackoverflow.com/questions/39628535/custom-style-object-in-material-ui
+
+## React Native
+
+* [React Native](https://reactnative.dev/) Create native apps for Android, iOS, and more using React
+* [hermes](https://hermesengine.dev/) JS engine for React Native
+  + https://reactnative.dev/docs/hermes
+* [static hermes: compile TS to native](https://medium.com/@gautam1168/compiling-typescript-to-native-code-0238d69ca582)
+  + https://github.com/KusStar/benchmark-static-hermes
+* [NativeScript](https://docs.nativescript.org/) platform APIs directly to the JavaScript runtime (with strong types) 

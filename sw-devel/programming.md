@@ -226,6 +226,8 @@ Only tools:
 ## RPC and Remoting
 
 * https://grpc.io/
+* http://coursera.github.io/courier JSON for JS, Java, and Scala, avro adapter, alternative to openapi
+  + https://github.com/coursera/courier
 
 ### IoC Frameworks
 

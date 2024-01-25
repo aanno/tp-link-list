@@ -26,11 +26,19 @@
 
 * http://www.spiegel.de/lebenundlernen/schule/bayern-auslese-fuers-gymnasium-belastet-grundschueler-und-eltern-a-1145393.html
 
-## Währung
+## Währung und Finanzen
 
 * http://www.anstageslicht.de/themen/wohnen/helikoptergeld/
 * https://www.sueddeutsche.de/wirtschaft/finanzkrise-kosten-deutschland-1.4126273
 * https://www.sueddeutsche.de/wirtschaft/finanzwende-prominenter-gruener-verlaesst-bundestag-und-gruendet-buergerbewegung-1.4126276
+
+### Gegenlobby
+
+* https://www.finanzwende.de/
+* https://taxjustice.net/
+* https://www.taxmenow.eu/
+* https://guterrat.info/
+* https://betterfinance.eu/
 
 ## Verkehr
 

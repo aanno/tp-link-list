@@ -13,6 +13,7 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 ## Blogs
 
 * https://www.47deg.com/blog/technical/ kotlin, arrow, scala
+* https://kt.academy/ learn kotlin
 
 ## documentation kotlin
 
@@ -30,6 +31,15 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
   + [orchid plugins](https://orchid.run/plugins/orchidcore)
     - https://orchid.run/plugins/orchidkotlindoc
     - https://orchid.run/plugins/orchidsearch
+
+## emerging features
+
+### type system
+
+* [no way to define receiver type](https://stackoverflow.com/questions/68919647/kotlin-how-to-explicitly-specify-the-actual-type-of-a-lambda)
+* [ExperimentalTypeInference BuilderInference](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-builder-inference/)
+* [difference between anonymous function and lambda](https://stackoverflow.com/questions/58004914/kotlin-fun-vs-lambda-is-there-difference)
+* [specify both object dispatched and receiver type](https://stackoverflow.com/questions/65349747/in-kotlin-is-it-possible-to-call-a-member-extension-function-specifying-both-th/65376089#65376089)
 
 ## Coroutines
 
@@ -227,6 +237,9 @@ Kotlin multi platform FPF
 * [arrow-reflection](https://github.com/arrow-kt/arrow-reflection) meta programming for kotlin/arrow
 * [kopykat](https://github.com/kopykat-kt/kopykat) alternative to optics and lenses
 * [arrow-gradle-config](https://github.com/arrow-kt/arrow-gradle-config) gradle template for mpp
+* [parsus](https://github.com/alllex/parsus) parser combinator lib implemented with coroutines
+* [hoplite](https://github.com/sksamuel/hoplite) loading configuration files into typesafe classes in a boilerplate-free way
+* [tribune](https://github.com/sksamuel/tribune) parse-and-validate library based on arrow
 
 #### fundaments of arrow
 

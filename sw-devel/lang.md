@@ -144,6 +144,28 @@
 
 * https://dev.to/fabianveal/building-a-rest-api-with-haskell-2d54
 
+### Haskell UI and reactive programming (and events)
+
+* [reative banana](https://wiki.haskell.org/Reactive-banana) old, reactive wx ui
+  + https://github.com/HeinrichApfelmus/reactive-banana
+* [grapefruit](https://wiki.haskell.org/Grapefruit) reactive (gtk) ui
+  + https://hub.darcs.net/jeltsch/grapefruit
+* [threepenny web ui](https://heinrichapfelmus.github.io/threepenny-gui/) _not_ suited as web frontend!
+  + https://github.com/HeinrichApfelmus/threepenny-gui/tree/master/samples#readme
+  + https://github.com/HeinrichApfelmus/threepenny-gui
+
+* [functional reactive programming](https://wiki.haskell.org/Functional_Reactive_Programming)
+* [reactive](https://wiki.haskell.org/Reactive) hybrid demand/data-driven implementation
+  + https://hackage.haskell.org/package/reactive
+* [elerea](https://hackage.haskell.org/package/elerea)
+
+### Effects in Haskell
+
+* [polysemy](https://github.com/polysemy-research/polysemy) high-power, low-boilerplate domain specific languages (as monads), well suited for effects
+  + https://hackage.haskell.org/package/polysemy
+* [effectful](https://github.com/haskell-effectful/effectful) easy to use, fast extensible effects
+  + https://hackage.haskell.org/package/effectful
+
 ### Haskell Concurrency
 
 * https://wiki.haskell.org/Applications_and_libraries/Concurrency_and_parallelism

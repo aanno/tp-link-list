@@ -9,9 +9,7 @@
   + [recipes](https://docs.openrewrite.org/recipes)
   + [rewrite-gradle-plugin](https://github.com/openrewrite/rewrite-gradle-plugin)
     - https://plugins.gradle.org/plugin/org.openrewrite.rewrite
-
-
-
+  + [Baeldung's guide to openrewrite](https://www.baeldung.com/java-openrewrite)
 
 ## Static Analysis of Source Code
 

@@ -21,6 +21,14 @@ prinzipiell der klassischen Programmierung überlegen ist.
   + [applicatives](https://www.turingtaco.com/applicatives-cooking-up-compositions-with-ease/)
   + [monads](https://www.turingtaco.com/monad-mixology-harnessing-composability-for-better-code/)
 
+### relation of PFP, coroutines, and CPS (continuation passing style)
+
+* [Cont - mother of all monads](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/the-mother-of-all-monads) featured!
+* [kotlin coroutines and CPS](https://kt.academy/article/cc-under-the-hood) featured!
+* [operational monad as eager Cont](https://apfelmus.nfshost.com/articles/operational-monad.html)
+* [CPS in haskell](https://en.m.wikibooks.org/wiki/Haskell/Continuation_passing_style)
+* [ContSeq in arrow-kt](https://github.com/arrow-kt/arrow-analysis/blob/main/analysis/common/src/main/kotlin/arrow/meta/continuations/ContSeq.kt)
+
 ## Link lists
 
 * https://github.com/lauris/awesome-scala
@@ -95,11 +103,15 @@ prinzipiell der klassischen Programmierung überlegen ist.
 ## Links
 
 * https://www.scala-lang.org/
-* http://akka.io/
-* http://doc.akka.io/docs/akka-http/current/scala/http/
+* http://akka.io/ now commercial
+  + [new akka license](https://www.lightbend.com/akka/license-faq)
+  + http://doc.akka.io/docs/akka-http/current/scala/http/
+  + [lightbend blog](https://www.lightbend.com/blog)
+* [alpakka](https://doc.akka.io/docs/alpakka/current/) stream-aware and reactive integration pipelines for Java and Scala
+* [kalix](https://www.kalix.io/) fully managed cloud platform that gives developers the framework
 * https://www.lightbend.com/platform/development
 * https://www.lightbend.com/platform/development/spark
-* http://slick.lightbend.com/ 
+* http://slick.lightbend.com/
 
 * https://contributors.scala-lang.org language discussion like
   + https://contributors.scala-lang.org/t/proposed-changes-and-restrictions-for-implicit-conversions/4923
@@ -169,7 +181,7 @@ prinzipiell der klassischen Programmierung überlegen ist.
 
 * https://www.lightbend.com/activator/template/activator-akka-scala-guice
 
-### Lagom
+### Lagom (now deprecated)
 
 * https://www.lagomframework.com/documentation/1.3.x/scala/CoreConcepts.html
 * https://ordina-jworks.github.io/microservices/2016/04/22/Lagom-First-Impressions-and-Initial-Comparison-to-Spring-Cloud.html
