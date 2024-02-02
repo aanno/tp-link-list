@@ -20,6 +20,8 @@ prinzipiell der klassischen Programmierung überlegen ist.
   + [functors](https://www.turingtaco.com/functors-the-key-to-scalable-functional-code/)
   + [applicatives](https://www.turingtaco.com/applicatives-cooking-up-compositions-with-ease/)
   + [monads](https://www.turingtaco.com/monad-mixology-harnessing-composability-for-better-code/)
+* [Free Monad I](https://typelevel.org/cats/datatypes/freemonad.html)
+  + [Free Monad II](https://softwaremill.com/free-monads/)
 
 ### relation of PFP, coroutines, and CPS (continuation passing style)
 

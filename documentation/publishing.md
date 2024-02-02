@@ -272,7 +272,7 @@ Also see `documenting-it.md`
 * [typst](https://typst.app/) latex successor
   + https://typst.app/docs/
   + https://github.com/typst/hayagriva bibliography management
-  + https://typst.app/docs/packages/
+  + https://typst.app/docs/packages/ experimental package repository for Typst
 
 ## Formats
 

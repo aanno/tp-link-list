@@ -201,6 +201,11 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 
 ### Kotlin pure functional programming (pfp, arrow)
 
+Articles
+* [monads in kotlin](https://medium.com/@albert.llousas/monads-explained-in-kotlin-4126ac0cb7f2)
+* [ Functional Programming in Kotlin by Tutorials - Monads](https://www.kodeco.com/books/functional-programming-in-kotlin-by-tutorials/v1.0/chapters/13-understanding-monads) only partly readable
+* [For-Comprehension Free Monads in Kotlin - Mini Howto](https://gist.github.com/PhBastiani/26d8734ff33001cb0304df337ea936a1)
+
 Kotlin multi platform FPF
 
 * [arrow kt](https://arrow-kt.io/learn/overview/)

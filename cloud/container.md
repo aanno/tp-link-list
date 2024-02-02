@@ -8,11 +8,15 @@
 * [hcsshim](https://github.com/Microsoft/hcsshim/)
 * [Hyper-V APIs](https://learn.microsoft.com/de-de/virtualization/api/) - WHP, WMI, HCS
 
+### WSL2
+
+* [GUI apps on WSL2](https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps)
+* [podman ui](https://podman-desktop.io/) WSL2 based
+
 ### Windows containers and kubernetes
 
 * https://rancherdesktop.io/ Container Management and Kubernetes on the Desktop
   [rancher desktop as docker replacement](https://www.hangoutdude.com/post/replace-docker-with-rancher-nerdctl)
-
 
 ## Container runtimes and infrastructure
 

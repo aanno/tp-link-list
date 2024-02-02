@@ -362,6 +362,10 @@
 
 * https://github.com/vercel/pkg make binaries from node.js project
 
+## Process Manager
+
+* [pm2](https://pm2.keymetrics.io/) for node
+
 ## Alternatives to node.js
 
 * https://deno.land/ (whole JS runtime, speaks TS)

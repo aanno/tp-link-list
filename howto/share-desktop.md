@@ -5,6 +5,68 @@
 * https://www.teamviewer.com
 * https://parsec.app/
 
+## Open Source
+
+Guacamole provides remote desktop in browser. However, the software does _not_
+provide the 'graphic' server - you have to use a VNC or RDP solution for
+that. Hence, it does _not_ solve the complete problem.
+
+Kasm is an VNC backed desktop in browser. Partly commercial. Currently, 
+no wayland support. Kasm VNC is a VNC server (and tools). Kasm Workspaces
+are docker images with Kasm support.
+
+Rustdesk is a remote desktop solution in the lines of TeamViewer - but open
+source. Beta wayland support. Includes an open source (gateway) server. 
+Setup on Fedora is not easy because of selinux (but a solved problem).
+
+* [guacamole](https://guacamole.apache.org/) remote desktop in browser
+  + https://guacamole.apache.org/doc/gug/
+  + https://de.wikipedia.org/wiki/Apache_Guacamole
+  + [guacamole on podman I](https://gist.github.com/dmi3mis/1e7dc9c5d423ab588d555f0a2c399f26)
+  + [guacamole on podman II](https://linuxhistory.com/2021/01/16/apache-guacamole-on-podman/)
+  + [guacamole on docker](https://guacamole.apache.org/doc/gug/guacamole-docker.html)
+* [kasmVNC - in browser VNC solution]https://github.com/kasmtech/KasmVNC partly commercial
+  + https://www.kasmweb.com/kasmvnc.html
+  + https://www.kasmweb.com/workspace_images.html
+* [kasmweb workspaces](https://kasmweb.com/workspaces) commercial (freemium)
+  + https://github.com/kasmtech/workspaces-core-images
+  + https://kasmweb.com/images docker images with kasm
+  + https://kasmweb.com/docs/latest/guide/custom_images.html
+  + https://kasmweb.com/docs/latest/how_to/building_images.html
+  + https://hub.docker.com/r/kasmweb/core-fedora-37
+  + https://hub.docker.com/r/kasmweb/core-cuda-bionic
+* [kasmVNC](https://www.kasmweb.com/kasmvnc/docs/latest/serverside.html)
+  + [kasm's Xvnc](https://www.kasmweb.com/kasmvnc/docs/latest/man/Xvnc.html)
+* https://github.com/DeshmukhPooja/webrtc-remote-desktop
+* https://github.com/screego/server (only screen sharing)
+* [rustdesk](https://rustdesk.com/)
+  + https://github.com/rustdesk/rustdesk/wiki/Ideas
+
+## Spice
+
+Spice is designed to be an VNC and RDP competitor. However, only VMs (kvirt, qemu) 
+is _really_ supported. Remote SPICE has been always a HACK, see
+`howto/RemoteLinuxDesktop.md` for details.
+
+* https://www.spice-space.org/download.html
+* https://gitlab.freedesktop.org/spice/linux/vd_agent
+* https://askubuntu.com/questions/1211251/can-i-use-spice-as-a-vnc-replacement-for-fast-local-5ghz-remote-desktop
+* https://www.server-world.info/en/note?os=Ubuntu_23.04&p=kvm&f=7
+
+## VNC, RDP and X11
+
+Linux VNC solutions are mainly X11 based. That also means that need scripts/setups to
+run/start your desktop. Within each VNC solution `Xvnc` is new/separate X11 with VNC
+as output. `x11vnc` however, is a app which makes the _current_ desktop available with VNC.
+
+* [Desktop without login manager](https://wiki.archlinux.de/title/Desktop_starten_ohne_Loginmanager)
+* [configure xrdp on fedora](https://www.linuxquestions.org/questions/fedora-35/help-with-configuring-xrdp-to-use-kde-instead-of-gnome-for-desktop-fedora-37-wayland-4175720229/)
+
+
+## Tools
+
+* [mRemoteNG](https://mremoteng.org/) connection manager for RDP, VNC, SSH, ...
+
 ## X11
 
 ### flatpak

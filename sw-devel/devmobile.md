@@ -11,6 +11,11 @@
 * https://entwickler.de/webentwicklung/im-zusammenhang-von-anfang-an-007
 * https://medium.com/the-web-tub/electron-on-cordova-29ede5d6d789
 
+## More Browser engines (Build desktop and mobile apps)
+
+* [tauri](https://github.com/tauri-apps/tauri)
+* [sciter](https://sciter.com/) old
+
 ## Mobile Libs
 
 ### database
