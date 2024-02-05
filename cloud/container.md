@@ -36,3 +36,11 @@
 
 * [lima](https://lima-vm.io/) Linux virtual machines with automatic file sharing and port forwarding (similar to WSL2)
   + https://lima-vm.io/docs/
+
+## Docker (and Podman) CLI
+
+Restarting exited containers on podman seems _not_ to work!
+
+* [how to continue an exited container](https://stackoverflow.com/questions/21928691/how-to-continue-a-docker-container-which-has-exited)
+  + [restart stopped containers](https://www.baeldung.com/linux/docker-restart-stopped-container)
+* [podman restart man page](https://docs.podman.io/en/latest/markdown/podman-restart.1.html)

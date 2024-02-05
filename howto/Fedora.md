@@ -65,6 +65,19 @@
 - [Wayland for KDE](https://community.kde.org/KWin/Wayland)
 - [modesetting on nvidia](https://negativo17.org/wayland-modesetting-on-nvidia/)
 
+### Wayland Problems and Solutions
+
+Force wayland for electron applications (including vscode). Add the following to `~/.config/electron25-flags.conf`. 
+For vscode, the flags needs to be given on CLI.
+
+```
+--enable-features=WaylandWindowDecorations
+--ozone-platform-hint=auto
+```
+
+* https://wiki.archlinux.org/title/Wayland#Electron
+
+
 ## nvidia
 
 * [nvidia offical driver from nvidia (including rpms)](https://www.nvidia.com/Download/index.aspx?lang=en-us)

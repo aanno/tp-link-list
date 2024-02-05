@@ -19,6 +19,10 @@ Rustdesk is a remote desktop solution in the lines of TeamViewer - but open
 source. Beta wayland support. Includes an open source (gateway) server. 
 Setup on Fedora is not easy because of selinux (but a solved problem).
 
+Remotely is a cross platform remote desktop in browser. It needs a (specific)
+remotely sharing server on the remote machine. I tried in 01/2024 but did not get 
+the remotely sharing server to work on fedora.
+
 * [guacamole](https://guacamole.apache.org/) remote desktop in browser
   + https://guacamole.apache.org/doc/gug/
   + https://de.wikipedia.org/wiki/Apache_Guacamole
@@ -41,6 +45,7 @@ Setup on Fedora is not easy because of selinux (but a solved problem).
 * https://github.com/screego/server (only screen sharing)
 * [rustdesk](https://rustdesk.com/)
   + https://github.com/rustdesk/rustdesk/wiki/Ideas
+* [remotely](https://github.com/immense/Remotely)
 
 ## Spice
 
@@ -148,3 +153,6 @@ on KDE there is still all the things missing that would allow it...
 Also see:
 * https://pop-planet.info/forums/threads/fixing-zoom-screen-sharing-under-wayland.964/
 
+## Screen capture
+
+* https://wiki.archlinux.org/title/Screen_capture featured!

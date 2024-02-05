@@ -110,10 +110,16 @@
 ### VS Code
 
 * https://github.com/Microsoft/vscode
+* https://wiki.archlinux.org/title/Visual_Studio_Code
 * https://vscodium.com/ (vscode without telemetry)
+  + https://github.com/VSCodium/vscodium
 * https://github.com/Microsoft/monaco-editor
 
 * https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
+
+#### VS Code extensions
+
+* [omnisharp](https://www.omnisharp.net/) .NET support vscode (and others)
 
 #### VS Code Tips
 

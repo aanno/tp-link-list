@@ -133,7 +133,7 @@
 * https://goneuland.de self-hosting with docker
   + https://goneuland.de/nextcloud-server-mit-docker-compose-und-traefik-installieren/
   + https://goneuland.de/traefik-v2-reverse-proxy-mit-crowdsec-einrichten/
-  + https://goneuland.de/rustdesk-server-mit-docker-compose-installieren/
+  + https://goneuland.de/rustdesk-server-mit-docker-compose-installieren/ (server)
   + https://goneuland.de/mailcow-e-mail-komplettsytem-mit-antivirus-spam-filer-webmail-webfrontend-installieren-mittels-docker-und-traefik/
 * https://geek-cookbook.funkypenguin.co.nz/
 * https://www.dogado.de/vps/vserver-anwendungsfaelle/onlyoffice-auf-vserver-installieren

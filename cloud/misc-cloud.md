@@ -4,6 +4,10 @@
 
 * https://www.augmentedmind.de/
 
+## Learn Cloud
+
+* https://kodekloud.com/ commercial
+
 ## CNCF
 
 * https://www.cncf.io/

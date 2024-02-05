@@ -268,7 +268,6 @@
 
 ###### Backblaze B2 (S3)
 
-* [S3FS with B2](https://help.backblaze.com/hc/en-us/articles/360047773653-Using-S3FS-with-B2)
 * [B2 linux support](https://help.backblaze.com/hc/en-us/articles/217664628-How-does-Backblaze-support-Linux-Users-)
   + Supported: Duplicity, MSP360, qBackup, GoodSync, HashBackup, Duplicacy, Restic
 
@@ -284,7 +283,6 @@
 
 * https://wasabi.com/help/downloads/
   + [borgbackup/rclone](https://wasabi-support.zendesk.com/hc/en-us/articles/115003691192-How-do-I-use-BorgBackup-with-Wasabi-)
-  + [s3fs with wasabi](https://wasabi-support.zendesk.com/hc/en-us/articles/115001744651-How-do-I-use-S3FS-with-Wasabi-)
   + [How does SSE-C Encryption work with Wasabi](https://wasabi-support.zendesk.com/hc/en-us/articles/4414850567963-How-does-SSE-C-Encryption-work-with-Wasabi-)
   + [wasabi documentation](https://docs.wasabi.com/docs/rest-api-introduction)
 * https://min.io/ S3 on your linux (cluster)
@@ -315,6 +313,14 @@
   + https://knowledgebase.wasabi.com/hc/en-us/articles/360044600552-How-do-I-use-s5cmd-with-Wasabi-
 * [aws cli](https://wasabi-support.zendesk.com/hc/en-us/articles/115001910791-How-do-I-use-AWS-CLI-with-Wasabi-)
 
+s5cmd example:
+```bash
+$ s5cmd --endpoint-url https://s3.eu-central-2.wasabisys.com --profile wasabi-ro ls
+2023/05/04 16:46:27  s3://b-breitbandig
+2023/06/18 11:03:19  s3://b-duplicati
+2023/10/08 19:05:30  s3://b-tps-nas
+```
+
 ##### S3 UI Clients (mostly capable to see other cloud storage)
 
 * https://github.com/mickael-kerjean/filestash
@@ -338,11 +344,21 @@
   + https://juicefs.com/docs/cloud/use_juicefs_in_docker/
 * https://github.com/s3ql/s3ql/
 * https://github.com/archiecobbs/s3backer
-* https://github.com/kahing/goofys
+* https://github.com/kahing/goofys (currently not well maintained)
+  + [catfs](https://github.com/kahing/catfs) fuse based caching layer for remote filesystems
 * https://github.com/s3fs-fuse/s3fs-fuse
 * https://github.com/treeverse/lakeFS
   + https://lakefs.io/
 * https://github.com/seaweedfs/seaweedfs
+* [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) basic, simplistic support (not intended as remote fs replacement)
+  + [s3fs with wasabi](https://wasabi-support.zendesk.com/hc/en-us/articles/115001744651-How-do-I-use-S3FS-with-Wasabi-)
+  + [S3FS with B2](https://help.backblaze.com/hc/en-us/articles/360047773653-Using-S3FS-with-B2)
+
+s3fs-fuse example (with debug):
+```bash
+s3fs b-tps-nas ./mnt -o passwd_file=${HOME}/.passwd-s3fs -o url=https://s3.eu-central-2.wasabisys.com -o dbglevel=info -f -o curldbg
+```
+You could use catfs for (additional) caching.
 
 #### Google Cloud Storage GCS
 
@@ -805,3 +821,24 @@ It is _not_ possible to recover the public key stored on nitro, see
 * [alternatives to powertop](https://getalternative.net/software/powertop)
 * [tools to measure power consumption](https://luiscruz.github.io/2021/07/20/measuring-energy.html)
 * [likwid](https://hpc.fau.de/research/tools/likwid/)
+
+## Linux Desktop Environments
+
+### Plasma KDE
+
+#### kio (io framework)
+
+* [kio source](https://invent.kde.org/network?filter=kio)
+* [kio-extra](https://invent.kde.org/network/kio-extras) included with fedora
+* [kio-zeroconf](https://invent.kde.org/network/kio-zeroconf) included with fedora (other name)
+* [kio-s3](https://invent.kde.org/network/kio-s3) beta, must be compiled on your own
+  + [credentials setup](https://docs.aws.amazon.com/sdkref/latest/guide/file-format.html)
+  + [aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp) must be compiled on your own
+    - [build parameters](https://github.com/aws/aws-sdk-cpp/blob/main/docs/CMake_Parameters.md)
+
+#### Development
+
+* [kdesrc-build](https://community.kde.org/Get_Involved/development/Build_software_with_kdesrc-build) build helper for plasma/kde
+  + [kdesrc-build](https://invent.kde.org/sdk/kdesrc-build) source code
+* https://community.kde.org/Get_Involved/development
+* [kxmlgui](https://develop.kde.org/docs/getting-started/kxmlgui/hello_world/)
