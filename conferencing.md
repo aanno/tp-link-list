@@ -62,11 +62,12 @@
 
 * https://temasys.github.io/
 
-### Screen Sharing (only)
+### Screen Sharing (only), stream editing and mods
 
 * https://obsproject.com/de includes wayland screen sharing
   + https://github.com/obsproject/obs-studio
   + https://de.m.wikipedia.org/wiki/Open_Broadcaster_Software
+  + [obs-backgroundremoval](https://github.com/occ-ai/obs-backgroundremoval/releases)
 * https://github.com/screego/server featured!
 * [WebRTC Screen Sharing on browser](https://www.webrtc-experiment.com/Pluginfree-Screen-Sharing/#9244654040065677)
 

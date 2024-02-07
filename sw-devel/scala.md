@@ -30,6 +30,13 @@ prinzipiell der klassischen Programmierung überlegen ist.
 * [operational monad as eager Cont](https://apfelmus.nfshost.com/articles/operational-monad.html)
 * [CPS in haskell](https://en.m.wikibooks.org/wiki/Haskell/Continuation_passing_style)
 * [ContSeq in arrow-kt](https://github.com/arrow-kt/arrow-analysis/blob/main/analysis/common/src/main/kotlin/arrow/meta/continuations/ContSeq.kt)
+* coroutines
+  + https://scala-coroutines.github.io/coroutines/
+  + [scala futures vs kotlin coroutines](https://gist.github.com/alexbezhan/9bb140dc25c06cdfd56bc748c7fa9c19)
+    - https://monix.io/ Asynchronous Programming for Scala and Scala.js
+  + [zio](https://github.com/zio/zio) multiplatform asynchronous and concurrent programming
+  + [suspendable functions and coroutines](https://contributors.scala-lang.org/t/suspendable-functions-and-coroutines/3772/4)
+* [coroutine - fibers - effects in react](https://www.yld.io/blog/continuations-coroutines-fibers-effects/) off-topic
 
 ## Link lists
 
@@ -274,14 +281,7 @@ prinzipiell der klassischen Programmierung überlegen ist.
   + https://index.scala-lang.org/typelevel/feral
     - https://disneystreaming.github.io/smithy4s/docs/overview/intro/
     - https://github.com/tpolecat/natchez
-* coroutines
-  + https://scala-coroutines.github.io/coroutines/
-  + [scala futures vs kotlin coroutines](https://gist.github.com/alexbezhan/9bb140dc25c06cdfd56bc748c7fa9c19)
-    - https://monix.io/ Asynchronous Programming for Scala and Scala.js
-  + [zio](https://github.com/zio/zio) multiplatform asynchronous and concurrent programming
-  + [suspendable functions and coroutines](https://contributors.scala-lang.org/t/suspendable-functions-and-coroutines/3772/4)
 * https://typelevel.org/projects/
-* [coroutine - fibers - effects in react](https://www.yld.io/blog/continuations-coroutines-fibers-effects/) off-topic
 
 #### Cats and Cats Effects
 

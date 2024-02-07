@@ -65,6 +65,7 @@
   + [bifrost - ansible scripts to install ironic](https://opendev.org/openstack/bifrost)
 * [google's anthos](https://cloud.google.com/anthos/docs/concepts/overview) (for GKE)
   + https://github.com/GoogleCloudPlatform/anthos-workshop
+* [selkies](https://github.com/selkies-project/selkies-operator) GKE to orchestrate per-user stateful workloads
 * [ansible](https://www.redhat.com/sysadmin/ansible-provisioning-aws-cloud)
   + https://upcloud.com/resources/tutorials/automate-cloud-server-provisioning-ansible
   + https://www.ansible.com/integrations/cloud

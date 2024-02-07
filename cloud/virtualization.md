@@ -86,6 +86,8 @@
 # Windows - Hyper-V
 
 * [vmplex](https://github.com/0xf005ba11/vmplex-ws) open source ui for hyper-v
+* [enable hyper-v](https://techcommunity.microsoft.com/t5/educator-developer-blog/step-by-step-enabling-hyper-v-for-use-on-windows-11/ba-p/3745905)
+  + [hyper-v aktivieren](https://www.netzwelt.de/anleitung/198230-windows-11-home-pro-hyper-v-installieren-aktivierenso-gehts.html)
 
 # Linux
 

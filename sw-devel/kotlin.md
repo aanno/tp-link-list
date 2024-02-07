@@ -58,11 +58,15 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
     - https://github.com/Kotlin/coroutines-examples/blob/master/examples/generator/generator.kt
 * [kotlin coroutines with spring](https://spring.io/blog/2019/04/12/going-reactive-with-spring-coroutines-and-kotlin-flow)
 * [kotlin coroutine sdl](https://github.com/Kotlin/kotlinx.coroutines)
-* https://proandroiddev.com/structured-concurrency-in-action-97c749a8f755
+* [structured concurrency in action](https://proandroiddev.com/structured-concurrency-in-action-97c749a8f755)
+* [Composing Coroutines and Suspend Functions](https://www.baeldung.com/kotlin/composing-coroutines-suspend-functions)
+* [deep look into suspend functions](https://medium.com/axel-springer-tech/deep-look-into-coroutine-suspend-functions-part-1-introduction-1f339aaf7449)
 * in java
   + [Calling Kotlin Suspending Functions from Java](https://www.baeldung.com/kotlin/suspend-functions-from-java)
   + https://stackoverflow.com/questions/41559105/can-i-take-advantage-of-kotlins-coroutines-by-using-them-in-java-code
   + [difference between coroutine and async await](https://stackoverflow.com/questions/56249553/difference-between-kotlin-coroutine-android-async-task-and-async-await)
+  + [Use Kotlin's Coroutines in Java code](https://stackoverflow.com/questions/41559105/can-i-take-advantage-of-kotlins-coroutines-by-using-them-in-java-code)
+  + [Call Kotlin suspend function in Java class](https://stackoverflow.com/questions/52869672/call-kotlin-suspend-function-in-java-class)
 
 ### Coroutines programming examples
 
@@ -304,3 +308,7 @@ Old docs are currently still available:
   + [marketplace for rules](https://detekt.dev/marketplace/)
   + [detekt.yml file from github](https://github.com/detekt/detekt/blob/main/config/detekt/detekt.yml)
 * [detekt rules for arrow](https://github.com/woltapp/arrow-detekt-rules) find missing calls to `.bind()`
+
+## Kotlin and Java
+
+* [kotlin java interop](https://www.baeldung.com/kotlin/category/java-interop)

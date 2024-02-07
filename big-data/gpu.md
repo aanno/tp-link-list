@@ -259,3 +259,9 @@ This is what to do:
 * https://www.khronos.org/spir/
 * https://www.khronos.org/sycl/
 * https://www.khronos.org/opencl/
+
+# Docker/Podman Images that provides desktops and gpu crunching support
+
+* [docker cuda desktop](https://github.com/ivangabriele/docker-cuda-desktop) Ubuntu KDE Plasma Desktop with PyTorch, CUDA & VNC
+* [docker nvidia egl desktop](https://github.com/selkies-project/docker-nvidia-egl-desktop) KDE Plasma Desktop container designed for Kubernetes with direct access to the GPU with EGL (part of selkies)
+* [docker nvidia glx desktop](https://github.com/selkies-project/docker-nvidia-glx-desktop) KDE Plasma Desktop container designed for Kubernetes supporting OpenGL GLX and Vulkan

@@ -74,6 +74,14 @@ as output. `x11vnc` however, is a app which makes the _current_ desktop availabl
 
 * [mRemoteNG](https://mremoteng.org/) connection manager for RDP, VNC, SSH, ...
 
+## Docker Images
+
+* [docker guacamole](https://github.com/kenryuS/docker-guacamole-re)
+* [docker remote desktop](https://github.com/Lanjelin/docker-remote-desktop) Remmina NoMachine Parsec
+* [docker nomachine](https://github.com/Lanjelin/nomachine-docker)
+* [docker winvnc](https://github.com/eminmuhammadi/winvnc)
+* [docker/podman desktainer rootless](https://github.com/dmotte/desktainer-rootless)
+
 ## X11
 
 ### flatpak
@@ -118,6 +126,9 @@ open source software providing remote accelerated VNC _even with wayland_
 * [VirtualGL](https://virtualgl.org/)
   + https://github.com/VirtualGL/virtualgl
   + [User’s Guide for VirtualGL 3.1](https://rawcdn.githack.com/VirtualGL/virtualgl/3.1/doc/index.html)
+
+Alternatives to VirtualGL:
+* [mesa VirGL](https://docs.mesa3d.org/drivers/virgl.html)
 
 ### Hacks
 

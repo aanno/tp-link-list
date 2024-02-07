@@ -64,7 +64,7 @@
   + [fleek on devbox](https://getfleek.dev/docs/devbox)
   + https://getfleek.dev/docs/firststeps
 
-## related technology
+## related technology (distros on docker/podman)
 
 * [devbox](https://www.jetpack.io/devbox/) creates isolated, reproducible development environments that run anywhere
   + https://www.jetpack.io/
@@ -75,3 +75,4 @@
 * [toolbox](https://github.com/containers/toolbox) use of interactive command line environments for development in a container
 * [yafti](https://github.com/ublue-os/yafti) installing Flatpaks on first boot
 * [universal blue](https://github.com/ublue-os) fedora coreos experiments
+* [quickemu](https://github.com/quickemu-project/quickemu) desktop virtual machines for Linux, macOS and Windows, qemu based

@@ -294,6 +294,8 @@
 * https://github.com/scality/cloudserver S3 server
 * https://developers.cloudflare.com/r2/pricing/
   + https://r2-calculator.cloudflare.com/
+* [Synology C2](https://c2.synology.com/en-us/pricing/object-storage)
+* [Backblaze B2](https://www.backblaze.com/cloud-storage/pricing)
 
 ###### Azure Blob Storage and S3 compatibility
 

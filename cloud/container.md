@@ -7,6 +7,8 @@
 * [Install Container runtimes](https://learn.microsoft.com/en-us/virtualization/windowscontainers/quick-start/set-up-environment) - moby, mirantis, containerd
 * [hcsshim](https://github.com/Microsoft/hcsshim/)
 * [Hyper-V APIs](https://learn.microsoft.com/de-de/virtualization/api/) - WHP, WMI, HCS
+* [WSL2 and GUI apps](https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps)
+* [podman-desktop](https://podman-desktop.io/downloads)
 
 ### WSL2
 
