@@ -23,6 +23,8 @@ Remotely is a cross platform remote desktop in browser. It needs a (specific)
 remotely sharing server on the remote machine. I tried in 01/2024 but did not get 
 the remotely sharing server to work on fedora.
 
+* [Drei Open-Source-Fernwartungsprogramme zum selbst Hosten](https://www.heise.de/select/ct/vorschau/2309313183203928794)
+
 * [guacamole](https://guacamole.apache.org/) remote desktop in browser
   + https://guacamole.apache.org/doc/gug/
   + https://de.wikipedia.org/wiki/Apache_Guacamole
@@ -101,6 +103,21 @@ as output. `x11vnc` however, is a app which makes the _current_ desktop availabl
 * [wayvnc](https://github.com/any1/wayvnc)
 * [waypipe](https://gitlab.freedesktop.org/mstoeckl/waypipe/)
   + https://mstoeckl.com/notes/gsoc/blog.html
+
+##### TurboVNC and VirtualGL
+
+open source software providing remote accelerated VNC _even with wayland_
+
+* [How to setup VirtualGL and TurboVNC on Ubuntu](https://gist.github.com/cyberang3l/422a77a47bdc15a0824d5cca47e64ba2)
+* [Using VirtualGL with TurboVNC](https://www.virtualgl.org/vgldoc/2_1_1/#hd009004)
+* [TurboVNC](https://www.turbovnc.org/)
+  + https://github.com/TurboVNC/turbovnc
+  + [User’s Guide for VirtualGL 2.1.1 and TurboVNC 0.5](https://www.virtualgl.org/vgldoc/2_1_1/)
+  + [cheatsheet for TurboVNC](https://docs.oracle.com/cd/E19279-01/820-3257-12/turbovnc.html)
+  + [comparator with kasm](https://github.com/kasmtech/KasmVNC/issues/193)
+* [VirtualGL](https://virtualgl.org/)
+  + https://github.com/VirtualGL/virtualgl
+  + [User’s Guide for VirtualGL 3.1](https://rawcdn.githack.com/VirtualGL/virtualgl/3.1/doc/index.html)
 
 ### Hacks
 

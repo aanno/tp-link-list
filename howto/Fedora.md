@@ -430,6 +430,7 @@ id="7456cbe7c3e24fe1bb4decec38f2b885-5.18.19-200.fc36.x86_64"
 ```
 
 Referenzen:
+* https://docs.fedoraproject.org/en-US/fedora/latest/system-administrators-guide/kernel-module-driver-configuration/Working_with_the_GRUB_2_Boot_Loader/
 * https://www.dedoimedo.com/computers/fedora-30-grub-persistent-changes.html
 * https://unix.stackexchange.com/questions/152222/what-is-the-equivalent-of-update-grub-for-rhel-fedora-and-centos-systems
 * https://docs.fedoraproject.org/en-US/fedora/latest/system-administrators-guide/kernel-module-driver-configuration/Working_with_the_GRUB_2_Boot_Loader/
@@ -446,6 +447,14 @@ dracut --omit-drivers "i915 video nouveau nvidia_drm nvidia_modeset nvidia" --re
 
 Referenzen:
 * https://linuxconfig.org/how-to-build-an-initramfs-using-dracut-on-linux
+
+### boot, startup, initramfs
+
+* [crypt-ssh](https://github.com/dracut-crypt-ssh/dracut-crypt-ssh) remote unlocking of systems with full disk encryption via ssh
+* [nbde](https://access.redhat.com/documentation/de-de/openshift_container_platform/4.9/html/security_and_compliance/network-bound-disk-encryption-nbde) network bound disk encryption
+  + https://access.redhat.com/articles/6987053
+  + [luks nbde](https://fedoramagazine.org/using-linux-system-roles-to-implement-clevis-and-tang-for-automated-luks-volume-unlocking/)
+  + [stratis nbde](https://fedoramagazine.org/network-bound-disk-encryption-with-stratis/)
 
 ## Interessante zusätzliche Programme
 

@@ -64,3 +64,4 @@
 
 * [TOTP authentication with free software](https://lwn.net/Articles/925870/)
   + [Aegis Authenticator](https://getaegis.app/)
+* [oath-toolkit](https://www.nongnu.org/oath-toolkit/) c-lang one-time password components

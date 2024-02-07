@@ -14,6 +14,10 @@
 
 * https://www.qobuz.com/de-de/album/ahwar-nadah-el-shazly/5055869525176
 
+## Blogs and Discussions
+
+* https://www.avforums.com/
+
 ## Streaming and Multiroom
 
 ### Chromecast and alternatives
@@ -151,6 +155,20 @@
 * [generate list with last.fm additional data](https://github.com/epsil/spotgen)
 * [import/export playlists](https://github.com/debfx/spotify-playlists)
 * [big data on recommendations](https://github.com/slevin48/music)
+
+## Other streaming platforms 
+
+### Qobuz streaming and Qobuz connect
+
+* [stream qobuz with BubbleUPnP Server](https://www.hifizine.com/2019/07/stream-qobuz-to-anything/)
+  + [BubbleUPnP Server](https://bubblesoftapps.com/bubbleupnpserver2/)
+* qobuz api is not supported any more but api was formerly at https://github.com/Qobuz/api-documentation
+  + [python-qobuz](https://github.com/taschenb/python-qobuz)
+
+### Tidal streaming and Tidal connect
+
+* [Tidal connect based on docker](https://github.com/GioF71/tidal-connect)
+* [Tidal Connect Docker image for HifiBerry](https://github.com/TonyTromp/tidal-connect-docker)
 
 ## Linux music apps
 
@@ -301,3 +319,10 @@
 
 * https://github.com/kawaiiDango/youtube-music-upload-sync
 * https://github.com/Venipa/ytmdesktop2
+
+## Streaming Hardware
+
+* [WiiM](https://wiimhome.com/) music streaming hardware
+  + [WiiM Pro Plus](https://www.amazon.de/WiiM-Chromecast-Multiroom-Kompatibel-Assistant/dp/B0CC2HWC7N)
+* [hifiberry](https://www.hifiberry.com/)
+* [volumio for raspberry](https://volumio.com/get-started/)

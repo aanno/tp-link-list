@@ -40,10 +40,22 @@
 ### VPN implementations
 
 * [lightway](https://github.com/expressvpn/lightway-core) open source VPN used by https://www.expressvpn.com
+* [hysteria](https://github.com/apernet/hysteria) SOCKS5, HTTP proxy, TCP/UDP forwarding, Linux TProxy and more
+  + https://v2.hysteria.network/ censorship resistant proxy
+* [outline](https://getoutline.org/de/) alternative to tor (?)
+  + https://github.com/Jigsaw-Code/outline-server
+  + https://github.com/Jigsaw-Code/outline-sdk
 
 ### VPN Services
 
 * https://www.expressvpn.com
+  + https://www.heise.de/news/ExpressVPN-veroeffentlicht-eigenes-VPN-Protokoll-Lightway-als-Open-Source-6163749.html
+* https://netbird.io/ wireguard based
+  + https://app.netbird.io/install
+  + https://github.com/netbirdio/netbird
+* https://tailscale.com/ wireguard based
+* https://lnvpn.net/ wireguard based - crypto (lightning) paid
+  + https://github.com/LightRider5/lnvpn
 
 ### Wireguard
 
@@ -73,6 +85,7 @@
 
 * https://cosmicpercolator.com/2020/04/06/lan-to-lan-vpn-using-wireguard/
 * https://www.flockport.com/guides/build-wireguard-networks
+* [firezone](https://github.com/firezone/firezone) admin several LAN-to-LAN customers
 
 #### Wireguard helpers
 

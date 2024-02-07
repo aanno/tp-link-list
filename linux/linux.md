@@ -249,6 +249,10 @@
 
 ##### Cloud backup and S3
 
+* [s3proxy](https://github.com/gaul/s3proxy) translation from S3 to Backblaze B2, EMC Atmos, Google Cloud, Microsoft Azure, and OpenStack Swift, or local file system
+* [aws s3 rest api](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html)
+* [aws s3 action list](https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazons3.html)
+
 ###### WebDAV
 
 * https://www.free-online-backup-services.com/features/webdav/
@@ -266,7 +270,7 @@
 * https://www.slant.co/options/2332/alternatives/~amazon-glacier-alternatives
 * https://cloud.netapp.com/blog/amazon-s3-as-a-file-system
 
-###### Backblaze B2 (S3)
+###### Backblaze B2 (S3 alternative)
 
 * [B2 linux support](https://help.backblaze.com/hc/en-us/articles/217664628-How-does-Backblaze-support-Linux-Users-)
   + Supported: Duplicity, MSP360, qBackup, GoodSync, HashBackup, Duplicacy, Restic
@@ -285,6 +289,7 @@
   + [borgbackup/rclone](https://wasabi-support.zendesk.com/hc/en-us/articles/115003691192-How-do-I-use-BorgBackup-with-Wasabi-)
   + [How does SSE-C Encryption work with Wasabi](https://wasabi-support.zendesk.com/hc/en-us/articles/4414850567963-How-does-SSE-C-Encryption-work-with-Wasabi-)
   + [wasabi documentation](https://docs.wasabi.com/docs/rest-api-introduction)
+  + [additions to aws s3 rest api](https://docs.wasabi.com/docs/operations-on-objects)
 * https://min.io/ S3 on your linux (cluster)
 * https://github.com/scality/cloudserver S3 server
 * https://developers.cloudflare.com/r2/pricing/
@@ -358,7 +363,38 @@ s3fs-fuse example (with debug):
 ```bash
 s3fs b-tps-nas ./mnt -o passwd_file=${HOME}/.passwd-s3fs -o url=https://s3.eu-central-2.wasabisys.com -o dbglevel=info -f -o curldbg
 ```
-You could use catfs for (additional) caching.
+
+You could use catfs for (additional) caching:
+```bash
+#!/bin/bash -x
+
+RAW_MOUNT="$HOME/.cache/wasabi/mnt"
+TO_CACHE="$HOME/.cache/wasabi/to"
+MOUNT="$HOME/data/wasabi"
+
+mkdir -p $RAW_MOUNT || true
+mkdir -p $TO_CACHE || true
+mkdir -p $MOUNT || true
+
+for i in b-breitbandig b-duplicati b-tps-nas; do
+  # echo $i
+  R="$RAW_MOUNT/$i"
+  T="$TO_CACHE/$i"
+  M="$MOUNT/$i"
+
+  mkdir $R || true
+  mkdir $T || true
+  mkdir $M || true
+
+  umount $R || true
+  umount $M || true
+
+  s3fs $i $R -o passwd_file=${HOME}/.passwd-s3fs -o url=https://s3.eu-central-2.wasabisys.com
+  # ???
+  catfs $R $T $M &
+done
+```
+
 
 #### Google Cloud Storage GCS
 
@@ -735,6 +771,10 @@ It is _not_ possible to recover the public key stored on nitro, see
   + https://unix.stackexchange.com/questions/335825/how-to-distinguish-between-user-services-and-system-service-in-systemd
   + https://wiki.archlinux.org/index.php/systemd/User
   + https://wiki.ubuntuusers.de/systemd/User_Units/
+* [systemd.service attributes](https://www.freedesktop.org/software/systemd/man/latest/systemd.service.html)
+  + [forking and oneshot](https://serverfault.com/questions/713680/is-there-a-way-to-make-systemctl-start-synchronous)
+* [systemd.timer units](https://wiki.ubuntuusers.de/systemd/Timer_Units/)
+  + [systemd.timer attributes](https://www.freedesktop.org/software/systemd/man/latest/systemd.timer.html#AccuracySec=)
 * [timers](https://wiki.archlinux.de/title/Systemd/Timers) alternative to crond
 * [list failed units](https://www.cyberciti.biz/faq/systemd-systemctl-list-all-failed-units-services-on-linux/)
 
@@ -821,6 +861,7 @@ It is _not_ possible to recover the public key stored on nitro, see
 * [alternatives to powertop](https://getalternative.net/software/powertop)
 * [tools to measure power consumption](https://luiscruz.github.io/2021/07/20/measuring-energy.html)
 * [likwid](https://hpc.fau.de/research/tools/likwid/)
+  + https://github.com/RRZE-HPC/likwid
 
 ## Linux Desktop Environments
 
@@ -835,6 +876,9 @@ It is _not_ possible to recover the public key stored on nitro, see
   + [credentials setup](https://docs.aws.amazon.com/sdkref/latest/guide/file-format.html)
   + [aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp) must be compiled on your own
     - [build parameters](https://github.com/aws/aws-sdk-cpp/blob/main/docs/CMake_Parameters.md)
+
+kio-s3 currently only supports AWS S3, as no endpoint URL could be given, see
+https://bugs.kde.org/show_bug.cgi?id=480942
 
 #### Development
 

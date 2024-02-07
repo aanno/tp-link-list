@@ -79,6 +79,7 @@
 
 * [ghcup](https://www.haskell.org/ghcup/install/#manual-installation)
   + [stack](https://docs.haskellstack.org/en/stable/)
+  + [ghcup user guide](https://www.haskell.org/ghcup/guide/)
 * [intelliJ Haskell](https://rikvdkleij.github.io/intellij-haskell/)
   + https://github.com/rikvdkleij/intellij-haskell
   + https://getbetter.ro/tech/setting-up-a-haskell-environment-with-stack-ghcid-and-intellij/

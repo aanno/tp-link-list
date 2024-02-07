@@ -8,6 +8,10 @@
 * https://www.2050.de
 * https://www.fluter.de
 
+## Podcasts
+
+* [das Politikteil der Zeit](https://www.zeit.de/serie/das-politikteil)
+
 ## Sicherheit
 
 * http://www.zeit.de/digital/datenschutz/2017-05/verfassungsschutz-staatstrojaner-ueberwachung-gesetze
