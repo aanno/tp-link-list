@@ -17,7 +17,7 @@ are docker images with Kasm support.
 
 Rustdesk is a remote desktop solution in the lines of TeamViewer - but open
 source. Beta wayland support. Includes an open source (gateway) server. 
-Setup on Fedora is not easy because of selinux (but a solved problem).
+Setup on Fedora is not easy because of selinux (but a solvable problem).
 
 Remotely is a cross platform remote desktop in browser. It needs a (specific)
 remotely sharing server on the remote machine. I tried in 01/2024 but did not get 
@@ -47,6 +47,7 @@ the remotely sharing server to work on fedora.
 * https://github.com/screego/server (only screen sharing)
 * [rustdesk](https://rustdesk.com/)
   + https://github.com/rustdesk/rustdesk/wiki/Ideas
+  + https://github.com/rustdesk/rustdesk/discussions/6302
 * [remotely](https://github.com/immense/Remotely)
 
 ## Spice

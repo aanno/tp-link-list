@@ -367,6 +367,43 @@ Herausfinden, auf welcher Festplatte sich ein Logical Volume befindet
    enthält eine komplette Anleitung (Online z.B.
    <http://manpages.ubuntu.com/manpages/yakkety/man7/lvmcache.7.html>)
 
+## SELinux
+
+`sealert` standard fix:
+```bash
+# ausearch -c 'app' --raw | audit2allow -M my-app
+# semodule -X 300 -i my-app.pp
+```
+view content of a *.pp file:
+```bash
+sedismod mysql.pp
+```
+
+label a program as `bin_t` so that it ends up in the `unconfined_service_t`
+```bash
+sudo chcon --type=bin_t program
+# gone after `restorecon`
+```
+
+Show label:
+```bash
+ls -Zl program
+```
+
+```bash
+```
+
+```bash
+```
+
+```bash
+```
+
+References:
+* [view content of a *.pp file](https://serverfault.com/questions/321301/how-do-i-view-the-contents-of-a-selinux-policy-package)
+* [temporary changes with chcon](https://access.redhat.com/documentation/de-de/red_hat_enterprise_linux/6/html/security-enhanced_linux/sect-security-enhanced_linux-working_with_selinux-selinux_contexts_labeling_files)
+* [managing SELinux labels](https://wiki.gentoo.org/wiki/SELinux/Labels)
+
 ## SELinux und Firewall
 
 Fedora ist von Hause aus besonders sicher. Im Desktopbetrieb heißt das erst einmal, dass die Einrichtung neuer Dienste
@@ -374,6 +411,7 @@ auf größere Schwierigkeiten treffen kann. Als Beispiel hier die *richtige*
 Einrichtung von `xrdp`
 ([Quelle](https://gist.github.com/bcambl/ff17eae67863eda34c24)):
 
+```bash
     #!/bin/bash
     #################################################
     # Setup Fedora 23 Gnome3 with xRDP via XFCE4
@@ -406,6 +444,7 @@ Einrichtung von `xrdp`
     sudo echo "startxfce4" > ~/.Xclients
     sudo chmod +x ~/.Xclients
     sudo systemctl restart xrdp.service
+```
     
 ## grub2, grubby
 
