@@ -374,6 +374,12 @@ Herausfinden, auf welcher Festplatte sich ein Logical Volume befindet
 # ausearch -c 'app' --raw | audit2allow -M my-app
 # semodule -X 300 -i my-app.pp
 ```
+
+remove a module:
+```bash
+semodule -X 300 -r my-app.pp
+```
+
 view content of a *.pp file:
 ```bash
 sedismod mysql.pp
