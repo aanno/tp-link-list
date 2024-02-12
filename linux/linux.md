@@ -209,6 +209,41 @@
   + https://discussion.fedoraproject.org/t/a-quick-guide-to-setting-up-btrfs-timeshift-on-fedora-33/27573
 * https://rsnapshot.org/
 
+##### Duplicati
+
+Duplicati is a semi professional solution. On linux, duplicati (web) server 
+(`duplicati-server`) should run as service, but the service files are _not_
+distributed with RPMs. There is _one_ password for the server (i.e. host) 
+that controls backup of _all_ users.
+
+Configuration is stored in `/usr/lib/duplicati/data` when run as service 
+(and `/etc/default/duplicati` contains `--portable-mode`). Otherwise
+configuration is under `$HOME/.config/Duplicati`.
+
+Disaster recovery is delicate if you loose your backup configuration, server 
+and/or encryption password. Hence it is a good idea to back up your 
+configuration separate (this make the solution semi professional).
+
+`duplicati-cli` is a separate tool that will _not_ use `duplicati-server`.
+
+An alternative setup would be to _not_ run server as service, but users starts 
+server individually (on different ports, with different password and encryption 
+passwords).
+
+On windows, it seems to me that duplicati is installed as service. Hence the 
+alternative setup would need more work.
+
+* [duplicati](https://duplicati.readthedocs.io/en/latest/) cloud-enabled, slow dev since 2021
+  + https://www.duplicati.com/
+  + https://github.com/duplicati/duplicati
+  + [install duplicati as systemd service](https://duplicati.readthedocs.io/en/latest/02-installation/#installing-duplicati-on-linux)
+  + [disaster recovery](https://duplicati.readthedocs.io/en/latest/08-disaster-recovery/)
+    - [discussion about disaster recovery](https://forum.duplicati.com/t/what-happens-when-source-computers-hardware-fails/359)
+  + [discussion about configuration location](https://forum.duplicati.com/t/where-is-the-configuration-database-saved/8252)
+* [discussion about backing up configuration](https://forum.duplicati.com/t/backing-up-the-configuration/4403)
+* [discussion about the broken common options implementation](https://forum.duplicati.com/t/how-do-default-options-work/2789)
+* [duplicati-client](https://github.com/Pectojin/duplicati-client) old, alternative to duplicati-cli
+
 ##### Other
 
 * https://restic.net/
@@ -227,9 +262,6 @@
 * https://github.com/NaPs/Marty
 * [kopia](https://kopia.io/)
   + https://github.com/kopia/kopia
-* [duplicati](https://duplicati.readthedocs.io/en/latest/) cloud-enabled, slow dev since 2021
-  + https://www.duplicati.com/
-  + https://github.com/duplicati/duplicati
 * https://github.com/gilbertchen/duplicacy cloud-enabled, comparasion with other backups, slow dev since 2021, semi-commercial
   + https://duplicacy.com/
   + https://duplicacy.com/buy.html
