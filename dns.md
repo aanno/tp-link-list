@@ -25,7 +25,7 @@
 ## Overviews and Problems
 
 * [DNS overview german](https://www.privacy-handbuch.de/handbuch_93.htm)
-* [DNSCrypt](https://dnscrypt.info/faq/)
+* [DNSCrypt](https://dnscrypt.info/faq/) old
 * [anomyized DNS](https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS)
 * [client side dns api](https://www.getdnsapi.net/) (with node bindings)
 * [stubby - dns stub resolver](https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Daemon+-+Stubby)

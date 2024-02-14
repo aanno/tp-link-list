@@ -262,7 +262,7 @@ alternative setup would need more work.
 * https://github.com/NaPs/Marty
 * [kopia](https://kopia.io/)
   + https://github.com/kopia/kopia
-* https://github.com/gilbertchen/duplicacy cloud-enabled, comparasion with other backups, slow dev since 2021, semi-commercial
+* https://github.com/gilbertchen/duplicacy cloud-enabled, comparison with other backups, slow dev since 2021, semi-commercial
   + https://duplicacy.com/
   + https://duplicacy.com/buy.html
 * [ogive](https://github.com/mgren/ogive) glacier backup
@@ -290,6 +290,11 @@ alternative setup would need more work.
 * https://www.free-online-backup-services.com/features/webdav/
 * https://docs.nextcloud.com/server/19/benutzerhandbuch/files/access_webdav.html
 * https://www.webdavsystem.com/javaserver/server_examples/spring_boot_s3/ own WebDAV server in spring
+
+* [webdavfs](https://github.com/miquels/webdavfs) fuse based _non-caching_ webDAV fs client
+* [davfs](https://savannah.nongnu.org/projects/davfs2) fused based _caching_ webDAV fs client
+  + https://wiki.archlinux.org/title/Davfs2
+* [davfuse](https://github.com/Code7R/davfuse) turn _every_ fuse based fs into a webDAV _server_
 
 ###### Glacier 
 
@@ -342,7 +347,7 @@ alternative setup would need more work.
 * https://askubuntu.com/questions/202072/what-is-a-good-amazon-s3-client
 
 * https://github.com/minio/mc cli, go
-* https://github.com/rclone/rclone go, many storages
+* https://github.com/rclone/rclone go, many storages, featured!
   + https://rclone.org/rc/ even provides rest api
   + https://rclone.org/crypt/ include encryption layer
 * [s3cmd](https://s3tools.org/usage)
@@ -351,6 +356,9 @@ alternative setup would need more work.
 * [s5cmd](https://github.com/peak/s5cmd) extremly fast, go-lang
   + https://knowledgebase.wasabi.com/hc/en-us/articles/360044600552-How-do-I-use-s5cmd-with-Wasabi-
 * [aws cli](https://wasabi-support.zendesk.com/hc/en-us/articles/115001910791-How-do-I-use-AWS-CLI-with-Wasabi-)
+* [davix](https://github.com/cern-fts/davix) http, webDAV, S3, and Azure Objects file management from CERN in C++
+  + [davix documentation](https://davix.web.cern.ch/davix/docs/devel/)
+  + [davix in wikipedia](https://en.wikipedia.org/wiki/DaviX)
 
 s5cmd example:
 ```bash
