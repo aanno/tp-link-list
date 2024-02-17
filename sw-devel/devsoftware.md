@@ -415,7 +415,19 @@
 * https://rhelblog.redhat.com/2016/03/22/red-hat-federation-story-ipsilon-keycloak-a-clash-of-the-titans/
 * https://adam.younglogic.com/2016/08/ooo-ha-fed-poc/#more-4487
 
-## Big Ones
+## Identity Access Management (IAM) - Single sign on (SSO)
+
+* [casdoor](https://casdoor.org/) multi lang OAuth 2.0, OIDC, SAML and CAS, integrated with flexible RBAC and ABAC permission management
+  + https://github.com/casdoor/casdoor
+  + [casbin](https://casbin.org/) multi lang authorization library that supports access control models
+    - [adapters](https://casbin.org/docs/adapters/) policy storage implementations are called adapters
+    - [role manager](https://casbin.org/docs/role-managers/) manage the RBAC role hierarchy (user-role mapping)
+  + [jcasbin](https://github.com/casbin/jcasbin) java implementation of casbin
+
+### IAM as SaaS
+
+* [okta](https://www.okta.com/de/)
+* [stytch](https://stytch.com/docs)
 
 ### freeIPA
 
@@ -543,24 +555,6 @@
   + https://github.com/bujiio/buji-pac4j
 * https://github.com/pac4j/pac4j
 * https://docs.spring.io/spring-security/site/docs/5.0.5.RELEASE/reference/htmlsingle/
-
-## Git
-
-* https://stackoverflow.com/questions/31653922/git-ignore-line-endings
-
-### Git extensions
-
-* [repo, an alternative to `git submodule`](https://source.android.com/setup/develop/repo)
-* [git-crypt - transparent file encryption in git](https://github.com/AGWA/git-crypt)
-* [git-secret encrypts files and stores them](https://git-secret.io/)
-* [git-annex - manage metadata of files](https://git-annex.branchable.com/)
-  + https://git-annex.branchable.com/tips/fully_encrypted_git_repositories_with_gcrypt/
-* [git-remote-gcrypt - repositories encrypted with GnuPG](https://spwhitton.name/tech/code/git-remote-gcrypt/)
-* [gtm - Seamless time tracking for all your Git projects](https://github.com/git-time-metric/gtm)
-* [dvc - git for big-data](https://dvc.org/features)
-* [git-lfs](https://git-lfs.github.com/)
-  + [git-lfs tutorial and alternatives](https://www.perforce.com/blog/vcs/how-git-lfs-works)
-* [pre-commit](https://pre-commit.com/) multi-language, pre-commit hooks that will install missing software
 
 ## Client
 

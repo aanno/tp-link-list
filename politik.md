@@ -7,6 +7,7 @@
 * https://www.jetzt.de
 * https://www.2050.de
 * https://www.fluter.de
+* https://www.riffreporter.de/de
 
 ## Podcasts
 
@@ -43,6 +44,7 @@
 * https://www.taxmenow.eu/
 * https://guterrat.info/
 * https://betterfinance.eu/
+* https://www.volksverpetzer.de/ (anti AfD)
 
 ## Verkehr
 

@@ -245,14 +245,27 @@ Only tools:
 
 ## SCM
 
-### git
+### multi scm solutions
+
+* [rhodecode](https://rhodecode.com/open-source)
+  + https://docs.rhodecode.com/RhodeCode-Control/ref/arch-overview.html
+
+### git (tips and tricks)
+
+* https://git-scm.com/
+* https://gitforwindows.org/
+  + https://github.com/git-for-windows/git
 
 * https://stackoverflow.com/questions/4126300/git-how-to-get-all-the-files-changed-and-new-files-in-a-folder-or-zip
 * https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html (new wire protocol)
 * https://stackoverflow.com/questions/4220416/can-i-specify-multiple-users-for-myself-in-gitconfig
 * https://stackoverflow.com/questions/5480069/autosetuprebase-vs-autosetupmerge
+* https://stackoverflow.com/questions/31653922/git-ignore-line-endings
 
 #### Server/GUI/Hosting
+
+* https://github.com/ianchanning/awesome-github-alternatives
+* https://www.cyberciti.biz/open-source/github-alternatives-open-source-seflt-hosted/
 
 * https://gitea.io/en-US/
   + https://github.com/go-gitea/gitea
@@ -267,22 +280,47 @@ Only tools:
 
 #### Extensions
 
-* https://git-annex.branchable.com/
+* [git annex](https://git-annex.branchable.com/)
   + https://git-annex.branchable.com/assistant/
   + https://git-annex.branchable.com/tips/fully_encrypted_git_repositories_with_gcrypt/
   + http://joeyh.name/blog/entry/git-annex_v6/
-* https://git-lfs.github.com/
+* [git lfs](https://git-lfs.github.com/)
   + https://github.com/git-lfs/git-lfs
   + https://github.com/artemkin/git-lfs-server
   + [Encountered x file(s) that should have been pointers](https://github.com/git-lfs/git-lfs/issues/2839)
-* https://www.agwa.name/projects/git-crypt/
+* [git secret](https://git-secret.io/)
+* [git crypt](https://www.agwa.name/projects/git-crypt/)
   + https://github.com/AGWA/git-crypt
-* https://spwhitton.name/tech/code/git-remote-gcrypt/
+* [git remote gcrypt](https://spwhitton.name/tech/code/git-remote-gcrypt/)
   + https://github.com/spwhitton/git-remote-gcrypt
-* https://github.com/felipec/git-remote-hg
+* [git remote hg](https://github.com/felipec/git-remote-hg)
 * https://www.perforce.com/blog/your-git-repository-database-pluggable-backends-libgit2
-* https://git-secret.io/
 * [pre-commit](https://pre-commit.com/) managing and maintaining multi-language pre-commit hooks
+* [repo, an alternative to `git submodule`](https://source.android.com/setup/develop/repo)
+* [git-crypt - transparent file encryption in git](https://github.com/AGWA/git-crypt)
+* [git-secret encrypts files and stores them](https://git-secret.io/)
+* [git-annex - manage metadata of files](https://git-annex.branchable.com/)
+  + https://git-annex.branchable.com/tips/fully_encrypted_git_repositories_with_gcrypt/
+* [git-remote-gcrypt - repositories encrypted with GnuPG](https://spwhitton.name/tech/code/git-remote-gcrypt/)
+* [gtm - Seamless time tracking for all your Git projects](https://github.com/git-time-metric/gtm)
+* [dvc - git for big-data](https://dvc.org/features)
+* [git-lfs](https://git-lfs.github.com/)
+  + [git-lfs tutorial and alternatives](https://www.perforce.com/blog/vcs/how-git-lfs-works)
+* [pre-commit](https://pre-commit.com/) multi-language, pre-commit hooks that will install missing software
+* [git branchless](https://github.com/arxanas/git-branchless) misc extensions to git like `undo` or `move` subtree
+
+#### inspired by git
+
+* [jujutsu](https://github.com/martinvonz/jj)
+  + [git compatibility of jj](https://martinvonz.github.io/jj/v0.14.0/git-compatibility/)
+* [gitless](https://gitless.com/) simplified git in python
+  + https://github.com/gitless-vcs/gitless
+* [radicle](https://radicle.xyz/) p2p dev network for developing with git (serverless)
+* [pijul](https://pijul.org/)
+
+#### alternatives to git
+
+* [fossil](https://fossil-scm.org/home/doc/trunk/www/index.wiki)
 
 # Copied
 
