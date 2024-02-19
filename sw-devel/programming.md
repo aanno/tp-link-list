@@ -261,6 +261,7 @@ Only tools:
 * https://stackoverflow.com/questions/4220416/can-i-specify-multiple-users-for-myself-in-gitconfig
 * https://stackoverflow.com/questions/5480069/autosetuprebase-vs-autosetupmerge
 * https://stackoverflow.com/questions/31653922/git-ignore-line-endings
+* [git fsmonitor--daemon](https://github.blog/2022-06-29-improve-git-monorepo-performance-with-a-file-system-monitor/)
 
 #### Server/GUI/Hosting
 
@@ -276,7 +277,24 @@ Only tools:
   + https://github.com/gitbucket/gitbucket/wiki/External-database-configuration
   + https://github.com/gitbucket/gitbucket/blob/master/doc/how_to_run.md
   + https://gitbucket.herokuapp.com/
+* https://onedev.io/
+* https://gogs.io/
 * http://gitblit.com/ (old)
+
+##### Git Server Special Interest
+
+* [opentelemetry with git](https://github.blog/2023-10-16-measuring-git-performance-with-opentelemetry/)
+
+### Internet git SaaS
+
+* [github](https://github.com)
+* [sourcehut](https://git.sr.ht/)
+* [bitbucket](https://bitbucket.org)
+* [codeberg](https://codeberg.org/)
+* [gitlab](https://gitlab.com/)
+* [gitea](https://gitea.com)
+* [onedev](https://onedev.io/)
+* [launchpad](https://launchpad.net/)
 
 #### Extensions
 
@@ -284,10 +302,7 @@ Only tools:
   + https://git-annex.branchable.com/assistant/
   + https://git-annex.branchable.com/tips/fully_encrypted_git_repositories_with_gcrypt/
   + http://joeyh.name/blog/entry/git-annex_v6/
-* [git lfs](https://git-lfs.github.com/)
-  + https://github.com/git-lfs/git-lfs
-  + https://github.com/artemkin/git-lfs-server
-  + [Encountered x file(s) that should have been pointers](https://github.com/git-lfs/git-lfs/issues/2839)
+* [git portal](https://gitlab.com/slackermedia/git-portal) lightweight management of heavyweight files in Git, alternative to git lfs
 * [git secret](https://git-secret.io/)
 * [git crypt](https://www.agwa.name/projects/git-crypt/)
   + https://github.com/AGWA/git-crypt
@@ -304,10 +319,29 @@ Only tools:
 * [git-remote-gcrypt - repositories encrypted with GnuPG](https://spwhitton.name/tech/code/git-remote-gcrypt/)
 * [gtm - Seamless time tracking for all your Git projects](https://github.com/git-time-metric/gtm)
 * [dvc - git for big-data](https://dvc.org/features)
-* [git-lfs](https://git-lfs.github.com/)
-  + [git-lfs tutorial and alternatives](https://www.perforce.com/blog/vcs/how-git-lfs-works)
 * [pre-commit](https://pre-commit.com/) multi-language, pre-commit hooks that will install missing software
 * [git branchless](https://github.com/arxanas/git-branchless) misc extensions to git like `undo` or `move` subtree
+
+##### git lfs
+
+Don't diff on large binary blobs, but simply store them. Needs support
+on the 'git server' (a git lfs server). This is included I all major git servers.
+
+* [git lfs on your own s3](https://blog.dermah.com/2020/05/26/how-to-be-stingy-git-lfs-on-your-own-s3-bucket/)
+
+* [git lfs](https://git-lfs.github.com/)
+  + [git-lfs tutorial and alternatives](https://www.perforce.com/blog/vcs/how-git-lfs-works)
+  + https://github.com/git-lfs/git-lfs
+  + https://github.com/artemkin/git-lfs-server
+  + [Encountered x file(s) that should have been pointers](https://github.com/git-lfs/git-lfs/issues/2839)
+* [overview of git lfs server implementations](https://github.com/git-lfs/git-lfs/wiki/Implementations)
+
+* [rudolfs](https://github.com/jasonwhite/rudolfs) high-performance, caching Git LFS server with AWS S3 back-end in rust
+* [lfs-s3](https://github.com/nicolas-graves/lfs-s3) tiny (~300 SLOC) Custom Transfer Agent for Git LFS to S3
+* [git-lfs-s3](https://github.com/troyready/git-lfs-s3) Serverless Git LFS service, with objects stored on S3 & authentication performed via a Cognito
+* [giftless](https://github.com/datopian/giftless) Python implementation of a Git LFS Server that supports cloud storage (S3, Google, Azure)
+* [git-lfs-server I](https://github.com/khoa-io/git-lfs-server) simple Git LFS server implementation in Dart
+* [git-lfs-server II](https://github.com/artemkin/git-lfs-server) Git LFS server in ocaml
 
 #### inspired by git
 

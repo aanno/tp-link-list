@@ -7,6 +7,8 @@
 
 * https://www.investopedia.com/
 * https://www.finanzen.net/
+* https://www.onvista.de/
+* https://de.investing.com/
 * https://www.focus.de/finanzen/boerse/
 * https://invezz.com/de/
 * https://www.livemint.com/

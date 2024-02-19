@@ -5,6 +5,7 @@ See also: olap-analytics.md
 * http://nosql-database.org/
 * https://de.wikipedia.org/wiki/NoSQL
 * http://bigdata-madesimple.com/18-free-and-widely-used-open-source-nosql-databases/
+* [Database of Databases](https://dbdb.io/browse) featued!
 
 ## Products
 
@@ -23,6 +24,8 @@ See also: olap-analytics.md
 * https://redis.io/
 * https://github.com/facebook/rocksdb
 * https://quarkdb.web.cern.ch/quarkdb/docs/master/
+* [tkrzw](https://en.wikipedia.org/wiki/Tkrzw) successor of (g)dbm
+  + https://dbdb.io/db/kyoto-cabinet
 
 ## Cassandra
 

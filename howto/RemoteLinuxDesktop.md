@@ -409,9 +409,18 @@ unterschieden.
 
 ### Wayland remote
 
+An example to run `kcalc` over `waypipe`:
+```bash
+waypipe ssh example.local env QT_QPA_PLATFORM=wayland-egl QT_QPA_PLATFORMTHEME=KDE dbus-launch kcalc
+```
+
 * [gnome mutter remote desktop](https://wiki.gnome.org/Projects/Mutter/RemoteDesktop)
 * [KDE Krfb](https://userbase.kde.org/Krfb)
 * [waypipe - network transparency with wayland](https://gitlab.freedesktop.org/mstoeckl/waypipe/) 
   + https://mstoeckl.com/notes/gsoc/blog.html
 * [remote wayland on fedora-30](https://jgrulich.cz/2019/08/01/tutorial-screen-sharing-and-remote-desktop-on-fedora-workstation-30/)
 * [screen sharing on wayland](https://jgrulich.cz/2018/07/04/how-to-enable-and-use-screen-sharing-on-wayland/)
+
+#### References
+
+* https://wiki.archlinux.org/title/wayland

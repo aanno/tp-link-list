@@ -75,8 +75,23 @@ For vscode, the flags needs to be given on CLI.
 --ozone-platform-hint=auto
 ```
 
-* https://wiki.archlinux.org/title/Wayland#Electron
+Force x11 for eclipse (and eclipse RCP):
+```
+export GDK_BACKEND=x11
+./eclipse
+```
 
+Manipulate wayland function with CLI: foreign-toplevel-management, virtual-keyboard, virtual-pointer:
+* Use [wlctr](https://git.sr.ht/~brocellous/wlrctl)
+
+* https://wiki.archlinux.org/title/wayland
+* https://wiki.archlinux.org/title/Wayland#Electron
+* https://coffeeorientedprogramming.wordpress.com/2016/10/06/make-applications-eclipse-use-x11-backend-on-wayland-fedora-25/
+
+### Wayland Special Interest
+
+* [swaylock](https://github.com/swaywm/swaylock) screen locking utility for Wayland compositors
+  + [swaylock-effects-improved](https://github.com/Xenfo/swaylock-effects-improved) more effects
 
 ## nvidia
 

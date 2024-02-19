@@ -571,10 +571,14 @@ It is _not_ possible to recover the public key stored on nitro, see
 
 ## Distributions
 
+* [distrosea](https://distrosea.com/) Test drive Linux distros online in browser
+* [distrochooser](https://distrochooser.de/) answer a few questions to find your distro
+
 * https://getsol.us/home/ solus and solus budgie
   + https://ubuntubudgie.org/
 * [Pop!_OS](https://pop.system76.com/)
   + [PopOS post install](https://mutschler.eu/linux/install-guides/pop-os-post-install/)
+  + https://github.com/pop-os
 
 ### Firewall Distributions
 
