@@ -4,6 +4,7 @@
 
 * https://www.quantamagazine.org/
   + https://www.quantamagazine.org/mathematicians-set-numbers-in-motion-to-unlock-their-secrets-20210222/
+* https://sciencenotes.de/
 
 ## Books
 

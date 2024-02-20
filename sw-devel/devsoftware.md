@@ -595,27 +595,6 @@
 
 ## Proxy
 
-### Socks5
-
-#### Server
-
-* https://github.com/z3APA3A/3proxy
-* https://github.com/ZhangJiupeng/AgentX (netty-based)
-* http://www.squid-cache.org/ (socks5 can be compiled in)
-  + https://wiki.squid-cache.org/Features/Socks
-
-#### Misc
-
-* https://github.com/securesocketfunneling/ssf
-* https://catonmat.net/linux-socks5-proxy (ssh and socks5)
-* https://shadowsocks.org/en/index.html
-  + https://en.wikipedia.org/wiki/Shadowsocks
-
-#### Client and Libs
-
-* https://github.com/JoshGlazebrook/socks
-* https://github.com/sethmlarson/socksio
-
 ## Continuous Integration (CI/CD)
 
 * https://github.com/ligurio/awesome-ci

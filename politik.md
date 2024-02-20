@@ -8,6 +8,9 @@
 * https://www.2050.de
 * https://www.fluter.de
 * https://www.riffreporter.de/de
+* https://dummy-magazin.de/
+* https://katapult-magazin.de/de
+* https://www.merkur-zeitschrift.de
 
 ## Podcasts
 
@@ -30,6 +33,10 @@
 ## Bildung
 
 * http://www.spiegel.de/lebenundlernen/schule/bayern-auslese-fuers-gymnasium-belastet-grundschueler-und-eltern-a-1145393.html
+
+## Rente
+
+* [Rentenkürzung lange nach Vertragsabschluss](https://www.fr.de/wirtschaft/verbraucherzentrale-klagt-erneut-gegen-kuerzungen-bei-riester-vertraegen-rente-zr-92825257.html)
 
 ## Währung und Finanzen
 

@@ -14,6 +14,7 @@
 * [gnome-boxes](https://help.gnome.org/users/gnome-boxes/stable/)
 * https://libvirt.org/
 * https://github.com/quickemu-project/quickemu
+* [cloud hypervisor](https://www.cloudhypervisor.org/) an alternative to kvm/qemu in rust
 
 ### networking
 
