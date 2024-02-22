@@ -96,6 +96,10 @@
   + https://docs.modular.com/mojo/manual/python/ python compatibility
   + https://www.modular.com/max#max-editions commercial offer
 
+## Triton
+
+* [triton](https://openai.com/research/triton) Open-source GPU programming for neural networks - python like
+
 ## MS semantic kernel
 
 Use Large Language Models (LLMs) like OpenAI, Azure OpenAI, and Hugging Face with conventional programming languages like C#, Python, and Java.

@@ -32,6 +32,9 @@
 
 ### AWS CLI
 
+* [install AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+* [command completion for AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-completion.html)
+* [env for AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html)
 * [Loading AWS CLI parameters from a file](https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-parameters-file.html)
 * [Generating AWS CLI skeleton](https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-skeleton.html)
 * [AWS Scala](https://github.com/seratch/AWScala) alternative CLI based on Scala
@@ -66,9 +69,25 @@
 * https://www.docker.com/blog/docker-compose-from-local-to-amazon-ecs/
 * https://www.docker.com/blog/docker-compose-for-amazon-ecs-now-available/
 * [ecs-cli compose](https://github.com/aws/amazon-ecs-cli)
-* [copilot](https://github.com/aws/copilot-cli)
+
+##### copilot
+
+* [copilot CLI](https://github.com/aws/copilot-cli)
+  + [copilot](https://aws.amazon.com/de/containers/copilot/)
+  + [AWS copilot CLI documentation](https://aws.github.io/copilot-cli/docs/overview/)
+  + [copilot in AWS ECS documentation](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/getting-started-aws-copilot-cli.html)
   + https://aws.github.io/copilot-cli/docs/overview/
   + https://github.com/aws-samples/aws-copilot-sample-service
+
+##### compose-x
+
+* [compose-x](https://github.com/compose-x)
+  + [labs / examples](https://github.com/compose-x/compose-x-labs)
+    - [labs documentation](https://labs.compose-x.io/index.html)
+  + [ecs-compose-x](https://github.com/compose-x/ecs_composex)
+    - [ecs-compose-x documentation](https://docs.compose-x.io/)
+  + [ecs-file-composer](https://github.com/compose-x/ecs-files-composer)
+    - [ecs-file-composer documentation](https://docs.files-composer.compose-x.io/)
 
 #### service discovery
 

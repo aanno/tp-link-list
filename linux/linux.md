@@ -21,6 +21,7 @@
 * https://www.michlfranken.de
 * https://www.renefuerst.eu/blog/
 * https://thenewstack.io/ dev-centered
+* https://osbn.de/ aggregator
 
 ## Nachrichten (open source)
 
@@ -308,11 +309,6 @@ alternative setup would need more work.
 * https://www.slant.co/options/2332/alternatives/~amazon-glacier-alternatives
 * https://cloud.netapp.com/blog/amazon-s3-as-a-file-system
 
-###### Backblaze B2 (S3 alternative)
-
-* [B2 linux support](https://help.backblaze.com/hc/en-us/articles/217664628-How-does-Backblaze-support-Linux-Users-)
-  + Supported: Duplicity, MSP360, qBackup, GoodSync, HashBackup, Duplicacy, Restic
-
 ###### Other S3
 
 * https://www.coralnodes.com/amazon-s3-alternatives/
@@ -323,17 +319,26 @@ alternative setup would need more work.
 * https://www.taloflow.ai/compare/wasabi-hot-cloud-storage-vs-backblaze-b2-cloud-storage
 * https://www.g2.com/compare/amazon-simple-storage-service-s3-vs-vultr
 
-* https://wasabi.com/help/downloads/
+* [Wasabi](https://wasabi.com/help/downloads/)
   + [borgbackup/rclone](https://wasabi-support.zendesk.com/hc/en-us/articles/115003691192-How-do-I-use-BorgBackup-with-Wasabi-)
   + [How does SSE-C Encryption work with Wasabi](https://wasabi-support.zendesk.com/hc/en-us/articles/4414850567963-How-does-SSE-C-Encryption-work-with-Wasabi-)
   + [wasabi documentation](https://docs.wasabi.com/docs/rest-api-introduction)
   + [additions to aws s3 rest api](https://docs.wasabi.com/docs/operations-on-objects)
 * https://min.io/ S3 on your linux (cluster)
 * https://github.com/scality/cloudserver S3 server
-* https://developers.cloudflare.com/r2/pricing/
+* [Cloudflare R2](https://developers.cloudflare.com/r2/pricing/)
   + https://r2-calculator.cloudflare.com/
 * [Synology C2](https://c2.synology.com/en-us/pricing/object-storage)
 * [Backblaze B2](https://www.backblaze.com/cloud-storage/pricing)
+  + [B2 linux support](https://help.backblaze.com/hc/en-us/articles/217664628-How-does-Backblaze-support-Linux-Users-)
+  + Supported: Duplicity, MSP360, qBackup, GoodSync, HashBackup, Duplicacy, Restic
+* [dreamhost storage](https://www.dreamhost.com/cloud/storage/)
+* [storj](https://www.storj.io/pricing) distributed storage, cheap!
+
+###### (Normal) Consumer Cloud Storage
+
+* [Shadow Drive](https://shadow.tech/de-DE/drive)
+* [Mega](https://mega.io/de/pricing)
 
 ###### Azure Blob Storage and S3 compatibility
 

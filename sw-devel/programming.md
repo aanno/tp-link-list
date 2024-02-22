@@ -321,6 +321,8 @@ Only tools:
 * [dvc - git for big-data](https://dvc.org/features)
 * [pre-commit](https://pre-commit.com/) multi-language, pre-commit hooks that will install missing software
 * [git branchless](https://github.com/arxanas/git-branchless) misc extensions to git like `undo` or `move` subtree
+* [git-cache-meta](https://gist.github.com/andris9/1978266)
+* [jgit.sh comes with S3 repo support](https://metamug.com/article/productivity/jgit-host-git-repository-on-s3.html)
 
 ##### git lfs
 

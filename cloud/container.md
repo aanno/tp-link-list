@@ -111,3 +111,14 @@ Restarting exited containers on podman seems _not_ to work!
 *  nginx-autoletsencrypt: https://github.com/profihost/podman-container-configs/
 *  jitsi-meet: https://wissen.profihost.com/wissen/artikel/installation-von-jitsi-meet/
 
+## Container registries
+
+* [distribution registry](https://github.com/distribution/distribution)
+  + [documentation](https://distribution.github.io/distribution/about/configuration/)
+  + [docker image](https://hub.docker.com/_/registry)
+* [pulpproject pulp 3](https://pulpproject.org/about-pulp-3/) content registry in python for RPM, File, Container, Ansible, Debian, Python, OSTree, Maven, Ruby Gem
+  + [supported content](https://pulpproject.org/content-plugins/)
+  + [pulp 3 with podman-compose](https://pulpproject.org/podman-compose/)
+  + https://github.com/pulp
+* [harbor](https://goharbor.io/) big, only for kubernetes
+

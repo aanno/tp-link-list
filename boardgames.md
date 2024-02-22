@@ -23,3 +23,5 @@
 
 * https://www.abstractgames.org/
 * https://spielstein.com/
+* http://tri-tail.com/
+  + http://kiraresari.blogspot.com/

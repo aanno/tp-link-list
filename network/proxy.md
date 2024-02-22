@@ -13,6 +13,7 @@
 
 ## Proxy Implementations (mostly camouflage proxies)
 
+* [gost v3](https://github.com/go-gost/gost) go simple tunnel, swiss army knife for proxy setup, featured!
 * [hysteria](https://github.com/apernet/hysteria) SOCKS5, HTTP proxy, TCP/UDP forwarding, Linux TProxy and more
 * [hysteria2](https://v2.hysteria.network/) censorship resistant proxy, featured!
 * [outline](https://getoutline.org/de/) alternative to tor (?)
@@ -36,6 +37,14 @@
 * [socksio](https://github.com/sethmlarson/socksio) socks client lib for python
 * [h11w socks](https://github.com/h12w/socks) socks client-lib for go-lang
 * [txthinking socks5](https://github.com/txthinking/socks5) socks5 server and client lib for go-lang
+
+##### Socks 5 authentication
+
+Socks 5 authentication is not common.
+
+* [code socks 5 auth in java](https://stackoverflow.com/questions/51335051/java-how-to-setup-socks-proxy-with-credentials)
+  + [socks 5 auth with apache http client](https://stackoverflow.com/questions/22937983/how-to-use-socks-5-proxy-with-apache-http-client-4)
+  + [socks _without_ auth is supported](https://stackoverflow.com/questions/5697371/how-to-use-socks-in-java)
 
 ##### Socksify
 
@@ -116,6 +125,8 @@ TUN = Routing (2 virtual subnets)
 * https://fineproxy.de/
 * https://proxyline.net/en/ceny/
 * https://proxysocks5.com/product/socks5/
+* https://proxy-seller.com/
+* https://proxys.io/en/#pricing
 
 ## Testing proxies and MTM
 

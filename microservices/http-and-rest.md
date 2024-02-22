@@ -39,6 +39,7 @@
   + https://stackoverflow.com/questions/39697332/simple-rest-with-undertow
   + https://stackoverflow.com/questions/25204887/how-to-send-a-asynchronous-response-in-an-undertow-httphandler
 * https://github.com/buremba/netty-rest
+* [Metamug R2](https://github.com/metamug/r2) a generic REST server for resources (CRUD) in java
 
 ## Python
 

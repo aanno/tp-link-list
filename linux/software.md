@@ -516,3 +516,8 @@
 
 * https://inventree.org/
 * https://partkeepr.org/
+
+
+## ERP and Accounting
+
+* https://monday.com/lang/de 

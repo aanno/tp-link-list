@@ -23,11 +23,18 @@
 - [Top things after installation](http://www.2daygeek.com/top-things-to-do-after-installing-fedora-24-workstation/#)
 - [25 things to do](http://www.tecmint.com/things-to-do-after-fedora-24-workstation-installation/)
 - [Using on libreoffice flatpak](https://whatofhow.wordpress.com/2016/06/01/libreoffice-5-2-beta-flatpak/)
-- [create a br0 bridge with nmcli](https://www.cyberciti.biz/faq/how-to-add-network-bridge-with-nmcli-networkmanager-on-linux/)
 - [usb modeswitch](https://github.com/Danw33/usb-modeswitch)
   + [use usb modeswitch on boot](https://askubuntu.com/questions/1080944/automatically-use-usb-modeswitch-for-wifi-usb)
 - [long wait on NetworkManager-wait-online](https://networkmanager.dev/docs/api/latest/NetworkManager-wait-online.service.html)
 - [Bluetooth Audio Headsets](https://wiki.archlinux.org/title/bluetooth_headset#Switch_between_HSP/HFP_and_A2DP_setting)
+
+### Bridge
+
+Bridges are quick and dirty to run and test VMs. However, they may degrade your network performance.
+
+* [create a br0 bridge with nmcli](https://www.cyberciti.biz/faq/how-to-add-network-bridge-with-nmcli-networkmanager-on-linux/)
+* [linux bridges (german)](https://wiki.ubuntuusers.de/Netzwerkbr%C3%BCcke/)
+
 
 ### automount
 
@@ -90,6 +97,10 @@ Manipulate wayland function with CLI: foreign-toplevel-management, virtual-keybo
 
 ### Wayland Special Interest
 
+* [wlroots](https://way-cooler.org/book/wlroots_introduction.html) wayland compositor library
+* [smithay](https://github.com/Smithay/smithay) wayland compositor library in rust
+* [strata](https://github.com/StrataWM/strata) wayland compositor in rust
+* [winit](https://github.com/rust-windowing/winit) windows creation abstraction in rust
 * [swaylock](https://github.com/swaywm/swaylock) screen locking utility for Wayland compositors
   + [swaylock-effects-improved](https://github.com/Xenfo/swaylock-effects-improved) more effects
 
