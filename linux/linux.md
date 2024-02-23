@@ -264,9 +264,11 @@ alternative setup would need more work.
 * https://github.com/NaPs/Marty
 * [kopia](https://kopia.io/)
   + https://github.com/kopia/kopia
-* https://github.com/gilbertchen/duplicacy cloud-enabled, comparison with other backups, slow dev since 2021, semi-commercial
-  + https://duplicacy.com/
-  + https://duplicacy.com/buy.html
+* [duplicacy](https://github.com/gilbertchen/duplicacy) cloud-enabled, comparison with other backups, slow dev since 2021, semi-commercial
+  + [duplicacy web site](https://duplicacy.com/)
+  + [buy duplicacy](https://duplicacy.com/buy.html) - web client will cost, but CLI is free for consumer use
+  + [storage backends](https://github.com/gilbertchen/duplicacy/wiki/Storage-Backends)
+  + [RSA encryption](https://github.com/gilbertchen/duplicacy/wiki/RSA-encryption)
 * [ogive](https://github.com/mgren/ogive) glacier backup
 * https://rclone.org/ (more a sync tool but cloud-enabled)
 * [cloud db backup](https://github.com/backup-manager/backup-manager)

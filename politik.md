@@ -11,6 +11,7 @@
 * https://dummy-magazin.de/
 * https://katapult-magazin.de/de
 * https://www.merkur-zeitschrift.de
+* https://zenith.me
 
 ## Podcasts
 

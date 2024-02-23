@@ -153,6 +153,19 @@
 * https://www.offlineimap.org/
   + https://github.com/OfflineIMAP/offlineimap
 
+### Nextcloud
+
+
+### Nextcloud all-in-one
+
+* [all in one github](https://github.com/nextcloud/all-in-one)
+* [manual install](https://github.com/nextcloud/all-in-one/tree/main/manual-install)
+* [aio with reverse proxy](https://github.com/nextcloud/all-in-one/blob/main/reverse-proxy.md)
+
+* [aio vaultwarden](https://github.com/nextcloud/all-in-one/blob/main/community-containers/vaultwarden/readme.md)
+  + [vaultwarden](https://github.com/dani-garcia/vaultwarden) Alternative implementation of the Bitwarden server API written in Rust
+* [memories](https://github.com/pulsejet/memories) Photo Management for Nextcloud
+
 
 #### Nextcloud special interest
 
@@ -356,6 +369,11 @@
 * https://www.lostlabyrinth.com/ (roguelike)
 * [karawan](https://www.linux-community.de/artikel/das-spiel-zum-wochenende-karawan/) full metal planète
 
+### Game Engines
+
+* [Godot Engine](https://docs.godotengine.org/en/stable/about/introduction.html)
+  + https://godotengine.org/
+
 ## Business software
 
 ### time registration
@@ -520,4 +538,7 @@
 
 ## ERP and Accounting
 
-* https://monday.com/lang/de 
+* https://monday.com/lang/de SaaS, commercial
+* https://www.odoo.com/ community edition
+  + https://de.wikipedia.org/wiki/Odoo
+* https://flectrahq.com/ community edition

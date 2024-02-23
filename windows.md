@@ -10,6 +10,10 @@
 * [winstall](https://winstall.app/) winget repository
 * [winget](https://winget.run/) winget repository
 
+### Other package manager
+
+* [vcpkg](https://github.com/microsoft/vcpkg) manage C and C++ libraries on Windows, Linux and MacOS
+
 ## Apps
 
 ### Multimedia

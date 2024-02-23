@@ -20,6 +20,11 @@
   + https://github.com/LightRider5/lnvpn
 * [IVPN](https://www.ivpn.net/pricing/) own protocol, many pay methods, including 
   Credit Card, PayPal, Bitcoin, Bitcoin Lightning, Monero, Cash (Coin)
+* [nordVPN](https://nordvpn.com/de/blog/nordvpn-linux-open-source/)
+  + [nordVPN linux client](https://github.com/NordSecurity/nordvpn-linux) go-lang
+  + [libtelio](https://github.com/NordSecurity/libtelio) client-side library for creating encrypted networks (called Meshnet) in rust
+  + [libdrop](https://github.com/NordSecurity/libdrop) library for sending/receiving files, primarily over meshnet
+
 
 ## Wireguard
 
