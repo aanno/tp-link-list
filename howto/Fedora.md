@@ -95,6 +95,16 @@ Manipulate wayland function with CLI: foreign-toplevel-management, virtual-keybo
 * https://wiki.archlinux.org/title/Wayland#Electron
 * https://coffeeorientedprogramming.wordpress.com/2016/10/06/make-applications-eclipse-use-x11-backend-on-wayland-fedora-25/
 
+Run `protonmail-bridge`:
+
+```
+protonmail-bridge --software-renderer
+```
+
+This might help with other QT based applications as well.
+
+* [software-renderer issue](https://github.com/ProtonMail/proton-bridge/issues/283)
+
 ### Wayland Special Interest
 
 * [wlroots](https://way-cooler.org/book/wlroots_introduction.html) wayland compositor library

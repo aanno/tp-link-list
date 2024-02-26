@@ -28,7 +28,36 @@
 ## AWS Development
 
 * [Retrieve metadata](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-retrieval.html)
+* [AWS Builder ID](https://docs.aws.amazon.com/toolkit-for-visual-studio/latest/user-guide/builder-id.html) is a new account type with the following features:
+* use [Amazon Q](https://aws.amazon.com/de/q/) (preview)
+  + will be commercial (soon?), see https://aws.amazon.com/de/q/pricing/
+* use [CodeWhisperer](https://aws.amazon.com/de/codewhisperer/)
+  + Works with VS Code, Idea, CLI, and other, see https://aws.amazon.com/de/codewhisperer/resources/#Getting_started/
+  + [What is CodeWhisperer](https://docs.aws.amazon.com/codewhisperer/latest/userguide/what-is-cwspr.html)
+  + [supported languages](https://docs.aws.amazon.com/codewhisperer/latest/userguide/language-ide-support.html)
+  + [view code references (or opt-out)](https://docs.aws.amazon.com/codewhisperer/latest/userguide/code-reference.html#opt-out-code-reference)
+* Use [CodeCatalyst](https://codecatalyst.aws/explore)
+  + [setup](https://docs.aws.amazon.com/codecatalyst/latest/userguide/setting-up-topnode.html)
+  + collaborate
+  + use [dev environments](https://codecatalyst.aws/explore/dev-environments)
+  + use [blueprints](https://codecatalyst.aws/explore/blueprints)
+  + [tutorial: three-tier web application blueprint](https://docs.aws.amazon.com/codecatalyst/latest/userguide/getting-started-template-project.html)
+  + [extensions](https://docs.aws.amazon.com/codecatalyst/latest/userguide/extensions.html)
+* [AWS Toolkit Idea Plugin](https://docs.aws.amazon.com/toolkit-for-jetbrains/latest/userguide/working-with-aws.html)
 
+### AWS session manager
+
+Connect to a AWS node (e.g. an ec2 instance) with ssh.
+
+```bash
+sudo dnf install -y https://s3.amazonaws.com/session-manager-downloads/plugin/latest/linux_64bit/session-manager-plugin.rpm
+aws ssm start-session --target <target-id>
+```
+
+* [session manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager.html) plugin to AWS CLI
+* [install session manager plugin for AWS CLI](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-working-with-install-plugin.html)
+* [setup session manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-getting-started.html)
+* [what is systems manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/what-is-systems-manager.html) AWS hybrid and multicloud solution
 
 ### AWS CLI
 
@@ -134,3 +163,13 @@
 * [copilot](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Copilot.html) ecs tool
 * [mutato](https://stelligent.github.io/mutato/#/)
   + https://github.com/stelligent/mutato
+
+
+```bash
+```
+
+```bash
+```
+
+```bash
+```
