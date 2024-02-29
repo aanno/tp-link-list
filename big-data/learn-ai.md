@@ -2,6 +2,7 @@
 
 * https://learnai-platform.bemyapp.com/#/event
 * https://www.tensorflow.org/ml-community-day
+* [IBM's generative AI for developers](https://developer.ibm.com/generative-ai-for-developers/?cm_sp=ibmdev--developer--GenAI)
 
 ## Misc Sites
 

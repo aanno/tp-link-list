@@ -24,6 +24,7 @@
 ## Musik
 
 * https://www.laut.de
+* https://diffusmag.de
 
 ### St Pepper
 

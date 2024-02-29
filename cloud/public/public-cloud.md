@@ -53,12 +53,6 @@
   + https://docs.harvesterhci.io/v1.1
 * https://www.nomadproject.io/api-docs
   + https://www.heise.de/select/ix/2017/7/1499098548285194
-* https://www.pulumi.com/ (now commercial)
-  + https://www.pulumi.com/docs/intro/languages/
-  + https://www.pulumi.com/docs/intro/concepts/
-  + https://www.pulumi.com/docs/intro/concepts/state/
-  + https://www.pulumi.com/docs/troubleshooting/faq/
-  + https://github.com/pulumi/pulumi
 * [tinkerbell](https://tinkerbell.org/)
   + [tink-cli](https://docs.tinkerbell.org/services/tink-cli/)
 * [ironic - for metal](https://ironicbaremetal.org/)
@@ -74,6 +68,26 @@
 * [uyuni](https://github.com/uyuni-project/uyuni) manage cloud vms (with ansible and salt)
   + https://www.uyuni-project.org/
 * [karpenter](https://github.com/aws/karpenter) provisioning for kubernetes (mostly auto scaling)
+
+### Pulumi
+
+* https://www.pulumi.com/ (now commercial)
+  + https://www.pulumi.com/docs/intro/languages/
+  + https://www.pulumi.com/docs/intro/concepts/
+  + https://www.pulumi.com/docs/intro/concepts/state/
+  + https://www.pulumi.com/docs/troubleshooting/faq/
+  + https://github.com/pulumi/pulumi
+* [pulumi languages SDKs](https://www.pulumi.com/docs/languages-sdks/) node.js, python, go-lang, .NET, java, yaml
+* [docs: module lb (load balancer)](https://www.pulumi.com/docs/reference/pkg/nodejs/pulumi/awsx/lb/#ApplicationLoadBalancer)
+  + [docs: AWS ELB](https://www.pulumi.com/docs/clouds/aws/guides/elb/)
+* [templates](https://www.pulumi.com/templates/)
+
+#### Pulumi on AWS
+
+* [pulumi crosswalks for AWS](https://www.pulumi.com/docs/clouds/aws/guides/)
+  + [AWSX](https://www.pulumi.com/registry/packages/awsx/)
+* [docs: ECS](https://www.pulumi.com/docs/clouds/aws/guides/ecs/)
+  + [ECS container service template](https://www.pulumi.com/templates/container-service/aws/)
 
 ### Terraform
 

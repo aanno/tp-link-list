@@ -19,6 +19,7 @@
 * https://www.vpsbenchmarks.com/compare/ec2_vs_lightsail
   + https://aws.amazon.com/de/lightsail/pricing/
 * [T2 unlimited ec2 mode](https://aws.amazon.com/de/blogs/aws/new-t2-unlimited-going-beyond-the-burst-with-high-performance/)
+* [serverless or kubernetes](https://aws.amazon.com/de/getting-started/decision-guides/serverless-or-kubernetes-on-aws-how-to-choose/)
 
 ### AWS Container (ecs, fargate)
 
@@ -87,6 +88,14 @@ aws ssm start-session --target <target-id>
 * https://github.com/boto/boto3
 
 ## Services
+
+### Load balancer
+
+* [pricing load balancer](https://aws.amazon.com/de/elasticloadbalancing/pricing/) best practice AWS templates
+
+### EC2
+
+* [run docker on EC2](https://medium.com/appgambit/part-1-running-docker-on-aws-ec2-cbcf0ec7c3f8)
 
 ### ECS
 
@@ -163,6 +172,10 @@ aws ssm start-session --target <target-id>
 * [copilot](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Copilot.html) ecs tool
 * [mutato](https://stelligent.github.io/mutato/#/)
   + https://github.com/stelligent/mutato
+
+### EKS (kubernetes)
+
+* https://aws.amazon.com/de/eks/getting-started/
 
 
 ```bash

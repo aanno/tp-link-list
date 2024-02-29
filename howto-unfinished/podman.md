@@ -34,8 +34,73 @@ sudo rm -r .local/share/containers/*
 * https://manpages.debian.org/experimental/containers-storage/containers-storage.conf.5.en.html
 * https://github.com/containers/podman/blob/main/vendor/github.com/containers/storage/storage.conf
 
+## Podman playing Docker
+
+It is possible to emulate docker-rootless with podman.
+
 ```bash
+sudo dnf install -y podman podman-docker docker-compose
+
+# setup socket
+systemctl --user enable podman.socket
+systemctl --user start podman.socket
+
+# test socket
+curl -H "Content-Type: application/json" \
+	--unix-socket /var/run/user/$UID/podman/podman.sock \
+    http://localhost/_ping
+
+# socket path is different (from normal docker)
+export DOCKER_HOST=unix:///run/user/$UID/podman/podman.sock
 ```
+
+However, some programs (like `pulumi`) also access the storage. And this is problem - as the storage format is _not_ the same.
+
+Hence 
+
+```bash
+mkdir /stratis/home/tpasch/containers/storage/overlay/link/home/tpasch/.local/share/containers/storage
+ln -s /stratis/home/tpasch/containers/storage/overlay /stratis/home/tpasch/containers/storage/overlay/link/home/tpasch/.local/share/containers/storage
+```
+
+will _not_ help you.
+
+In this case docker rootless might be an option.
+
+```bash
+dnf install moby-engine docker-compose docker-distribution golang-github-rootless-containers-rootlesskit
+systemctl disable --now docker.service docker.socket
+```
+`dockerd-rootless-setuptool.sh` is not present in Fedora's version of docker 
+(moby-engine, docker-distribution) but is also at 
+
+* https://github.com/moby/moby/blob/master/contrib/dockerd-rootless-setuptool.sh
+* https://github.com/moby/moby/blob/master/contrib/dockerd-rootless.sh
+
+```bash
+cp -i Downloads/dockerd-rootless-setuptool.sh /usr/bin/
+cp -i Downloads/dockerd-rootless.sh /usr/bin/
+chmod a+x /usr/bin/dockerd-*
+```
+
+You need the following in your `.bashrc`:
+
+```bash
+export DOCKER_HOST=unix:///run/user/$UID/docker.sock
+```
+
+And to start (_not_ permanent):
+
+```bash
+systemctl --user start docker
+```
+
+This is known to work with `pulumi`.
+
+### Reference
+
+* [podman playing rootless-docker-compose](https://brandonrozek.com/blog/rootless-docker-compose-podman/)
+* [docker rootless](https://docs.docker.com/engine/security/rootless/)
 
 ```bash
 ```

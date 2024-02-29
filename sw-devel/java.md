@@ -122,6 +122,8 @@
 * https://www.infoq.com/articles/native-java-aligning/
 * https://www.infoq.com/articles/native-compilations-boosts-java/
 * [openj9 builds](https://developer.ibm.com/languages/java/semeru-runtimes/downloads/)
+  + [eclipse openj9](https://eclipse.dev/openj9/)
+  + [jitserver in j9](https://developer.ibm.com/articles/jitserver-optimize-your-java-cloud-native-applications/)
 
 
 ## Java to JS/TS
