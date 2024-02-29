@@ -25,7 +25,18 @@ You should do:
 
 ```bash
 sudo rm -r .local/share/containers/*
+# alternative?
+podman system reset
 ```
+
+If you switch between storage locations, you should always
+
+```bash
+
+podman system reset
+```
+
+_before_ switching.
 
 ### Reference
 
@@ -71,6 +82,7 @@ In this case docker rootless might be an option.
 dnf install moby-engine docker-compose docker-distribution golang-github-rootless-containers-rootlesskit
 systemctl disable --now docker.service docker.socket
 ```
+
 `dockerd-rootless-setuptool.sh` is not present in Fedora's version of docker 
 (moby-engine, docker-distribution) but is also at 
 
@@ -89,6 +101,8 @@ You need the following in your `.bashrc`:
 export DOCKER_HOST=unix:///run/user/$UID/docker.sock
 ```
 
+Attention DOCKER_HOST for docker-rootless is different from podman playing docker.
+
 And to start (_not_ permanent):
 
 ```bash
@@ -101,6 +115,7 @@ This is known to work with `pulumi`.
 
 * [podman playing rootless-docker-compose](https://brandonrozek.com/blog/rootless-docker-compose-podman/)
 * [docker rootless](https://docs.docker.com/engine/security/rootless/)
+* [Changing data root directory in rootless Docker](https://samadhiweb.com/blog/2023.02.22.rootless.docker.html)
 
 ```bash
 ```
