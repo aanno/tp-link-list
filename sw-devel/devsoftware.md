@@ -261,6 +261,14 @@
 * [payload](https://github.com/payloadcms/payload) typescript, Express, MongoDB and React
   + https://payloadcms.com/use-cases
   + https://demo.payloadcms.com/admin/login
+* [sanity](https://www.sanity.io/) semi-commercial, typescript
+  + https://github.com/sanity-io/sanity
+  + [docs](https://www.sanity.io/docs/overview-introduction)
+  + [content lake](https://www.sanity.io/docs/datastore) commercial backend datastore for sanity
+  + [sanity studio](https://www.sanity.io/docs/sanity-studio) commercial real-time collaborative application for content creation
+* [directus](https://directus.io/) semi-commercial, typescript, vue
+  + https://github.com/directus/directus
+  + [docs](https://docs.directus.io/getting-started/introduction.html)
 * https://github.com/apostrophecms/apostrophe-headless
   + https://apostrophecms.org/docs/technical-overviews/technical-overview.html
   + https://apostrophecms.org/features
@@ -334,6 +342,9 @@
 
 * https://www.gatsbyjs.com/ (asciidoctor, katex, ...)
 * https://astro.build/
+  + [astro island concept](https://docs.astro.build/en/concepts/islands/)
+  + [astro and markdown](https://docs.astro.build/de/guides/markdown-content/)
+  + [astro and mdx](https://docs.astro.build/de/guides/integrations-guide/mdx/)
   + https://github.com/withastro/astro/tree/main/packages/renderers/renderer-lit
     - https://web.dev/declarative-shadow-dom/
 * https://markojs.com/

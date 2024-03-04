@@ -72,6 +72,9 @@ Socks 5 authentication is not common.
 
 ## Public Proxy Lists
 
+* [hidemy proxy search](https://hidemy.io/de/proxy-list/)
+* [proxynova list](https://www.proxynova.com/)
+* [proxysite proxy search](https://www.proxysite.com/)
 * https://github.com/TheSpeedX/PROXY-List
 * https://github.com/hookzof/socks5_list
 * https://github.com/jetkai/proxy-list includes links to scraper and validators
@@ -121,6 +124,7 @@ TUN = Routing (2 virtual subnets)
 
 ## Proxy sellers
 
+* https://rateproxy.com/en/
 * https://scoktw.com/us/best_exclusive_socks5_proxy.html
 
 * https://proxy6.net/en/

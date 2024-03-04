@@ -107,6 +107,8 @@
 * https://github.com/Kong/kong
   + https://github.com/Kong/kubernetes-ingress-controller kong for kubernetes
   + https://github.com/Kong/deck configuration for kong
+* [cilium as service mesh](https://cilium.io/use-cases/service-mesh/)
+  + https://www.rokt.de/ company that rules e-commerce based on cilium and kubernetes
 
 
 ## Linux base technology

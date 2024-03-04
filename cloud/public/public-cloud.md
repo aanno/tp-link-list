@@ -81,6 +81,8 @@
 * [docs: module lb (load balancer)](https://www.pulumi.com/docs/reference/pkg/nodejs/pulumi/awsx/lb/#ApplicationLoadBalancer)
   + [docs: AWS ELB](https://www.pulumi.com/docs/clouds/aws/guides/elb/)
 * [templates](https://www.pulumi.com/templates/)
+* [pulumi esc cli](https://www.pulumi.com/docs/esc-cli/)
+* [pulumi kotlin SDK](https://github.com/VirtuslabRnD/pulumi-kotlin)
 
 #### Pulumi on AWS
 
@@ -88,6 +90,10 @@
   + [AWSX](https://www.pulumi.com/registry/packages/awsx/)
 * [docs: ECS](https://www.pulumi.com/docs/clouds/aws/guides/ecs/)
   + [ECS container service template](https://www.pulumi.com/templates/container-service/aws/)
+* [pulumi aws-native provider](https://www.pulumi.com/registry/packages/aws-native/installation-configuration/)
+  + https://github.com/pulumi/pulumi-aws-native
+* [pulumi old aws classic provider](https://www.pulumi.com/registry/packages/aws/installation-configuration/)
+* [cf2pulumi](https://www.pulumi.com/cf2pulumi/) Convert CloudFormation Templates to Pulumi
 
 ### Terraform
 

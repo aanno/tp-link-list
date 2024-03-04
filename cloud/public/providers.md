@@ -1,5 +1,14 @@
 # Public cloud providers
 
+## Meta
+
+* [cloud community](https://github.com/cloudcommunity) featured!
+  + [cloud free tier](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison)
+  + [free hosting](https://github.com/cloudcommunity/Free-Hosting)
+  + [free certifications](https://github.com/cloudcommunity/Free-Certifications)
+  + https://cloudstudy.net/
+* [hosttest](https://www.hosttest.de/) featured!, compare server host offers
+
 ## Lists
 
 * https://www.computerwoche.de/a/clevere-alternativen-zu-azure-amazon-und-google,3545929,2
@@ -8,6 +17,16 @@
 ## Compare
 
 * https://www.vpsbenchmarks.com/compare/docean_vs_linode
+
+## Common Server Tips and Tricks (hardening)
+
+* [protect VPS](https://help.ovhcloud.com/csm/de-vps-security-tips) server protect
+  + [configure fedora firewall](https://docs.fedoraproject.org/en-US/quick-docs/firewalld/)
+  + [fail2ban and podman](https://serverfault.com/questions/1143120/fail2ban-on-host-for-rootless-podman-keycloak-container)
+
+## Common Client Tips and Tricks
+
+* [ssh config file](https://linuxize.com/post/using-the-ssh-config-file/)
 
 ## Gaia-X
 
@@ -80,3 +99,18 @@
 
 * https://www.vultr.com/docs/how-to-set-up-a-tensorflow-workspace-on-a-vultr-cloud-gpu-instance/
 * https://www.vultr.com/marketplace/apps/nvidia-ngc/ featured
+
+## Oracle Cloud (OCI)
+
+* [OCI](https://www.oracle.com/de/cloud/)
+* [free tier](https://docs.oracle.com/de-de/iaas/Content/FreeTier/freetier.htm)
+* [policy syntax in docs](https://docs.oracle.com/de-de/iaas/Content/Identity/Concepts/policysyntax.htm)
+* [worker requests in docs](https://docs.oracle.com/en-us/iaas/Content/General/Concepts/workrequestoverview.htm)  monitor long-running operations
+
+## OVH Cloud (cloud and server provider)
+
+* [OVH Cloud](https://www.ovhcloud.com/de/)
+* [OVH login](https://www.ovh.com/auth/)
+* [protect user account](https://help.ovhcloud.com/csm/de-account-secure-account-personal-data)
+* [Bring your own image (BYOI)](https://help.ovhcloud.com/csm/en-dedicated-servers-bringyourownimage) only for dedicated server
+* [pulumi OVH provider](https://www.pulumi.com/registry/packages/ovh/)

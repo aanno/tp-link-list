@@ -116,6 +116,7 @@ aws ssm start-session --target <target-id>
   + [copilot in AWS ECS documentation](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/getting-started-aws-copilot-cli.html)
   + https://aws.github.io/copilot-cli/docs/overview/
   + https://github.com/aws-samples/aws-copilot-sample-service
+  + [copilot community](https://aws.github.io/copilot-cli/community/get-involved/)
 
 ##### compose-x
 

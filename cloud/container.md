@@ -50,6 +50,11 @@ Restarting exited containers on podman seems _not_ to work!
   + [restart stopped containers](https://www.baeldung.com/linux/docker-restart-stopped-container)
 * [podman restart man page](https://docs.podman.io/en/latest/markdown/podman-restart.1.html)
 
+### Dockerfile (Syntax) (also used by podman)
+
+* [Dockerfile](https://docs.docker.com/reference/dockerfile/)
+* [Docker ARG, ENV and .env](https://vsupalov.com/docker-arg-env-variable-guide/) featured!
+
 ### docker tip and tricks
 
 * [xx](https://github.com/tonistiigi/xx)  cross-compilation from Dockerfiles that understand the --platform flag (not working on podman?)
@@ -76,6 +81,7 @@ Restarting exited containers on podman seems _not_ to work!
 ### podman tip and tricks
 
 * [sharing supplemental group](https://www.redhat.com/sysadmin/supplemental-groups-podman-containers) share resources between the host and containers
+* [How Podman can extract a container's external IP address](https://www.redhat.com/sysadmin/container-ip-address-podman)
 
 ### podman (pods interface)
 

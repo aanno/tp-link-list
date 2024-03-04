@@ -392,7 +392,7 @@ Also see `documenting-it.md`
 * https://manubot.org/
   + https://manubot.org/catalog/
   + https://github.com/manubot
-* [mdx](https://mdxjs.com/) markdown with jsx (react)
+* [mdx](https://mdxjs.com/) markdown with jsx (react), featured!
 * [markdoc - alternative to mdx](https://markdoc.dev/docs/faq)
 
 ## Markdown to Book

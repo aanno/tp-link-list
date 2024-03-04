@@ -81,7 +81,7 @@ Checking kmods exist for 6.5.6-300.fc39.x86_64Warning: Could not determine what 
 ```
 
 ```bash
-akmods --rebuild --force
+akmods --rebuild --force --verbose
 ```
 
 ### Known problems
@@ -101,7 +101,29 @@ Reason:
 * initramfs is wrong: `dracut --regenerate-all --force --verbose`
 
 ```bash
+# akmods
+Checking kmods exist for 6.7.6-200.fc39.x86_64Warning: Could not determine what package owns /lib/modules/6.7.6-200.fc39.x86_64/extra/v4l2loopback/
 ```
+
+```bash
+# akmods --rebuild
+Checking kmods exist for 6.7.6-200.fc39.x86_64             [  OK  ]
+Building and installing nvidia-kmod                        [  OK  ]
+Building and installing v4l2loopback-kmod                  [FEHLGESCHLAGEN]
+Could not install newly built RPMs. You can find them and the logfile in:
+/var/cache/akmods/v4l2loopback/0.12.7^20230503g2c9b670-2-for-6.7.6-200.fc39.x86_64.failed.log
+```
+
+Currently, you could build v4l2loopback with kmod as well (and you still
+use dkms for that).
+
+To circumvent, just say what you want to build:
+```bash
+akmods --akmod nvidia-kmod --kernels 6.7.4-200.fc39.x86_64
+```
+
+But the permanent solution is to switch from dkms to akmods for v4l2loopback.
+TODO
 
 ```bash
 ```

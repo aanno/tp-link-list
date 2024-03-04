@@ -195,6 +195,20 @@
 
 * https://coredns.io/
   + https://coredns.io/plugins/etcd/
+* [overview of kubernetes network models](https://romanglushach.medium.com/understanding-the-different-types-of-kubernetes-network-models-e1c93db146c) Calico, Antrea, Snap, Weave
+* [network plugins and CNI](https://kubernetes.io/docs/concepts/extend-kubernetes/compute-storage-net/network-plugins/)
+* [kubernetes networking](https://www.tigera.io/learn/guides/kubernetes-networking/)
+
+##### Cilium
+
+* [cilium](https://cilium.io/get-started/) eBPF based
+  + [docs](https://docs.cilium.io/en/stable/)
+  + [eBPF](https://ebpf.io/)
+
+##### Calico
+
+* [calico github](https://github.com/projectcalico/calico)
+* [docs](https://docs.tigera.io/calico/latest/about/)
 
 ##### Certificates and CAs
 
