@@ -344,22 +344,6 @@
 
 #### programming
 
-##### serverless
-
-* https://www.baeldung.com/ops/knative-serverless
-  + https://knative.dev/docs/
-  + https://docs.openshift.com/container-platform/4.13/cli_reference/kn-cli-tools.html
-* https://www.baeldung.com/spring-cloud-function
-  + https://spring.io/serverless
-* https://piotrminkowski.com/2021/03/01/spring-boot-on-knative/
-* https://knative.dev/
-  + https://www.redhat.com/de/topics/microservices/what-is-knative
-  + [kourier](https://github.com/knative-extensions/net-kourier) lightweight alternative for the Istio ingress for knative
-* https://openwhisk.apache.org/
-  + https://github.com/apache/openwhisk
-* https://www.openfaas.com/
-
-
 #### special apps on openshift
 
 * [flink operator](https://cloud.redhat.com/blog/a-quick-guide-to-automated-data-streaming-with-the-flink-operator-on-openshift)

@@ -98,6 +98,11 @@
 * https://github.com/dyne/Zenroom
 * https://www.dyne.org/
 
+## Keyboard management
+
+* [kmonad](https://github.com/kmonad/kmonad) Haskell
+  + https://github.com/guettli/ten-flying-fingers
+
 ## Editor/IDE
 
 * https://atom.io/packages/proton-mode

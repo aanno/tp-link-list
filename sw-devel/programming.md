@@ -79,29 +79,6 @@ Alternative
   + https://amp.dev/documentation/components/
 * https://www.netlify.com/ (jamstack based)
 
-### Emerging Cloud
-
-#### BaaS and Serverless
-
-* https://www.heise.de/developer/artikel/Serverless-Computing-Teil-1-Theorie-und-Praxis-3756877.html
-* https://www.future-processing.com/blog/serverless-with-java/
-* https://blog.codecentric.de/2020/12/serverless-java-aws-zwei-jahre-cloud-native/
-* https://github.com/apache/openwhisk
-  + https://openwhisk.apache.org/
-* https://opensource.com/article/18/11/open-source-serverless-platforms
-* https://www.serverless.com/open-source/ (node-based)
-  + https://www.serverless.com/blog/how-to-create-a-rest-api-in-java-using-dynamodb-and-serverless/
-* https://spring.io/serverless
-* (serverless on kubernetes)[https://kyma-project.io/]
-  + https://kyma-project.io/docs/kyma/latest/01-overview/main-areas/
-  + [busola - web frontend for kyma](https://github.com/kyma-project/busola)
-
-##### Serverless platforms
-
-* [cloudflare workers](https://workers.cloudflare.com/)
-* https://www.serverless.com/
-  + https://github.com/serverless/serverless
-
 ### Emerging Stacks
 
 #### Go

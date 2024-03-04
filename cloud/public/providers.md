@@ -44,6 +44,8 @@
 * https://www.digitalocean.com/
 * https://nws.netways.de
 * https://cloud.ibm.com/login
+* https://www.oracle.com/cloud
+* https://www.ovhcloud.com/de/
 
 ## Rather server provider
 
@@ -94,6 +96,8 @@
 
 * https://www.linode.com/docs/products/compute/compute-instances/guides/install-nvidia-cuda/ 
 * https://www.linode.com/docs/guides/deep-learning-frameworks-overview/
+* [pulumi linode provider](https://www.pulumi.com/registry/packages/linode/)
+* [pulumi linode resource provider](https://github.com/pulumi/pulumi-linode)
 
 ### Vultr
 
