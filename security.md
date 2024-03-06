@@ -18,3 +18,4 @@
     - [use IMAP](https://proton.me/support/imap-smtp-and-pop3-setup)
   + [proton-bridge as container](https://hub.docker.com/r/shenxn/protonmail-bridge)
 * [key-transparency feature](https://proton.me/support/key-transparency)
+* [proton mail encryption](https://proton.me/support/proton-mail-encryption-explained)

@@ -83,6 +83,9 @@
 * [templates](https://www.pulumi.com/templates/)
 * [pulumi esc cli](https://www.pulumi.com/docs/esc-cli/)
 * [pulumi kotlin SDK](https://github.com/VirtuslabRnD/pulumi-kotlin)
+* [debug pulumi](https://github.com/pulumi/pulumi/blob/master/CONTRIBUTING.md)
+* [pulumiverse](https://github.com/orgs/pulumiverse/repositories) community providers for pulumi
+  + https://github.com/pulumiverse/infra
 
 #### Pulumi on AWS
 
@@ -103,7 +106,8 @@
 * cloud agnostic?
   + https://discuss.hashicorp.com/t/is-terraform-really-cloud-agnostic/5980/2
 * Terraform state is version dependant - so what to do?
-  + https://londonappdeveloper.com/how-to-use-terraform-via-docker-compose-for-professional-developers/#top
+  + https://londonappdeveloper.com/how-to-use-terraform-via-docker-compose-for-professional-developers/
+* [CDK for terraform](https://developer.hashicorp.com/terraform/cdktf)
 * [opentofu](https://opentofu.org/) terraform open source fork
   + https://github.com/opentofu/opentofu
   + https://github.com/opentofu/manifesto
@@ -133,7 +137,7 @@
 
 ### CloudBridge
 
-* https://cloudbridge.readthedocs.io/en/latest/
+* https://cloudbridge.readthedocs.io/en/latest/ featured!
 
 ## API lifecycle
 

@@ -42,6 +42,10 @@
 * [lima](https://lima-vm.io/) Linux virtual machines with automatic file sharing and port forwarding (similar to WSL2)
   + https://lima-vm.io/docs/
 
+## Container articles
+
+* [linode container guides](https://www.linode.com/docs/guides/applications/containers/)
+
 ## Docker (and Podman) CLI
 
 Restarting exited containers on podman seems _not_ to work!
@@ -49,6 +53,19 @@ Restarting exited containers on podman seems _not_ to work!
 * [how to continue an exited container](https://stackoverflow.com/questions/21928691/how-to-continue-a-docker-container-which-has-exited)
   + [restart stopped containers](https://www.baeldung.com/linux/docker-restart-stopped-container)
 * [podman restart man page](https://docs.podman.io/en/latest/markdown/podman-restart.1.html)
+
+### Docker innovations
+
+BuildKit enables features like cross-build caching, secrets. Some of this 
+feature are also (independently) in podman.
+
+* [BuildKit](https://github.com/moby/buildkit)
+  + [bake](https://docs.docker.com/build/bake/) - high level interface to BuildKit
+  + [use BuildKit with podman](https://pythonspeed.com/articles/podman-buildkit/)
+* [multi-platform images with docker](https://docs.docker.com/build/building/multi-platform/)
+  + [multi-platform images with docker and podman](https://developers.redhat.com/articles/2023/11/03/how-build-multi-architecture-container-images)
+  + [multi-platform images with buildah](https://medium.com/oracledevs/building-multi-architecture-containers-with-buildah-44ed100ec3f3)
+
 
 ### Dockerfile (Syntax) (also used by podman)
 
@@ -135,4 +152,63 @@ Restarting exited containers on podman seems _not_ to work!
   + [pulp 3 with podman-compose](https://pulpproject.org/podman-compose/)
   + https://github.com/pulp
 * [harbor](https://goharbor.io/) big, only for kubernetes
+
+## Docker 
+
+* https://docs.docker.com/config/containers/container-networking/#dns-services
+  + https://github.com/jderusse/docker-dns-gen
+  + https://hub.docker.com/r/cosmicq/docker-bind/
+  + https://github.com/sameersbn/docker-bind
+  + http://www.damagehead.com/blog/2015/04/28/deploying-a-dns-server-using-docker/
+* https://www.adelton.com/docs/containers/complex-application-in-container
+* [pullio - keep docker-compose containters up-to-date](https://hotio.dev/pullio/)
+* [nvidia container toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html)
+  + https://github.com/NVIDIA/nvidia-docker
+  + [nvidia container toolkit and podman](https://gist.github.com/bernardomig/315534407585d5912f5616c35c7fe374)
+
+### Moby
+
+* https://github.com/moby/moby
+  + https://mobyproject.org/projects/
+* https://www.infoworld.com/article/3193904/containers/what-is-dockers-moby-project.html
+* https://www.heise.de/developer/meldung/Docker-versus-Moby-Wie-geht-es-mit-Docker-weiter-3689886.html
+
+## Container collections
+
+* [linuxserver](https://www.linuxserver.io/)
+* [hotio](https://hotio.dev/containers/apprise/)
+
+## Multi-process containers
+
+* https://docs.docker.com/config/containers/multi-service_container/
+* [s6 overlay](https://github.com/just-containers/s6-overlay) used by linuxserver.io
+  + https://skarnet.org/software/s6/overview.html
+* [supervisord](http://supervisord.org/)
+  + https://advancedweb.hu/supervisor-with-docker-lessons-learned/
+  + https://blog.servivum.com/gimme-more-mehrere-prozesse-im-docker-container-mit-supervisor/
+
+## Docker/Podman volumes
+
+* [Overview](https://docs.docker.com/storage/volumes/)
+* article on backup/restore
+  + https://blog.ssdnodes.com/blog/docker-backup-volumes/
+  + https://scorban.de/2018/02/06/auto-backup-fuer-docker-volumes/
+  + https://gist.github.com/rockerBOO/48b777868f169042818ae7f66bc62502
+  + https://stackoverflow.com/questions/26331651/how-can-i-backup-a-docker-container-with-its-data-volumes
+* [Loomchild volume backup](https://hub.docker.com/p/loomchild/volume-backup)
+  + https://github.com/loomchild/volume-backup
+* [Futurice volume backup](https://github.com/futurice/docker-volume-backup)
+* [Blacklabelops volumerize](https://github.com/blacklabelops/volumerize) uses
+  + [duplicity](http://duplicity.nongnu.org/)
+  + [jobber](https://github.com/dshearer/jobber)
+
+## Balena (container for IoT)
+
+* https://www.balena.io/docs/learn/welcome/introduction/
+  + https://www.balena.io/blog/announcing-balena-a-moby-based-container-engine-for-iot/
+
+## Rootless Container
+
+* https://rootlesscontaine.rs/
+* https://github.com/nodesource/distributions
 

@@ -54,6 +54,20 @@
 
 * [How to backup partition layout?](https://serverfault.com/questions/631949/how-to-backup-partition-layout)
 
+## Shell and CLI
+
+### envsubst
+
+* [env variable interpolation](https://unix.stackexchange.com/questions/294835/replace-environment-variables-in-a-file-with-their-actual-values)
+  + [node implementation](https://github.com/danday74/envsub)
+
+## filesystems
+
+* [cachefs](https://www.admin-magazine.com/HPC/Articles/Caching-with-CacheFS)
+  + https://en.wikipedia.org/wiki/CacheFS
+* [bcachefs](https://bcachefs.org/)
+  + [bcachefs tools](https://evilpiepirate.org/git/bcachefs-tools.git/)
+
 ## FUSE filesystems
 
 * [mergerfs](https://github.com/trapexit/mergerfs)
@@ -729,65 +743,6 @@ It is _not_ possible to recover the public key stored on nitro, see
 
 * [Fedora CoreOS reboot coordinator for Kubernetes](https://github.com/poseidon/fleetlock)
 * https://dustymabe.com/2020/04/04/automating-a-custom-install-of-fedora-coreos/
-
-### Docker 
-
-* https://docs.docker.com/config/containers/container-networking/#dns-services
-  + https://github.com/jderusse/docker-dns-gen
-  + https://hub.docker.com/r/cosmicq/docker-bind/
-  + https://github.com/sameersbn/docker-bind
-  + http://www.damagehead.com/blog/2015/04/28/deploying-a-dns-server-using-docker/
-* https://www.adelton.com/docs/containers/complex-application-in-container
-* [pullio - keep docker-compose containters up-to-date](https://hotio.dev/pullio/)
-* [nvidia container toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html)
-  + https://github.com/NVIDIA/nvidia-docker
-  + [nvidia container toolkit and podman](https://gist.github.com/bernardomig/315534407585d5912f5616c35c7fe374)
-
-#### Container collections
-
-* [linuxserver](https://www.linuxserver.io/)
-* [hotio](https://hotio.dev/containers/apprise/)
-
-#### Multi-process containers
-
-* https://docs.docker.com/config/containers/multi-service_container/
-* [s6 overlay](https://github.com/just-containers/s6-overlay) used by linuxserver.io
-  + https://skarnet.org/software/s6/overview.html
-* [supervisord](http://supervisord.org/)
-  + https://advancedweb.hu/supervisor-with-docker-lessons-learned/
-  + https://blog.servivum.com/gimme-more-mehrere-prozesse-im-docker-container-mit-supervisor/
-
-#### Docker/Podman volumes
-
-* [Overview](https://docs.docker.com/storage/volumes/)
-* article on backup/restore
-  + https://blog.ssdnodes.com/blog/docker-backup-volumes/
-  + https://scorban.de/2018/02/06/auto-backup-fuer-docker-volumes/
-  + https://gist.github.com/rockerBOO/48b777868f169042818ae7f66bc62502
-  + https://stackoverflow.com/questions/26331651/how-can-i-backup-a-docker-container-with-its-data-volumes
-* [Loomchild volume backup](https://hub.docker.com/p/loomchild/volume-backup)
-  + https://github.com/loomchild/volume-backup
-* [Futurice volume backup](https://github.com/futurice/docker-volume-backup)
-* [Blacklabelops volumerize](https://github.com/blacklabelops/volumerize) uses
-  + [duplicity](http://duplicity.nongnu.org/)
-  + [jobber](https://github.com/dshearer/jobber)
-
-### Moby
-
-* https://github.com/moby/moby
-  + https://mobyproject.org/projects/
-* https://www.infoworld.com/article/3193904/containers/what-is-dockers-moby-project.html
-* https://www.heise.de/developer/meldung/Docker-versus-Moby-Wie-geht-es-mit-Docker-weiter-3689886.html
-
-### Balena (container for IoT)
-
-* https://www.balena.io/docs/learn/welcome/introduction/
-  + https://www.balena.io/blog/announcing-balena-a-moby-based-container-engine-for-iot/
-
-## Rootless Container
-
-* https://rootlesscontaine.rs/
-* https://github.com/nodesource/distributions
 
 ## Linux on mobile phones
 

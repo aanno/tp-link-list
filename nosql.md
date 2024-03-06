@@ -26,6 +26,7 @@ See also: olap-analytics.md
 * https://quarkdb.web.cern.ch/quarkdb/docs/master/
 * [tkrzw](https://en.wikipedia.org/wiki/Tkrzw) successor of (g)dbm
   + https://dbdb.io/db/kyoto-cabinet
+* [bolt](https://github.com/boltdb/bolt)
 
 ## Cassandra
 

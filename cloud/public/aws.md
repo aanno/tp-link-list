@@ -1,5 +1,7 @@
 # AWS
 
+* [AWS architecture examples](https://aws.amazon.com/de/architecture/)
+
 ## Prices
 
 ### Spot Instances
@@ -25,6 +27,8 @@
 
 * https://aws.amazon.com/de/ecs
 * https://aws.amazon.com/de/fargate/
+* [FireLens](https://docs.aws.amazon.com/app2container/latest/UserGuide/firelens-setup-linux.html) protocol / log routing for container
+  + [AWS container image for FireLens fluentd](https://github.com/aws/aws-for-fluent-bit)
 
 ## AWS Development
 
@@ -70,10 +74,36 @@ aws ssm start-session --target <target-id>
 * [AWS Scala](https://github.com/seratch/AWScala) alternative CLI based on Scala
   + https://www.baeldung.com/scala/awscala-aws-sdk-for-scala
 
+### AWS provisioning
+
+More on general provisioning in `./public-cloud.md`.
+
+* [CloudFormation or CDK](https://dinma.medium.com/choosing-between-aws-cdk-and-cloudformation-9f935fdaa8ec)
+* [CloudFormation vs CDK vs terraform](https://www.pluralsight.com/resources/blog/cloud/cloudformation-terraform-or-cdk-guide-to-iac-on-aws)
+* [CDK vs CloudFormation](https://blog.shikisoft.com/aws-cdk-vs-cloudformation/)
+
+#### CDK
+
+* [CDK getting started](https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html)
+* [What is CDK](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
+* [CDK ECS example](https://docs.aws.amazon.com/cdk/v2/guide/ecs_example.html)
+  + [CDK deployment to ECS](https://mitchellgritts.com/articles/aws-cdk-simple-ecs-deployment/)
+
+#### troposphere
+
+troposphere is the CDK idea - but independently implemented by the community 
+for python only. It is used by ecs-compose-x.
+
+* [troposphere](https://github.com/cloudtools/troposphere)
+
 ### SDKs
 
 * https://aws.amazon.com/de/getting-started/tools-sdks/
-* [kotlin SDK coroutine support](https://docs.aws.amazon.com/sdk-for-kotlin/latest/developer-guide/coroutines.html)
+* [kotlin SDK](https://aws.amazon.com/de/sdk-for-kotlin/)
+  + [kotlin SDK coroutine support](https://docs.aws.amazon.com/sdk-for-kotlin/latest/developer-guide/coroutines.html)
+  + [docs](https://docs.aws.amazon.com/sdk-for-kotlin/latest/developer-guide/get-started.html)
+  + https://github.com/awslabs/aws-sdk-kotlin
+* [AWScala](https://www.baeldung.com/scala/awscala-aws-sdk-for-scala) AWS SDK for Scala
 
 #### AWS Java SDK
 
@@ -121,12 +151,17 @@ aws ssm start-session --target <target-id>
 ##### compose-x
 
 * [compose-x](https://github.com/compose-x)
+  + [motivation](https://ecs-composex.readthedocs.io/story.html#why-am-i-not-using-aws-cdk)
   + [labs / examples](https://github.com/compose-x/compose-x-labs)
     - [labs documentation](https://labs.compose-x.io/index.html)
   + [ecs-compose-x](https://github.com/compose-x/ecs_composex)
     - [ecs-compose-x documentation](https://docs.compose-x.io/)
+    - [supported ECS/fargate features](https://ecs-composex.readthedocs.io/compatibility/aws_ecs.html)
+    - [supported docker-compose features](https://ecs-composex.readthedocs.io/compatibility/docker_compose.html)
   + [ecs-file-composer](https://github.com/compose-x/ecs-files-composer)
     - [ecs-file-composer documentation](https://docs.files-composer.compose-x.io/)
+* [ecr scan reporter](https://ecr-scan-reporter.compose-x.io/) Serverless Application to monitor ECR Repositories and capture scan results
+* [CodePipeline-orchestra](https://github.com/compose-x/codepipline-orchestra) tools that make usage of AWS CodePipeline/CodeBuild and other AWS Developer 
 
 #### service discovery
 
@@ -148,10 +183,10 @@ aws ssm start-session --target <target-id>
 * [CodeDeploy agent](https://docs.aws.amazon.com/codedeploy/latest/userguide/codedeploy-agent.html)
 * [Inspector agents](https://docs.aws.amazon.com/de_de/inspector/latest/userguide/inspector_installing-uninstalling-agents.html)
 * [Kinesis agent](https://docs.aws.amazon.com/de_de/streams/latest/dev/writing-with-agents.html)
-* [SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html)
+* [SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html) serverless / lambda deployment CLI
 * [java SQS request-response library](https://github.com/awslabs/amazon-sqs-java-temporary-queues-client)
   + https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-temporary-queues.html
-
+* [app2container(https://docs.aws.amazon.com/app2container/) CLI to pack java and .NET apps into container images
 
 ### IAM
 

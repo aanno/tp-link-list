@@ -76,6 +76,7 @@
 * [Hask](https://smunix.github.io/dev.stephendiehl.com/hask/index.html) What I Wish I Knew When Learning Haskell - featured!
 * [real world haskell](https://book.realworldhaskell.org/) 2008
 * [from first principles](https://haskellbook.com/) commercial
+* [haskell tutorials](https://www.haskelltutorials.com/)
 
 * [ghcup](https://www.haskell.org/ghcup/install/#manual-installation)
   + [stack](https://docs.haskellstack.org/en/stable/)
@@ -139,9 +140,13 @@
   + https://vivshaw.github.io/blog/haskell-snacks-1-yesod-morpheus-graphql/
   + https://stackoverflow.com/questions/58366794/what-is-the-purpose-of-liftio
   + https://hoogle.haskell.org/?hoogle=liftIO
-* [serverless haskell](https://www.serverless.com/plugins/serverless-haskell) haskell on AWS lambda
-  + https://theam.github.io/aws-lambda-haskell-runtime/
 
+### Haskell serverless
+
+* [serverless haskell](https://www.serverless.com/plugins/serverless-haskell) haskell on AWS lambda
+  + [Avoid using the “Serverless Haskell” platform](https://www.haskelltutorials.com/haskell-aws-lambda/avoid-serverless-haskell.html)
+* [AWS lambda haskell runtime](https://theam.github.io/aws-lambda-haskell-runtime/)
+* [haskell on AWS lambda](https://www.haskelltutorials.com/haskell-aws-lambda/)
 
 * https://dev.to/fabianveal/building-a-rest-api-with-haskell-2d54
 

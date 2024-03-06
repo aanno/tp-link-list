@@ -74,13 +74,21 @@ Bridges are quick and dirty to run and test VMs. However, they may degrade your 
 
 ### Wayland Problems and Solutions
 
-Force wayland for electron applications (including vscode). Add the following to `~/.config/electron25-flags.conf`. 
+Force wayland for electron applications (including vscode, chrome, chromium). 
+Add the following to `~/.config/electron25-flags.conf`. 
+
 For vscode, the flags needs to be given on CLI.
 
 ```
 --enable-features=WaylandWindowDecorations
 --ozone-platform-hint=auto
 ```
+
+Hint could be 'auto', 'default', 'x11', and 'wayland'.
+
+In chrome and chromium, the hint could be set with:
+
+chrome://flags/#ozone-platform-hint
 
 Force x11 for eclipse (and eclipse RCP):
 ```
@@ -104,6 +112,13 @@ protonmail-bridge --software-renderer
 This might help with other QT based applications as well.
 
 * [software-renderer issue](https://github.com/ProtonMail/proton-bridge/issues/283)
+
+App packed as snap: You could try --socket=<name> with, x11 wayland fallback-x11,
+see [here](https://www.reddit.com/r/Fedora/comments/tpsret/how_can_i_force_flatpak_apps_to_run_on_wayland/).
+
+Mozilla (firefox, thunderbird):
+
+You should set `MOZ_ENABLE_WAYLAND=1`, see [details](https://gist.github.com/pojntfx/e1112126a80bae7106eeb62e1ea26557).
 
 ### Wayland Special Interest
 

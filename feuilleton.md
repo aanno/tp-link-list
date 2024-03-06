@@ -17,6 +17,14 @@
 
 * https://lcb.de/skizzenblog/bruno-giannori-doppler-effekt/ 24h Comics
 
+### Literatur
+
+#### Literatur (englisch)
+
+* [service95](https://www.service95.com/)
+  + https://en.wikipedia.org/wiki/Service95
+  + https://www.nzz.ch/feuilleton/dua-lipa-ist-auch-glaenzende-literaturkritikerin-ld.1815892
+
 ### Autoren
 
 * https://www.mawil.net/category/comics/
@@ -25,6 +33,7 @@
 
 * https://www.laut.de
 * https://diffusmag.de
+* https://www.staatsoper.de/tv
 
 ### St Pepper
 
