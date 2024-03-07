@@ -27,6 +27,11 @@
 * http://notrustnonews.org/
 * https://www.stiftung-nv.de/de/news/transkript-zum-hintergrundgespraech-arbeitet-der-bnd-auf-dem-boden-der-verfassung
 
+### Russland
+
+* [meduza](https://meduza.io/en/)
+* [decoder](https://www.dekoder.org/)
+
 ## Meinungsfreiheit
 
 * https://www.heise.de/newsticker/meldung/Huerden-fuer-Europas-Presse-EU-patzt-als-Garantin-der-Informationsfreiheit-3769282.html

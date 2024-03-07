@@ -1,6 +1,7 @@
 # AWS
 
 * [AWS architecture examples](https://aws.amazon.com/de/architecture/)
+* [AWS samples](https://github.com/aws-samples)
 
 ## Prices
 
@@ -29,6 +30,7 @@
 * https://aws.amazon.com/de/fargate/
 * [FireLens](https://docs.aws.amazon.com/app2container/latest/UserGuide/firelens-setup-linux.html) protocol / log routing for container
   + [AWS container image for FireLens fluentd](https://github.com/aws/aws-for-fluent-bit)
+* [Monitor Amazon ECS using CloudWatch](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/cloudwatch-metrics.html)
 
 ## AWS Development
 
@@ -184,6 +186,9 @@ for python only. It is used by ecs-compose-x.
 * [Inspector agents](https://docs.aws.amazon.com/de_de/inspector/latest/userguide/inspector_installing-uninstalling-agents.html)
 * [Kinesis agent](https://docs.aws.amazon.com/de_de/streams/latest/dev/writing-with-agents.html)
 * [SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html) serverless / lambda deployment CLI
+  + [docs](https://aws.amazon.com/de/serverless/sam/)
+  + [CLI reference](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-command-reference.html)
+  + [github sam](https://github.com/aws/aws-sam-cli)
 * [java SQS request-response library](https://github.com/awslabs/amazon-sqs-java-temporary-queues-client)
   + https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-temporary-queues.html
 * [app2container(https://docs.aws.amazon.com/app2container/) CLI to pack java and .NET apps into container images
@@ -213,6 +218,11 @@ for python only. It is used by ecs-compose-x.
 
 * https://aws.amazon.com/de/eks/getting-started/
 
+
+## Eucalyptus (AWS compatible private cloud)
+
+* [eucalyptus cloud](https://www.eucalyptus.cloud/) AWS compatible IaaS
+  + https://wiki.debian.org/Eucalyptus
 
 ```bash
 ```

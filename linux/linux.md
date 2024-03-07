@@ -23,6 +23,10 @@
 * https://thenewstack.io/ dev-centered
 * https://osbn.de/ aggregator
 
+## Fondations
+
+* [NLnet 2024 project](https://nlnet.nl/news/2024/20240212-announcing-projects.html) featured!
+
 ## Nachrichten (open source)
 
 * https://www.sueddeutsche.de/thema/Open_Source
@@ -49,6 +53,9 @@
 * https://lwn.net/Articles/724198/ (AIO defects)
 * https://lwn.net/Articles/724307/ (Block layer error handling)
 * [overview of linux kernel](https://tldp.org/LDP/tlk/tlk-toc.html)
+
+* [XanMod kernel](https://xanmod.org/)
+  + https://www.linuxcompatible.org/story/xanmod-linux-kernel-679-released/
 
 ## Partion Layout
 

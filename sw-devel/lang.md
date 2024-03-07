@@ -250,6 +250,7 @@
 ### Go lang meta programming
 
 * https://github.com/jmattheis/goverter tool for creating type-safe converters. All you have to do is create an interface and execute goverter
+* [go+](https://github.com/goplus/gop)
 
 
 ### Go lang learn
@@ -288,6 +289,7 @@
 ### Go build
 
 * https://stackoverflow.com/questions/1757090/shared-library-in-go
+* [dynamic libraries](https://stackoverflow.com/questions/19431296/building-and-linking-dynamically-from-a-go-binary)
 
 ### Go libs
 

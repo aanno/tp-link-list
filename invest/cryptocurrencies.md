@@ -232,6 +232,7 @@ Website	stellar.org
 
 ### Other assets on stellar
 
+* [stellar expert exploror](https://stellar.expert/explorer/public/asset/USDC-GA5ZSEJYB37JRC5AVCIA5MOP4RHTM335X2KGX3IHOJAPP5RE34K4KZVN-1) see trust level of other assets
 * https://aqua.network/
   + https://medium.com/aquarius-aqua
 
@@ -309,13 +310,31 @@ Supply limit	Unlimited
 * https://www.aurowallet.com/ wallet
   + https://www.aurowallet.com/mina-staking-guide/
 
-#### Algorand
+#### Algorand (ALGO)
 
 * https://algorand.com/technology/
 * https://algorand.com/technology/algorand-protocol/
 * https://www.algorand.foundation/ecosystem
 * [algokit for web3](https://www.prnewswire.com/news-releases/algokit-introduces-web2-developer-experience-for-building-web3-applications-on-algorand-301784640.html)
 * https://defly.app/ wallet
+
+##### Cardano (ADA)
+
+* Built in stake support (and sometimes staked money is still available for lending)
+* Staking rewards are bound to epoch
+* _Very_ weak stablecoin (USDC, USDT) support
+* On-chain swap from/to USDC and USDT is _very_ expensive most of the time
+* Instead ADA has its own stablecoin: DJED/SHEN (algorithmic), 
+  and iUSD (synthetic, but currently not with USD parity)
+* min. transaction fee is mostly 2 ADA (which seems expensive to me)
+* transaction settlement is not instant but several minute up to half an hour
+
+
+* [epoch counter](https://cardanocountdown.com/)
+* [block explorer](https://explorer.azureada.com/)
+* [vespr wallet](https://vespr.xyz/) light non-custodial wallet
+* [yoroi wallet](https://yoroi-wallet.com/#/) light non-custodial wallet
+* [daedalus wallet](https://daedaluswallet.io/) full sync wallet
 
 ## Projects
 

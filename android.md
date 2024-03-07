@@ -57,7 +57,8 @@
   + https://doc.e.foundation/devices/
 * https://www.android-x86.org/
 * [bliss](https://blissroms.com/)
-  + https://www.blissos.org/
+  + [BlissOS](https://www.blissos.org/) Android for PC fork
+  + https://docs.blissos.org/installation/install-in-a-virtual-machine/install-in-qemu/
 * [graphene](https://grapheneos.org/)
   + https://grapheneos.org/build (pixel only)
 * [lineage](https://lineageos.org/)

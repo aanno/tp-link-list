@@ -43,6 +43,10 @@
 * [dokku github](https://github.com/dokku/dokku)
 * [Deploy a Flask Application with Dokku on Linode](https://www.linode.com/docs/guides/deploy-a-flask-application-with-dokku/)
 
+## Other
+
+* [use nomad for container orchestration](https://www.linode.com/docs/guides/using-nomad-for-orchestration/)
+
 ### Portainer (UI for docker swarm)
 
 * [portainer](https://www.portainer.io/) semi-commercial, hybrid cloud, IoT, edge

@@ -38,7 +38,10 @@
 
 * https://linux-blog.anracom.com/2017/04/06/kvm-video-qxl-und-video-virtio-video-aufloesung-eines-debian-8-gastes-mit-gnome-desktop-einstellen/
 
+## VM images
 
+* [vmbuilder](https://launchpad.net/vmbuilder) Install virtual machines in a snap without ever actually booting a virtual machine
+  + https://wiki.debian.org/VMBuilder
 
 # Datacenter software (aka hardware provisioning)
 

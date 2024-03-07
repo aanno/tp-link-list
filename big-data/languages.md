@@ -21,6 +21,13 @@
   + https://basthon.fr/doc.html
 * [tpqad - import jupyter notebooks to asciidoctor](https://github.com/yhilpisch/tpqad)
 
+#### Jupyter tips and tricks
+
+* [nbstripout](https://github.com/kynan/nbstripout) strip output from Jupyter and IPython notebooks
+* [strip output using git attributes](https://zhauniarovich.com/post/2020/2020-10-clearing-jupyter-output-p3/)
+* [strip out with git pre-commit](https://zhauniarovich.com/post/2020/2020-06-clearing-jupyter-output/)
+* [switch from jupyter to vscode](https://zhauniarovich.com/post/2022/2022-02-switching-data-analytics-activities-from-jupyter-to-vscode/)
+
 #### Jupyter (big) examples
 
 * https://github.com/ganeshutah/Jove Automata and Computability, Models of Computation
@@ -28,6 +35,7 @@
 #### Alternatives to Jupyter
 
 * https://jupyterlab.readthedocs.io/en/latest/ (modern browser based jupyter)
+* 
 * https://nteract.io (more another UI for jupyter)
   + https://docs.nteract.io/getting-started-with-nteract/
   + https://github.com/nteract/docs/blob/master/getting-started/install.md

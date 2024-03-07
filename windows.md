@@ -14,6 +14,10 @@
 
 * [vcpkg](https://github.com/microsoft/vcpkg) manage C and C++ libraries on Windows, Linux and MacOS
 
+### CLI
+
+* [gsudo](https://github.com/gerardog/gsudo) real sudo for windows
+
 ## Apps
 
 ### Multimedia

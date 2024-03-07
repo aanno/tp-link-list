@@ -143,7 +143,7 @@
   + https://github.com/jasonmunro/cypht/issues/180
   + https://github.com/iNPUTmice/lttrs-android
 
-### CalDAV and CardDAV push technologies
+### CalDAV and CardDAV push technologies (iCal, ics)
 
 * https://z-push.org/ (old)
   + https://pawelgorny.com/using-nextcloud-owncloud-with-z-push-for-caldav-and-carddav/
@@ -152,6 +152,7 @@
   + https://vdirsyncer.pimutils.org/en/stable/when.html
 * https://www.offlineimap.org/
   + https://github.com/OfflineIMAP/offlineimap
+* [open web calendar](https://open-web-calendar.hosted.quelltext.eu/) uses ICS/ICal calendars online and displays them in one calendar
 
 ### Nextcloud
 
