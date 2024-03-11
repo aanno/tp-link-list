@@ -97,3 +97,10 @@
   + https://github.com/akaunting/akaunting
 * https://github.com/abivia/ledger php
 * https://github.com/idurar/idurar-erp-crm js, mongodb
+
+## Big data
+
+### Historical Data
+
+* [Huge Stock Market Dataset](https://www.kaggle.com/datasets/borismarjanovic/price-volume-data-for-all-us-stocks-etfs)
+* [Stock Market Dataset](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset)

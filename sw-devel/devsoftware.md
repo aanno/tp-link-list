@@ -129,6 +129,12 @@
 #### VS Code Tips
 
 * [dev Container support](https://code.visualstudio.com/docs/devcontainers/create-dev-container) devcontainer.json
+* [vs code memory usage](https://stackoverflow.com/questions/53658769/why-does-vs-code-require-so-much-memory-how-can-i-make-it-run-more-memory-effic)
+* [debug performance issues](https://github.com/Microsoft/vscode/wiki/Performance-Issues)
+
+#### VS Code Markdown support
+
+* [markdown language server](https://code.visualstudio.com/blogs/2022/08/16/markdown-language-server)
 
 #### based on VS Code
 

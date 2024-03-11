@@ -12,6 +12,15 @@ To change create or edit `.config/containers/storage.conf`:
 [storage]
   driver = "overlay"
   imagestore = "/stratis/home/tpasch/containers/storage"
+  graphroot = "/stratis/home/tpasch/containers/storage"
+  rootless_storage_path = "/stratis/home/tpasch/containers/storage"
+```
+
+Adapt selinux labels (see `man 5 containers-storage.conf` for details).
+
+```bash
+sudo semanage fcontext -a -e $HOME/.local/share/containers /stratis/home/tpasch/containers/storage
+sudo restorecon -R -v /stratis/home/tpasch/containers/storage
 ```
 
 The driver is _needed_ (otherwise you see a warning all the time). However, if you encounter:

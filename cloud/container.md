@@ -54,6 +54,68 @@ Restarting exited containers on podman seems _not_ to work!
   + [restart stopped containers](https://www.baeldung.com/linux/docker-restart-stopped-container)
 * [podman restart man page](https://docs.podman.io/en/latest/markdown/podman-restart.1.html)
 
+### enable docker rootless (also works with podman installed)
+
+```bash
+$ cat ~/bin/switchto-docker-rootless.sh 
+#!/bin/bash -x
+
+systemctl --user stop podman.socket || true
+systemctl --user start docker
+curl -H "Content-Type: application/json" \
+        --unix-socket /run/user/$UID/docker.sock \
+    http://localhost/_ping
+export DOCKER_HOST=unix:///run/user/$UID/docker.sock
+echo "export DOCKER_HOST=unix:///run/user/$UID/docker.sock"
+```
+
+Docker images are stored at `$HOME/.local/share/docker/fuse-overlay` (default).
+
+* [change data directory](https://stackoverflow.com/questions/74708774/how-to-change-data-directory-for-docker-rootless)
+
+### enable socket for podman rootless
+
+```bash
+$ cat ~/bin/switchto-podman-socket.sh 
+#!/bin/bash -x
+
+systemctl --user stop docker || true
+systemctl --user start podman.socket
+curl -H "Content-Type: application/json" \
+        --unix-socket /run/user/$UID/podman/podman.sock \
+    http://localhost/_ping
+export DOCKER_HOST=unix:///run/user/$UID/podman/podman.sock
+echo "export DOCKER_HOST=unix:///run/user/$UID/podman/podman.sock"
+```
+
+### install buildx for docker on fedora
+
+Download [buildx binary](https://github.com/docker/buildx/releases/).
+
+```bash
+cd
+sudo dnf install containernetworking-plugins golang-github-moby-buildkit
+mkdir .docker/cli-plugins
+cp Downloads/buildx-v*.linux-amd64 .docker/cli-plugins
+cd .docker/cli-plugins
+chmod u+x buildx-v*.linux-amd6
+ln -s buildx-v*.linux-amd64 /home/tpasch/.docker/cli-plugins/docker-buildx
+cd
+```
+
+* [manual download buildx](https://github.com/docker/buildx#manual-download)
+
+### use buildx (and BuildKit)
+
+Do always use `docker buildx` when you type `docker build` you could set
+
+```bash
+export DOCKER_BUILDKIT=1
+```
+
+```bash
+```
+
 ### Docker innovations
 
 BuildKit enables features like cross-build caching, secrets. Some of this 
@@ -75,6 +137,7 @@ feature are also (independently) in podman.
 ### docker tip and tricks
 
 * [xx](https://github.com/tonistiigi/xx)  cross-compilation from Dockerfiles that understand the --platform flag (not working on podman?)
+* [multiple processes in one container](https://www.howtogeek.com/devops/how-to-run-multiple-services-in-one-docker-container/)
 
 ## podman (general)
 
@@ -99,6 +162,7 @@ feature are also (independently) in podman.
 
 * [sharing supplemental group](https://www.redhat.com/sysadmin/supplemental-groups-podman-containers) share resources between the host and containers
 * [How Podman can extract a container's external IP address](https://www.redhat.com/sysadmin/container-ip-address-podman)
+* [failed to find plugin "bridge" in path](https://github.com/containers/podman/issues/13396)
 
 ### podman (pods interface)
 

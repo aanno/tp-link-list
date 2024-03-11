@@ -8,6 +8,10 @@
 * [spark vs hadoop](https://searchdatamanagement.techtarget.com/feature/Hadoop-vs-Spark-Comparing-the-two-big-data-frameworks)
 * https://www.upsolver.com/blog/popular-stream-processing-frameworks-compared (dated)
 
+## Link collections
+
+* [many links for data streaming around flink](https://github.com/mikeroyal/Apache-Flink-Guide) dated, featured!
+
 ## Blog and News
 
 * https://www.bigdata-insider.de/

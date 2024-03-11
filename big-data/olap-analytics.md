@@ -49,6 +49,17 @@
 * [airbyte - replicate data as streams](https://airbyte.io/why-airbyte)
   + https://github.com/airbytehq/airbyte
 
+## Data Lake articles and comparisons
+
+* [doris vs starrocks](https://www.influxdata.com/comparison/doris-vs-starrocks/)
+* [doris vs databricks vs starrocks](https://db-engines.com/en/system/Apache+Doris%3BDatabricks%3BStarRocks)
+
+## Data Lake storage engines
+
+Apache doris and starrocks are forks of the same original code base. Doris 
+is now more directed to real-time analysis, starrocks has gained direct query 
+capabilities for (lake) referenced data.
+
 ### Commercial (No-SQL and analytics)
 
 * https://www.leanxcale.com/#
