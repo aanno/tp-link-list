@@ -71,6 +71,26 @@ echo "export DOCKER_HOST=unix:///run/user/$UID/docker.sock"
 
 Docker images are stored at `$HOME/.local/share/docker/fuse-overlay` (default).
 
+```bash
+mkdir -p ~/.config/docker
+touch ~/.config/docker/daemon.json
+```
+
+The config file is under `~/.config/docker/daemon.json` (create if necessary):
+```bash
+{
+  "data-root": "/stratis/home/tpasch/docker/data"
+}
+```
+
+```bash
+sudo semanage fcontext -a -e $HOME/.local/share/docker/fuse-overlay /stratis/home/tpasch/docker
+sudo restorecon -R -v /stratis/home/tpasch/docker/data
+```
+
+```bash
+```
+
 * [change data directory](https://stackoverflow.com/questions/74708774/how-to-change-data-directory-for-docker-rootless)
 
 ### enable socket for podman rootless
@@ -138,6 +158,17 @@ feature are also (independently) in podman.
 
 * [xx](https://github.com/tonistiigi/xx)  cross-compilation from Dockerfiles that understand the --platform flag (not working on podman?)
 * [multiple processes in one container](https://www.howtogeek.com/devops/how-to-run-multiple-services-in-one-docker-container/)
+
+####  Error starting userland proxy
+
+Error:
+error while starting docker-proxy: exec: "docker-proxy": executable file not found in $PATH
+
+Solution:
+
+```bash
+sudo ln -s /usr/libexec/docker/docker-proxy /usr/bin/
+```
 
 ## podman (general)
 

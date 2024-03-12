@@ -11,7 +11,8 @@ To change create or edit `.config/containers/storage.conf`:
 # man 5 containers-storage.conf
 [storage]
   driver = "overlay"
-  imagestore = "/stratis/home/tpasch/containers/storage"
+  # imagestore same then graphroot - hence it must not be se
+  # imagestore = "/stratis/home/tpasch/containers/storage"
   graphroot = "/stratis/home/tpasch/containers/storage"
   rootless_storage_path = "/stratis/home/tpasch/containers/storage"
 ```
@@ -22,6 +23,19 @@ Adapt selinux labels (see `man 5 containers-storage.conf` for details).
 sudo semanage fcontext -a -e $HOME/.local/share/containers /stratis/home/tpasch/containers/storage
 sudo restorecon -R -v /stratis/home/tpasch/containers/storage
 ```
+
+If you encounter the following error:
+
+* /bin/sh: error while loading shared libraries: /lib/x86_64-linux-gnu/libc.so.6: cannot apply additional memory protection after relocation: Permission denied
+
+try:
+
+```bash
+sudo chcon -Rt container_file_t $HOME/.config/containers/storage.conf
+sudo chcon -Rt container_file_t /stratis/home/tpasch/containers/storage/
+```
+
+See [here](https://github.com/containers/podman/issues/20314) for details.
 
 The driver is _needed_ (otherwise you see a warning all the time). However, if you encounter:
 
