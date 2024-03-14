@@ -58,8 +58,18 @@
 
 ### Spark and Co
 
-* https://spark.apache.org
+* [spark](https://spark.apache.org)
+* [spark SQL](https://spark.apache.org/sql/) working with structured data
+* [mahout](https://mahout.apache.org/) Machine Learning Applications on spark
+* [third party spark projects](https://spark.apache.org/third-party-projects.html) featured
 * https://www.lightbend.com/platform/development/spark
+
+#### Hive metastore for sparks
+
+* [hive metastore for spark SQL](https://jaceklaskowski.gitbooks.io/mastering-spark-sql/content/spark-sql-hive-metastore.html)
+  in the book 'mastering spark'
+* [usage](https://stackoverflow.com/questions/43874124/does-spark-sql-use-hive-metastore)
+* [why](https://stackoverflow.com/questions/30967205/what-is-the-metastore-for-in-spark)
 
 #### Spark Docs
 
@@ -98,6 +108,7 @@
 
 * [ozone - object store for hadoop](https://ozone.apache.org/)
   alternative implementation of HDFS (if you don't need hadoop), provides an S3 layer
+* [S3 as HDFS](https://github.com/adobe/S3-FileSystem) Hadoop file system contract backed by AWS S3
 
 ### Kafka and Co
 

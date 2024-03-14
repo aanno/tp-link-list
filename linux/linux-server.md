@@ -98,8 +98,9 @@ Here, there screenshots are also interesting for looking what others are hosting
 * https://github.com/bastienwirtz/homer
 
 
-#### Special interest
+#### Special interest, Articles, Lists
 
 * [TandoorRecipes - for (cooking) recipes](https://github.com/TandoorRecipes/recipes)
 * [cool docs about server tasks at cherryservers](https://www.cherryservers.com/blog/set-docker-environment-variables)
 * [cool docs about server tasks at linode](https://www.linode.com/docs/guides/)
+* [awesome sysadmin](https://github.com/cloudron-io/awesome-sysadmin) featured!

@@ -205,6 +205,8 @@ Only tools:
 * [apicur registry](https://www.apicur.io/registry/) 
   for OpenAPI, AsyncAPI, GraphQL, Apache Avro, Google Protocol Buffers, JSON Schema, Kafka Connect schema, WSDL, XML Schema (XSD)
 * [apicur studio](https://www.apicur.io/studio/) design and edit APIs
+* [vulcanSQL](https://github.com/Canner/vulcan-sql) make REST API from SQL template
+* [varlink](https://varlink.org/) interface description format and protocol
 
 ## RPC and Remoting
 

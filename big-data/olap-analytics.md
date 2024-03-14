@@ -4,6 +4,7 @@
 
 * https://datascientest.com/de/# commercial
   + https://datascientest.com/de/weiterbildung-machine-learning-engineer (good for finding other tools)
+* https://www.crio.do/
 
 ## data formats
 
@@ -51,6 +52,8 @@
   + https://www.omnisci.com/
 * https://www.monetdb.org/ hybrid transactional/analytical processing
 * [phoenix - OLTP and operational analytics](https://phoenix.apache.org/) transactional SQL layer for HBase
+* [tiDB](https://www.pingcap.com/tidb/) distributed transactional SQL database in go-lang
+  + https://github.com/pingcap/tidb
 * [hue](https://gethue.com/) UI for SQL and data warehouses, featured!
 
 ## No-SQL (nosql)
@@ -75,6 +78,17 @@
 
 ## Data Lake
 
+### articles and lists
+
+* [data lake from scratch](https://towardsdatascience.com/how-to-build-a-data-lake-from-scratch-part-1-the-setup-34ea1665a06e)
+  setup a data lake with docker-compose consisting of nifi, airflow, minio
+  + [part II](https://towardsdatascience.com/how-to-build-a-data-lake-from-scratch-part-2-connecting-the-components-1bc659cb3f4f)
+* [Building a Modern Data Lake with Minio, Spark, Airflow via Docker](https://github.com/le-oasis/docker-airflow-spark)
+* [build an datalake with Delta Lake, Presto & Dataproc Metastore on GCS](https://cloud.google.com/blog/topics/developers-practitioners/how-build-open-cloud-datalake-delta-lake-presto-dataproc-metastore?hl=en)
+
+* [open source data lake projects](https://github.com/topics/data-lake)
+* [open source data lake software](https://www.datastackhub.com/top-tools/open-source-data-lake-tools/)
+
 ### Data Lake SaaS (commercial)
 
 * [dremio](https://www.dremio.com/) currently best-in-class
@@ -92,6 +106,8 @@
 
 ### Data Lake Software
 
+* [kylo](https://kylo.io/) data lake management software based on nifi, spark, and hive (big) featured!
+  + [docs](https://kylo.readthedocs.io/en/v0.10.0/index.html)
 * [delta lake](https://github.com/delta-io/delta) featured! storage framework in scala for Spark, PrestoDB, Flink, Trino, and Hive
   + https://delta.io/
 * https://kylo.io/ (open source data lake management)
@@ -114,6 +130,9 @@
 
 ### Data Lake articles and comparisons
 
+* [starrocks vs X](https://www.starrocks.io/blog/technical-comparisons-to-other-databases) featured!
+  also contains a interesting list of alternatives
+* [trino vs starrocks](https://www.starrocks.io/blog/comparison-of-the-open-source-query-engines-trino-and-starrocks)
 * [doris vs starrocks](https://www.influxdata.com/comparison/doris-vs-starrocks/)
 * [doris vs databricks vs starrocks](https://db-engines.com/en/system/Apache+Doris%3BDatabricks%3BStarRocks)
 
@@ -133,6 +152,8 @@ clickhouse is currently best-in-class.
   + https://github.com/apache/doris
 * [clickhouse](https://clickhouse.com)
   + [docs](https://clickhouse.com/docs/en/intro) high-performance, column-oriented SQL database management system (DBMS)
+  + https://github.com/ClickHouse/ClickHouse
+* [chDB](https://doc.chdb.io/#/) embedded SQL OLAP Engine powered by ClickHouse
 
 ### Data lineage
 
@@ -141,8 +162,12 @@ clickhouse is currently best-in-class.
 
 ## data warehouse
 
+* [goodreads etl pipeline on AWS](https://github.com/san089/goodreads_etl_pipeline)
+
 ### data warehouse SaaS (commercial)
 
+* [cloudera](https://www.cloudera.com/) hybrid data platform made of
+  crunch, flume, HBase, hive, hue, impala,kafka, kudu, oozie, phoenix, sentry, spark
 * https://databricks.com/de/ (bi, data warehouse)
 * https://aws.amazon.com/de/redshift/
 * https://www.snowflake.com/data-warehouse-workloads/?lang=de
@@ -154,6 +179,14 @@ clickhouse is currently best-in-class.
 
 * [apache hive](https://hive.apache.org/) hadoop based, HS2, HSM, ACID, compaction, replication, LLAP
   + [hive on docker](https://hshirodkar.medium.com/apache-hive-on-docker-4d7280ac6f8e)
+  + [hive on spark](https://cwiki.apache.org/confluence/display/Hive/Hive+on+Spark%3A+Getting+Started)
+    the only other alternative is hive on tez
+  + [hive on yarn](https://dzone.com/articles/apache-hive-on-yarn)
+    if spark is used and spark runs on yarn, then ...
+  + [yarn fair scheduler is needed for hive on yarn](https://hadoop.apache.org/docs/r2.7.1/hadoop-yarn/hadoop-yarn-site/FairScheduler.html)
+  + [memory considerations](https://docs.cloudera.com/documentation/enterprise/latest/topics/cdh_ig_hive_metastore_configure.html)
+    from cloudera docs
+  + [read hive tables with spark](https://spark.apache.org/docs/latest/sql-data-sources-hive-tables.html)
 
 ## Monitoring Solutions
 

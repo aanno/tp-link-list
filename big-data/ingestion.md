@@ -105,15 +105,24 @@ see also: dsl.md -> Visualization
 * [VegaLite.jl](https://towardsdatascience.com/statistical-plotting-with-julia-vegalite-jl-ad6fda253215)
   + https://www.queryverse.org/VegaLite.jl/stable/
 
-## Python libs
+## Software 
 
-* https://pandas.pydata.org/
-  + https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html
-  + https://www.geeksforgeeks.org/adding-new-column-to-existing-dataframe-in-pandas/
+* [bytedance bitsail](https://github.com/bytedance/bitsail) open source data integration engine based on flink
+  read - transform - write pattern
+  + [docs](https://bytedance.github.io/bitsail/en/documents/introduce.html)
 * [arrow](https://arrow.apache.org/docs/index.html) alternative to panda, cross platform and for 
   C, C++, C#, Go, Java, JavaScript, Julia, MATLAB, Python, R, Ruby, and Rust
   + https://arrow.apache.org/docs/python/csv.html
   + https://github.com/apache/arrow
+
+### Python libs
+
+* [pandas](https://pandas.pydata.org/)
+  + https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html
+  + https://www.geeksforgeeks.org/adding-new-column-to-existing-dataframe-in-pandas/
 * https://docs.dask.org/en/latest/
 * https://github.com/quiltdata/quilt versioned big data on s3
   + https://open.quiltdata.com/
+* [dlt](https://github.com/dlt-hub/dlt) load data from various
+  + [docs](https://dlthub.com/docs/intro)
+  + [destinations](https://dlthub.com/docs/dlt-ecosystem/destinations/) duckDB, Google BigQuery, PostgreSQL, snowflake, AWS Redshift, ...

@@ -137,6 +137,7 @@
 * https://www.symmetricds.org/ java-based, file and db replication
 * [cubby](https://getcubby.org/) simple file sharing UI from cloudron
   + https://github.com/cloudron-io/cubby
+* [filestash](https://github.com/mickael-kerjean/filestash) Dropbox-like file manager for FTP • FTPS • SFTP • WebDAV • Git • S3 • NFS • Samba • Artifactory
 
 ### JMAP (push for everything)
 
@@ -242,6 +243,9 @@
 
 * https://github.com/digitalfondue/lavagna (web)
   + http://lavagna.io/
+* [wekan](https://github.com/wekan/wekan)
+  + https://wekan.github.io/
+* [redmine](https://www.redmine.org/)
 
 ### special
 

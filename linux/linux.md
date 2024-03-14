@@ -74,6 +74,8 @@
   + https://en.wikipedia.org/wiki/CacheFS
 * [bcachefs](https://bcachefs.org/)
   + [bcachefs tools](https://evilpiepirate.org/git/bcachefs-tools.git/)
+* [composefs](https://github.com/containers/composefs) read-only mountable filesystem trees, stacking on top of an underlying fs
+  + [erofs](https://erofs.docs.kernel.org/en/latest/) block-based immutable filesystem with highly-optimized ondisk format
 
 ## FUSE filesystems
 
@@ -405,6 +407,7 @@ alternative setup would need more work.
 * [davix](https://github.com/cern-fts/davix) http, webDAV, S3, and Azure Objects file management from CERN in C++
   + [davix documentation](https://davix.web.cern.ch/davix/docs/devel/)
   + [davix in wikipedia](https://en.wikipedia.org/wiki/DaviX)
+* [filestash](https://github.com/mickael-kerjean/filestash) Dropbox-like file manager for FTP • FTPS • SFTP • WebDAV • Git • S3 • NFS • Samba • Artifactory
 
 s5cmd example:
 ```bash
@@ -440,7 +443,7 @@ $ s5cmd --endpoint-url https://s3.eu-central-2.wasabisys.com --profile wasabi-ro
 * https://github.com/kahing/goofys (currently not well maintained)
   + [catfs](https://github.com/kahing/catfs) fuse based caching layer for remote filesystems
 * https://github.com/s3fs-fuse/s3fs-fuse
-* https://github.com/treeverse/lakeFS
+* https://github.com/treeverse/lakeFS S3 compatible and backed by AWS S3, Azure Blob Storage, and Google Cloud Storage
   + https://lakefs.io/
 * https://github.com/seaweedfs/seaweedfs
 * [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) basic, simplistic support (not intended as remote fs replacement)
@@ -659,6 +662,9 @@ It is _not_ possible to recover the public key stored on nitro, see
 
 * LXC
   + https://www.linux-community.de/ausgaben/linuxuser/2015/03/frisch-verpackt/
+  + https://linuxcontainers.org/lxc/introduction/
+* LXD
+  + [incus](https://github.com/lxc/incus) LXD fork
 * https://grapheneproject.io/ unikernel-like
   + https://github.com/oscarlab/graphene
 * [gvisor](https://github.com/google/gvisor) gVisor is an application kernel, written in Go, that implements a substantial portion of the Linux system
@@ -692,8 +698,15 @@ It is _not_ possible to recover the public key stored on nitro, see
 * docker for desktop
   + https://github.com/dockercask/dockercask (https://en.wikipedia.org/wiki/Xephyr based)
   + https://github.com/linuxserver / https://www.linuxserver.io/ (https://guacamole.apache.org/ and xrdp based)
+
+### sandboxing and security containers
+
 * [bubblewrap](https://github.com/containers/bubblewrap) (also contains a list of alternative containers)
 * [sandstorm.io](https://sandstorm.io/) container for web apps
+* [qm](https://github.com/containers/qm) environment which prevents applications and container tools from interfering with other processes
+* [libkrun](https://github.com/containers/libkrun) dynamic library for running processes in a partially isolated environment using KVM Virtualization
+* [sev-step](https://github.com/sev-step/sev-step) interactive single-stepping, page fault tracking and eviction set-based cache attacks available
+  + https://www.amd.com/en/developer/sev.html
 
 #### Opinion
 

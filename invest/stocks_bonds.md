@@ -50,6 +50,10 @@
 * http://www.calculatinginvestor.com/
 * https://github.com/boyac/pyFolio
 
+### Jupyter and other notebooks
+
+* [analysis, sharpe ratio, correlation](https://github.com/le-oasis/Financial-Data)
+
 ### Risk management
 
 * https://github.com/quantopian/pyfolio

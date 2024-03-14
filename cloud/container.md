@@ -20,7 +20,12 @@
 * https://rancherdesktop.io/ Container Management and Kubernetes on the Desktop
   [rancher desktop as docker replacement](https://www.hangoutdude.com/post/replace-docker-with-rancher-nerdctl)
 
-## Container runtimes and infrastructure
+## Open Container Initiative (OCI) - container format
+
+* https://opencontainers.org/
+* [oci runtime tools](https://github.com/opencontainers/runtime-tools) generate and validate
+
+## Container runtimes and infrastructure (CRI)
 
 * [docker, containerd, runc, crio, oci](https://www.tutorialworks.com/difference-docker-containerd-runc-crio-oci/)
 * [docker, containerd, crio](https://blog.purestorage.com/de/uncategorized-de/containerd-versus-docker-worin-besteht-der-unterschied/)
@@ -36,11 +41,16 @@
 * [containerd](https://containerd.io/)
   + [nerdctl](https://github.com/containerd/nerdctl) docker-compatible CLI for containerd
   + https://medium.com/nttlabs/nerdctl-359311b32d0e
+* [cri-o for kubernetes](https://cri-o.io/)
+* [youki](https://github.com/containers/youki) rust
+* [runc](https://github.com/opencontainers/runc) go-lang
+* [crun](https://github.com/containers/crun) c-lang
 
 ## Virtual Machines (VMs)
 
 * [lima](https://lima-vm.io/) Linux virtual machines with automatic file sharing and port forwarding (similar to WSL2)
   + https://lima-vm.io/docs/
+* [crun-vm](https://github.com/containers/crun-vm)  OCI Runtime that enables Podman, Docker, and Kubernetes to run QEMU-compatible Virtual Machine (VM) images
 
 ## Container articles
 
@@ -247,6 +257,7 @@ sudo ln -s /usr/libexec/docker/docker-proxy /usr/bin/
   + [pulp 3 with podman-compose](https://pulpproject.org/podman-compose/)
   + https://github.com/pulp
 * [harbor](https://goharbor.io/) big, only for kubernetes
+* [quay](https://github.com/quay/quay) big
 
 ## Docker 
 

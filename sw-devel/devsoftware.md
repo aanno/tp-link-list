@@ -615,11 +615,13 @@
 #### OpenID
 
 * https://openid.net/
+  + [certified implementations](https://openid.net/developers/certified-openid-connect-implementations/)
 * https://de.wikipedia.org/wiki/OpenID
 
 #### JWT
 
 * Example: https://support.zendesk.com/hc/de/articles/203663816-Einrichten-des-Single-Sign-On-mit-JWT-JSON-Web-Token-
+* [jwtproxy](https://github.com/quay/jwtproxy) Append a JWT Authorization header, Ability to sign SSL requests using MITM SSL
 
 ## Proxy
 
@@ -662,3 +664,8 @@
 * https://github.com/znuny/Znuny
   + https://www.znuny.org/de
   + https://www.heise.de/news/Ticketsystem-Znuny-7-als-Open-Source-Alternative-zu-OTRS-8969167.html
+
+## Automate everything
+
+* [stackstorm](https://stackstorm.com/)
+  + [already integrated](https://exchange.stackstorm.org/)

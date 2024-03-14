@@ -46,6 +46,8 @@
 
 ### language models
 
+* [gpt4all](https://gpt4all.io/index.html) free-to-use, locally running, privacy-aware chatbot. No GPU or internet required, featured!
+  + [gpt4all datalake](https://github.com/nomic-ai/gpt4all-datalake) ingest, organize and efficiently store all data contributions made to gpt4all
 * https://www.heise.de/news/Open-Source-OpenAI-veroeffentlicht-automatisches-Spracherkennungssystem-Whisper-7273104.html
 * https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models modells available on azure (e.g. GPT-4)
 * https://openai.com/blog/introducing-gpts create your own version of GPT

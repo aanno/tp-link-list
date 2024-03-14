@@ -40,6 +40,10 @@
 
 * http://www.spiegel.de/lebenundlernen/schule/bayern-auslese-fuers-gymnasium-belastet-grundschueler-und-eltern-a-1145393.html
 
+## Steuern
+
+* https://www.netzwerk-steuergerechtigkeit.de/wp-content/uploads/2024/03/Jahrbuch2024_Online_240306.pdf
+
 ## Rente
 
 * [Rentenkürzung lange nach Vertragsabschluss](https://www.fr.de/wirtschaft/verbraucherzentrale-klagt-erneut-gegen-kuerzungen-bei-riester-vertraegen-rente-zr-92825257.html)
