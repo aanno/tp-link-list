@@ -3,9 +3,12 @@
 * [inlong](https://inlong.apache.org/) big data integration: cache, pulsar, kafka, iceberg, ...
 * [dolphin scheduler](https://github.com/apache/incubator-dolphinscheduler): DAG workflow scheduling system
 * [gobblin](https://github.com/apache/incubator-gobblin) big data ingestion onto hadoop
-* [hadoop tez - DAG of tasks for processing data](https://tez.apache.org/)
-* [hadoop oozie](https://oozie.apache.org/)
-* https://airflow.apache.org/ - python
+* [hadoop tez - DAG of tasks for processing data](https://tez.apache.org/) old, yarn based
+* [hadoop oozie](https://oozie.apache.org/) old
+* [airflow](https://airflow.apache.org/) python, featured
+* [dbt](https://github.com/dbt-labs/dbt-core) transform their data by simply writing select statements
+  + [docs](https://docs.getdbt.com/docs/core/connect-data-platform/about-core-connections)
+  + https://www.getdbt.com/
 * https://nifi.apache.org/index.html
 * https://azkaban.github.io/
   + https://github.com/azkaban/azkaban
@@ -21,7 +24,6 @@
 * https://elise-deux.medium.com/the-list-of-graph-visualization-libraries-7a7b89aab6a6
 * https://speckyboy.com/open-source-javascript-data-chart-libraries/
 
-* https://observablehq.com/ (web services)
 * [kitware open source](https://www.kitware.com/open-source/)
   + https://vtk.org/ Process images and create 3D computer graphics
     - https://kitware.github.io/vtk-js/
@@ -35,9 +37,17 @@
 * https://hevodata.com/learn/tableau-open-source/
 * https://nikkilopez2.medium.com/top-5-free-open-source-alternatives-to-tableau-for-data-analytics-ff67350a5db8
 
-#### Interactive Visualization software
+### Interactive Visualization software
 
+* [mlflow](https://mlflow.org) featured!
+  Experiment tracking, Visualization, Generative AI, Evaluation, Models
 * [superset](https://superset.apache.org/) featured! (data analysis, graphs)
+* [shiny](https://shiny.posit.co/) for R and python
+  + [shiny and arrow](https://posit.co/blog/shiny-and-arrow/)
+* [streamlit](https://streamlit.io/) python data scripts into web apps
+* [bokeh](http://bokeh.org/) python data scripts into Applications, Dashboards, Exploration, Streaming, Websites
+* [dash](https://dash.plotly.com/tutorial) Low-Code Python Data Apps
+  + https://github.com/plotly/dash
 * [RATH](https://kanaries.net/home?ref=docs)
   + https://github.com/kanaries/rath
 * [graphic walker](https://github.com/Kanaries/graphic-walker)
@@ -57,6 +67,13 @@
 * [plotly dash](https://plotly.com/dash/) commercial
 * [scichart](https://www.scichart.com/javascript-chart-features/) commercial, WebGL & WebAssembly in the browser
 
+### Visualization SaaS
+
+* [observable](https://observablehq.com/) best dashboards are built with code
+  + [docs](https://observablehq.com/documentation/cells/observable-javascript)
+* [arrows](https://neo4j.com/labs/arrows/) visualize graphs for free
+  + https://arrows.app
+
 ### Plots and Charts
 
 see also: dsl.md -> Visualization
@@ -64,6 +81,7 @@ see also: dsl.md -> Visualization
 #### Python
 
 * [matplotlib](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html)
+* [seaborn](https://seaborn.pydata.org/) statistical data visualization
 
 #### Java
 

@@ -15,6 +15,7 @@
 * http://jdbi.org/ (SQL level)
 * https://r2dbc.io/ (reactive)
   + https://medium.com/javarevisited/reactive-database-access-with-r2dbc-micronaut-and-graalvm-ee9b5853260
+  + https://spring.io/projects/spring-data-r2dbc/
 
 #### JPA compatible
 

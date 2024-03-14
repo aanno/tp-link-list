@@ -119,7 +119,6 @@ prinzipiell der klassischen Programmierung überlegen ist.
 * [alpakka](https://doc.akka.io/docs/alpakka/current/) stream-aware and reactive integration pipelines for Java and Scala
 * [kalix](https://www.kalix.io/) fully managed cloud platform that gives developers the framework
 * https://www.lightbend.com/platform/development
-* https://www.lightbend.com/platform/development/spark
 * http://slick.lightbend.com/
 
 * https://contributors.scala-lang.org language discussion like

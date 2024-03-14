@@ -33,7 +33,6 @@
 * http://www.codeblocks.org/
 * https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino
   + https://daniel-ziegler.com/arduino/mikrocontroller/ide/2017/07/10/Microsoft-Visual-Studio-Code-alternative-Arduino-IDE/
-  + 
 
 ### Emulation
 
@@ -86,3 +85,15 @@
 * https://github.com/rust-embedded/awesome-embedded-rust
 * https://redox-os.org/ (linux replacement)
 * https://github.com/RustPython/RustPython (python interpreter in rust)
+
+## Non-PC like
+
+### ESP32
+
+* [esp32 development board](https://docs.makerfactory.io/development-boards/esp32/)
+* https://www.makerfocus.com/collections/esp32/products/makerfocus-esp32-oled-wifi-kit-esp-32-0-96-inch-oled-display-wifi-bluetooth-cp2102-internet-development-board-for-arduino-esp8266-nodemcu
+
+### Realtime systems software
+
+* [mongoose-os](https://mongoose-os.com/mos.html) semi-commercial, cheap
+  + https://mongoose-os.com/pricing.html

@@ -101,3 +101,5 @@ Here, there screenshots are also interesting for looking what others are hosting
 #### Special interest
 
 * [TandoorRecipes - for (cooking) recipes](https://github.com/TandoorRecipes/recipes)
+* [cool docs about server tasks at cherryservers](https://www.cherryservers.com/blog/set-docker-environment-variables)
+* [cool docs about server tasks at linode](https://www.linode.com/docs/guides/)

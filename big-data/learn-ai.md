@@ -56,8 +56,6 @@
 * https://www.seldon.io/tech/products/core/
 * https://github.com/kubeflow/chainer-operator
 * https://istio.io/
-* https://airflow.apache.org/
-
 
 #### Additional
 

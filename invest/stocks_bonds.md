@@ -54,6 +54,7 @@
 
 * https://github.com/quantopian/pyfolio
   + https://github.com/quantopian/empyrical
+* [Aladdin](https://de.wikipedia.org/wiki/Aladdin_(BlackRock)) commercial
 
 ## Market Information
 

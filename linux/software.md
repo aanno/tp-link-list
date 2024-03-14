@@ -135,6 +135,8 @@
 * [zsync](http://zsync.moria.org.uk/)
 * https://github.com/hbons/SparkleShare git-based
 * https://www.symmetricds.org/ java-based, file and db replication
+* [cubby](https://getcubby.org/) simple file sharing UI from cloudron
+  + https://github.com/cloudron-io/cubby
 
 ### JMAP (push for everything)
 

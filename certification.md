@@ -21,6 +21,7 @@
 
 * https://www.coursera.org/professional-certificates/ibm-data-science
 * https://cognitiveclass.ai/
+* [DP-500 Exam - Azure Enterprise Data Analyst](https://learn.data-mozart.com/courses/mastering-dp-500-exam-azure-enterprise-data-analyst)
 
 ## IT
 

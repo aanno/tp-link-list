@@ -8,9 +8,17 @@
 * [spark vs hadoop](https://searchdatamanagement.techtarget.com/feature/Hadoop-vs-Spark-Comparing-the-two-big-data-frameworks)
 * https://www.upsolver.com/blog/popular-stream-processing-frameworks-compared (dated)
 
-## Link collections
+## Articles, Blogs, Link collections
 
 * [many links for data streaming around flink](https://github.com/mikeroyal/Apache-Flink-Guide) dated, featured!
+* [explain differences between big data technologies](https://www.geeksforgeeks.org/difference-between-hadoop-and-hive/)
+* spark vs flink
+  + [heise](https://www.heise.de/ratgeber/Spark-versus-Flink-Rumble-in-the-Big-Data-Jungle-3264705.html)
+  + [macrometa](https://www.macrometa.com/event-stream-processing/spark-vs-flink)
+  + [medium yousry](https://medium.com/@ansam.yousry/apache-spark-vs-apache-flink-a-comprehensive-comparison-104bf543869a)
+* https://www.learningjournal.guru/article/ hadoop, cloud, kafka, featured!
+* [dremio blog](https://www.dremio.com/blog/)
+* [interesting list who uses arrow](https://arrow.apache.org/powered_by/)
 
 ## Blog and News
 
@@ -19,11 +27,13 @@
 
 ## Open Source Projects
 
-* https://flink.apache.org/
+* [flink](https://flink.apache.org/)
   + https://nightlies.apache.org/flink/flink-docs-master/docs/deployment/resource-providers/native_kubernetes/
-* https://beam.apache.org/ (abstraction over over stream processing APIs:
-  google cloud dataflow, flink, spark, samza, nemo, hazelcast jet, twister2, python/go direct runner)
+  + [flink on hive data](https://nightlies.apache.org/flink/flink-docs-master/docs/connectors/table/hive/hive_read_write/)
+* [beam](https://beam.apache.org/) abstraction over stream processing APIs:
+  google cloud dataflow, flink, spark, samza, nemo, hazelcast jet, twister2, python/go direct runner
   + https://beam.apache.org/documentation/runners/capability-matrix/
+* [mrjob](https://mrjob.readthedocs.io/en/latest/) abstration over MR for AWS, GCS, Spark, Hadoop, local
 * https://github.com/alibaba/jstorm
 * https://samza.apache.org/
 * https://nemo.apache.org/
@@ -48,24 +58,46 @@
 
 ### Spark and Co
 
+* https://spark.apache.org
+* https://www.lightbend.com/platform/development/spark
+
+#### Spark Docs
+
+* https://legacy.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details
+* https://rockthejvm.com/ great content for Scala, Kotlin, Spark, Flink, ZIO, Akka, featured!
+
+#### Tips and Tricks
+
+* [spark-submit](https://spark.apache.org/docs/latest/submitting-applications.html)
+* [spark on yarn](https://spark.apache.org/docs/latest/running-on-yarn.html)
+* [spark history server](https://github.com/rangareddy/spark-history-server-docker/) only needed for spark standalone
+  + [idea big data tools support for spark](https://www.jetbrains.com/help/idea/big-data-tools-spark-monitoring.html)
+
+#### Spark MLlib
+
+* https://spark.apache.org/mllib/
+
+#### Spark based
+
 * [livy - multiple users on spark cluster](https://livy.incubator.apache.org/)
 * [delta lake - storage layer and transactions for spark](https://github.com/delta-io/delta)
   + https://docs.delta.io/latest/index.html
 
 ### Hadoop and Co
 
-* [what is yarn](https://blog.cloudera.com/apache-hadoop-yarn-concepts-and-applications/)
-* [parquet - columnar storage format](https://parquet.apache.org/)
-  + https://parquet.apache.org/docs/
-* [impala - analytic db for hadoop](https://impala.apache.org/)
-* [kudu - distributed data storage engine](https://kudu.apache.org/) (with impala integration)
+* [what is yarn](https://blog.cloudera.com/apache-hadoop-yarn-concepts-and-applications/) yarn scheduler
+  + https://hadoop.apache.org/docs/stable/hadoop-yarn/hadoop-yarn-site/YARN.html
+* [hadoop only runs on java 11](https://cwiki.apache.org/confluence/display/HADOOP/Hadoop+Java+Versions)
+* [impala - analytic db for hadoop](https://impala.apache.org/) analytic BI and SQL layer, uses HDFS (or HBase) and the hive metastore
+  + https://impala.apache.org/docs/build/asf-site-html/topics/impala_hadoop.html
+* [cascading - stream processing on hadoop/tez](https://github.com/cwensel/cascading) java
+* [atlas](https://atlas.apache.org/#/) governance and compliance
+* [ranger](https://ranger.apache.org/) monitor and manage data security
+
+#### HDFS
+
 * [ozone - object store for hadoop](https://ozone.apache.org/)
-* [cascading - stream processing on hadoop/tez](https://www.cascading.org/projects/cascading/)
-  + [lingual - SQL on cascading](https://www.cascading.org/projects/lingual/)
-  + [get started](http://docs.cascading.org/impatient/)
-  + https://www.cascading.org/news/
-  + https://www.cascading.org/extensions/
-* [phoenix - OLTP and operational analytics](https://phoenix.apache.org/)
+  alternative implementation of HDFS (if you don't need hadoop), provides an S3 layer
 
 ### Kafka and Co
 
@@ -96,6 +128,8 @@
   + https://github.com/confluentinc/ksql
   + https://www.confluent.de/blog/data-enrichment-with-kafka-streams-foreign-key-joins/
 * https://github.com/kcctl/kcctl (CLI for kafka connect)
+* [kafka backup](https://github.com/itadventurer/kafka-backup) old
+  + [introduction to kafka backup](https://medium.com/@anatolyz/introducing-kafka-backup-9dc0677ea7ee)
 
 #### Example apps
 
@@ -104,7 +138,7 @@
 
 ### Pulsar and Co
 
-* https://pulsar.apache.org/
+* [pulsar](https://pulsar.apache.org/) Cloud-Native, Distributed Messaging 
 * [bookkeeper - storage service](https://bookkeeper.apache.org/)
 * [StreamNative - pulsar on kubernetes](https://streamnative.io/)
   + https://docs.streamnative.io/platform/v1.1.0/quickstart

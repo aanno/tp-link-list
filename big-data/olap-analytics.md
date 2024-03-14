@@ -1,10 +1,45 @@
 # OLAP and analytics
 
+## learning and courses
+
+* https://datascientest.com/de/# commercial
+  + https://datascientest.com/de/weiterbildung-machine-learning-engineer (good for finding other tools)
+
+## data formats
+
 * https://sourceforge.net/software/product/Apache-Parquet/alternatives
+
+### (open) file formats
+
+* [parquet vs arrow](https://medium.com/@diehardankush/comparing-data-storage-parquet-vs-arrow-aa2231e51c8a)
+
+* [parquet - columnar storage format](https://parquet.apache.org/)
+  + [docs](https://parquet.apache.org/docs/)
+  + [deep dive](https://learncsdesigns.medium.com/understanding-apache-parquet-d722645cfe74)
+  + [file format](https://data-mozart.com/parquet-file-format-everything-you-need-to-know/)
+* [orc](https://orc.apache.org/) native used in hive
+
+### (open) table formats
+
+* https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehouse-feature-comparison
+
+* [iceberg](https://iceberg.apache.org/) for spark, flink, hive, trino, presto, dremio, starrocks, ...
+* [hudi](https://hudi.apache.org/) transactional data lake platform that brings database and data warehouse capabilities
+  + [Build Open Lakehouse using Apache Hudi & dbt](https://hudi.apache.org/blog/2022/07/11/build-open-lakehouse-using-apache-hudi-and-dbt/)
+  + [hudi zero to one](https://blog.datumagic.com/p/apache-hudi-from-zero-to-one-910)
+* [paimon](https://paimon.apache.org/docs/master/) lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark
+* [arrow as RPC](https://arrow.apache.org/docs/format/Flight.html)
+  + https://arrow.apache.org/faq/
+
+## Metastores
+
+* [Hive Metastore](https://cwiki.apache.org/confluence/display/hive/design#Design-Metastore)
+* [HCatalog](https://cwiki.apache.org/confluence/display/Hive/HCatalog+UsingHCat)
+* [nessie](https://projectnessie.org/) Transactional Catalog for Data Lakes, git for data lakes
 
 ## SQL
 
-* https://trino.io/
+* [trino](https://trino.io/)
 * [presto - distributed SQL query engine](https://prestodb.io/) with spark support
   + https://prestodb.io/docs/current/connector.html
   + [presto is now trino](https://trino.io/blog/2020/12/27/announcing-trino.html)
@@ -15,21 +50,49 @@
   + https://docs.omnisci.com/v5.3.0/index.html
   + https://www.omnisci.com/
 * https://www.monetdb.org/ hybrid transactional/analytical processing
-* https://kudu.apache.org/ distributed data storage engine that makes fast analytics on fast and changing data easy
-  + https://kudu.apache.org/overview.html
+* [phoenix - OLTP and operational analytics](https://phoenix.apache.org/) transactional SQL layer for HBase
+* [hue](https://gethue.com/) UI for SQL and data warehouses, featured!
 
 ## No-SQL (nosql)
 
 * https://en.wikipedia.org/wiki/Comparison_of_OLAP_servers
+
 * https://druid.apache.org/use-cases
 * https://kylin.apache.org/
 * https://pinot.apache.org/
 * [no-sql distributed query engine](https://drill.apache.org/)
 * http://duckdb.org/ in-process SQL OLAP database
+* [kudu - distributed data storage engine](https://kudu.apache.org/) (with impala integration)
+  + https://kudu.apache.org/overview.html
+* [hbase](https://hbase.apache.org/) random, realtime read/write access to your Big Data
+  + [docs](https://hbase.apache.org/book.html)
+
+### No-SQL SaaS
+
+* [AWS dynamodb](https://aws.amazon.com/de/dynamodb/)
+  + [onetable](https://doc.onetable.io/start/quick-tour/) API for dynamodb, JS
+  + https://onetable.dev/
 
 ## Data Lake
 
-* [delta lake](https://github.com/delta-io/delta) featured! in scala for Spark, PrestoDB, Flink, Trino, and Hive
+### Data Lake SaaS (commercial)
+
+* [dremio](https://www.dremio.com/) currently best-in-class
+  + [docs, what is dremio](https://docs.dremio.com/current/)
+* [databricks](https://databricks.com/de/product/data-lakehouse) sparks, delta lake, mlflow
+* [onehouse](https://www.onehouse.ai/) Universal Data Lakehouse, hudi based
+* [snowflake](https://www.snowflake.com/en/) data cloud, query engine
+* [starburst](https://www.starburst.io/) End-to-end analytics platform, trino based
+* [AWS EMR](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-release-components.html)
+  Delta Lake, Ganglia, Hadoop, HBase, HCatalog, Hive, Hudi, Hue, Iceberg, Livy, MXNet, Oozie, Phoenix, Pig, ...
+  + [Data Lakes on AWS](https://itnext.io/building-data-lakes-on-aws-with-kafka-connect-debezium-apicurio-registry-and-apache-hudi-b4da0268dce?gi=b20d75123051)
+
+* https://www.leanxcale.com/# transactional DB, SQL
+* https://www.teradata.de/
+
+### Data Lake Software
+
+* [delta lake](https://github.com/delta-io/delta) featured! storage framework in scala for Spark, PrestoDB, Flink, Trino, and Hive
   + https://delta.io/
 * https://kylo.io/ (open source data lake management)
 * https://www.dremio.com/open-source/
@@ -49,29 +112,36 @@
 * [airbyte - replicate data as streams](https://airbyte.io/why-airbyte)
   + https://github.com/airbytehq/airbyte
 
-## Data Lake articles and comparisons
+### Data Lake articles and comparisons
 
 * [doris vs starrocks](https://www.influxdata.com/comparison/doris-vs-starrocks/)
 * [doris vs databricks vs starrocks](https://db-engines.com/en/system/Apache+Doris%3BDatabricks%3BStarRocks)
 
-## Data Lake storage engines
+### Data Lake storage engines (leading edge)
 
 Apache doris and starrocks are forks of the same original code base. Doris 
 is now more directed to real-time analysis, starrocks has gained direct query 
 capabilities for (lake) referenced data.
 
-### Commercial (No-SQL and analytics)
+clickhouse is currently best-in-class.
 
-* https://www.leanxcale.com/#
-* https://www.teradata.de/
-* https://databricks.com/de/product/data-lakehouse
+* [starrocks](https://www.starrocks.io/)
+  + [docs](https://docs.starrocks.io/docs/introduction/StarRocks_intro/)
+  + https://github.com/StarRocks/starrocks
+* [doris](https://doris.apache.org/) modern data warehouse for real-time analytics
+  + [ecosystem](https://doris.apache.org/ecosystem/cluster-management/) cluster management - connectors - data loading
+  + https://github.com/apache/doris
+* [clickhouse](https://clickhouse.com)
+  + [docs](https://clickhouse.com/docs/en/intro) high-performance, column-oriented SQL database management system (DBMS)
 
 ### Data lineage
 
 * https://de.wikipedia.org/wiki/Data-Lineage
 * https://openlineage.io/
 
-## Web Services (commercial)
+## data warehouse
+
+### data warehouse SaaS (commercial)
 
 * https://databricks.com/de/ (bi, data warehouse)
 * https://aws.amazon.com/de/redshift/
@@ -79,7 +149,16 @@ capabilities for (lake) referenced data.
 * https://azure.microsoft.com/de-de/services/synapse-analytics/
 * https://cloud.google.com/bigquery
   + https://de.wikipedia.org/wiki/BigQuery
-* https://www.teradata.de/ (data lake)
+
+### data warehouse software
+
+* [apache hive](https://hive.apache.org/) hadoop based, HS2, HSM, ACID, compaction, replication, LLAP
+  + [hive on docker](https://hshirodkar.medium.com/apache-hive-on-docker-4d7280ac6f8e)
+
+## Monitoring Solutions
+
+* [ganglia](https://github.com/ganglia/) old?
+* [skywalking](https://skywalking.apache.org/) featured
 
 # Data integration and enterprise service bus (ESB)
 

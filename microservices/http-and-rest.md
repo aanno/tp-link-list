@@ -158,6 +158,7 @@
 * https://spring.io/blog/2018/12/07/reactive-programming-and-relational-databases
 * https://medium.com/@ggonchar/non-blocking-sql-in-scala-bddf327a1ca3
 * https://suchakjani.medium.com/non-blocking-jdbc-early-2021-update-b8b2a24a3b83
+
 ### Async SQL libs
 
 * https://github.com/scalikejdbc/scalikejdbc-async scala

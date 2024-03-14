@@ -19,6 +19,7 @@
   + https://pyodide.org/en/stable/
   + https://p5js.org/
   + https://basthon.fr/doc.html
+* [quarto](https://quarto.org/) Combine Jupyter notebooks with flexible options to produce production quality output
 * [tpqad - import jupyter notebooks to asciidoctor](https://github.com/yhilpisch/tpqad)
 
 #### Jupyter tips and tricks

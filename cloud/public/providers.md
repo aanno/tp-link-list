@@ -53,6 +53,7 @@
   + https://lab.uberspace.de/ (server installation tutorials)
   + https://github.com/Uberspace/lab
 * https://www.netcup.de/
+* https://www.cherryservers.com/
 
 ## Special services
 

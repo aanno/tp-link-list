@@ -200,11 +200,28 @@ Only tools:
 * https://github.com/springfox/springfox
 * https://github.com/springfox/springfox-demos
 
+## Meta and Alternatives
+
+* [apicur registry](https://www.apicur.io/registry/) 
+  for OpenAPI, AsyncAPI, GraphQL, Apache Avro, Google Protocol Buffers, JSON Schema, Kafka Connect schema, WSDL, XML Schema (XSD)
+* [apicur studio](https://www.apicur.io/studio/) design and edit APIs
+
 ## RPC and Remoting
 
 * https://grpc.io/
 * http://coursera.github.io/courier JSON for JS, Java, and Scala, avro adapter, alternative to openapi
   + https://github.com/coursera/courier
+
+### Serialization
+
+* [google's protocol buffers](https://protobuf.dev/)
+* [avro](https://avro.apache.org/)
+
+### Human readable
+
+* yaml, yml
+  + [YAML Anchors, Aliases, and Overrides](https://www.linode.com/docs/guides/yaml-anchors-aliases-overrides-extensions/)
+  + https://stackoverflow.com/questions/46641224/what-is-and-in-yaml-mean
 
 ### IoC Frameworks
 

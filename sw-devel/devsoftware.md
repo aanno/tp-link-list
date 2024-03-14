@@ -191,6 +191,7 @@
 
 * https://dbeaver.io/
 * http://squirrel-sql.sourceforge.net/
+* https://database-client.com/#/home vs code based, semi-commercial
 
 ### Airtable like (using DB as excelsheet directly on the web)
 
@@ -604,12 +605,17 @@
   + https://lissi.id/ id wallet implementation
   + https://github.com/Fluepke/ssi-poc PoC exploit (flawed spec)
 
-#### OAuth2
+#### OAuth2 and OpenConnectId
 
 * https://github.com/babelouest/glewlwyd
 * https://github.com/ory/hydra
 * https://openid.net/developers/certified/
 * https://andifalk.gitbook.io/openid-connect-workshop/
+
+#### OpenID
+
+* https://openid.net/
+* https://de.wikipedia.org/wiki/OpenID
 
 #### JWT
 

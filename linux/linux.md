@@ -170,6 +170,7 @@
 
 * https://logz.io/blog/5-open-source-nids/
 * https://www.fail2ban.org/wiki/index.php/Main_Page
+  + https://fail2ban.readthedocs.io/en/latest/filters.html
   + https://fedoraproject.org/wiki/Fail2ban_with_FirewallD
   + https://serverfault.com/questions/646167/why-is-fail2ban-not-banning-this-attack
 * https://www.snort.org/ intrusion detection, its
@@ -194,6 +195,15 @@
 
 #### Distributed filesystems
 
+* https://en.wikipedia.org/wiki/Comparison_of_distributed_file_systems
+
+* [moosefs](https://moosefs.com/products/#moosefs) semi-commercial
+  + https://github.com/moosefs/moosefs
+* [juicefs](https://juicefs.com/en/) commercial, POSIX, HDFS, and S3 Protocols
+* [xtreemfs](https://www.xtreemfs.org/) supports HDFS, HPC
+* https://docs.ceph.com/en/latest/cephfs/
+* https://www.gluster.org/
+* http://www.orangefs.org/
 * https://github.com/tahoe-lafs/tahoe-lafs
 * http://ori.scs.stanford.edu/
 
@@ -357,6 +367,13 @@ alternative setup would need more work.
   + Supported: Duplicity, MSP360, qBackup, GoodSync, HashBackup, Duplicacy, Restic
 * [dreamhost storage](https://www.dreamhost.com/cloud/storage/)
 * [storj](https://www.storj.io/pricing) distributed storage, cheap!
+* [Alibaba Cloud OSS](https://www.alibabacloud.com/de/product/object-storage-service) only partly compatible to S3
+  + [compatibility to S3](https://www.alibabacloud.com/help/en/oss/developer-reference/compatibility-with-amazon-s3)
+  + [differences to S3](https://medium.com/@arsenyspb/migrate-api-from-aws-s3-to-aliyun-oss-640dd1e74201)
+
+###### S3 based products
+
+* [cloudian hyperstore](https://cloudian.com/products/hyperstore/) commercial, Military-Grade Security​
 
 ###### (Normal) Consumer Cloud Storage
 
@@ -497,7 +514,7 @@ done
 
 * https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/home
 
-##### Desaster recovery
+##### Disaster recovery
 
 * https://github.com/rear/rear
 * http://ping.windowsdream.com/#howto
