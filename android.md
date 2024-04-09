@@ -36,6 +36,7 @@
 * https://developer.android.com/studio/run/emulator-commandline
 * https://source.android.com/setup/create/avd
 * https://stackoverflow.com/questions/45778555/running-custom-android-rom-on-emulator
+* [docker-android](https://github.com/budtmo/docker-android) need rootful docker, modifies perms of /dev/kvm
 
 #### Waydroid
 

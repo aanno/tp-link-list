@@ -559,6 +559,7 @@ Referenzen:
 - Stand von KDE Plasma auf Fedora:
   [1](https://community.kde.org/Plasma/Packages),
   [2](https://apps.fedoraproject.org/packages/plasma-workspace)
+- [Fedora 39 + PCI passthrough](https://github.com/some-natalie/fedora-acs-override)
 
 ## Wichtige Komponenten
 

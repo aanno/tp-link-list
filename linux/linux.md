@@ -869,6 +869,12 @@ It is _not_ possible to recover the public key stored on nitro, see
 
 * [basics 1](https://documentation.suse.com/sbp/all/single-html/SBP-RPM-Packaging/index.html)
 * [basics 2](https://opensource.com/article/18/9/how-build-rpm-packages)
+* [RPM packaging](https://developer.fedoraproject.org/deployment/rpm/about.html)
+
+#### build RPMs in container (docker)
+
+* [build kernel RPMs in container](https://some-natalie.dev/blog/container-bulid-rpms/)
+* [ci/cd framework for RPMs with docker](http://saule1508.github.io/build-rpm-with-docker/)
 
 ### Deb
 

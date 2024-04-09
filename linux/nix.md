@@ -63,6 +63,7 @@
 * [fleek](https://getfleek.dev/) Install and manage all the tools you need to be productive
   + [fleek on devbox](https://getfleek.dev/docs/devbox)
   + https://getfleek.dev/docs/firststeps
+* [flox](https://github.com/flox/flox) virtual environment and package manager all in one
 
 ## related technology (distros on docker/podman)
 

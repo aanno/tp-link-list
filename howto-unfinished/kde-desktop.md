@@ -39,3 +39,8 @@ https://bugs.kde.org/show_bug.cgi?id=480942
 * [qtah](https://gitlab.com/khumba/qtah) haskell bindings
 * [QtJambi](https://github.com/OmixVisualization/qtjambi) Java Bindings for Qt
 
+### tips and tricks
+
+* [highdpi env configuration](https://doc.qt.io/qt-5/highdpi.html)
+  + [scale zoom](https://luke.hsiao.dev/blog/zoom-scaling/)
+

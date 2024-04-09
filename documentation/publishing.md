@@ -4,6 +4,10 @@
 * https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages
 * https://www.dewanahmed.com/markdown-asciidoc-restructuredtext/ featured!
 
+## Text checker
+
+* [vale](https://vale.sh/) Your style, our editor
+
 ## Types and typesetting
 
 * https://www.typewolf.com/

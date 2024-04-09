@@ -8,6 +8,10 @@
 * [IPv6 settings in NetworkManager](https://developer.gnome.org/NetworkManager/stable/settings-ipv6.html)
 * [default route](https://unix.stackexchange.com/questions/168452/how-to-add-ipv6-default-route)
 
+## eth devs
+
+* [Assign Multiple IP Addresses To A Single Network Interface](https://ostechnix.com/how-to-assign-multiple-ip-addresses-to-single-network-card-in-linux/)
+* [VLAN Tagging In Linux](https://ostechnix.com/configure-vlan-tagging-in-linux/)
 
 ## Freifunk
 

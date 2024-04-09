@@ -56,6 +56,17 @@
 
 * [linode container guides](https://www.linode.com/docs/guides/applications/containers/)
 
+## Container networking
+
+* [change container routing](https://stackoverflow.com/questions/36882945/change-default-route-in-docker-container)
+  `ip netns`, docker events, nsenter
+* [podman inter container communication](https://www.redhat.com/sysadmin/container-networking-podman)
+
+## Linux distros (and OS) as container image base
+
+* [alpine linux](https://www.alpinelinux.org/)
+* [Wolfi OS](https://github.com/wolfi-dev/) an (more secure) alternative to alpine
+
 ## Docker (and Podman) CLI
 
 Restarting exited containers on podman seems _not_ to work!

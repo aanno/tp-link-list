@@ -613,6 +613,7 @@
   + https://www.heise.de/ratgeber/Trivy-So-durchleuchten-Sie-Container-Images-auf-Sicherheitsluecken-6237078.html
 * [scout](https://docs.docker.com/scout/)
 * [xray](https://jfrog.com/de/integration/xray-docker-security-scanning) commercial
+* [chainguard](https://www.chainguard.dev/) commercial
 
 ### openshift/kubernetes developers tips
 

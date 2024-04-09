@@ -54,6 +54,7 @@
 * [qubes](https://www.qubes-os.org/) - most apps in it's own xen VM - super secure
 * [kali](https://www.kali.org/) penetration testing distribution
 * [open scap security scanner](https://www.open-scap.org/)
+* [sigstore](https://www.sigstore.dev/how-it-works) signing, verification and provenance checks for software
 
 ## Self-hosting
 
