@@ -51,10 +51,12 @@
 * [lima](https://lima-vm.io/) Linux virtual machines with automatic file sharing and port forwarding (similar to WSL2)
   + https://lima-vm.io/docs/
 * [crun-vm](https://github.com/containers/crun-vm)  OCI Runtime that enables Podman, Docker, and Kubernetes to run QEMU-compatible Virtual Machine (VM) images
+* [bootc](https://containers.github.io/bootc/bootc-install.html) bootable operating systems as container images
 
 ## Container articles
 
 * [linode container guides](https://www.linode.com/docs/guides/applications/containers/)
+* [Understanding user namespaces with rootless containers](https://access.redhat.com/articles/5946151) login required
 
 ## Container networking
 
@@ -206,6 +208,8 @@ sudo ln -s /usr/libexec/docker/docker-proxy /usr/bin/
 * https://www.admin-magazin.de/Das-Heft/2019/08/Container-Management-mit-Podman
 * https://github.com/boot2podman/boot2podman
   + https://podman.io/blogs/2019/01/14/podman-machine-and-boot2podman.html
+* [Podman: Linux-Container einfach gemacht, Teil 2](https://www.heise.de/hintergrund/Podman-Linux-Container-einfach-gemacht-Teil-2-4429630.html)
+* [Podman: Linux-Container einfach gemacht, Teil 1](https://www.heise.de/hintergrund/Podman-Linux-Container-einfach-gemacht-Teil-1-4329067.html)
 
 * [podman on windows](https://www.redhat.com/sysadmin/run-podman-windows)
 * [podman desktop](https://podman-desktop.io/)
@@ -215,6 +219,15 @@ sudo ln -s /usr/libexec/docker/docker-proxy /usr/bin/
 * [sharing supplemental group](https://www.redhat.com/sysadmin/supplemental-groups-podman-containers) share resources between the host and containers
 * [How Podman can extract a container's external IP address](https://www.redhat.com/sysadmin/container-ip-address-podman)
 * [failed to find plugin "bridge" in path](https://github.com/containers/podman/issues/13396)
+
+### podman-compose
+
+* [use --userns keep-id with podman-compose](https://github.com/containers/podman-compose/issues/166)
+  `export PODMAN_USERNS=keep-id`
+
+### podman security
+
+* [podman generate seccomp profiles](https://podman.io/blogs/2019/10/15/generate-seccomp-profiles.html)
 
 ### podman (pods interface)
 

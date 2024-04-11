@@ -65,12 +65,14 @@ Bridges are quick and dirty to run and test VMs. However, they may degrade your 
 
 - [Fedora Labs](https://labs.fedoraproject.org/)
 - [Fedora Planet](http://fedoraplanet.org/)
+- [server world on f39](https://www.server-world.info/en/note?os=Fedora_39)
 
 ## Wayland
 
 - [Known issues](https://fedoraproject.org/wiki/How_to_debug_Wayland_problems#known_issues)
 - [Wayland for KDE](https://community.kde.org/KWin/Wayland)
 - [modesetting on nvidia](https://negativo17.org/wayland-modesetting-on-nvidia/)
+- [explicit sync](https://linuxnews.de/wayland-nvidia-und-explicit-sync/)
 
 ### Wayland Problems and Solutions
 
@@ -460,6 +462,17 @@ References:
 * [view content of a *.pp file](https://serverfault.com/questions/321301/how-do-i-view-the-contents-of-a-selinux-policy-package)
 * [temporary changes with chcon](https://access.redhat.com/documentation/de-de/red_hat_enterprise_linux/6/html/security-enhanced_linux/sect-security-enhanced_linux-working_with_selinux-selinux_contexts_labeling_files)
 * [managing SELinux labels](https://wiki.gentoo.org/wiki/SELinux/Labels)
+* [generate a policy (type) for binary path](https://unix.stackexchange.com/questions/309122/how-to-create-a-custom-selinux-label)
+  `sepolgen /path/to/binary`
+
+## SELinux documentation
+
+* [TypeStatements](https://selinuxproject.org/page/TypeStatements)
+* [how to compile a policy package](https://relativkreativ.at/articles/how-to-compile-a-selinux-policy-package)
+
+### CIL language
+
+* [ssh and openvpn within container](https://stackoverflow.com/questions/57186289/cannot-ssh-from-container-with-openvpn)
 
 ## SELinux und Firewall
 

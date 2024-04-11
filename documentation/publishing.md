@@ -364,6 +364,7 @@ Also see `documenting-it.md`
 
 * http://www.theologeek.ch/manuskript/
 * https://www.mkdocs.org/
+  + [material theme for mkdocs](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
 * https://bookdown.org R-lang
   + https://github.com/rstudio/bookdown

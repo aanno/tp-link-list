@@ -247,6 +247,7 @@
 * [wekan](https://github.com/wekan/wekan)
   + https://wekan.github.io/
 * [redmine](https://www.redmine.org/)
+* [wekan](https://wekan.github.io/) kanban
 
 ### special
 

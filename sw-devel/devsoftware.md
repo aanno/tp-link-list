@@ -188,10 +188,14 @@
 * https://wiki.postgresql.org/wiki/PostgreSQL_Clients (mostly general tools)
 * https://www.adminer.org/de/
 * https://github.com/hangum/TadpoleForDBTools
+* https://www.slant.co/versus/38208/41086/~beekeeper-studio_vs_dbgate
 
 * https://dbeaver.io/
 * http://squirrel-sql.sourceforge.net/
+* https://dbgate.org/
 * https://database-client.com/#/home vs code based, semi-commercial
+* [beekeeperstudio](https://docs.beekeeperstudio.io/support/upgrading-from-the-community-edition/) semi-commercial
+  + https://github.com/beekeeper-studio/beekeeper-studio typescript
 
 ### Airtable like (using DB as excelsheet directly on the web)
 

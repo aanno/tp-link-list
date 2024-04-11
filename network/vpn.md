@@ -49,6 +49,8 @@
   + https://www.buymeacoffee.com/cyber5k
 * [wireguard installer](https://github.com/angristan/wireguard-install) for VPN internet access
 * [wg-easy](https://github.com/wg-easy/wg-easy)
+* [easy-wg-quick](https://github.com/burghardt/easy-wg-quick) Creates WireGuard configuration for hub and peers with ease (with ipv6 support)
+* [dual stack ipv4/ipv6](https://oliver-kaestner.de/posts/anleitung-wireguard-vpn-server-dual-stack-einrichten/)
 
 ### wg LAN-to-LAN
 
@@ -93,3 +95,19 @@ Problems
 * [titun](https://github.com/sopium/titun)
 * [GRPC server for managing wireguard tunnels](https://github.com/stellarproject/guard)
 * [tailscale (commercial)](https://github.com/tailscale/tailscale)
+
+## OpenVPN
+
+### OpenVPN on containers
+
+* [OpenVPN and Transmission (bittorrent)](https://github.com/haugene/docker-transmission-openvpn)
+  + [docs](https://haugene.github.io/docker-transmission-openvpn/)
+
+### non-root OpenVPN
+
+Running as unprivileged user seems to be possible. But experienced perm problems on fedorea with selinux.
+
+* [unprivileged user](https://community.openvpn.net/openvpn/wiki/UnprivilegedUser)
+* [run unprivileged on podman](https://community.openvpn.net/openvpn/wiki/UnprivilegedUser#RunOpenVPNwithinunprivilegedpodmancontainer)
+* [Connect to VPN with Podman](https://stackoverflow.com/questions/57115336/connect-to-vpn-with-podman)
+* [create tun/tap as unprivileged user](https://unix.stackexchange.com/questions/743893/allowing-a-non-root-user-to-create-tun-tap-interfaces)

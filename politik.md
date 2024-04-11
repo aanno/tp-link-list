@@ -13,6 +13,12 @@
 * https://www.merkur-zeitschrift.de
 * https://zenith.me
 
+## Zeitungen
+
+* https://www.wienerzeitung.at/
+* https://www.derstandard.at
+* https://www.nzz.ch
+
 ## Podcasts
 
 * [das Politikteil der Zeit](https://www.zeit.de/serie/das-politikteil)

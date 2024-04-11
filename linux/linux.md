@@ -7,7 +7,7 @@
 * https://www.linux-community.de/
 * https://www.howtoforge.de/ (Blog)
 * https://linuxnews.de/
-* https://www.omgubuntu.co.uk/
+* https://www.omgubuntu.co.uk/ ubuntu centered
 * https://lwn.net/
 * https://www.datacenter-insider.de/
 * https://www.linuxuprising.com/
@@ -22,6 +22,7 @@
 * https://www.renefuerst.eu/blog/
 * https://thenewstack.io/ dev-centered
 * https://osbn.de/ aggregator
+* https://www.notebookcheck.com/
 
 ## Fondations
 
