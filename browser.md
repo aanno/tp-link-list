@@ -27,6 +27,60 @@
 * https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers
 * https://hacks.mozilla.org/2010/09/hardware-acceleration/
 
+### Add-ons
+
+#### Active
+
+* Asciidoctor.js Live Preview
+* Cookie AutoDelete
+* Decentraleyes
+* Disable WebRTC
+* Disconnect
+* ePUB Reader
+* EPUBReader
+* Export Tabs URLs
+* FoxyProxy
+* Gnome Shell-Intgration
+* HTTP+ Checker
+* Markdown Viewer Webext
+* Multi-touch Zoom
+* New Tab Here
+* NoScript
+* Open Tabs Next to Current
+* Plasma Integration
+* Privacy Badger
+* Startpage - Datenschutz-Suchmachine
+* Startpage Privatsphäre-Schutz
+* Tranquility Reader
+* uBlock Origin
+* Video DownloadHelper
+* Zoom Page WE
+
+#### Disabled
+
+* Augury
+* BuildWith
+* Buld Media Downloader
+* Cisco Webex Extension
+* DNSSEC
+* Feedbro
+* Firefox Relay
+* Flagfox
+* GraphQL Network
+* JetBrans Toolbox Extension
+* LEO Dictionaries
+* Mailvelope
+* Privacy Settings
+* Proxy SwitchyOmega
+* React Developer Tools
+* RESTED
+* Swagger UI
+* Video Downloader professional
+* Wappalyzer - Technology profiler
+* Web Developer
+* WebAuthn-eID
+* WhatRuns
+
 ## Security 
 
 ### (Anti-)Tracking
