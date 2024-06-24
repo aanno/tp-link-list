@@ -92,3 +92,252 @@
 
 * https://github.com/Genymobile/scrcpy version 2.0
   + https://opensource.com/article/19/9/mirror-android-screen-guiscrcpy
+
+## Apps
+
+### op3t (de-googled)
+
+#### Banking
+
+* Binance
+* CoinMarketCap
+* comdirect
+* giropay (-)
+* ING Banking
+* photoTAN (comdirect)
+* S-pushTAN (Sparkasse)
+* VR Banking App
+* VR SecureGo plus
+
+#### Communication and Internet
+
+* Firefox
+* Mulch (de-chromed browser)
+* nebenan.de
+* Signal
+* Teams (MS)
+* Telegram
+* Udemy
+* Viber
+* Wire
+* Zoom
+
+#### Dev
+
+* AWS Console
+* Network Analyzer
+* NFC Tools
+* Service Browser (avahi, mdns, ddns)
+
+#### Games
+
+* AAAAXY (jump and run)
+* Archikaps (rt world simulation)
+* Antiyoy
+* boardspace.net
+* Cartographers
+* Castle Builders
+* Coffee Roaster
+* Constantinople
+* Feudal Tactics
+* Freitag
+* Gauguin
+* Hadria
+* Hive mit KI
+* Hoigi
+* Inland Port (Le Havre)
+* Flowit!
+* Isla Rica
+* Patchwork
+* Shogi
+* SolitaireCG
+* Super Retro Mega Wars
+* Uciana
+* Unciv
+* Vector Pinball
+
+#### Google (sic!)
+
+* Family Link
+* Kalendar
+* Kontakte
+* Maps
+
+#### Health
+
+* Aikido Training (-)
+* DoctorBox (-)
+* E-Rezept
+
+#### Maps
+
+* HERE WeGo
+* Magic Earth
+* MAPS.ME
+* OsmAnd+
+
+#### Media
+
+* ARD Audiothek
+* ARTE
+* Arte Radio (fr)
+* AudioFX (lineage)
+* Bandcamp
+* BubbleUPnP
+* DLF Audiothek
+* DLF Nachrichten
+* Kodi
+* M.A.L.P.
+* Radio
+  + Ö1
+  + Radio FM4
+  + Radioplayer
+* Podcast Addict
+* Qobuz
+* Simple Scrobbler
+* Spotify
+* VLC
+
+#### Misc
+
+* Dankeschön (Simple Apps)
+* Tibber
+
+#### Nature
+
+* BirdNET
+* Flora Incognita
+
+#### Office
+
+* aCalendar+
+* OpenTask
+* Collabora Office
+* DAVx5
+* Nextcloud
+  + Deck
+  + Lesezeichen (Bookmarks)
+  + News
+  + Nextcloud (Sync)
+  + Notizen
+* dict.cc (offline word translation)
+* FairEmail
+* ICSx5
+* jtx Board
+* Kontakte (simple)
+* Maple Taschenrechner
+* MDScan (Scanner)
+* Obsidian (?)
+* Qmanager (for Qnap NAS)
+* Rechner (lineage)
+* Recorder (lineage)
+
+#### Obsolete
+
+* Alex TTS (text-to-speech)
+* Barcode Scanner
+* QR & Barcode Scanner
+* William TTS (text-to-speech)
+* @Voice Aloud Reader
+* @Voice License
+
+#### Reading
+
+* Cantook
+* FBReader Premium
+* Librera
+* LMd (le monde diplomatique)
+* McKinsey Insights
+* Pocket
+* SZ (Süddeutsche Zeitung App)
+* tolino
+
+#### Replacements
+
+* Aurora Store -> Play Store
+* Hamburger -> Tagesschau App
+* Neo Store -> Play Store
+* NewPipe -> Youtube (Video)
+* Lucky Patcher -> all unwilling apps
+* YMusic -> Youtube (Music)
+
+#### Security and Authentication
+
+* AusweisApp
+* Authentication (MS)
+* Cryptomator
+* ElsterSecure (-)
+* Hypatia (virus scanner)
+* KATWARN
+* Keybase
+* NetGuard
+* OpenKeychain (?)
+* OpenVPN für Android
+* Private DNS Quick Toggle (?, needs system modification)
+* Proton VPN (?)
+* SAASPASS
+* WebID Wallet
+* WireGuard
+
+#### System
+
+* Amazon Appstore
+* AnySoftKeyboard
+* APKCombo Installer
+* Aves (Libre) (Gallery)
+* Bose Connect
+* Browser (lineage)
+* Dateien (lineage)
+* DroidCam
+* Druckdienste-Plug-In von Samsung
+* Editor (Bill Farmer)
+* F-Droid (App Store)
+* Gallery (lineage)
+* Gallery (simple)
+* Ghost Commander (file explorer)
+* FRITZ!App Fon
+* Kamera (lineage)
+* KDE Connect
+* microG Services Core (https://lineage.microg.org/)
+* Musik (lineage)
+* Night Screen (-)
+* Obtainium (?, app store)
+* Open Camera
+* SMS/MMS (-, lineage)
+* Telefon (lineage)
+* Telefon (simple)
+* Uhr (lineage)
+
+#### Transport and Travel
+
+* Bolt
+* Booking.com
+* DB Navigator
+* DJH-App
+* Eventguide (in-münchen)
+* Flinkster
+* Freenow (TAXI)
+* HandyParken (München)
+* MILES (and more)
+* Moovit
+* München Navigator (S-Bahn München)
+* MVG Fahrinfo (-)
+* MVGO
+* Öffi
+* Transportr
+* Tripadvisor
+* Uber
+* WarnWetter (DWD)
+
+#### Not working
+
+* hkk ('rooted' error)
+* DWD Warnwetter (needs hp (cannot find that I have paid), no push, no non-german towns)
+* EPA ('rooted' error)
+* peek finder (needs hp)
+* Google Docs (would need a full blown chrome which can't be installed)
+* NetGuard (needs hp (cannot find that I have paid))
+* Hanseatic Bank Secure (no push, hence not working) - use web interface and SMS instead (also working)
+* DroidCamX (needs hp, is picky) - but DroidCan is working
+* Network Analyzer Professional (but free Network Analyzer is working)
+* @Voice Aloud Reader (@Voice License does not work)

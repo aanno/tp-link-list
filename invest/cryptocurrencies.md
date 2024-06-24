@@ -103,6 +103,24 @@
 * [trust wallet](https://trustwallet.com/) (related to binance)
 * https://stackwallet.com/ open source, one wallet by currency, web3, xlm, xmr, ban, wow, xno, part, ...
 
+##### Android tested wallets
+
+* Atomic Wallet
+* Best Wallet
+* Coinomi
+* Defly Wallet
+* Edge
+* LOBSTR
+* Math Wallet
+* MetaMask
+* Scopuly
+* Solflare
+* Stack Wallet
+* Trust Wallet
+* Unstoppable
+* VESPR
+* Yoroi
+
 ##### Android exchange platforms
 
 * https://bitpay.com/wallet/ only for btc, eth, bch, ltc, dodge, shib, ape, matic, not tested by me
