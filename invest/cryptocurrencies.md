@@ -105,14 +105,56 @@
 
 ##### Android tested wallets
 
-* Atomic Wallet
+* Atomic Wallet <br/>
+  + very many assets (celo, zeta, core, dydx, okt okbc, btc, bsc eth, dash, xlm, usdt, ...)
+  + builtin buy, swap, staking
+  + wallet connect
 * Best Wallet
+  + eth centered
+  + many assets (bnb, matic, shib, usdt, usdc, ...)
+  + coins on some chains (eth, poly, bsc)
+  + web3 apps browser
+  + builtin trade
+  + multi-wallet
 * Coinomi
+  + many assets (btc, algo, dash, zcash, monero, usdc, ...)
+  + no xlm, ada
+  + coins on some chains (bnb, eth, hedera, nem, omnilayer, tron)
+  + builtin Exchange and DEX
+  + not that good with multi-chain coins
 * Defly Wallet
+  + algorand wallet (featured)
+  + builtin swap
+  + stacking support
+  + web3 dapps browser
+  + wallet connect
 * Edge
+  + many assets (xlm, zec, sol, qtum, ...)
+  + slow - but verifies chain for some assets
+  + each coin _is_ a wallet
+  + builtin trade
+  + not that good with multi-chain coins
+  + multi-wallet
 * LOBSTR
+  + xlm wallet (featured)
+  + some coins (eurc, scop, eth, btc, aqua, usdc, ...) on xlm chain
+  + builtin trade
+  + stacking through y* coins (yXLM, yBTC, yUSDC), reasonable yields
+  + wallet connect
+  + multi-wallet
 * Math Wallet
+  + eth centered
+  + web3 dapps browser
+  + not that good with multi-chain coins
 * MetaMask
+  + layer 2 (eth, btc) centered
+  + very many chains (bsc, eth, linea, poly, arb, opt, boba, tomo, ava, fantom,
+    harmony, cronos, celo, gnosis, eos, huobi, theta, callisto, )
+  + chains can be added dynamically
+  + wallet connect
+  + multi-wallet (1 for each chain)
+  + multi-account (for more than one wallet on each chain)
+  + transactional features relies on chain or cross-chain protocol (i.e. unsave)
 * Scopuly
 * Solflare
 * Stack Wallet
