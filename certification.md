@@ -102,3 +102,85 @@
 ### Accounting and Auditing
 
 * [CISA](https://www.isaca.org/credentialing/cisa)
+
+## Certifier
+
+* https://home.pearsonvue.com/isqi
+* https://www.pm-zert.de/ueber-die-pm-zert certifier of GPM/IPMA
+
+## From job offers
+
+* [Certified Business Analysis Professional (CBAP)](https://www.iiba.org/business-analysis-certifications/cbap/)
+  + exam ~150 USD
+* [Capability in Business Analysis™ (CCBA)](https://www.iiba.org/business-analysis-certifications/ccba/)
+  + exam ~150 USD
+* [Certified Professional for Requirements Engineering (CPRE)](https://www.ireb.org/de/cpre/basics/)
+  + https://www.ireb.org/de/service/literature
+  + https://www.ireb.org/de/downloads/tag:foundation-level
+* [Certified Business Process Associate (CBPA)](https://www.abpmp.de/cbpa-zertifizierung/)
+  + requires Bachelor or documented 1250h of practical BPM work
+
+### Project Management
+
+* [GPM](https://www.gpm-ipma.de/ueber-die-gpm/ipma) german chapter of IPMA
+  + [ICB 4 Standard](https://www.gpm-ipma.de/wissen/normen-standards#c191)
+  + basis exam ~250 USD
+  + level-d exam ~700 USD
+* [prince2](https://www.prince2.com/de)
+  + foundation course ~1200 USD
+  + practitioner course ~1300 USD
+
+## ServiceNow
+
+* [career journeys](https://nowlearning.servicenow.com/lxp/en/pages/career-journey?id=journey)
+* https://nowlearning.servicenow.com/
+  + [riseup career paths](https://www.servicenow.com/de/company/riseup.html?state=seamless)
+* [community](https://www.servicenow.com/community/)
+* [events](https://www.servicenow.com/events.html?state=seamless)
+* [Credentialing Program Guide](https://www.servicenow.com/services/training-and-certification/journey/#/)
+* [Change Adoption Specialist (OCM)](https://nowlearning.servicenow.com/lxp/en/pages/journey-overview?id=journey_overview&journey_id=f40015af8711b9d05aa9ca2d0ebb3598)
+  + [OCM Planing](https://www.servicenow.com/success/playbook/change-management-plan-guide.html)
+  + Certified Change Management Professional (CCMP)
+  + PROSCI Change Management Certification Program
+  + [customer success center](https://www.servicenow.com/success.html)
+  + [roadmaps and implementations](https://www.servicenow.com/success/playbook/implementation.html)
+* [Technical Project Manager](https://nowlearning.servicenow.com/lxp/en/pages/journey-overview?id=journey_overview&journey_id=97ac27f11bdaa5d013f9a6c1b24bcb1e)
+  + [Strategic Portfolio Management (SPM)](https://www.servicenow.com/products/strategic-portfolio-management.html)
+    - https://docs.servicenow.com/de-DE/bundle/washingtondc-it-business-management/page/product/it-business-management/reference/r_ITBusinessManagement.html
+  + Associate
+    - Certified Associate in Project Management (CAPM)
+    - PMI Agile Certified Practitioner (PMI-ACP)
+    - Certified Scrum Master (CSM)
+    - ITIL 4 Foundation Certification
+  + Practitioner
+    - Project Management Professional (PMP)
+    - Professional Business Analyst (PBA)
+    - Disciplined Agile Senior Scrum Master (DASSM)
+    - ICAgile Certified Professional (ICP)
+    - Disciplined Agile Coach (DAC)
+  +  Professional
+     - Risk Management Professional (PMI-RMP)
+     - Program Management Professional (PGMP)
+     - Portfolio Management Professional (PFMP)
+     - Agile Hybrid Project Pro (AHPP)
+     - Advanced Certified Scrum Master (A-CSM) 
+* [Application Developer](https://nowlearning.servicenow.com/lxp/en/pages/journey-overview?id=journey_overview&journey_id=cbdb13f91b5aa5d013f9a6c1b24bcb44)
+* [System Administrator](https://nowlearning.servicenow.com/lxp/en/pages/journey-overview?id=journey_overview&journey_id=55f79b4a1b96add013f9a6c1b24bcb30)
+* [data foundations](https://nowlearning.servicenow.com/lxp/en/pages/learning-course?id=learning_course&course_id=3eb132641bc80510190ca793604bcb44&group_id=39b4baac1bc80510190ca793604bcb84&child_id=ac2c80ba1b7fbc90190ca793604bcb25&spa=1)
+* [documentation](https://docs.servicenow.com/de-DE/)
+* [developer instance](https://developer.servicenow.com/)
+* [business case development](https://www.servicenow.com/success/playbook/business-case-guide.html)
+* [governance](https://www.servicenow.com/success/playbook/governance-process-policies-team.html)
+* [center of excellence](https://www.servicenow.com/success/playbook/center-excellence-innovation-coei.html)
+* [sn udemy power skill subscription](https://nowlearning.servicenow.com/lxp/en/udemy-content-subscription?id=learning_content_prev&course_id=8ca8bedc1b0f7d50600d86e7624bcbf4)
+  + Lean-Agile Leadership: The Foundation Of Enterprise Agility
+  + Digital Transformation: Leadership Foundations
+
+### Glossary
+
+* ITSM - IT Service Managment: goverance, BSM, Process Management, SOA
+* ITOM - IT Operations Management: Help Desk, ITIL, CMDB, DevOps
+* ITBM - IT Business Management: now called 'Strategic Portfolio Management'
+* ITAM - IT Asset Management: SAM - Software Asset Management (licenses)
+* HR - Human Resources
+* CSM - Customer Service Management: SLAs, metrics

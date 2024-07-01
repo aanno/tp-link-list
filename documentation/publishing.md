@@ -419,6 +419,8 @@ Also see `documenting-it.md`
 
 ### PDF software and tools
 
+* https://media-tools.perbility.de/ online service for stitching PDF (also from other formats)
+* [pdfsizeopt](https://github.com/pts/pdfsizeopt) optimize/shrink PDF 
 * https://pdfbox.apache.org/2.0/commandline.html
 * https://github.com/rrthomas/pdfjam
 * https://github.com/pts/pdfsizeopt

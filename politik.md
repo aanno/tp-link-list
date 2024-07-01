@@ -94,6 +94,16 @@
 
 * http://www.sueddeutsche.de/wissen/orang-utans-die-opfer-des-palmoel-booms-1.3950833
 
+### Erwärmung
+
+#### Ozean
+
+* [Erwärmung des Ozeans](https://wiki.bildungsserver.de/klimawandel/index.php/Erw%C3%A4rmung_des_Ozeans)
+* [Oberflächentemperatur](https://de.statista.com/statistik/daten/studie/1387104/umfrage/ozeane-mittlere-temperatur/)
+  + [Abweichung](https://de.statista.com/statistik/daten/studie/1298995/umfrage/temperaturanstieg-in-den-weltmeeren/)
+  + https://www.ospo.noaa.gov/Products/ocean/sst/contour/
+  + https://climatereanalyzer.org/clim/sst_daily/
+
 ## Spaltung der Gesellschaft
 
 * http://www.fr.de/kultur/kapitalismus-das-system-vertraegt-viel-elend-a-1495603

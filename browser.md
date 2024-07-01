@@ -21,6 +21,8 @@
 
 ## Firefox
 
+* [speechd](https://github.com/brailcom/speechd/) text-to-speech interface used by firefox on linux
+
 ### Firefox Webgl
 
 * find details about support in current installation: `about:support`
