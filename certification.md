@@ -119,6 +119,8 @@
   + https://www.ireb.org/de/downloads/tag:foundation-level
 * [Certified Business Process Associate (CBPA)](https://www.abpmp.de/cbpa-zertifizierung/)
   + requires Bachelor or documented 1250h of practical BPM work
+* [Certified Scrum Product Owner (CSPO)](https://www.scrumalliance.org/get-certified/product-owner-track/certified-scrum-product-owner)
+* [Professional Scrum Product Owner I Certification (PSPO I)][(](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification))
 
 ### Project Management
 
@@ -129,6 +131,7 @@
 * [prince2](https://www.prince2.com/de)
   + foundation course ~1200 USD
   + practitioner course ~1300 USD
+* [PMI](https://www.pmi.org) PMP, CAPM, ...
 
 ## ServiceNow
 
@@ -157,13 +160,16 @@
     - Professional Business Analyst (PBA)
     - Disciplined Agile Senior Scrum Master (DASSM)
     - ICAgile Certified Professional (ICP)
-    - Disciplined Agile Coach (DAC)
+    - [Disciplined Agile Coach (DAC)](https://www.pmi.org/certifications/agile-certifications/disciplined-agile-coach-dac)
   +  Professional
      - Risk Management Professional (PMI-RMP)
      - Program Management Professional (PGMP)
      - Portfolio Management Professional (PFMP)
      - Agile Hybrid Project Pro (AHPP)
-     - Advanced Certified Scrum Master (A-CSM) 
+     - Advanced Certified Scrum Master (A-CSM)
+  + associate paid content:
+     - [ServiceNow Administration Fundamentals](https://nowlearning.servicenow.com/lxp/en/now-platform/servicenow-administration-fundamentals-on-demand?id=learning_course_prev&course_id=91e2630b47503d5890542034846d43ac)
+     - [Strategic Portfolio Management (SPM) Fundamentals](https://nowlearning.servicenow.com/lxp/en/strategic-portfolio-management/strategic-portfolio-management-spm?id=learning_course_prev&course_id=a5cb98df47e2f9142a090dcbd36d43dc)
 * [Application Developer](https://nowlearning.servicenow.com/lxp/en/pages/journey-overview?id=journey_overview&journey_id=cbdb13f91b5aa5d013f9a6c1b24bcb44)
 * [System Administrator](https://nowlearning.servicenow.com/lxp/en/pages/journey-overview?id=journey_overview&journey_id=55f79b4a1b96add013f9a6c1b24bcb30)
 * [data foundations](https://nowlearning.servicenow.com/lxp/en/pages/learning-course?id=learning_course&course_id=3eb132641bc80510190ca793604bcb44&group_id=39b4baac1bc80510190ca793604bcb84&child_id=ac2c80ba1b7fbc90190ca793604bcb25&spa=1)
