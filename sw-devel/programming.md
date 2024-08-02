@@ -307,6 +307,7 @@ Only tools:
 * [git remote hg](https://github.com/felipec/git-remote-hg)
 * https://www.perforce.com/blog/your-git-repository-database-pluggable-backends-libgit2
 * [pre-commit](https://pre-commit.com/) managing and maintaining multi-language pre-commit hooks
+  + https://pre-commit.com/hooks.html
 * [repo, an alternative to `git submodule`](https://source.android.com/setup/develop/repo)
 * [git-crypt - transparent file encryption in git](https://github.com/AGWA/git-crypt)
 * [git-secret encrypts files and stores them](https://git-secret.io/)

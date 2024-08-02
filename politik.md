@@ -50,6 +50,10 @@
 
 * https://www.netzwerk-steuergerechtigkeit.de/wp-content/uploads/2024/03/Jahrbuch2024_Online_240306.pdf
 
+## Banken
+
+* https://www.der-bank-blog.de/
+
 ## Rente
 
 * [Rentenkürzung lange nach Vertragsabschluss](https://www.fr.de/wirtschaft/verbraucherzentrale-klagt-erneut-gegen-kuerzungen-bei-riester-vertraegen-rente-zr-92825257.html)
@@ -89,6 +93,10 @@
 * [Ozon Bericht](https://www.lfu.bayern.de/luft/immissionsmessungen/ozon/bericht/index.htm)
 * [Ozonwerte Johanniskirchen](https://www.wetteronline.de/ozonwerte/muenchen)
 * [Ozonkarte Deutschland](https://www.wetteronline.de/?gid=DL&paraid=O3&pcid=pc_luft_data&pid=p_city_luft&sid=ColorMap)
+
+#### invasive species
+
+* https://neobiota.naturschutzinformationen.nrw.de/neobiota/de/arten
 
 ## Ökologie
 

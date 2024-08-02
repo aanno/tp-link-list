@@ -14,6 +14,8 @@
 ## Proxy Implementations (mostly camouflage proxies)
 
 * [gost v3](https://github.com/go-gost/gost) go simple tunnel, swiss army knife for proxy setup, featured!
+  + https://gost.run/en/tutorials/proxy-protocol/
+  + https://gost.plus/
 * [hysteria](https://github.com/apernet/hysteria) SOCKS5, HTTP proxy, TCP/UDP forwarding, Linux TProxy and more
 * [hysteria2](https://v2.hysteria.network/) censorship resistant proxy, featured!
 * [outline](https://getoutline.org/de/) alternative to tor (?)

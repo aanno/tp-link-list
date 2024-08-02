@@ -102,6 +102,7 @@
 * [ghostwriter](https://wereturtle.github.io/ghostwriter/)
 * [abricotine](https://abricotine.brrd.fr/)
 * https://github.com/asciidoctor/asciidoctor-vscode
+* https://documentnode.io
 
 #### Tooling
 
@@ -150,6 +151,11 @@
   + http://asciidoc.org/epub-notes.html (epub)
 * https://entwickler.de/software-architektur/hitchhikers-guide-to-docs-as-code-tools-fur-asciidocasciidoctor/
   + https://entwickler.de/testing/hitchhikers-guide-to-docs-as-code-the-beautiful-code/
+
+## Tex Latex Context
+
+* [tectonic](https://tectonic-typesetting.github.io/en-US/) load on demand tex distro
+  + https://github.com/tectonic-typesetting/tectonic
 
 ## Extensions
 
@@ -266,6 +272,8 @@ Also see `documenting-it.md`
   + https://jdhao.github.io/2019/05/30/markdown2pdf_pandoc/ md to pdf with pandoc
   + https://waylonwalker.com/convert-markdown-pdf-linux/
   + https://stackoverflow.com/questions/44177555/how-to-convert-html-to-pdf-using-pandoc
+  + [GladTeX](https://humenda.github.io/GladTeX/) math in html based on latex
+    - https://github.com/humenda/GladTeX
 * Obskure
   + https://opensource.com/article/18/3/scientific-publishing-software
   + https://elifesciences.org/inside-elife/33e4127f/elife-introduces-libero-a-new-open-source-tool-for-publishing
@@ -277,6 +285,7 @@ Also see `documenting-it.md`
   + https://typst.app/docs/
   + https://github.com/typst/hayagriva bibliography management
   + https://typst.app/docs/packages/ experimental package repository for Typst
+  + https://typst.app/universe/ typst packages
 
 ## Formats
 
@@ -406,8 +415,10 @@ Also see `documenting-it.md`
   + [crowbook](https://github.com/lise-henry/crowbook)
   + [rust book](https://github.com/rust-lang/book)
     - https://doc.rust-lang.org/book/
-* [mdBook](https://github.com/rust-lang-nursery/mdBook)
-  + https://rust-lang-nursery.github.io/mdBook/
+* [mdBook](https://github.com/rust-lang/mdBook)
+  + https://rust-lang.github.io/mdBook/
+  + https://github.com/rust-lang/mdBook/wiki/Third-party-plugins
+  + https://github.com/fenjalien/mdbook-typst-doc render with typst
 * [md to epub](https://github.com/paulfurley/markdown-to-epub-mobi)
 * [pandoc](https://pandoc.org/installing.html)
 
@@ -420,7 +431,8 @@ Also see `documenting-it.md`
 ### PDF software and tools
 
 * https://media-tools.perbility.de/ online service for stitching PDF (also from other formats)
-* [pdfsizeopt](https://github.com/pts/pdfsizeopt) optimize/shrink PDF 
+* [pdfsizeopt](https://github.com/pts/pdfsizeopt) optimize/shrink PDF
+* [img2pdf](https://gitlab.mister-muffin.de/josch/img2pdf)
 * https://pdfbox.apache.org/2.0/commandline.html
 * https://github.com/rrthomas/pdfjam
 * https://github.com/pts/pdfsizeopt

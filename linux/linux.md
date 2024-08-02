@@ -743,6 +743,8 @@ It is _not_ possible to recover the public key stored on nitro, see
 
 ### Container-faced Linux Distributions (mostly immutable)
 
+This has some similiarities to nix software.
+
 * [qubes](https://www.qubes-os.org/) - most apps in it's own xen VM - super secure
 * [mocaccino - docker and luet based](https://www.mocaccino.org/)
 * [suse microos](https://microos.opensuse.org/) - suse's coreos (includes kubic)
@@ -750,6 +752,7 @@ It is _not_ possible to recover the public key stored on nitro, see
 * [flatcar linux](https://www.flatcar-linux.org/) - community successor of coreos
 * [rlxos - immutable desktop](https://rlxos.dev/)
   + https://tylerstech.me/2021/06/23/rlxos-a-new-and-unique-distribution/
+* [universal blue](https://github.com/ublue-os) fedora coreos experiments
 * [AWS Bottlerocket](https://aws.amazon.com/de/bottlerocket/)
   + [bottlerocket nvidia support](https://aws.amazon.com/de/about-aws/whats-new/2022/03/bottlerocket-support-gpu-ec2-instance-types-powered-by-nvidia/)
   + https://aws.amazon.com/de/about-aws/whats-new/2022/06/bottlerocket-ecs-variant-nvidia-gpus/
@@ -762,6 +765,7 @@ It is _not_ possible to recover the public key stored on nitro, see
   + https://docs.fedoraproject.org/en-US/fedora-silverblue/
 * https://fedoramagazine.org/what-is-silverblue/
 * https://discussion.fedoraproject.org/t/how-to-run-a-containerized-gui-application/570
+* https://blue-build.org/ build your own atomic Fedora distributions
 
 #### Fedora CoreOS
 

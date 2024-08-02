@@ -312,6 +312,8 @@
 
 * [downloadhelper - firefox and chrome plugin](https://www.downloadhelper.net/)
   + https://github.com/mi-g/vdhcoapp/
+  + https://github.com/aclap-dev/video-downloadhelper/wiki/CoApp-Installation
+  + https://github.com/aclap-dev/vdhcoapp
 
 ## Web services
 

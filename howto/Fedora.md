@@ -27,6 +27,7 @@
   + [use usb modeswitch on boot](https://askubuntu.com/questions/1080944/automatically-use-usb-modeswitch-for-wifi-usb)
 - [long wait on NetworkManager-wait-online](https://networkmanager.dev/docs/api/latest/NetworkManager-wait-online.service.html)
 - [Bluetooth Audio Headsets](https://wiki.archlinux.org/title/bluetooth_headset#Switch_between_HSP/HFP_and_A2DP_setting)
+  + https://wiki.archlinux.org/title/Bluetooth_headset
 
 ### Bridge
 

@@ -133,6 +133,12 @@
   + practitioner course ~1300 USD
 * [PMI](https://www.pmi.org) PMP, CAPM, ...
 
+## Google
+
+* https://www.coursera.org/explore/google-certificates
+* [project management](https://www.coursera.org/professional-certificates/google-project-management) free on coursera
+* [cyber security](https://www.coursera.org/professional-certificates/google-cybersecurity)
+
 ## ServiceNow
 
 * [career journeys](https://nowlearning.servicenow.com/lxp/en/pages/career-journey?id=journey)

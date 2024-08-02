@@ -50,8 +50,11 @@
   + https://lukas.zapletalovi.com/posts/2020/deploy-photoprism-in-centos-80/ on podman
   + https://techviewleo.com/manage-and-share-your-photo-collection-with-photoprism/
   + https://www.allerstorfer.at/photoprism-ki-gestuetzte-foto-app/
+* https://immich.app/ started as alternative to picasa
+  + https://github.com/immich-app/immich
 * https://github.com/Librephotos/librephotos
 * https://photoview.github.io/
+  + https://github.com/photoview/photoview includes links to alternatives
 * https://pixelfed.org/
 * https://piwigo.org/
 * https://docs.librephotos.com/
@@ -60,12 +63,38 @@
 * https://www.picapport.de/en/index.php
   + https://wiki.picapport.de/display/PICE/PicApport-Server+Guide
 * https://github.com/photonixapp/photonix
-* https://lychee.electerious.com/
+* https://lychee.electerious.com/ with S3 support
+  + https://lycheeorg.github.io/docs/org.html
 * https://lomorage.com/
 * https://v4-docs.chevereto.com/
   + https://chevereto.com/
+  + https://github.com/chevereto/chevereto
+* https://github.com/rigon/photo-gallery
+  + https://photogallery.rigon.uk/
+* https://github.com/bpatrik/pigallery2
+
+##### simplistic with S3 support
+
+* https://github.com/CANDITUDE/s3-photo-viewer
+* https://github.com/brendannee/noobgallery
+* https://github.com/axeleroy/photo-gallery
+* https://github.com/somwrks/Wonder-Gallery-23 ?
+
+#### desktop-based photo applications
 
 * https://www.digikam.org/ (include face recognition)
+* https://graphite.rs/ browser-based
+  + https://github.com/GraphiteEditor/Graphite
+* https://photodemon.org/ windows
+  + https://github.com/tannerhelland/PhotoDemon
+
+#### mobile-based photo applications
+
+* [aves](https://apt.izzysoft.de/fdroid/index/apk/deckers.thibault.aves)
+  + https://github.com/deckerst/aves/wiki/App-Versions
+* https://github.com/bevy/photo-editor-android
+* https://github.com/T8RIN/ImageToolbox
+* https://github.com/burhanrashid52/PhotoEditor
 
 #### Cloud-based photo applications
 

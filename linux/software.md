@@ -103,6 +103,9 @@
 * https://de.wikipedia.org/wiki/Mastodon_(Software)
   + https://mastodon.social/about
 
+* https://www.freie-messenger.de/
+* https://tchncs.de/ THE german free communication server
+
 ## Sync
 
 * https://en.m.wikipedia.org/wiki/Comparison_of_file_synchronization_software
@@ -460,6 +463,7 @@
 
 # Crawler (may contain some full-text support)
 
+* https://brightdata.de/ commercial SaaS
 * https://www.octoparse.com/blog/10-best-open-source-web-scraper#
 
 * http://stormcrawler.net/index.html

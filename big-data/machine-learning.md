@@ -52,6 +52,10 @@
 * https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models modells available on azure (e.g. GPT-4)
 * https://openai.com/blog/introducing-gpts create your own version of GPT
 
+#### language models for programmers
+
+* https://sourcegraph.com/
+
 #### language identification
 
 * https://stackoverflow.com/questions/58319996/commands-to-predict-the-language-with-fasttext-in-linux

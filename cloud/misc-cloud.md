@@ -24,6 +24,11 @@
 
 * https://techbeacon.com/enterprise-it/9-top-open-source-tools-monitoring-kubernetes
 
+## (free) data exchange
+
+* https://dataverse.org/ Open source research data repository software 
+  + https://guides.dataverse.org/en/latest/api/intro.html
+
 ### Web Services (commercial)
 
 * https://sentry.io/welcome/

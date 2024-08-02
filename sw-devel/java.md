@@ -43,6 +43,13 @@
 * [modern collections](https://guava.dev/)
 * [jps - java property service](https://github.com/openbase/jps)
 
+### Structured Data (XML, json, yaml, ...)
+
+#### XML
+
+* [kxml2](https://github.com/kobjects/kxml2)
+  + [ktxml](https://github.com/kobjects/ktxml) kotlin
+
 ## Testing
 
 * https://www.testcontainers.org/

@@ -16,6 +16,12 @@
 
 * https://www.ad-magazin.de/galerie/die-schoensten-staedte-italiens
 
+### Asia
+
+#### Turkey
+
+* [Lykischer Weg](https://www.reisereporter.de/reiseziele/europa/tuerkei/dieser-weg-zaehlt-zu-den-schoensten-fernwanderwegen-der-welt-3BNZZU7UABBNXIVZWCALB2SEQY.html)
+
 ### USA
 
 * https://www.rnd.de/reise/spektakulaere-zugreise-mit-dem-amtrak-durch-die-usa-LJIBXQBLX5CNXFWM5BCBMA2VSQ.html
