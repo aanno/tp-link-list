@@ -5,6 +5,7 @@
 * https://en.wikipedia.org/wiki/C4_model
   + https://c4model.com/
 * https://arc42.org/documentation/
+  + https://docs.arc42.org/home/
 
 ### diagrams and modelling
 

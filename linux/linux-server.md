@@ -78,12 +78,16 @@
     - https://github.com/scm-manager/scm-manager
 * https://kinsta.com/ cloud self-hosting
 * https://ably.com/ commercial
+* [seeseekey's selfhosting book](https://seeseekey.net/fachbuecher/selfhosting)
 
 ### NAS
 
 * [TrueNAS Scale](https://www.truenas.com/truenas-scale/) linux-based NAS, openzfs, and containers
   + [TrueCharts](https://truecharts.org/manual/SCALE/guides/scale-intro/) helm charts for TrueNAS Scale
 * [openmediavault](https://www.openmediavault.org/) linux distribution for NAS, debian based
+* [HexOS](https://hexos.com/blog/the-magic-behind-hexos) NAS and Cloud OS, commercial
+  + https://linuxnews.de/hexos-homeserver-und-nas-fuer-jedermann/
+* [unraid](https://unraid.net/) commercial
 
 #### QNAP
 

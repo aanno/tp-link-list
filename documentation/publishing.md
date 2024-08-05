@@ -298,7 +298,6 @@ Also see `documenting-it.md`
 ### Epub
 
 * https://github.com/idpf/epubcheck
-* https://github.com/futurepress/epub.js/
 * https://medevel.com/17-open-source-epub-and-ebook-creators/
 * https://opensource.com/article/18/10/book-to-website-epub-using-pandoc
 

@@ -20,7 +20,15 @@
 * [zig](https://ziglang.org/) simple, C-like, embedded
   + https://en.m.wikipedia.org/wiki/Zig_(programming_language)
 * [D](https://en.m.wikipedia.org/wiki/D_(programming_language))
+* [lua](https://www.lua.org/)
+  + https://de.wikipedia.org/wiki/Lua
+  + [luajit](https://luajit.org/luajit.html)
 
+## JIT
+
+* [Adding a JIT compiler to CPython](https://lwn.net/Articles/977855/)
+* [Copy-and-patch compilation](https://dl.acm.org/doi/10.1145/3485513)
+* [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
 
 ## General lang problems
 

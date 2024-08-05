@@ -10,6 +10,16 @@
 
 * https://sourceforge.net/software/product/Apache-Parquet/alternatives
 
+## blogs
+
+* https://bimanu.de/blog/ german
+
+## fundamentals
+
+* [data merge](https://bimanu.de/blog/datenverschmelzung/)
+* [snowflake vs star schema](https://bimanu.de/blog/snowflake-schema/)
+  + [start schema in PowerBI](https://learn.microsoft.com/de-de/power-bi/guidance/star-schema)
+
 ### (open) file formats
 
 * [parquet vs arrow](https://medium.com/@diehardankush/comparing-data-storage-parquet-vs-arrow-aa2231e51c8a)

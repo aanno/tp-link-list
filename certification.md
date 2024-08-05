@@ -138,6 +138,7 @@
 * https://www.coursera.org/explore/google-certificates
 * [project management](https://www.coursera.org/professional-certificates/google-project-management) free on coursera
 * [cyber security](https://www.coursera.org/professional-certificates/google-cybersecurity)
+* [ai essentials](https://www.coursera.org/explore/google-certificates)
 
 ## ServiceNow
 

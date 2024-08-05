@@ -268,6 +268,9 @@
   + http://www.optaplanner.org/blog/2018/02/19/SchedulingVoxxedDaysZurich2018.html
 * http://www.choco-solver.org/ (java)
 
+* [new solver3 for apt and relation to SAT solvers](https://blog.jak-linux.org/2024/05/14/solver3/)
+  + https://linuxnews.de/debian-erneuert-den-solver-in-apt/
+
 ## Doodle clones
 
 * https://github.com/kmerz/noodle
@@ -288,6 +291,8 @@
 * https://de.wikipedia.org/wiki/Pastebin
 * https://github.com/PrivateBin/PrivateBin
 * https://wormhole.app/ (service)
+* https://www.swisstransfer.com/de-ch SaaS
+* FileLink Add-ons for Thunderbird
 
 ## Mail
 

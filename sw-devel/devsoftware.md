@@ -662,6 +662,7 @@
 ### Site Reliability Engineering (SRE)
 
 * https://sre.google/books/ free books!
+* https://aws.amazon.com/de/what-is/sre/
 
 ## Ticket systems (like jira)
 

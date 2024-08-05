@@ -162,6 +162,8 @@ for python only. It is used by ecs-compose-x.
     - [supported docker-compose features](https://ecs-composex.readthedocs.io/compatibility/docker_compose.html)
   + [ecs-file-composer](https://github.com/compose-x/ecs-files-composer)
     - [ecs-file-composer documentation](https://docs.files-composer.compose-x.io/)
+  + [wordpress demo](https://github.com/compose-x/wordpress-demo)
+    - https://github.com/compose-x/wordpress-demo/pull/2
 * [ecr scan reporter](https://ecr-scan-reporter.compose-x.io/) Serverless Application to monitor ECR Repositories and capture scan results
 * [CodePipeline-orchestra](https://github.com/compose-x/codepipline-orchestra) tools that make usage of AWS CodePipeline/CodeBuild and other AWS Developer 
 

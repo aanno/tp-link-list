@@ -47,6 +47,16 @@
 
 #### XML
 
+* [Stax and Pull Parser](https://www.xmlpull.org/impls.html)
+  + [Stax2 API](https://github.com/FasterXML/stax2-api)
+  + [aslom](https://github.com/aslom/xpp3?tab=readme-ov-file)
+  + [aalto xml](https://github.com/FasterXML/aalto-xml)
+  + [woodstox](https://github.com/FasterXML/woodstox)
+  + [xpp3](https://github.com/xmlpull-xpp3/xmlpull-xpp3) old
+* [msv](https://github.com/xmlark/msv) Multi-Schema Validator Toolkit: RELAX NG, RELAX Namespace, RELAX Core, TREX, XML DTDs, and a subset of XML Schema Part 1
+
+#### XML
+
 * [kxml2](https://github.com/kobjects/kxml2)
   + [ktxml](https://github.com/kobjects/ktxml) kotlin
 

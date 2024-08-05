@@ -709,6 +709,22 @@ It is _not_ possible to recover the public key stored on nitro, see
 * [sev-step](https://github.com/sev-step/sev-step) interactive single-stepping, page fault tracking and eviction set-based cache attacks available
   + https://www.amd.com/en/developer/sev.html
 
+### Sandbox and App Separation on Android
+
+* [privacy sandbox](https://developers.google.com/privacy-sandbox?hl=de) privacy technology from google for web and android (rule the world and get rid off third party coookies)
+  + https://github.com/android/privacy-sandbox-samples
+  + https://privacysandbox.com/
+  + https://github.com/privacysandbox/protected-auction-services-docs
+    - https://github.com/privacysandbox/protected-auction-services-docs/blob/main/trusted_services_overview.md
+* [appclone](https://appcloner.app/) install one app more than once
+  + [parallel space](https://play.google.com/store/apps/details?id=com.lbe.parallel.intl&hl=en)
+  + [shelter](https://f-droid.org/packages/net.typeblog.shelter/)
+    - https://gitea.angry.im/PeterCxy/Shelter
+* standard [app sandbox](https://source.android.com/docs/security/app-sandbox?hl=en)
+* [trusty - a TEE within android](https://source.android.com/docs/security/features/trusty?hl=de) e.g. DRM implementation of android
+* [overview of security on android](https://github.com/shivsahni/The-Grey-Matter-of-Securing-Android-Applications)
+* [trustdevice](https://github.com/trustdecision/trustdevice-android) library for determining device uniqueness and risk identification
+
 #### Opinion
 
 * https://ludocode.com/blog/flatpak-is-not-the-future

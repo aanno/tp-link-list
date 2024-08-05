@@ -12,6 +12,8 @@
 * https://www.focus.de/finanzen/boerse/
 * https://invezz.com/de/
 * https://www.livemint.com/
+* https://www.cash.ch/
+* https://www.it-finanzmagazin.de/
 
 
 * https://www.handelsblatt.com
@@ -20,6 +22,8 @@
 * https://www.boerse-online.de/
 * https://www.alleaktien.de commercial
 * https://www.justetf.com/de/
+* https://www.n-tv.de/boersenkurse/
+* https://www.t-online.de/finanzen/
 
 ## Fundamental Analysis
 
@@ -28,6 +32,9 @@
 * https://www.erste-am.de/de/institutionelle-anleger
 * https://www.boerse.de/marktberichte/
 * https://www.onvista.de/news/marktberichte
+* https://www.ingmarkets.de/insights
+  + https://wertpapiere.ing.de/DE/showpage.aspx
+* https://magazin.comdirect.de/
 
 ## vote proxies
 
@@ -89,6 +96,11 @@
     - https://hledger.org/accounting.html
     - https://hledger.org/ledger.html
   + https://beancount.github.io/
+
+#### personal finance software on android
+
+* https://reckoner.finance/ android, web
+  + https://codeberg.org/Reckoner/app
 
 ### portfolio management software
 

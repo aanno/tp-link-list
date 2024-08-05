@@ -88,6 +88,22 @@
   + https://secuso.aifb.kit.edu/1491.php
 * [open android backup](https://github.com/mrrfv/open-android-backup)
 
+### Core (Contacts, Phone, ...)
+
+* [fossify](https://github.com/FossifyOrg) fork of simple apps
+  + https://www.fossify.org/
+
+### Notes
+
+* https://joplinapp.org/
+* https://obsidian.md/
+* https://logseq.com/
+* https://zim-wiki.org/ web only
+
+## App Security
+
+* https://appcheck.mobilsicher.de/
+
 ## Remote Android
 
 * https://github.com/Genymobile/scrcpy version 2.0

@@ -144,6 +144,10 @@
 * https://www.nzz.ch/finanzen/streit-um-immobilien-erbe-das-sind-die-fuenf-haeufigsten-faelle-ld.1650554
 * https://taz.de/Erben-in-Deutschland/!5810657/
 
+## China
+
+* https://www.ipg-journal.de/ipg/autorinnen-und-autoren/autor/shi-ming/
+
 ## Magazine
 
 * https://www.blaetter.de/
@@ -152,6 +156,7 @@
 * https://correctiv.org/
 * https://krautreporter.de
 * https://www.theeuropean.de/
+* https://www.ipg-journal.de/ (Friedrich Eberbert Stiftung)
 
 ### English
 

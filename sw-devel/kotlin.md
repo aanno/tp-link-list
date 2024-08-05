@@ -170,6 +170,9 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 * [resultat - Result with a loading state](https://github.com/nicolashaan/resultat)
 * [moko-network](https://github.com/icerockdev/moko-network) addition to ktor-client for android
 * [reflection-less serialization](https://github.com/Kotlin/kotlinx.serialization)  JSON, Protobuf, CBOR, Hocon, Properties
+* [akkurate](https://github.com/nesk/akkurate) validation library
+  + https://akkurate.dev/docs/overview.html#showcase
+* [cache4k](https://github.com/ReactiveCircus/cache4k) simple in-memory key-value cache
 
 ### Kotlin JS
 
@@ -180,12 +183,17 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 ### Kotlin for web UI
 
 * [compose](https://github.com/JetBrains/compose-jb) (android compose based)
+  + [compose multiplatform](https://www.jetbrains.com/de-de/lp/compose-multiplatform/)
   + [compose-mpp](https://www.jetbrains.com/de-de/lp/compose-mpp/)
   + [compose-web](https://compose-web.ui.pages.jetbrains.team/)
   + https://compose-web.ui.pages.jetbrains.team/
   + https://medium.com/mindorks/build-server-driven-personalized-ui-using-jetpack-compose-a0a31689b375
-  + https://developer.android.com/jetpack/compose
+  + https://developer.android.com/compose (former: https://developer.android.com/jetpack/compose )
+    - https://developer.android.com/develop/ui/compose/tutorial?hl=de
+    - [state in compose](https://developer.android.com/develop/ui/compose/state?hl=de)
   + [skia](https://skia.org/) - base native canvas technology
+  + [introduction to compose snapshots](https://dev.to/zachklipp/introduction-to-the-compose-snapshot-system-19cn)
+    - https://blog.zachklipp.com/introduction-to-the-compose-snapshot-system/
 * [MVIKotlin](https://github.com/arkivanov/MVIKotlin) elm-like
 * [Decompose](https://github.com/arkivanov/Decompose)
 * [jetpack compose effects](https://effectiveandroid.substack.com/p/jetpack-compose-effect-handlers)
