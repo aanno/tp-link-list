@@ -20,6 +20,13 @@ prinzipiell der klassischen Programmierung überlegen ist.
   + [async and non-blocking](https://blog.rockthejvm.com/sync,-async-and-(non)-blocking/)
   + [remote code execution engine](https://blog.rockthejvm.com/remote-code-execution-engine/)
   + [kotlin flows](https://blog.rockthejvm.com/kotlin-flows/)
+* https://docs.scala-lang.org/
+* https://www.creativescala.org/creative-scala/
+  + https://github.com/creativescala/creative-scala
+* https://essentialeffects.dev/ book to cat effects
+* https://underscore.io/books/scala-with-cats/ book to cat effects, free
+  + https://github.com/scalawithcats/scala-with-cats
+  + https://scalawithcats.com
 
 ## fundaments of pure functional programming
 

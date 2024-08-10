@@ -108,6 +108,7 @@
 
 * http://pandoc.org/epub.html (epub)
 * https://github.com/paulfurley/markdown-to-epub-mobi (epub)
+* [Laika](https://typelevel.org/Laika/) Site and E-book Generator and Customizable Text Markup Transformer for sbt, Scala and Scala.js
 
 ### Asciidoctor (and Asciidoc)
 
