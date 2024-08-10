@@ -309,11 +309,13 @@ prinzipiell der klassischen Programmierung überlegen ist.
   + [Comonad](https://typelevel.org/cats/typeclasses/comonad.html)
     - https://softwareengineering.stackexchange.com/questions/322431/what-is-a-comonad-and-how-are-they-useful
 * [cats-effect](https://typelevel.org/cats-effect/)
+  + [introduction](https://www.baeldung.com/scala/cats-effects-intro)
   + https://github.com/typelevel/cats-effect/blob/series/3.x/docs/concepts.md
   + https://typelevel.org/cats-effect/docs/tutorial
   + [herding cats tutorial](https://eed3si9n.com/herding-cats/sum-function.html)
   + [async/await with `-Xasync`](https://typelevel.org/cats-effect/docs/std/async-await)
   + [cats effect vs zio](https://softwaremill.com/cats-effect-vs-zio/)
+  + [fiber](https://typelevel.org/cats-effect/docs/2.x/datatypes/fiber)
 * [cats-collections](https://github.com/typelevel/cats-collections)
   + https://typelevel.org/cats-collections/
 * [cats-mtl](https://github.com/typelevel/cats-mtl) monad transformer library

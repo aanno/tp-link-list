@@ -65,6 +65,10 @@
 * [tiDB](https://www.pingcap.com/tidb/) distributed transactional SQL database in go-lang
   + https://github.com/pingcap/tidb
 * [hue](https://gethue.com/) UI for SQL and data warehouses, featured!
+* [oceanbase](https://en.oceanbase.com/) massive parallel RDB with mySQL API
+  + https://github.com/oceanbase/oceanbase
+  + [system architecture](https://en.oceanbase.com/docs/community-observer-en-10000000000829641)
+  + https://dev.to/waynes/create-a-headless-cms-using-oceanbase-and-typescript-a-step-by-step-tutorial-2bc2
 
 ## No-SQL (nosql)
 

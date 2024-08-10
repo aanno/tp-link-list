@@ -23,6 +23,7 @@
 * https://thenewstack.io/ dev-centered
 * https://osbn.de/ aggregator
 * https://www.notebookcheck.com/
+* https://linuxtldr.com/
 
 ## Fondations
 
