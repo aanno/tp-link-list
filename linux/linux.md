@@ -534,6 +534,10 @@ done
 * http://wps-community.org/
 * https://github.com/ONLYOFFICE/CommunityServer web-based
   + https://www.onlyoffice.com/blog/de/2017/12/onlyoffice-vs-collabora-ein-kritischer-vergleich/
+  + https://www.onlyoffice.com/de/
+* https://www.golem.de/news/zendis-ein-unterschaetztes-open-source-projekt-auf-expansionskurs-2408-187555-2.html
+  + https://opendesk.eu/
+  + https://gitlab.opencode.de/bmi/opendesk
 
 ### Clustering
 

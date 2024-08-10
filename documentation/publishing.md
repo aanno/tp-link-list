@@ -112,6 +112,12 @@
 
 ### Asciidoctor (and Asciidoc)
 
+* [asciidoc eclipse workgroup](https://asciidoc-wg.eclipse.org/projects/)
+
+#### alternative implementations
+
+* https://github.com/bytesparadise/libasciidoc/issues/1113 half baked go implementations
+
 #### Asciidoctor Setup
 
 * [asciidoctor setup](https://www.informatik.htw-dresden.de/~zirkelba/notes/se/asciidoc-installation-and-configuration/)

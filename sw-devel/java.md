@@ -131,6 +131,7 @@
 * https://quarkus.io/
 * polyglott
   + https://technology.amis.nl/software-development/java/calling-out-from-java-to-javascript-with-call-back-leveraging-interoperability-support-of-graalvm/
+* [multi-tier compilation](https://medium.com/graalvm/multi-tier-compilation-in-graalvm-5fbc65f92402)
 
 ## Alternatives to GraalVM
 

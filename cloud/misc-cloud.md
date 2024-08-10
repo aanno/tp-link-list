@@ -28,6 +28,7 @@
 
 * https://dataverse.org/ Open source research data repository software 
   + https://guides.dataverse.org/en/latest/api/intro.html
+* https://datasette.io/ public structured data
 
 ### Web Services (commercial)
 

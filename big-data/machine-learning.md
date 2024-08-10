@@ -60,6 +60,13 @@
 * https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models modells available on azure (e.g. GPT-4)
 * https://openai.com/blog/introducing-gpts create your own version of GPT
 
+#### AI web search
+
+* [perplexity](https://www.perplexity.ai/search/was-ist-perplexity-ai-c9s4_gQhSa2K8FPgHNWqiA)
+* [searchGPT](https://en.m.wikipedia.org/wiki/SearchGPT)
+  + https://openai.com/index/searchgpt-prototype/
+* [arc search](https://arc.net/blog/arc-search)
+
 #### language models for programmers
 
 * https://sourcegraph.com/

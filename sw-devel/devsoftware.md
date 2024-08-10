@@ -285,6 +285,9 @@
 * [directus](https://directus.io/) semi-commercial, typescript, vue
   + https://github.com/directus/directus
   + [docs](https://docs.directus.io/getting-started/introduction.html)
+* [payload CMS](https://payloadcms.com/)
+  + https://github.com/payloadcms/payload
+  + https://payloadcms.com/blog/30-beta-install-payload-into-any-nextjs-app-with-one-line payload 3.0 is next.js based
 * https://github.com/apostrophecms/apostrophe-headless
   + https://apostrophecms.org/docs/technical-overviews/technical-overview.html
   + https://apostrophecms.org/features
@@ -394,6 +397,7 @@
 * [Eleventy](https://www.11ty.dev/docs/) template-agnostic, just-in-time (serverless)
 * [pelican](https://blog.getpelican.com/category/news.html)
   + https://docs.getpelican.com/en/latest/ (python, markdown)
+  + https://getpelican.com/
 
 * [publii](https://getpublii.com/) static side cms
   + https://linuxnews.de/backend-gefluester-wechsel-des-cms-serverless/
@@ -416,14 +420,24 @@
 * https://getnikola.com/blog/a-cms-or-two-for-nikola-dato-cms-and-netlify-cms-integration.html
 * https://www.cmswire.com/digital-experience/15-static-site-generators-to-complement-your-headless-cms/
 
-### Dev-centric (blogs, markdown, asciidoctor)
+### Dev-centric (blogs, blogging, markdown, asciidoctor)
 
 * https://www.webpagefx.com/blog/web-design/open-source-blogging-platforms-for-developers/
+* https://blog.hubspot.com/marketing/best-blogging-platform
+* https://kinsta.com/de/blog/besten-blogging-platformen/
 * https://opensource.com/article/17/8/asciidoc-web-development
   + https://github.com/opensourceway/asciidoc-blog
+
 * https://github.com/HubPress/hubpress.io
 * https://www.netlifycms.org/ (git and generator based)
 * http://openlivewriter.org/
+* https://duncanlock.net/blog/2021/01/12/using-asciidoc-and-asciidoctor-for-blogging/ asciidoc with pelican
+* https://opensource.com/article/17/8/asciidoc-web-development asciidoc with hugo
+* [btw](https://www.btw.so/) open source personal site generator for blogs, notes and profile
+  + [btw open source list](https://www.btw.so/open-source-alternatives) featured
+  + https://github.com/btw-so/btw
+* [write as](https://write.as/) minimalistic blogging, semi commercial
+* https://www.jimdo.com/ semi commercial
 
 ## SSO and related
 

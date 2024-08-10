@@ -1,5 +1,10 @@
 # JavaScript
 
+## Package registries
+
+* https://www.npmjs.com/
+* https://jsr.io/ open-source package registry 
+
 ## General and Language
 
 ### Functional Programming
@@ -357,6 +362,7 @@
 * https://packem.github.io/
 * https://parceljs.org/
 * https://github.com/vercel/vercel
+* [turborepo](https://turbo.build/repo/docs) in rust
 
 * https://yarnpkg.com/
 
@@ -381,10 +387,11 @@
 
 * https://github.com/reggi/lerna-tutorial
 
-### Webpack
+### Packer/Bundler (e.g. Webpack)
 
 * https://github.com/webpack-contrib/extract-text-webpack-plugin/issues/216
 * https://www.heise.de/news/Vite-js-2-0-erschienen-JavaScript-Werkzeug-ist-reif-fuer-den-Produktivbetrieb-5062097.html
+* [turbo](https://turbo.build/pack/docs) turbopack in rust
 
 ### Minify
 

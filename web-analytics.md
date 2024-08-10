@@ -11,7 +11,9 @@
 
 * https://www.branch.io/
 
-## ads
+## privacy friendly
+
+* https://plausible.io/
 
 ## misc
 

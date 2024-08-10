@@ -12,6 +12,7 @@ prinzipiell der klassischen Programmierung überlegen ist.
 ## blogs
 
 * [Turing Taco Tales](https://www.turingtaco.com/) Python Scala 3 Haskell CS MOOCs
+* [Alexandru Nedelcu](https://alexn.org/) featired
 
 ## learning 
 
@@ -24,6 +25,7 @@ prinzipiell der klassischen Programmierung überlegen ist.
 * https://www.creativescala.org/creative-scala/
   + https://github.com/creativescala/creative-scala
 * https://essentialeffects.dev/ book to cat effects
+  + https://www.goodreads.com/book/show/57106498-essential-effects
 * https://underscore.io/books/scala-with-cats/ book to cat effects, free
   + https://github.com/scalawithcats/scala-with-cats
   + https://scalawithcats.com
@@ -53,6 +55,7 @@ prinzipiell der klassischen Programmierung überlegen ist.
   + [suspendable functions and coroutines](https://contributors.scala-lang.org/t/suspendable-functions-and-coroutines/3772/4)
 * [coroutine - fibers - effects in react](https://www.yld.io/blog/continuations-coroutines-fibers-effects/) off-topic
 * [coroutines and scala slides](http://aleksandar-prokopec.com/slides/coroutines.html)
+* [Kotlin Coroutines to Cats-Effect](https://alexn.org/blog/2023/04/24/kotlin-suspended-functions-to-cats-effect-io/)
 
 ## Link lists
 

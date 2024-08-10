@@ -66,6 +66,7 @@
 * [qlikview](https://www.qlik.com/de-de/products/qlikview) commercial
 * [plotly dash](https://plotly.com/dash/) commercial
 * [scichart](https://www.scichart.com/javascript-chart-features/) commercial, WebGL & WebAssembly in the browser
+* [datasette](https://datasette.io/) exploring and publishing data
 
 ### Visualization SaaS
 
