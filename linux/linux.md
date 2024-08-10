@@ -402,6 +402,7 @@ alternative setup would need more work.
 * [s3cmd](https://s3tools.org/usage)
 * [aws cli](https://wasabi-support.zendesk.com/hc/en-us/articles/115001910791-How-do-I-use-AWS-CLI-with-Wasabi-)
 * [s3sync](https://github.com/larrabee/s3sync)
+* https://github.com/seqsense/s3sync `aws s3 sync` replacement
 * [s5cmd](https://github.com/peak/s5cmd) extremly fast, go-lang
   + https://knowledgebase.wasabi.com/hc/en-us/articles/360044600552-How-do-I-use-s5cmd-with-Wasabi-
 * [aws cli](https://wasabi-support.zendesk.com/hc/en-us/articles/115001910791-How-do-I-use-AWS-CLI-with-Wasabi-)
@@ -409,6 +410,10 @@ alternative setup would need more work.
   + [davix documentation](https://davix.web.cern.ch/davix/docs/devel/)
   + [davix in wikipedia](https://en.wikipedia.org/wiki/DaviX)
 * [filestash](https://github.com/mickael-kerjean/filestash) Dropbox-like file manager for FTP • FTPS • SFTP • WebDAV • Git • S3 • NFS • Samba • Artifactory
+* [s3drive](https://s3drive.app/faq?q=opensource) web ui, open source problem, commercial
+* [s3 manager](https://github.com/cloudlena/s3manager) web ui
+* [onyx](https://github.com/markkolich/onyx) sync, java
+* [S4 sync solution](https://github.com/MichaelAquilina/S4) sync, python
 
 s5cmd example:
 ```bash

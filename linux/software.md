@@ -216,6 +216,8 @@
     - https://github.com/cs3org/reva
     - https://github.com/cs3org/cs3apis
 * https://pydio.com/
+  + [pydio cells](https://github.com/pydio/cells) next generation, go-lang, S3
+  + https://pydio.com/en/community/open-source open source problem
 
 ### Binary diff
 

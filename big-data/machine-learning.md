@@ -15,6 +15,10 @@
 * https://opensource.google/projects/dopamine : reinforcement framework
 * https://github.com/google/mediapipe/
 
+## Real life deployments
+
+* [scalable forecasting](https://doordash.engineering/2021/08/31/increasing-operational-efficiency-with-scalable-forecasting/)
+
 ## Fun
 
 * deep dream
@@ -43,6 +47,8 @@
     - https://github.com/NVIDIA/FastPhotoStyle
 * https://towardsdatascience.com/how-to-train-an-image-classifier-in-pytorch-and-use-it-to-perform-basic-inference-on-single-images-99465a1e9bf5?gi=e21d41748c29
 * [dynare - macroeconomics modeling for all](https://www.dynare.org/)
+* [nvidia NIM](https://developer.nvidia.com/blog/access-to-nvidia-nim-now-available-free-to-developer-program-members/) try many models in pre-built containers
+
 
 ### language models
 
@@ -55,6 +61,10 @@
 #### language models for programmers
 
 * https://sourcegraph.com/
+* [jetbrains](https://blog.jetbrains.com/ai/2024/08/jetbrains-ai-assistant-2024-2/)
+  + [full line code completion](https://blog.jetbrains.com/blog/2024/04/04/full-line-code-completion-in-jetbrains-ides-all-you-need-to-know/)
+  + [jetbrains ai](https://www.jetbrains.com/ai/)
+* [amazon q](https://aws.amazon.com/de/q/)
 
 #### language identification
 

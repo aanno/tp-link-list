@@ -34,6 +34,8 @@
 ### IT
 
 * https://teachyourselfcs.com/
+* https://leetcode.com/ learn algorithms and programming
+  + https://medium.com/@dhaas_/its-been-69-days-since-i-consistently-started-leetcode-and-i-have-learned-many-things-from-this-96f107092e03
 
 ## learning with flash cards
 

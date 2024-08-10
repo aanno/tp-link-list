@@ -53,6 +53,7 @@
 ## Banken
 
 * https://www.der-bank-blog.de/
+* https://klardenker.kpmg.de/financialservices-hub/das-sind-die-regulatorischen-megatrends-in-2024-fuer-banken/
 
 ## Rente
 

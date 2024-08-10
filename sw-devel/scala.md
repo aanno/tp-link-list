@@ -13,6 +13,14 @@ prinzipiell der klassischen Programmierung überlegen ist.
 
 * [Turing Taco Tales](https://www.turingtaco.com/) Python Scala 3 Haskell CS MOOCs
 
+## learning 
+
+* https://rockthejvm.com/ scala, kotlin, akka/pekko, flink, spark, commercial
+  + [blog](https://blog.rockthejvm.com/)
+  + [async and non-blocking](https://blog.rockthejvm.com/sync,-async-and-(non)-blocking/)
+  + [remote code execution engine](https://blog.rockthejvm.com/remote-code-execution-engine/)
+  + [kotlin flows](https://blog.rockthejvm.com/kotlin-flows/)
+
 ## fundaments of pure functional programming
 
 * [Typeclass Chronicle: A Series on ADTs](https://www.turingtaco.com/the-typeclass-chronicle-a-series-on-adts/) with code in scala and haskell
@@ -37,6 +45,7 @@ prinzipiell der klassischen Programmierung überlegen ist.
   + [zio](https://github.com/zio/zio) multiplatform asynchronous and concurrent programming
   + [suspendable functions and coroutines](https://contributors.scala-lang.org/t/suspendable-functions-and-coroutines/3772/4)
 * [coroutine - fibers - effects in react](https://www.yld.io/blog/continuations-coroutines-fibers-effects/) off-topic
+* [coroutines and scala slides](http://aleksandar-prokopec.com/slides/coroutines.html)
 
 ## Link lists
 
@@ -93,6 +102,7 @@ prinzipiell der klassischen Programmierung überlegen ist.
 
 * https://github.com/functional-streams-for-scala/fs2 (functional streams)
 * https://doc.akka.io/docs/akka/2.4/scala/stream/ (akka streams)
+  + [pekko](https://pekko.apache.org/) apache akka fork
 * https://monix.io/docs/3x/ (concurrency lib)
 * https://typelevel.org/cats/
 * https://github.com/scalaz/scalaz (fp, obsolete, use cats)

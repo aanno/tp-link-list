@@ -130,6 +130,7 @@
   + level-d exam ~700 USD
 * [prince2](https://www.prince2.com/de)
   + foundation course ~1200 USD
+    - https://www.axelos.com/certifications/propath/prince2-project-management/prince2-7-foundation
   + practitioner course ~1300 USD
 * [PMI](https://www.pmi.org) PMP, CAPM, ...
 
@@ -163,9 +164,9 @@
     - Certified Scrum Master (CSM)
     - ITIL 4 Foundation Certification
   + Practitioner
-    - Project Management Professional (PMP)
+    - Project Management Professional (PMP) https://www.pmi.org/certifications/project-management-pmp
     - Professional Business Analyst (PBA)
-    - Disciplined Agile Senior Scrum Master (DASSM)
+    - Disciplined Agile Senior Scrum Master (DASSM) https://www.pmi.org/certifications/agile-certifications/disciplined-agile-coach-dac
     - ICAgile Certified Professional (ICP)
     - [Disciplined Agile Coach (DAC)](https://www.pmi.org/certifications/agile-certifications/disciplined-agile-coach-dac)
   +  Professional

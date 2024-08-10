@@ -3,6 +3,7 @@
 ## Clean Code
 
 * https://www.heise.de/hintergrund/Schluss-mit-Frust-Clean-Code-hilft-bei-der-Softwarequalitaet-6181456.html
+* https://www.heise.de/blog/Meinung-Softwareentwicklung-ist-keine-Kunst-9755000.html
 
 ## Leadership
 

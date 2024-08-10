@@ -82,6 +82,11 @@
   + https://www.lightningdesignsystem.com/
   + https://github.com/salesforce-ux/design-system
 
+### ... for react
+
+* [chakra](https://v2.chakra-ui.com/)
+  + https://v2.chakra-ui.com/getting-started/comparison
+
 #### limited (e.g. grid or charts)
 
 * [apex](https://apexcharts.com/) open source charts, grid, and editor

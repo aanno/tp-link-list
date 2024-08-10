@@ -55,4 +55,12 @@
 * https://materializecss.com/
 * https://korzh.com/metroui
   + https://metroui.org.ua/typography.html
-* [tailwind](https://tailwindcss.com/)
+
+#### CSS-in-JS
+
+* https://bootcamp.uxdesign.cc/css-in-js-libraries-for-styling-react-components-a-comprehensive-comparison-56600605a5a1
+* https://dev.to/xaypanya/emotion-vs-tailwind-css-vs-styled-components-4195
+* https://caisy.io/blog/tailwind-css-vs-emotion
+* https://npmtrends.com/emotion-vs-jss-vs-tailwind-vs-tailwindcss trend chart
+
+* [tailwindcss](https://tailwindcss.com/)

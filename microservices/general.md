@@ -11,6 +11,10 @@
 * https://www.golem.de/news/verteilte-systeme-die-haeufigsten-probleme-mit-microservices-2107-157885.html
 * https://copyconstruct.medium.com/testing-in-production-the-safe-way-18ca102d0ef1
 
+## Real life deployments
+
+* [Checkout Service at Scale with Kotlin](https://doordash.engineering/2021/02/02/building-a-more-reliable-checkout-service-with-kotlin/)
+
 ## Technology
 
 * http://eventuate.io/
