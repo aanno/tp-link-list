@@ -55,6 +55,15 @@
   + https://blog.erebe.dev/blog/speed-up-your-ci-with-buildkit/
 * [kiwi iso/image builder](https://osinside.github.io/kiwi/image_types_and_results.html)
 
+## dev on docker and other containers
+
+### dev containers
+
+* [2024 state of dev containers](https://www.codecentric.de/wissens-hub/blog/development-container-update)
+* [dev containers in vs code](https://code.visualstudio.com/docs/devcontainers/containers)
+  + https://eclipsesource.com/blogs/2024/06/24/dev-container/
+* [dev containers in jetbrains e.g. idea](https://www.jetbrains.com/help/idea/connect-to-devcontainer.html)
+
 ## Testing
 
 * https://www.testcontainers.org/

@@ -63,6 +63,10 @@
 
 * [How to backup partition layout?](https://serverfault.com/questions/631949/how-to-backup-partition-layout)
 
+* [4 Ways to View Disks and Partitions in Linux](https://www.tecmint.com/list-disks-partitions-linux/) fdisk, lsblk, hwinfo
+* [How to List Disk Partitions in Linux](https://www.cyberciti.biz/faq/linux-list-disk-partitions-command/) lsblk, blkid, fdisk, sfdisk, parted, lsscsi, hwinfo
+* gdisk
+
 ## Shell and CLI
 
 ### envsubst
@@ -690,6 +694,7 @@ It is _not_ possible to recover the public key stored on nitro, see
 * [quadlet]](https://github.com/containers/quadlet) running podman with systemd 
   + https://github.com/containers/quadlet/issues/12 currently no multi-container support
   + https://www.redhat.com/sysadmin/multi-container-application-podman-quadlet
+* [podman-compose and systemd](https://www.it-hure.de/2024/02/podman-compose-and-systemd/)
 * [build source image](https://github.com/containers/BuildSourceImage) Build a source code image from a collection of known .src.rpm's
 * [udica](https://github.com/containers/udica) Generate SELinux policies for containers
 
@@ -854,6 +859,7 @@ This has some similiarities to nix software.
   + [systemd.timer attributes](https://www.freedesktop.org/software/systemd/man/latest/systemd.timer.html#AccuracySec=)
 * [timers](https://wiki.archlinux.de/title/Systemd/Timers) alternative to crond
 * [list failed units](https://www.cyberciti.biz/faq/systemd-systemctl-list-all-failed-units-services-on-linux/)
+* [systemd user services and systemctl --user](https://nts.strzibny.name/systemd-user-services/)
 
 ### alternatives to systemd
 

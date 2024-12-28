@@ -18,6 +18,7 @@
 * https://kubernetesbootcamp.github.io/kubernetes-bootcamp/
 * https://cloud.netapp.com/kubernetes-hub
 * [kubernetes with ansible](https://www.tauceti.blog/post/kubernetes-the-not-so-hard-way-with-ansible-wireguard/)
+* [Kubernetes on linux with `kubeadm`](https://www.smoothnet.org/kubernetes-on-linux-with-kubeadm/) setup single node kubernetes
 
 ## control group v2 state
 
