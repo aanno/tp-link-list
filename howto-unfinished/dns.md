@@ -2,6 +2,8 @@
 
 ## DNS record types
 
+* https://en.wikipedia.org/wiki/List_of_DNS_record_types
+
 ### CNAME (alias)
 
 A "canonical name" (CNAME) record points from an alias domain to a "canonical" domain. A CNAME record is used in lieu of an A record, when a domain or subdomain is an alias of another domain. All CNAME records must point to a domain, never to an IP address. 
