@@ -12,9 +12,19 @@
 * https://taz.de/Weitwanderweg-in-Nordspanien/!5981333/
 * https://www.ad-magazin.de/artikel/schoenste-staedte-europas
 
+#### Germany
+
+##### Munic
+
+* https://www.cntraveller.de/artikel/geheimtipps-in-muenchen
+
 #### Italy
 
 * https://www.ad-magazin.de/galerie/die-schoensten-staedte-italiens
+
+#### Swiss
+
+* https://www.cntraveller.de/artikel/schweiz-schoenste-orte?utm_source=firefox-newtab-de-de
 
 ### Asia
 

@@ -51,6 +51,7 @@
 
 * [sonic - microservice framework](https://github.com/openware/sonic)
 * [gin - web framework](https://github.com/gin-gonic/gin)
+* [modern CLI applications argument parsing](https://github.com/spf13/cobra)
 
 #### Go vs Rust
 

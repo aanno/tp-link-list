@@ -58,6 +58,15 @@
 
 ### Self-Hosting
 
+#### Blogs and articles
+
+Also see self-hosting in software.md
+
+* [noted](https://noted.lol/) collaborated effort to write about self-hosting
+* [seeseekey's self-hosting book](https://seeseekey.net/fachbuecher/selfhosting)
+
+#### Services
+
 * [cloudron](https://www.cloudron.io/) commercial
   + [install cloudron](https://docs.cloudron.io/installation/)
   + https://chris.beams.io/posts/running-cloudron/
@@ -78,7 +87,6 @@
     - https://github.com/scm-manager/scm-manager
 * https://kinsta.com/ cloud self-hosting
 * https://ably.com/ commercial
-* [seeseekey's selfhosting book](https://seeseekey.net/fachbuecher/selfhosting)
 
 ### NAS
 
@@ -93,6 +101,10 @@
 
 * https://www.qnap.com/en/how-to/tutorial/article/qpkg-development-guidelines
 * https://github.com/qeek-dev/create-dpkg
+
+#### NAS Hardware
+
+* https://nas.ugreen.com/
 
 #### Home-page automation (server start page)
 

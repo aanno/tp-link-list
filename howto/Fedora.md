@@ -45,6 +45,7 @@ Bridges are quick and dirty to run and test VMs. However, they may degrade your 
 
 ## Zusätzliche Repositories
 
+- [terra](https://terra.fyralabs.com/) The 1000+ packages Fedora doesn’t ship
 - [Copr Personal Repositories](http://copr.fedorainfracloud.org/)
 - [RPM fusion](https://rpmfusion.org/) semi-official additions for fedora
 - [EPEL](https://docs.fedoraproject.org/en-US/epel/) extra packages for RHEL (normally not needed on fedora)

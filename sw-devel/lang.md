@@ -34,6 +34,10 @@
 
 * https://en.m.wikipedia.org/wiki/Funarg_problem
 
+## General meta programming
+
+* [srcml](http://www.srcml.org/about.html) XML representation for source code  for the exploration, analysis, and manipulation of source code for C/C++, C#, and Java
+
 ## Language benchmarks
 
 * https://github.com/kostya/benchmarks

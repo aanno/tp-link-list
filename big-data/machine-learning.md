@@ -40,6 +40,10 @@
 * https://github.com/Syllo/nvtop
 * https://github.com/wookayin/gpustat
 
+## meta search engines
+
+* [find commercial AI services](https://theresanaiforthat.com/)
+
 ## Models
 
 * https://modelzoo.co
@@ -48,9 +52,15 @@
 * https://towardsdatascience.com/how-to-train-an-image-classifier-in-pytorch-and-use-it-to-perform-basic-inference-on-single-images-99465a1e9bf5?gi=e21d41748c29
 * [dynare - macroeconomics modeling for all](https://www.dynare.org/)
 * [nvidia NIM](https://developer.nvidia.com/blog/access-to-nvidia-nim-now-available-free-to-developer-program-members/) try many models in pre-built containers
+
+## use models locally
+
 * https://linuxnews.de/alpaca-ki-modelle-offline-lokal-betreiben/
-  + https://github.com/Jeffser/Alpaca
-  + https://linuxtldr.com/setup-ollama-and-open-webui-on-linux/
+  + [alpaca](https://github.com/Jeffser/Alpaca)
+  + https://linuxtldr.com/setup-ollama-and-open-webui-on-linux/ The simplest way to run Alpaca (and other LLaMA-based local LLMs) on your own computer 
+* [alpaca electron](https://github.com/ItsPi3141/alpaca-electron)
+* [ollama](https://github.com/ollama/ollama) alpaca is based on ollama
+  + https://ollama.com/
 
 ### language models
 

@@ -936,6 +936,9 @@ This has some similiarities to nix software.
 
 ## Terminal
 
+* [ghostty](https://ghostty.org/docs/about)  fast, feature-rich, and native
+  + https://github.com/ghostty-org
+
 ### Terminal colors
 
 * https://opensource.com/article/19/9/linux-terminal-colors

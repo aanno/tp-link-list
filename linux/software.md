@@ -58,6 +58,8 @@
 
 ## Self-hosting
 
+Also see self-hosting in linux-server.md
+
 * https://github.com/Kickball/awesome-selfhosted
 * https://goneuland.de self-hosting with docker
   + https://goneuland.de/nextcloud-server-mit-docker-compose-und-traefik-installieren/
@@ -105,6 +107,11 @@
 
 * https://www.freie-messenger.de/
 * https://tchncs.de/ THE german free communication server
+
+#### macrobloging
+
+* [hubzilla](https://hubzilla.org/page/info/discover)
+  + https://de.wikipedia.org/wiki/Hubzilla  Blog, Wiki, Kalender und Cloud mit WebDAV-Zugang
 
 ## Sync
 
@@ -280,9 +287,14 @@
 * https://framadate.org/ featured
 * https://rallly.co/
 
-## Pocket clones
+## Pocket clones and Link management
 
 * https://www.wallabag.org/en#download
+* [linkwarden](https://github.com/linkwarden/linkwarden) self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages
+
+### bookmark everything and notes apps
+
+* [hoarder](https://github.com/hoarder-app/hoarder) A self-hostable bookmark-everything app with a touch of AI for the data hoarders out there
 
 ## Bookmarking service
 
@@ -405,6 +417,7 @@
 
 ## DMS
 
+* [self-hosted DMS](https://noted.lol/self-hosted-dms-applications/)
 * https://medevel.com/dms-cloud-file-sharing-opensource/
 * https://medium.com/@MarktrHimanshu/top-10-free-and-open-source-document-management-system-ddd4265adf5e
 * https://medevel.com/15-dms/
@@ -468,13 +481,23 @@
 * [pdf2pdfocr](https://github.com/LeoFCardoso/pdf2pdfocr) tesseract-based
 * [use PDF-XChange Viewer](https://softwarerecs.stackexchange.com/questions/3412/free-ocr-software-that-makes-a-pdf-searchable-with-searchable-text-at-the-right)
 
-# Crawler (may contain some full-text support)
+# Crawler and scraper (may contain some full-text support)
 
-* https://brightdata.de/ commercial SaaS
 * https://www.octoparse.com/blog/10-best-open-source-web-scraper#
+* [Top Open Source AI Web Scrapers](https://dev.to/milasuperstar/top-open-source-ai-web-scrapers-to-fire-up-your-market-research-161m)
 
 * http://stormcrawler.net/index.html
 * https://nutch.apache.org/
+
+* [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) web scraping python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents
+* [fetchfox](https://github.com/fetchfox/fetchfox) AI powered scraping, automation, and data extraction library based on chatGPT
+  + https://fetchfox.ai/
+* [scraper AI](https://github.com/scraperai/scraperai) open-source, AI-powered tool designed to simplify web scraping based on chatGPT
+  + https://docs.scraper-ai.com/examples/
+
+* https://brightdata.de/ commercial SaaS
+* https://www.browse.ai/ commercial SaaS, extract and monitor data from any website
+* https://www.zotero.org/ commercial SaaS, collect, organize, annotate, cite, and share research
 
 ## Desktop Crawler (normally contains full-text search)
 
@@ -485,7 +508,25 @@
 * https://opensemanticsearch.org/connector/files/
 * https://github.com/JohannesBuchner/spuren (old)
 
-## Android scanner
+## File managing (Classifier, AI sorter)
+
+See also DMS
+
+* https://www.tagspaces.org/ TagSpaces is a privacy-focused file manager that combines tagging and note-taking without relying on the cloud
+  + [tagspaces](https://github.com/tagspaces/tagspaces)
+* [AI file sorter](https://sourceforge.net/projects/ai-file-sorter/) GTK app for using chatGPT as classifier
+
+* [getsorted](https://www.getsorted.ai/) commercial, macos
+
+## Desktop search engines and cloud organizer
+
+* https://www.dokkio.com commercial
+* https://fabric.so commercial
+* https://www.docupile.com/ commercial
+* https://www.kadoa.com/ commercial, more make structured data from big data
+* https://www.folderr.com commercial, more automation tool
+
+# Android scanner
 
 * https://fossbytes.com/best-android-scanner-apps/
 

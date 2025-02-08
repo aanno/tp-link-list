@@ -90,6 +90,7 @@
 #### limited (e.g. grid or charts)
 
 * [apex](https://apexcharts.com/) open source charts, grid, and editor
+* [quickchart](https://github.com/typpo/quickchart) open source chart generation, lib and service
 * [ag grid](https://www.ag-grid.com/angular-data-grid/licensing/#feature-comparison) commercial grid and charts
 
 #### prime ecosystem

@@ -22,6 +22,11 @@ See also: olap-analytics.md
 ### Key-Value
 
 * https://redis.io/
+  + [Redis — Enabling memory overcommit](https://medium.com/@akhshyganesh/redis-enabling-memory-overcommit-is-a-crucial-configuration-68dbb77dae5f)
+* [valkey](https://github.com/valkey-io/valkey) fork of redis
+  + https://valkey.io/
+  + [Redis ändert die Lizenz, Linux Foundation übernimmt den Fork Valkey](https://www.heise.de/news/Redis-aendert-die-Lizenz-Linux-Foundation-uebernimmt-den-Fork-Valkey-9671221.html)
+* [KeyDB](https://github.com/Snapchat/KeyDB) fork of Redis with a focus on multithreading, memory efficiency, and high throughput
 * https://github.com/facebook/rocksdb
 * https://quarkdb.web.cern.ch/quarkdb/docs/master/
 * [tkrzw](https://en.wikipedia.org/wiki/Tkrzw) successor of (g)dbm
