@@ -328,3 +328,8 @@
   + [WiiM Pro Plus](https://www.amazon.de/WiiM-Chromecast-Multiroom-Kompatibel-Assistant/dp/B0CC2HWC7N)
 * [hifiberry](https://www.hifiberry.com/)
 * [volumio for raspberry](https://volumio.com/get-started/)
+
+## Multi-track recorder
+
+* [audacity](https://www.audacityteam.org/)
+* [zynthbox](https://zynthbox.io/)

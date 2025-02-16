@@ -6,6 +6,7 @@
 ## marketing
 
 * https://avada.io/ marketing automation
+* [soci](https://www.soci.ai/#) AI Agents Doing the Work
 
 ## channel linking
 

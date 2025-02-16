@@ -13,7 +13,7 @@
 * https://github.com/flaxsearch/react-solr-connector
 * https://github.com/HuygensING/solr-faceted-search-react
 
-## Elastic Search
+## Elastic and OpenSearch
 
 
 ## Other
@@ -21,6 +21,10 @@
 * [full text index in mariadb](https://mariadb.com/kb/en/full-text-index-overview/)
 * [full text search in postgresql](https://www.postgresql.org/docs/current/textsearch.html)
 * [sphinx](https://sphinxsearch.com/) not really open source - but free to use
+* [groonga](https://github.com/groonga/groonga) embeddable fulltext search engine
+  + [normalizer](https://groonga.org/docs/reference/normalizers.html)
+  + [gcs](https://github.com/groonga/gcs)  Amazon CloudSearch compatible open source full text search service
+  + [runguba](https://ranguba.org/) groonga on ruby
 
 
 ### Front end
@@ -68,3 +72,20 @@
 ### Spark and Lucene
 
 * https://github.com/zouzias/spark-lucenerdd
+
+# text and document extraction, ETL, tagging (also AI based)
+
+* [deepdoctection](https://github.com/deepdoctection/deepdoctection) object detection, OCR and selected NLP tasks and provides an integrated framework
+  + https://konfuzio.com/de/deepdoctection/
+* [unstract](https://github.com/Zipstack/unstract) Document Processing 2.0 (IDP 2.0) Platform Powered by Large Language Models
+  + [Open-Source Unstructured Data ETL with Unstract, Ollama, DeepSeek, and PostgreSQL](https://unstract.com/blog/open-source-document-data-extraction-with-unstract-deepseek/)
+* [Free Document Processing APIs, and Open Source models](https://www.edenai.co/post/top-free-document-processing-apis-and-open-source-models)
+* [sycamore](https://github.com/aryn-ai/sycamore) AI-powered document processing engine for ETL, RAG, LLM-based applications, and analytics on unstructured data
+  + https://www.aryn.ai/post/new-open-source-ai-model-for-document-segmentation-and-unstructured-etl
+* [GROBID means GeneRation Of BIbliographic Data](https://github.com/kermitt2/grobid)
+  + [delft](https://github.com/kermitt2/delft) DeLFT (Deep Learning Framework for Text) is a Keras and TensorFlow framework for text processing
+
+## commercial and SaaS
+
+* [teklia](https://teklia.com/) commercial, SaaS
+* [CIB recogNice](https://www.cib.de/en/recognice/) commercial, SaaS

@@ -2,15 +2,17 @@
 
 ## akonadi
 
+* https://de.wikipedia.org/wiki/Akonadi
 * Search engine behind https://community.kde.org/KDE_PIM
 * Config file: `/home/USER/.config/akonadi/akonadiserverrc`
 
 * https://wiki.ubuntuusers.de/Akonadi/ featured!
+* https://userbase.kde.org/Akonadi/en
 * [akonadi mysql bug work around](https://gist.github.com/aldolat/e8066baf8a390e5d5f5ed6e0849ec78c)
 * https://userbase.kde.org/Akonadi/de
 * https://techbase.kde.org/KDE_PIM/Akonadi
 
-#### kio (io framework)
+## kio (io framework)
 
 * [kio source](https://invent.kde.org/network?filter=kio)
 * [kio-extra](https://invent.kde.org/network/kio-extras) included with fedora
@@ -23,7 +25,13 @@
 kio-s3 currently only supports AWS S3, as no endpoint URL could be given, see
 https://bugs.kde.org/show_bug.cgi?id=480942
 
-#### Development
+## Baloo (KDE desktop search)
+
+* [baloo](https://community.kde.org/Baloo) file indexing and file search framework for KDE Plasma, based on Xapian
+  + [alternatives to Xapian](https://community.kde.org/Baloo/XapianAlternatives)
+
+
+## Development
 
 * [kdesrc-build](https://community.kde.org/Get_Involved/development/Build_software_with_kdesrc-build) build helper for plasma/kde
   + [kdesrc-build](https://invent.kde.org/sdk/kdesrc-build) source code

@@ -10,6 +10,10 @@
   + https://huggingface.co/models
   + https://huggingface.co/datasets
 
+## SaaS
+
+* [eden AI](https://www.edenai.co/) commercial, full-stack AI platform for developers to efficiently create, test, and deploy AI
+
 ## Very high level frameworks
 
 * https://opensource.google/projects/dopamine : reinforcement framework

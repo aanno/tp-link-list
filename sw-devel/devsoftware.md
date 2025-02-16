@@ -20,6 +20,7 @@
 ## Business Automation
 
 * https://camunda.com/de/
+* [konfuzio](https://konfuzio.com/en/) commercial, automatically read documents & improve data quality
 
 ### Activiti
 
@@ -459,6 +460,7 @@
 * https://ipsilon-project.org/
 * http://manageiq.org/docs/reference/euwe/auth/ipa_2fa
 * https://www.openpolicyagent.org/ (policy enforcement for devops: terraform, kubernetes, ...)
+* [VOMS](https://italiangrid.github.io/voms/) cern's SSO solution, WLCG
 
 ### Articles
 

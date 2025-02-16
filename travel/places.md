@@ -22,6 +22,12 @@
 
 * https://www.ad-magazin.de/galerie/die-schoensten-staedte-italiens
 
+##### Sardinia
+
+* [diving](https://www.padi.com/diving-in/sardinia/)
+  + [Base1, Cala Gonone, Dorgali (NU)](https://www.baseone.it/#base1)
+  + [Nautilus, Palau (SS)](https://www.divesardegna.com/)
+
 #### Swiss
 
 * https://www.cntraveller.de/artikel/schweiz-schoenste-orte?utm_source=firefox-newtab-de-de

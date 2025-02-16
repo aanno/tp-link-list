@@ -568,6 +568,7 @@ done
 * [alerta](https://alerta.io/) - de-duplication and correlation
   + https://github.com/alerta/docker-alerta
   + https://github.com/mwalbeck/docker-alerta
+* [zabbix](https://www.zabbix.com/)
 
 #### Prometheus
 

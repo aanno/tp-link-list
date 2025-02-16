@@ -108,6 +108,16 @@ Also see self-hosting in linux-server.md
 * https://www.freie-messenger.de/
 * https://tchncs.de/ THE german free communication server
 
+#### instances
+
+* [Libre Cloud Services](https://www.opendesktop.org/)
+  + [products and themes](https://www.pling.com/)
+  + [matrix chat](https://chat.opendesktop.org/#/welcome)
+  + [software projects - gitlab](https://www.opencode.net/explore/projects)
+  + [mastodon](https://social.opendesktop.org/explore)
+  + [nextcloud](https://my.opendesktop.org/)
+  + [discussion board](https://forum.opendesktop.org)
+
 #### macrobloging
 
 * [hubzilla](https://hubzilla.org/page/info/discover)
@@ -458,6 +468,12 @@ Also see self-hosting in linux-server.md
 * [teedy](https://github.com/sismics/docs)
 * [mailpiler](https://www.mailpiler.org/features-of-piler/) only for mail archiving
   + https://bitbucket.org/jsuto/piler/src/master/
+* [islandora](https://islandora.github.io/documentation/) turn Drupal website as a fully-functional Digital Assets Management System
+  + https://github.com/Islandora-Devops/islandora-starter-site
+  + https://github.com/Islandora
+  + https://www.islandora.ca/docs
+  + [Fedora](https://wiki.lyrasis.org/display/FF/Fedora+Repository+Home) repository system for the management and dissemination of digital content
+    + [Search in Fedora](https://wiki.lyrasis.org/display/FEDORA4x/External+Search)
 
 ### Full text search (only)
 
@@ -519,6 +535,8 @@ See also DMS
 * [getsorted](https://www.getsorted.ai/) commercial, macos
 
 ## Desktop search engines and cloud organizer
+
+Also see Baloo (and akonadi), in `kde-desktop.md`.
 
 * https://www.dokkio.com commercial
 * https://fabric.so commercial
