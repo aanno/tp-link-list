@@ -1,0 +1,107 @@
+initially based on:
+https://www.intel.com/content/www/us/en/developer/articles/technical/stable-diffusion-with-intel-arc-gpus.html
+https://github.com/huggingface/diffusers/tree/main#running-the-model-locally
+https://huggingface.co/runwayml/stable-diffusion-v1-5
+
+huggingface
+https://huggingface.co/welcome
+
+Faster downloads
+
+If you are running on a machine with high bandwidth, you can increase your download speed with hf_transfer, a Rust-based library developed to speed up file transfers with the Hub.
+
+pip install huggingface_hub[hf_transfer]
+HF_HUB_ENABLE_HF_TRANSFER=1 huggingface-cli download ...
+
+
+https://huggingface.co/docs/huggingface_hub/main/en/guides/cli
+https://huggingface.co/docs/huggingface_hub/v0.24.5/package_reference/environment_variables#hfhubenablehftransfer
+https://huggingface.co/docs/huggingface_hub/main/en/guides/manage-cache
+https://huggingface.co/docs/hub/models-downloading
+
+
+https://stackoverflow.com/questions/77330102/change-podman-storage-folder
+
+
+
+podman run -it --rm  --device /dev/dxg  -v /usr/lib/wsl:/usr/lib/wsl -v d:\data:/data  -p 9999:9999  intel/intel-extension-for-pytorch:gpu
+
+python -m pip install torch==2.1.0.post3+cxx11.abi  -f https://developer.intel.com/ipex-whl-stable-xpu
+
+python -m pip install intel_extension_for_pytorch==2.1.40 -f https://developer.intel.com/ipex-whl-s
+table-xpu
+
+python -m pip install intel_extension_for_pytorch_deepspeed==2.1.40 -f https://developer.intel.com/ipex-whl-stable-xpu
+
+# https://github.com/intel/intel-extension-for-pytorch/issues/651
+# https://dgpu-docs.intel.com/driver/client/overview.html
+wget -qO - https://repositories.intel.com/gpu/intel-graphics.key | gpg --yes --dearmor --output /us
+r/share/keyrings/intel-graphics.gpg
+
+
+
+# https://hub.docker.com/r/intel/intel-optimized-pytorch/tags
+podman run -it --rm  --device /dev/dxg  -v /usr/lib/wsl:/usr/lib/wsl -v d:\data:/data  -p 9999:9999  intel/intel-optimized-pytorch
+
+podman run -it --rm  --device /dev/dxg  -v /usr/lib/wsl:/usr/lib/wsl -v d:\data:/data  -p 9999:9999  intel/intel-optimized-pytorch:2.1.40-xpu
+ 
+Within ubuntu on podman:
+
+export HF_HOME=/data/huggingface
+
+apt update
+apt install libpng-dev libjpeg-dev 
+apt full-upgrade
+
+python -m pip install diffusers transformers accelerate jupyter "huggingface_hub[cli]"
+
+
+Within python on ubuntu on podman:
+
+python -c "import torch;import intel_extension_for_pytorch as ipex;print(ipex.xpu.get_device_name(0))"
+
+jupyter notebook --allow-root --ip 0.0.0.0 --port 9999
+
+
+IPEX-LLM is a PyTorch library for running LLM on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max) with very low latency1.
+# https://github.com/intel-analytics/ipex-llm
+# https://bigdl.readthedocs.io/en/latest/
+
+
+
+Unused but interesting:
+
+# https://github.com/intel/intel-extension-for-pytorch/tree/main/docker
+need real docker on win
+
+# https://www.intel.de/content/www/de/de/homepage.html
+# https://dgpu-docs.intel.com/driver/client/overview.html
+# https://github.com/intel/compute-runtime
+
+diffusers - diffusion models
+# https://huggingface.co/docs/diffusers/index
+# https://github.com/huggingface/diffusers/tree/main?tab=readme-ov-file#running-the-model-locally
+# https://github.com/simonlui/Docker_IPEX_ComfyUI
+# https://github.com/comfyanonymous/ComfyUI
+
+Python script:
+
+import intel_extension_for_pytorch as ipex
+import torch
+from diffusers import StableDiffusionPipeline
+
+# check Intel GPU
+print(ipex.xpu.get_device_name(0))
+
+# load the Stable Diffusion model
+#  pipeline = DiffusionPipeline.from_pretrained("runwayml/stable-diffusion-v1-5", torch_dtype=torch.float16)
+pipe = StableDiffusionPipeline.from_pretrained("./stable-diffusion-v1-5", torch_dtype=torch.float16)
+
+# move the model to Intel Arc GPU
+pipe = pipe.to("xpu")
+
+# model is ready for submitting queries
+pipe("an astronaut riding a horse on mars").images[0]
+
+# run another query
+pipe("cat sitting on a park bench").images[0]
