@@ -2,12 +2,16 @@
 
 ## Owntone
 
-Owntone need ffmpeg (-libs) from rpmfusion.
+### Owntone on Fedora
+
+Owntone needs ffmpeg (-libs) from rpmfusion.
 
 ```bash
 sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
 sudo dnf install ffmpeg --allowerasing
 ```
+
+Owntone needs `pulseaudio_backend` feature flag, see https://docs.spotifyd.rs/installation/source.html .
 
 * [owntone.conf template](https://raw.githubusercontent.com/owntone/owntone-server/refs/heads/master/owntone.conf.in)
 * https://discussion.fedoraproject.org/t/issues-installing-ffmpeg-fedora-39/99442
@@ -36,6 +40,7 @@ sudo dnf install ffmpeg --allowerasing
   + [gmrender compatibility](https://github.com/hzeller/gmrender-resurrect/wiki/Comptibility)
 * [spotifyd](https://github.com/Spotifyd/spotifyd)
   + [spotifyd.conf](https://github.com/Spotifyd/spotifyd/blob/master/contrib/spotifyd.conf)
+  + test on CLI with `spotifyd -v --no-daemon`
   + [running as a service](https://docs.spotifyd.rs/installation/service.html)
   + [systemd](https://docs.spotifyd.rs/advanced/systemd.html)
   + [contrib/spotifyd.service](https://github.com/Spotifyd/spotifyd/blob/master/contrib/spotifyd.service)
