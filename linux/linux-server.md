@@ -90,6 +90,9 @@ Also see self-hosting in software.md
 
 ### NAS
 
+* [rockstor](https://rockstor.com/docs/)
+   Linux & BTRFS-based Network Attached Storage (NAS) Appliance
+   + [plex on rockstor](https://rockstor.com/docs/interface/docker-based-rock-ons/plex-media-server.html)
 * [TrueNAS Scale](https://www.truenas.com/truenas-scale/) linux-based NAS, openzfs, and containers
   + [TrueCharts](https://truecharts.org/manual/SCALE/guides/scale-intro/) helm charts for TrueNAS Scale
 * [openmediavault](https://www.openmediavault.org/) linux distribution for NAS, debian based

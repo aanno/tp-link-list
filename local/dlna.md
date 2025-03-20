@@ -32,6 +32,7 @@ Owntone needs `pulseaudio_backend` feature flag, see https://docs.spotifyd.rs/in
   + [local admin console](http://192.168.10.145:23423/console/)
 * [owntone](https://github.com/owntone/owntone-server)
   + [owntone docs](https://owntone.github.io/owntone-server/installation/)
+  + [owntone.service template](https://github.com/owntone/owntone-server/blob/master/owntone.service.in)
   + [owntone.local:3689](http://owntone.local:3689)
   + [192.168.10.145:3689](http://192.168.10.145:3689)
   + [localhost:3689](http://localhost:3689)
