@@ -5,6 +5,7 @@
 * https://fuchsia.dev/
   + https://fuchsia.dev/fuchsia-src/development
 * https://www.zdnet.de/88364003/google-startet-portal-fuer-fuchsia-entwickler/
+* [software delivery model](https://fuchsia.dev/fuchsia-src/get-started/learn/intro/packages)
 
 ## fuchsia emulation
 

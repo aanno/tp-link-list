@@ -3,6 +3,9 @@
 * https://vivaldi.com/de/
 * https://brave.com/de/
 * https://mullvad.net/de/browser
+* [dillo browser](https://dillo-browser.github.io/)
+  fast and small graphical web browser with its own real-time rendering engine
+  + https://github.com/dillo-browser/dillo
 
 ## Demos
 

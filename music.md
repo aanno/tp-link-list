@@ -74,6 +74,8 @@
 * https://www.linuxlinks.com/musicservers/
 * [stream audio _to_ a server](https://volumio.github.io/docs/User_Manual/Stream_audio_to_volumio)
 * https://wiki.archlinux.org/title/Category:Media_servers
+* [18 Best Open-source Free UPnP and DLNA Media Servers](https://medevel.com/19-os-upnp-media-servers/)
+* [Die 9 besten Open-Source-UPnP- und DLNA-Server](https://linux-de.com/?p=274)
 
 ### Implementation
 
@@ -102,6 +104,12 @@
 * [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/): use DLNA user front-end to drive MPD (protocol)
   + [integrate DLNA and MPD](https://www.lesbonscomptes.com/upmpdcli/pages/upmpdcli-or-mpdupnp.html)
   + [MPD as client to an UPnP/DLNA Media Server](https://www.lesbonscomptes.com/pages/mpd-upnp.html)
+* [SlickDLNA](https://github.com/KernelCrap/android-dlna)
+  android client for browsing UPnP and DLNA media servers
+* [Cohen3](https://github.com/opacam/Cohen3)
+  wip, Framework for DLNA/UPnP Media Server for Python 3
+* [simpleDLNA](https://nmaier.github.io/simpleDLNA/)
+  zero-config DLNA media server for serving a media folder
 
 ### Misc
 
@@ -333,3 +341,10 @@
 
 * [audacity](https://www.audacityteam.org/)
 * [zynthbox](https://zynthbox.io/)
+
+
+## Grey (Video) Streaming
+
+### Stremio
+
+* [stremio](https://www.stremio.com/features)

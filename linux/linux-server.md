@@ -22,6 +22,16 @@
 
 ## Web servers and proxies
 
+* [best open web servers](https://www.tecmint.com/best-open-source-web-servers/)
+* [best open web servers 2](https://www.fosslinux.com/46032/best-open-source-web-servers-linux.htm)
+
+### Meta Web Servers
+
+### Web server implementations
+
+* [OpenLiteSpeed](https://openlitespeed.org/openlitespeed-features/)
+* [Caddy](https://caddyserver.com/docs/)
+
 ### Http/3 (QUIC)
 
 * https://en.wikipedia.org/wiki/HTTP/3

@@ -18,6 +18,18 @@
 * https://ffmuc.net/mitmachen/
 * https://bremen.freifunk.net/anleitungen.html
 
+## New Protocols
+
+* [meshtastic](https://meshtastic.org/)
+  off-grid, decentralized, mesh network built to run on affordable, low-power IoT devices
+* [homa transport](https://homa-transport.atlassian.net/wiki/spaces/HOMA/overview)
+  Homa is a new transport protocol for modern datacenters
+
+### Exotic alternatives to Http
+
+* [gemini](https://en.wikipedia.org/wiki/Gemini_(protocol))
+* [spartan](http://portal.mozz.us/spartan/spartan.mozz.us/)
+
 ### Hardware
 
 * https://wiki.freifunk-franken.de/w/Hardware

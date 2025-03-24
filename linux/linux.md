@@ -13,6 +13,7 @@
 * https://www.linuxuprising.com/
 * https://lwn.net/
 * https://www.computerbase.de/thema/linux/
+* https://news.itsfoss.com/
 
 ## Blogs
 
@@ -600,6 +601,19 @@ done
 * https://curius.de/
 * https://blog.while-true-do.io/security-physical-security/
 
+
+#### Secure programming
+
+* [Secure Coding: Sichere Datenhaltung in der JVM](https://www.heise.de/hintergrund/Secure-Coding-Sichere-Datenhaltung-in-der-JVM-Risiken-und-Best-Practices-10281133.html)
+  + 'Secure Coding' Serie contains a lot articles
+
+
+#### OpenPGP
+
+* [sequoia-PGP](https://sequoia-pgp.org/)
+  rust implemented alternative to gpg
+* [gpg](https://gnupg.org/)
+
 #### Nitrokey
 
 * [overview of usage szenarios](https://www.xmodulo.com/linux-security-with-nitrokey-usb-smart-card.html)
@@ -943,6 +957,15 @@ This has some similiarities to nix software.
 ### Terminal colors
 
 * https://opensource.com/article/19/9/linux-terminal-colors
+
+### Terminal multiplexer
+
+* tmux
+  + https://tmuxcheatsheet.com/
+  + https://github.com/tmux/tmux/wiki
+  + https://wiki.ubuntuusers.de/tmux/
+  + [How to Use tmux](https://www.howtogeek.com/671422/how-to-use-tmux-on-linux-and-why-its-better-than-screen/)
+  + [beginner's guide to tmux](https://www.redhat.com/en/blog/introduction-tmux-linux)
 
 ## Firmware update
 

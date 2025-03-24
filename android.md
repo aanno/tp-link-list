@@ -25,6 +25,12 @@
 * https://source.android.com/setup/build/gsi
 * https://developer.android.com/topic/generic-system-image/
 
+## Android Development
+
+### Components
+
+* [Android Virtualization Framework (AVF)](https://source.android.com/docs/core/virtualization?hl=de)
+
 ## SDK
 
 ### Emulator

@@ -310,7 +310,7 @@ Also see self-hosting in linux-server.md
 
 * https://github.com/shaarli/Shaarli
 
-## Pastbin like
+## Pastebin like
 
 * https://de.wikipedia.org/wiki/Pastebin
 * https://github.com/PrivateBin/PrivateBin

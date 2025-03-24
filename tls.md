@@ -4,6 +4,7 @@
   + [ECH for firefox users](https://support.mozilla.org/en-US/kb/faq-encrypted-client-hello) you need DoH
   + [ECH technical details](https://wiki.mozilla.org/Security/Encrypted_Client_Hello)
 * [cloudflare browser test](https://www.cloudflare.com/de-de/ssl/encrypted-sni/) tests for Secure DNS, DNSSEC, TLS 1.3, Secure SNI (including ECH)
+* [Test a TLS server](https://testtls.com/)
 
 ## key management
 

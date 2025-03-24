@@ -17,6 +17,8 @@
   + https://hub.docker.com/r/chriswayg/tor-server/
   + https://hub.docker.com/r/dperson/torproxy/
 * [tails](https://tails.net/index.de.html) tails immutable tor linux, featured
+* [arti](https://gitlab.torproject.org/tpo/core/arti)
+  reimplementation of tor core in rust
 
 ## I2P
 

@@ -152,6 +152,8 @@ TUN = Routing (2 virtual subnets)
 * [pi hole](https://pi-hole.net/) complete blocking solution (http proxy and DNS) for an private subnet, featured!
   + https://discourse.pi-hole.net/about
   + [pi-hole docker image](https://github.com/pi-hole/docker-pi-hole?tab=readme-ov-file)
+  + [pi-hole 6.0](https://linuxnews.de/pi-hole-6-0-mit-eigenem-webserver/)
+  + [CivetWeb](https://github.com/civetweb/civetweb) pi-hole embedded web server
 * [squid blocks adservers](https://blog.cyberfront.org/index.php/2021/12/10/squid-block-adservers/)
   + [used plaintext list](https://pgl.yoyo.org/adservers/#plaintext)
 * [privoxy](https://www.privoxy.org/)

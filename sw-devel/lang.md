@@ -23,6 +23,8 @@
 * [lua](https://www.lua.org/)
   + https://de.wikipedia.org/wiki/Lua
   + [luajit](https://luajit.org/luajit.html)
+* [pony](https://www.ponylang.io/)
+  object-oriented, actor-model, capabilities-secure, high-performance programming language
 
 ## JIT
 
