@@ -4,6 +4,11 @@
 
 * https://www.naxos.com/blu-ray_audio.asp
 
+## Realtime Audio on Linux
+
+* [Fedora Pipewire Low Latency Audio Configuration Reference Guide](https://linuxmusicians.com/viewtopic.php?t=27121)
+* [A Guide to switching to Linux as your music production OS](https://www.kvraudio.com/forum/viewtopic.php?t=555691)
+
 ## Pop
 
 * https://www.jetzt.de/musik/das-ist-die-rapperin-haiyti
@@ -348,3 +353,22 @@
 ### Stremio
 
 * [stremio](https://www.stremio.com/features)
+* [stremio blog](https://blog.stremio.com/)
+* [addons](https://allstremio.com/de/addons-deutsch/)
+
+#### Black Stremio
+
+* [jackettio](https://jackettio.elfhosted.com/configure)
+  + ["Infinite streaming" from Real Debrid with Plex](https://docs.elfhosted.com/guides/media/stream-from-real-debrid-with-plex/)
+  + https://github.com/arvida42/jackettio
+  + [real debrid](https://real-debrid.com/)
+* [mediafusion](https://mediafusion.elfhosted.com/)
+  + [mediaflow proxy](https://github.com/mhdzumair/mediaflow-proxy)
+* [radarr](https://radarr.video/)
+
+### Media Proxies
+
+* [radio proxy 2](https://github.com/pfbrowning/radio-proxy-2)
+  streaming shoutcast / icecast style audio and passing now-playing info to clients
+* [GMusicProxy](https://gmusicproxy.github.io/)
+  use of Google Play Music with All Access subscription with any music player that is able to stream MP3 files and to manage playlists

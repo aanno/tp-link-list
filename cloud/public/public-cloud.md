@@ -111,6 +111,8 @@
 * [opentofu](https://opentofu.org/) terraform open source fork
   + https://github.com/opentofu/opentofu
   + https://github.com/opentofu/manifesto
+  + [scalr](https://www.scalr.com/)
+    co-founder of opentofu
 
 #### Terraform primer
 

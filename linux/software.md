@@ -396,6 +396,15 @@ Also see self-hosting in linux-server.md
   + https://github.com/FreshRSS/FreshRSS
   + https://demo.freshrss.org/i/?a=normal
 * https://github.com/swanson/stringer
+
+### Podcasts Meta
+
+* [20 Open-source Free Self-hosted Podcasting Clients](https://medevel.com/os-self-hosted-podcasting-solution-202/)
+* [Die 5 besten Apps zum Verwalten von Podcasts](https://de.linux-console.net/?p=12924)
+
+### Podcasts Software
+
+* [audiobookshelf](https://github.com/advplyr/audiobookshelf)
 * https://github.com/davinkevin/Podcast-Server (old, deprecated)
   + https://davinkevin.github.io/Podcast-Server/
 

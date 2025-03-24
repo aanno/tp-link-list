@@ -978,6 +978,15 @@ This has some similiarities to nix software.
 * [tools to measure power consumption](https://luiscruz.github.io/2021/07/20/measuring-energy.html)
 * [likwid](https://hpc.fau.de/research/tools/likwid/)
   + https://github.com/RRZE-HPC/likwid
+* [caffeine for linux](https://github.com/pkage/caffeine?tab=readme-ov-file)
+* [audio caffeine](https://unix.stackexchange.com/questions/340651/linux-mint-how-to-avoid-suspending-while-music-is-playing#460338)
+  Linux Mint: How to Avoid Suspending While Music is Playing
+
+### systemd and dbus lock inhibitors
+
+* [Where are the sleep/lock inhibitors kepts in D-BUS](https://unix.stackexchange.com/questions/786052/where-are-the-sleep-lock-inhibitors-kepts-in-d-bus)
+* [determine when monitor is turned on/off](https://discuss.kde.org/t/determine-when-monitor-is-turned-on-or-off-via-python-dbus/11980)
+* [systemd Inhibitor Locks Deep Dive](https://trstringer.com/systemd-inhibitor-locks/)
 
 ## Linux Desktop Environments
 
