@@ -111,6 +111,8 @@ Kotlin ist eine moderne Alternative zu Java auf der JVM. Anders als bei Scala ge
 
 * [kotlin libs search engine](https://kotlin.link/)
 
+* [ksp](https://github.com/google/ksp) Kotlin Symbol Processing (KSP) is an API that you can use to develop lightweight compiler plugins
+  + [ktlint-gradle problem](https://github.com/JLLeitschuh/ktlint-gradle/issues/746#issuecomment-2430462228)
 * [kotlin-html - server jvm dsl](https://github.com/celtric/kotlin-html)
 * [sqldelight - type SQL](https://github.com/cashapp/sqldelight)
 

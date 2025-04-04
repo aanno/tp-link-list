@@ -47,7 +47,7 @@
 * [shairport-sync](https://github.com/mikebrady/shairport-sync) linux AirPlay audio player
 * [airserver](https://www.airserver.com/Linux) commercial
 
-#### Alternatives
+#### Alternatives (to Chromecast and Airplay)
 
 * https://awesomeopensource.com/projects/chromecast
 * http://www.ocast.org/
@@ -57,7 +57,11 @@
   + https://zoff.me/
 * https://github.com/mariolukas/HydraPlay
 * http://strobe.audio/
-* https://github.com/badaix/snapcast
+* [snapcast](https://github.com/badaix/snapcast) featured!
+* [fcast](https://fcast.org/)
+  + [grayjay-android](https://github.com/futo-org/grayjay-android) sender for fcast
+* [NymphCast](http://nyanko.ws/nymphcast.php)
+  + https://github.com/MayaPosch/NymphCast
 * http://georgielabs.net/ (stream _to_ android, commercial)
   + https://play.google.com/store/apps/details?id=com.georgie.SoundWire
 * https://github.com/balenalabs/balena-sound
@@ -115,6 +119,7 @@
   wip, Framework for DLNA/UPnP Media Server for Python 3
 * [simpleDLNA](https://nmaier.github.io/simpleDLNA/)
   zero-config DLNA media server for serving a media folder
+* [Music Caster](https://github.com/elibroftw/music-caster) modern music player with the ability to cast audio files
 
 ### Misc
 
@@ -221,6 +226,9 @@
   + https://mwalbeck.org/watching-livestreams-with-friends-using-the-syncplay-feature-in-jellyfin
   + https://jellyfin.org/posts/jellyfin-10-6-0/ syncplay
   + https://syncplay.pl/
+  + [Jellyfin Cast Web Receiver](https://github.com/jellyfin/jellyfin-chromecast)
+  + [Jellyfin Media Player](https://github.com/jellyfin/jellyfin-media-player)
+  + [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue)
 * [universal media server](https://www.universalmediaserver.com/)
 * [red5 - old](https://github.com/Red5/red5-server) partly commercial
   + https://www.red5pro.com/open-source/

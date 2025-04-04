@@ -421,6 +421,14 @@ waypipe ssh example.local env QT_QPA_PLATFORM=wayland-egl QT_QPA_PLATFORMTHEME=K
 * [remote wayland on fedora-30](https://jgrulich.cz/2019/08/01/tutorial-screen-sharing-and-remote-desktop-on-fedora-workstation-30/)
 * [screen sharing on wayland](https://jgrulich.cz/2018/07/04/how-to-enable-and-use-screen-sharing-on-wayland/)
 
+#### uinput, wayland
+
+Control keyboard and mouse events on wayland
+
+* [ydotool](https://github.com/ReimuNotMoe/ydotool)
+  + [implications of change permissions on uinput](https://discussion.fedoraproject.org/t/implications-of-change-permissions-on-uinput/128865)
+* [uinput](https://www.kernel.org/doc/html/v4.12/input/uinput.html)
+
 #### References
 
 * https://wiki.archlinux.org/title/wayland

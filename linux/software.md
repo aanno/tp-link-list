@@ -4,6 +4,10 @@
 
 * https://www.linuxlinks.com/
 
+## Organizations
+
+* [futo](https://futo.org/) privacy concerned: android keyboard, immich, fcast, ...
+
 ## Video editing
 
 * https://itsfoss.com/best-video-editing-software-linux/

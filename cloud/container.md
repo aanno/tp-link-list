@@ -224,6 +224,7 @@ sudo ln -s /usr/libexec/docker/docker-proxy /usr/bin/
 
 * [use --userns keep-id with podman-compose](https://github.com/containers/podman-compose/issues/166)
   `export PODMAN_USERNS=keep-id`
+* [compose files could be part of registry upload](https://docs.docker.com/compose/how-tos/oci-artifact/)
 
 ### podman security
 

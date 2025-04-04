@@ -15,6 +15,7 @@ Owntone needs `pulseaudio_backend` feature flag, see https://docs.spotifyd.rs/in
 
 * [owntone.conf template](https://raw.githubusercontent.com/owntone/owntone-server/refs/heads/master/owntone.conf.in)
 * https://discussion.fedoraproject.org/t/issues-installing-ffmpeg-fedora-39/99442
+* [owntone network mounts](https://owntone.github.io/owntone-server/library/) `touch trigger.init-rescan` or `touch trigger.meta-rescan` to trigger a rescan of the library
 
 ## Links
 

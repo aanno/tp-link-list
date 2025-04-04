@@ -14,8 +14,12 @@
 
 ## Web Services
 
+### Bibliography and Links
+
 * [zotero](https://www.zotero.org/) collect, organize, annotate, cite, and share research
   + [zoterobib](https://zbib.org/) bibliography tool for zotero
+* [endnote](https://endnote.com/de/) commercial
+* [citavi](https://lumivero.com/products/citavi/) commercial
 
 ## Presentations
 

@@ -325,6 +325,7 @@ alternative setup would need more work.
 
 ##### Cloud backup and S3
 
+* [S3 Pricing Calculator](https://www.s3compare.io/) compare S3 storage prices, featured!
 * [s3proxy](https://github.com/gaul/s3proxy) translation from S3 to Backblaze B2, EMC Atmos, Google Cloud, Microsoft Azure, and OpenStack Swift, or local file system
 * [aws s3 rest api](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html)
 * [aws s3 action list](https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazons3.html)
@@ -973,6 +974,8 @@ This has some similiarities to nix software.
 
 ## Linux Power Management
 
+* [Linux power management overview](https://wiki.archlinux.org/title/Power_management) featured!
+
 * [powertop with systemd](https://wiki.archlinux.org/title/powertop)
 * [alternatives to powertop](https://getalternative.net/software/powertop)
 * [tools to measure power consumption](https://luiscruz.github.io/2021/07/20/measuring-energy.html)
@@ -981,6 +984,8 @@ This has some similiarities to nix software.
 * [caffeine for linux](https://github.com/pkage/caffeine?tab=readme-ov-file)
 * [audio caffeine](https://unix.stackexchange.com/questions/340651/linux-mint-how-to-avoid-suspending-while-music-is-playing#460338)
   Linux Mint: How to Avoid Suspending While Music is Playing
+* [tlp](https://linrunner.de/tlp/introduction.html) command line utility for Linux, saving laptop battery power
+* [tuneD](https://tuned-project.org/) monitors connected devices using the udev device manager and tunes system settings according to a selected profile
 
 ### systemd and dbus lock inhibitors
 
