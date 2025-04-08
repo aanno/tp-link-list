@@ -18,6 +18,15 @@
 
 ## Eclipse
 
+* [use eclipse extensions in Theia](https://eclipsesource.com/blogs/2019/10/17/how-to-add-extensions-and-plugins-to-eclipse-theia/)
+
+### EMF and next-gen EMF
+
+* [emf.cloud](https://eclipse.dev/emfcloud/)
+  + [model server](https://github.com/eclipse-emfcloud/emfcloud-modelserver)
+  + [model server theia](https://github.com/eclipse-emfcloud/emfcloud-modelserver-theia)
+* [EMF Forms and client platform](https://eclipse.dev/ecp/emfforms/) deprecated!
+
 ### Xtext
 
 * https://www.eclipse.org/Xtext/index.html
@@ -161,6 +170,11 @@
     structural merge for: Java, XML, Java Property Syntax, JSON, Basic HTML, Text Append, TypeScript
   + https://github.com/devonfw/cobigen/wiki#architecture
 
+## Langium
+
+* https://langium.org/
+* [A mature language toolkit](https://www.typefox.io/blog/langium-1.0-a-mature-language-toolkit/)
+
 ## Other Tools
 
 * http://www.monticore.de/
@@ -184,6 +198,10 @@
 #### Implementations
 
 * https://iguana-parser.github.io/getting_started.html
+* [tsPEG](https://github.com/EoinDavey/tsPEG) typescript PEG parser generator
+* [tree-sitter](https://tree-sitter.github.io/tree-sitter/)
+  incremental parsing library, featured!
+  This is the one that is used in LSP implementations!
 
 ### LSP (Language Server Protocol)
 

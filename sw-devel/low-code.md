@@ -46,6 +46,7 @@
 * [tiki tracker - low code platform](https://tikitrackers.org/Database-Web-App-Builder)
 * [mendix](https://www.mendix.com/de/ein-leitfaden-zur-app-entwicklung-mit-low-code/)
 * [frappe](https://frappeframework.com/)
+* [eclipse scout](https://eclipse.dev/scout/)
 
 ### mobile apps only
 
