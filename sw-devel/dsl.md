@@ -197,11 +197,14 @@
 
 #### Implementations
 
-* https://iguana-parser.github.io/getting_started.html
-* [tsPEG](https://github.com/EoinDavey/tsPEG) typescript PEG parser generator
+* [Iguana](https://iguana-parser.github.io/getting_started.html)
+  Iguana is a parsing framework based on data-dependent grammars.
 * [tree-sitter](https://tree-sitter.github.io/tree-sitter/)
   incremental parsing library, featured!
   This is the one that is used in LSP implementations!
+* [tsPEG](https://github.com/EoinDavey/tsPEG) typescript PEG parser generator
+* [PEG.js](https://pegjs.org/) parser generator for JavaScript
+* [peggy](https://peggyjs.org/) PEG parser generator for JavaScript
 
 ### LSP (Language Server Protocol)
 

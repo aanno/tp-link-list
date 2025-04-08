@@ -62,6 +62,8 @@
 * [ignite ui](https://www.infragistics.com/products/ignite-ui) commercial for angular, blazor, react, web components
 * [core ui](https://coreui.io/) commercial for angular, bootstrap, react, vue
 * [smart html elements](https://www.htmlelements.com/) commercial for angular, react, blazor, jQWidgets, web components
+* [handsontable](https://handsontable.com/docs/react-data-grid/)
+  data grid component that brings the well-known look and feel of spreadsheets to your application
 
 ### ... for Angular
 

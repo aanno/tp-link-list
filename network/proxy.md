@@ -10,6 +10,7 @@
 * [chisel](https://github.com/jpillora/chisel)
 * [wstunnel](https://github.com/erebe/wstunnel) tcp-over-ws in rust
   + https://github.com/mhzed/wstunnel tcp-over-ws in JS/Browser
+* [websockify](https://github.com/novnc/websockify) websocket to (unix) socket proxy
 
 ## Proxy Implementations (mostly camouflage proxies)
 

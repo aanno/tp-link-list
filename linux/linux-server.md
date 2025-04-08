@@ -31,6 +31,13 @@
 
 * [OpenLiteSpeed](https://openlitespeed.org/openlitespeed-features/)
 * [Caddy](https://caddyserver.com/docs/)
+  + [xcaddy](https://github.com/caddyserver/xcaddy)
+    Custom Caddy Builder
+  + [caddy packages and modules](https://caddyserver.com/download)
+* [Cherokee](https://cherokee-project.com/)
+* [Lighttpd](https://redmine.lighttpd.net/projects/lighttpd/wiki/Lighttpd)
+* [Apache Traffic Server](https://trafficserver.apache.org/)
+* [Apache Tomcat](https://tomcat.apache.org/)
 
 ### Http/3 (QUIC)
 
@@ -97,6 +104,13 @@ Also see self-hosting in software.md
     - https://github.com/scm-manager/scm-manager
 * https://kinsta.com/ cloud self-hosting
 * https://ably.com/ commercial
+
+### Firewall appliances
+
+* [opnsense](https://opnsense.org/)
+* [pfSense](https://www.pfsense.org/)
+* [IPFire](https://www.ipfire.org/)
+* [Untangle](https://www.untangle.com/) commercial
 
 ### NAS
 

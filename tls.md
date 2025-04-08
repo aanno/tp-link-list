@@ -14,9 +14,15 @@
 
 ## Let's encrypt
 
-### ACME
+* [letsencrypt.org](https://letsencrypt.org/)
 
-* https://github.com/shred/acme4j
+### ACME (clients for letsencrypt)
+
+* [acme4j](https://github.com/shred/acme4j)
+* [certbot](https://certbot.eff.org/pages/about)
+  + https://github.com/certbot/certbot
+* [certmagic](https://github.com/caddyserver/certmagic)
+  CertMagic is the most mature, robust, and powerful ACME client integration for Go
 
 #### ACME Server
 
@@ -41,3 +47,7 @@
 ## Weiter freie Services
 
 * https://adminforge.de/services/#wekan
+* [zerossl](https://zerossl.com/pricing/)
+  alternative to letsencrypt
+* [sslmate](https://sslmate.com/)
+  alternative to letsencrypt (only for www domains

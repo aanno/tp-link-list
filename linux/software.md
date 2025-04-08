@@ -331,6 +331,8 @@ Also see self-hosting in linux-server.md
 
 * [stalwart](https://stalw.art/) modern mail server in rust, supporting JMAP, IMAP, SMTP, featured!
   + https://github.com/stalwartlabs/imap-server
+  + https://stalw.art/compare/ partly commercial
+* [mailcow](https://mailcow.email/) dockerized mail server, mailserver suite, featured!
 
 
 ### Zimbra (and CalDAV)

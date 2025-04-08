@@ -24,6 +24,13 @@
   off-grid, decentralized, mesh network built to run on affordable, low-power IoT devices
 * [homa transport](https://homa-transport.atlassian.net/wiki/spaces/HOMA/overview)
   Homa is a new transport protocol for modern datacenters
+* [mercure](https://mercure.rocks/)
+  real-time communication protocol based on HTTP/2, especially useful to add streaming and asynchronous capabilities to REST and GraphQL APIs
+  + https://github.com/dunglas/mercure
+* [vulcain](https://vulcain.rocks/)
+   idiomatic client-driven REST APIs
+  + https://github.com/dunglas/vulcain
+  + https://caddyserver.com/docs/modules/http.handlers.vulcain
 
 ### Exotic alternatives to Http
 

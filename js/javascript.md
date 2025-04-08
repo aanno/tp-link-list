@@ -56,6 +56,13 @@
 * [use node API in frontend](https://nwjs.io/)
 * [independent component development](https://storybook.js.org/)
 
+## Template (mostly for html)
+
+* [eta](https://eta.js.org/)
+  faster, more lightweight, and more configurable EJS alternative
+  + [eta integrations](https://eta.js.org/docs/resources/integrations)
+* [handlebars](https://handlebarsjs.com/)
+
 ### Svelte universe
 
 * [svelte](https://svelte.dev/)

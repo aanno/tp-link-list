@@ -29,11 +29,21 @@ source = meta://default/vsnd/tcpserver?name=meta
 snapserver
 ```
 
+### snapserver plugins
+
+* [snapserver stream plugins](https://github.com/badaix/snapcast/blob/develop/doc/json_rpc_api/stream_plugin.md)
+* https://github.com/badaix/snapcast/tree/develop/server/etc/plug-ins
+  contains meta_librespot-java.py, meta_mopidy.py, meta_mpd.py, plex_bridge.py
+* [volimio server plugin](https://github.com/Saiyato/volumio-snapserver-plugin)
+  + [volumio client plugin](https://github.com/Saiyato/volumio-snapclient-plugin)
+
 ## snapclient
 
 ```bash
-snapclient --player pulse
+snapclient --player pulse -i <instance#>
 ```
+
+<instance#> defaults to 1. Can be set to 2, 3, 4, etc. to run multiple instances.
 
 ## snapweb
 
