@@ -4,11 +4,6 @@
 
 * https://www.naxos.com/blu-ray_audio.asp
 
-## Realtime Audio on Linux
-
-* [Fedora Pipewire Low Latency Audio Configuration Reference Guide](https://linuxmusicians.com/viewtopic.php?t=27121)
-* [A Guide to switching to Linux as your music production OS](https://www.kvraudio.com/forum/viewtopic.php?t=555691)
-
 ## Pop
 
 * https://www.jetzt.de/musik/das-ist-die-rapperin-haiyti
