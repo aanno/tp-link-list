@@ -443,11 +443,16 @@ Also see `documenting-it.md`
 * https://media-tools.perbility.de/ online service for stitching PDF (also from other formats)
 * [pdfsizeopt](https://github.com/pts/pdfsizeopt) optimize/shrink PDF
 * [img2pdf](https://gitlab.mister-muffin.de/josch/img2pdf)
-* https://pdfbox.apache.org/2.0/commandline.html
+* [pdfbox](https://pdfbox.apache.org/2.0/commandline.html)
+  + [sambox](https://github.com/torakiki/sambox)
+    fork intended to be used as PDF processor for Sejda and PDFsam
+* [qpdf](https://qpdf.sourceforge.io/)
+  content-preserving transformations on PDF files
+  * [qpdf docs](https://qpdf.readthedocs.io/en/stable/)
+  * https://github.com/qpdf/qpdf
 * https://github.com/rrthomas/pdfjam
 * https://github.com/pts/pdfsizeopt
 * https://pspdfkit.com/ (commercial)
-* https://www.qoppa.com/pdfstudioviewer/download/ commercial, linux (java)
 * https://cssbox.sourceforge.net/pdf2dom/download.php
   + https://github.com/radkovo/Pdf2Dom
 * https://www.mustangproject.org/ zugferd
@@ -457,12 +462,34 @@ Also see `documenting-it.md`
   + https://mandoc.bsd.lv/docbook2mdoc/
   + [mandoc vs docbook](https://undeadly.org/cgi?action=article&sid=20190419101505)
 
+* https://github.com/torakiki
+  Andrea Vacondio (torakiki) is the person behind sejda and PDFsam (and has many interesting PDF projects)
 * https://boxesandglue.dev/ PDF generation lib in go
 * https://github.com/parallax/jsPDF old, js
 * https://github.com/foliojs/pdfkit low level
   + https://pdfkit.org/
 * https://github.com/bpampuch/pdfmake high level, incomplete
   + https://pdfmake.github.io/docs/0.3/
+
+### PDF Viewer and Editor
+
+* [Best Linux PDF Editors](https://www.tecmint.com/pdf-editors-linux/)
+* [okular](https://okular.kde.org/de/)
+  KDE document viewer
+* [evince](https://wiki.gnome.org/Apps/Evince)
+  Gnome document viewer
+* [Xjournal++](https://xournalpp.github.io/)
+  handwritten notes with ease
+  + https://github.com/xournalpp/xournalpp/
+* [sejda SDK](https://github.com/torakiki/sejda)
+  + [sejda Desktop](https://www.sejda.com/de/desktop) partly commercial
+* [PDFsam](https://github.com/torakiki/pdfsam)
+  Merge, split, rotate, convert, edit, sign PDF files, featured!
+  + https://pdfsam.org/
+* [code industry Master PDF Editor 5](https://code-industry.net/free-pdf-editor/) partly commercial
+* [qoppa PDF Studio Pro](https://www.qoppa.com/pdfstudio/) commercial
+* [qoppa PDF Studio Viewer](https://www.qoppa.com/pdfstudioviewer/download/)
+  free to use, linux (java)
 
 ### PDF to Html
 
@@ -473,9 +500,12 @@ Also see `documenting-it.md`
 
 #### Sign pdf
 
+* [Howto digital sign PDF with okular](https://www.luis.uni-hannover.de/de/services/it-sicherheit/zertifikate-der-luh-ca/anleitungen/okular-pdf-signatur-unter-linux)
 * http://wiki.cacert.org/PdfSigning
 * https://github.com/go-pdf-sign/go-pdf-sign
 * https://github.com/IcoDeveloper/PDFSign C#
+* [pyHanko](https://github.com/MatthiasValvekens/pyHanko/)
+  digitally signing and stamping PDF CLI in python
 
 ##### TSA Services
 
