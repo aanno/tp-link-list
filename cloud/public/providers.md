@@ -78,6 +78,7 @@
   + https://azure.microsoft.com/en-us/contact/pricing/#popular-resources
 * https://www.exoscale.com/gpu/gpu2/
   + https://www.exoscale.com/pricing/
+* [gcore](https://gcore.com/de)
 
 ## Install FCOS (Fedora Coreos) on cloud
 

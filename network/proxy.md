@@ -144,7 +144,7 @@ TUN = Routing (2 virtual subnets)
   + [Burp Getting Started](https://portswigger.net/burp/documentation/desktop/getting-started)
 * [proxify](https://github.com/projectdiscovery/proxify) go-lang
 
-## self-hosted proxis
+## self-hosted proxies
 
 ### .. as anti-ad proxies
 

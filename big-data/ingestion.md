@@ -54,7 +54,9 @@
   + https://docs.kanaries.net/graphic-walker
 * [redash](https://github.com/getredash/redash) (social visualization)
 * [metabase](https://www.metabase.com/)
-* [knime](https://www.knime.com/knime-analytics-platform)
+* [knime](https://www.knime.com/knime-analytics-platform) open source
+  + [knime hub](https://www.knime.com/knime-hub-pricing) commercial
+  + [knime forum](https://forum.knime.com)
 * [rill](https://github.com/rilldata/rill) dashboards for data lakes, based on duckdb
 * [perspective](https://perspective.finos.org/) interactive analytics and data visualization component in js
 * [rawgraphs](https://www.rawgraphs.io/)

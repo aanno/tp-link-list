@@ -130,6 +130,9 @@
 
 * https://www.zeit.de/serie/fischer-im-recht
 * https://www.lto.de/
+* https://openjur.de/
+  Offene Urteils-DB im Internet
+  + https://openjur.de/i/openjur_wird_verklagt.html
 
 ## Satire
 

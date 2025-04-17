@@ -37,6 +37,8 @@
 * [Cherokee](https://cherokee-project.com/)
 * [Lighttpd](https://redmine.lighttpd.net/projects/lighttpd/wiki/Lighttpd)
 * [Apache Traffic Server](https://trafficserver.apache.org/)
+   HTTP/1.1 and HTTP/2 compliant caching proxy server. Formerly a commercial product from Yahoo
+   + https://docs.trafficserver.apache.org/en/10.0.x/preface/index.en.html
 * [Apache Tomcat](https://tomcat.apache.org/)
 
 ### Http/3 (QUIC)
@@ -84,6 +86,10 @@ Also see self-hosting in software.md
 
 #### Services
 
+* [adminforge](https://adminforge.de/)
+  kostenlose Dienste an. Mein Ziel ist es eine freie und datensparsame Alternative zu bekannten Diensten zur Verfügung zu stellen
+* https://www.opendesktop.org/
+  also see software.md -> Fediverse -> instances
 * [cloudron](https://www.cloudron.io/) commercial
   + [install cloudron](https://docs.cloudron.io/installation/)
   + https://chris.beams.io/posts/running-cloudron/

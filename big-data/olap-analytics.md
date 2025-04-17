@@ -19,6 +19,7 @@
 * [data merge](https://bimanu.de/blog/datenverschmelzung/)
 * [snowflake vs star schema](https://bimanu.de/blog/snowflake-schema/)
   + [start schema in PowerBI](https://learn.microsoft.com/de-de/power-bi/guidance/star-schema)
+* [Kimball vs. Inmon](https://www.astera.com/de/type/blog/data-warehouse-concepts/)
 
 ### (open) file formats
 

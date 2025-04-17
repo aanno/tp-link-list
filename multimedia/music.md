@@ -318,6 +318,12 @@
 * [homehost](https://github.com/ridhwaans/homehost#naming-conventions)
 * [audioserve](https://github.com/izderadicka/audioserve)
 
+
+### metadata and tags of audio (and video) files and streams
+
+* [use ffmpeg (or ffprobe) to extract metadata](https://superuser.com/questions/1699035/ffmpeg-extract-metadata)
+* [MediaInfo](https://mediaarea.net/de/MediaInfo) CLI and library
+
 ## Radio
 
 ### web-based

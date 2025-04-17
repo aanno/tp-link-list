@@ -261,6 +261,11 @@
 
 * https://github.com/softchris/golang-book
 
+### Go lists
+
+* [uhub's awesome go](https://github.com/uhub/awesome-go)
+* [avelino's awesome go](https://github.com/avelino/awesome-go)
+
 ### Go lang meta programming
 
 * https://github.com/jmattheis/goverter tool for creating type-safe converters. All you have to do is create an interface and execute goverter
@@ -340,6 +345,13 @@ mapper
 * https://blog.fsouza.dev/functional-streams-in-go/
   + https://github.com/golang/go/issues/49085 no type paramenters in methods (so far)
 
+### Go and AI
+
+* [langchaingo](https://github.com/tmc/langchaingo)
+  LLMs through composability, with Go
+* [fun](https://gitlab.com/tozd/go/fun)
+  functions with code, data, or natural language description
+
 ### Go plugins
 
 * https://entwickler.de/go/plug-ins-mit-go-001
@@ -389,10 +401,12 @@ mapper
 
 ### To go lang
 
+* [awesome transpiler list](https://github.com/transpiler/awesome-transpiler)
+
 * https://github.com/goplus/c2go
   + https://github.com/goplus/gop
 * https://github.com/gotranspile/cxgo
-* https://github.com/elliotchance/c2go
+* https://github.com/elliotchance/c2go featured!
   + https://elliotchance.medium.com/converting-c-to-go-584504d2d0c5
 
 ### To rust lang

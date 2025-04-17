@@ -68,6 +68,11 @@
 * [uyuni](https://github.com/uyuni-project/uyuni) manage cloud vms (with ansible and salt)
   + https://www.uyuni-project.org/
 * [karpenter](https://github.com/aws/karpenter) provisioning for kubernetes (mostly auto scaling)
+* [juju](https://github.com/juju/juju)
+  orchestration engine that enables any application operation (deployment, integration, lifecycle management)
+  + https://en.wikipedia.org/wiki/Juju_(software)
+* [NixOps4](https://github.com/nixops4/nixops4)
+  tool for deploying to NixOS machines in a network or the cloud
 
 ### Pulumi
 

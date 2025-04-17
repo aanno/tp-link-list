@@ -1,5 +1,7 @@
 # nix - declarative package manager
 
+* https://de.wikipedia.org/wiki/Nix_(Paketmanager)
+
 ## core
 
 * https://github.com/NixOS/nix
@@ -77,3 +79,9 @@
 * [yafti](https://github.com/ublue-os/yafti) installing Flatpaks on first boot
 * [universal blue](https://github.com/ublue-os) fedora coreos experiments
 * [quickemu](https://github.com/quickemu-project/quickemu) desktop virtual machines for Linux, macOS and Windows, qemu based
+
+## alternatives to nix
+
+* [guix](https://guix.gnu.org/)
+  Paketverwaltung auf GNU/Linux-Systemen
+  + https://de.wikipedia.org/wiki/GNU_Guix

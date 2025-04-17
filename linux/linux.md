@@ -81,8 +81,18 @@
   + https://en.wikipedia.org/wiki/CacheFS
 * [bcachefs](https://bcachefs.org/)
   + [bcachefs tools](https://evilpiepirate.org/git/bcachefs-tools.git/)
-* [composefs](https://github.com/containers/composefs) read-only mountable filesystem trees, stacking on top of an underlying fs
-  + [erofs](https://erofs.docs.kernel.org/en/latest/) block-based immutable filesystem with highly-optimized ondisk format
+* [composefs](https://github.com/containers/composefs)
+  read-only mountable filesystem trees, stacking on top of an underlying fs
+  + [erofs](https://erofs.docs.kernel.org/en/latest/)
+    block-based immutable filesystem with highly-optimized ondisk format
+
+### ZFS
+
+* [OpenZFS](https://openzfs.github.io/openzfs-docs/index.html)
+* [ZFS on linux](https://pve.proxmox.com/wiki/ZFS_on_Linux)
+* [Why is ZFS File System in Linux Ubuntu So Good?](https://datafloq.com/read/zfs-file-system-linux-ubuntu-good/)
+* [fedora root on ZFS](https://openzfs.github.io/openzfs-docs/Getting%20Started/Fedora/Root%20on%20ZFS.html)
+* [ZFS on debian](https://wiki.debian.org/ZFS%C2%A0)
 
 ## FUSE filesystems
 
@@ -551,6 +561,19 @@ done
 
 ### Monitoring
 
+#### Consol and friends
+
+* [omd](https://omd.consol.de/docs/omd/)
+  based on nagios like core
+  + [thruk](https://labs.consol.de/de/omd/packages/thruk/)
+  + https://labs.consol.de/
+* [lausser](https://github.com/lausser)
+  head of consol monitoring
+  + [coshsh](https://github.com/lausser/coshsh)
+    Config-Generator for Shinken / Nagios /Icinga
+* [checkmk](https://checkmk.com/product/features) commercial
+
+
 #### Other Monitoring (and Alerting) Software
 
 * https://www.theforeman.org/ lifecycle management
@@ -561,9 +584,6 @@ done
 * https://www.elastic.co/de/kibana
 * [graphite](https://github.com/graphite-project/graphite-web)
   + https://graphite.readthedocs.io/en/latest/overview.html
-* https://labs.consol.de/de/omd/index.html (nagios)
-  + https://labs.consol.de/de/omd/packages/thruk/
-  + https://labs.consol.de/
 * [netdata](https://github.com/netdata/netdata)
 * https://www.monitorix.org/
 * [apimon](https://github.com/ncarlier/apimon)
@@ -658,6 +678,12 @@ It is _not_ possible to recover the public key stored on nitro, see
 * [Pop!_OS](https://pop.system76.com/)
   + [PopOS post install](https://mutschler.eu/linux/install-guides/pop-os-post-install/)
   + https://github.com/pop-os
+* [bodhi linux](https://www.bodhilinux.com/w/selecting-the-correct-iso-image/)
+  (partly) based on enlightment
+  + [enlightment desktop](https://www.enlightenment.org/)
+  + [web browser manager](https://github.com/ryenigma/web-browser-manager/)
+* [deepin](https://www.deepin.org/index/en)
+  own desktop made from apps in golang
 
 ### Firewall Distributions
 

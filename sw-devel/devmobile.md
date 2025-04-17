@@ -2,6 +2,11 @@
 
 * https://www.codenameone.com/ (DnD, Java or Kotlin)
 * https://ionicframework.com/ (angular, react, vue)
+* [expo and EAS](https://expo.dev/) partly commercial
+  + [expo](https://github.com/expo/expo)
+    native apps that run on Android, iOS, and the web
+  + [expo AV](https://docs.expo.dev/versions/latest/sdk/av/)
+    library that provides separate APIs for Audio and Video playback
 
 ## Electron/Cordova
 

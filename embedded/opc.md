@@ -73,6 +73,11 @@
   + https://api.riot-os.org/group__sys__arduino.html
 * https://nuttx.apache.org/
 
+# Realtime Programming Languages
+
+* [copilot](https://copilot-language.github.io/)
+  Realtime Programming Language and Runtime Verification Framework from NASA
+
 ## Rust Realtime OS
 
 * https://www.drone-os.com

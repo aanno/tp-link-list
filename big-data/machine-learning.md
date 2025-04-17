@@ -57,22 +57,41 @@
 * [dynare - macroeconomics modeling for all](https://www.dynare.org/)
 * [nvidia NIM](https://developer.nvidia.com/blog/access-to-nvidia-nim-now-available-free-to-developer-program-members/) try many models in pre-built containers
 
+### Local AI
+
+#### Mozilla
+
+* [builder projects](https://builders.mozilla.org/projects/)
+* [Mozilla investiert weiter in lokale KI](https://linuxnews.de/mozilla-investiert-weiter-in-lokale-ki/)
+* [LocalScore](https://www.localscore.ai/)
+  open benchmark for comparing local AI task _hardware_
 ## use models locally
 
 * https://linuxnews.de/alpaca-ki-modelle-offline-lokal-betreiben/
   + [alpaca](https://github.com/Jeffser/Alpaca)
-  + https://linuxtldr.com/setup-ollama-and-open-webui-on-linux/ The simplest way to run Alpaca (and other LLaMA-based local LLMs) on your own computer 
+  + https://linuxtldr.com/setup-ollama-and-open-webui-on-linux/
+    The simplest way to run Alpaca (and other LLaMA-based local LLMs) on your own computer 
 * [alpaca electron](https://github.com/ItsPi3141/alpaca-electron)
-* [ollama](https://github.com/ollama/ollama) alpaca is based on ollama
+* [ollama](https://github.com/ollama/ollama)
+  alpaca is based on ollama
   + https://ollama.com/
+  + [ollamafarm](https://github.com/presbrey/ollamafarm)
+    multiple Ollama instances, providing a convenient way to interact
+* [onnx runtime](https://onnxruntime.ai/) use LLMs in your apps and services
+* [ramalama](https://github.com/containers/ramalama) work with AI through the use of OCI containers
+* [llamafile](https://github.com/Mozilla-Ocho/llamafile)
+  distribute and run LLMs with a single file
 
 ### language models
 
 * [gpt4all](https://gpt4all.io/index.html) free-to-use, locally running, privacy-aware chatbot. No GPU or internet required, featured!
   + [gpt4all datalake](https://github.com/nomic-ai/gpt4all-datalake) ingest, organize and efficiently store all data contributions made to gpt4all
+* [LocalAI](https://github.com/mudler/LocalAI)
+  alternative to OpenAI, Claude and others. Self-hosted and local-first
 * https://www.heise.de/news/Open-Source-OpenAI-veroeffentlicht-automatisches-Spracherkennungssystem-Whisper-7273104.html
 * https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models modells available on azure (e.g. GPT-4)
 * https://openai.com/blog/introducing-gpts create your own version of GPT
+* [IBM's granite](https://www.ibm.com/granite)
 
 #### AI web search
 

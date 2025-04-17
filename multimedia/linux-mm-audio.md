@@ -49,6 +49,9 @@
 #### MPRIS Clients
 
 * [playerctl](https://github.com/altdesktop/playerctl) THE MPRIS CLI, featured!
+* [mpris-ctl](https://github.com/mariusor/mpris-ctl)
+* [mpris-scrobbler](https://github.com/mariusor/mpris-scrobbler)
+  submits the currently playing song to libre.fm 
 * [MPRIS support in KDE](https://community.kde.org/MPRIS)
   + [PlasMusic Toolbar](https://github.com/ccatterina/plasmusic-toolbar)
   + [simple mpris](https://github.com/slbillups/simple-mpris)
