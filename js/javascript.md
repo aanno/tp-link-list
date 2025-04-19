@@ -46,10 +46,20 @@
 * https://github.com/jsdom/jsdom
 * https://unifiedjs.com/ Content as structured data
   + https://github.com/unifiedjs/unified
-  + https://github.com/rehypejs/rehype html transformer
+  + [rehype](https://github.com/rehypejs/rehype)
+    html transformer
     - https://github.com/rehypejs/rehype/blob/main/doc/plugins.md#list-of-plugins
     - https://github.com/rehypejs/awesome-rehype
-  + https://github.com/remarkjs/remark markdown transformer
+    - [rehype-react](https://github.com/rehypejs/rehype-react)
+      HTML into preact, react, solid, svelte, vue, etc
+    - [rehype-sanitize](https://github.com/rehypejs/rehype-sanitize)
+      make sure HTML is safe
+    - [Blog using Next.JS and DEV.to](https://dev.to/martinp/build-a-blog-using-nextjs-and-devto-15a5)
+      remark rehype
+  + https://github.com/remarkjs/remark
+    markdown transformer
+* [hast-util-to-jsx-runtime](https://github.com/syntax-tree/hast-util-to-jsx-runtime)
+  transform a tree to preact, react, solid, svelte, vue, etc
 
 ## Frontend
 
@@ -180,11 +190,18 @@
 * Redux Best Practice https://medium.com/@kylpo/redux-best-practices-eef55a20cc72
   + https://github.com/reactjs/reselect (createSelector(Creator), createStructedSelector, defaultMemoize)
   + https://github.com/acdlite/redux-actions (createAction(s), handleAction(s) (statt switch), combineActions)
-  + https://github.com/erikras/ducks-modular-redux (http://redux.js.org/docs/api/bindActionCreators.html) 
+  + https://github.com/erikras/ducks-modular-redux (http://redux.js.org/docs/api/bindActionCreators.html)
 * https://blog.openreplay.com/redux-alternatives-in-2021/
   + https://swr.vercel.app/
   + https://redux-toolkit.js.org/
   + https://recoiljs.org/
+
+#### Redux alternatives (effects, ...)
+
+* [effect-TS](https://effect.website/)
+  + https://github.com/Effect-TS/effect
+  + [My impressions of Effect-TS](https://dnlytras.com/blog/effect-ts)
+
 
 #### Angular
 
@@ -341,6 +358,12 @@
 ### Misc libs
 
 * [stacktrace](https://www.stacktracejs.com/#!/docs/stacktrace-js)
+* [authjs](https://authjs.dev/)
+  Authentication for the Web
+
+### JS and TS programming patterns
+
+* [Limit the execution of functions in JS with Debounce and Throttle](https://coffeebytes.dev/en/limit-the-execution-of-functions-in-js-with-debounce-and-throttle/)
 
 ### Forms and JS
 
@@ -398,7 +421,18 @@
 
 * https://github.com/webpack-contrib/extract-text-webpack-plugin/issues/216
 * https://www.heise.de/news/Vite-js-2-0-erschienen-JavaScript-Werkzeug-ist-reif-fuer-den-Produktivbetrieb-5062097.html
-* [turbo](https://turbo.build/pack/docs) turbopack in rust
+* [turbo](https://turbo.build/pack/docs)
+  turbopack in rust
+* [turbopack](https://nextjs.org/docs/app/api-reference/turbopack)
+  incremental bundler in rust
+* [ESM](https://esm.sh/)
+  js module system, no installation/build steps needed
+* [esbuild](https://esbuild.github.io/)
+  extremely fast bundler for the web
+* [nx](https://nx.dev/)
+  Build system, optimized for monorepos
+* [swc](https://swc.rs/)
+  compilation and bundling in rust
 
 ### Minify
 

@@ -10,9 +10,12 @@
 
 * https://katacoda.com/ (o'reily)
 
-## Competition
+## Competition (like CTF (Capture the flag), Dojo)
 
 * https://developer.ibm.com/callforcode/
+* [codewars](https://www.codewars.com/)
+  mastery through challenge
+  + https://coffeebytes.dev/en/i-test-chatgpt-with-codewars-coding-challenges/
 
 ## Current
 

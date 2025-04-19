@@ -297,6 +297,13 @@
 * [sync await](https://hackernoon.com/asyncawait-in-golang-an-introductory-guide-ol1e34sg)
   + https://github.com/Joker666/AsyncGoDemo
 
+### Go concurrency, runtime model, memory model, and IPC
+
+* [Go: race conditions on goroutines and mutexes](https://coffeebytes.dev/en/go-race-conditions-on-goroutines-and-mutexes/)
+* [Go: Handling Signals for Closing Applications](https://coffeebytes.dev/en/go-handling-signals-for-closing-applications/)
+* [Go Concurrency Patterns: Pipelines and cancellation](https://go.dev/blog/pipelines)
+* [Applying Modern Go Concurrency Patterns to Data Pipelines](https://medium.com/amboss/applying-modern-go-concurrency-patterns-to-data-pipelines-b3b5327908d4)
+
 ### Go std lib
 
 * https://pkg.go.dev/context
@@ -319,8 +326,13 @@
 * https://github.com/shettyh/threadpool
 * https://github.com/ahmetask/worker
   + https://medium.com/@ahmet9417/golang-thread-pool-and-scheduler-434dd094715a
-* https://github.com/jucardi/go-streams inspired in Java 8 Streams and .NET Linq
-* https://github.com/wesovilabs/koazee StreamLike, Immutable, Lazy Loading
+* [go-streams](https://github.com/jucardi/go-streams)
+  inspired in Java 8 Streams and .NET Linq
+  - connectors to big data streams (kafka, pulsar, aerospike, NATS, ...)
+* https://github.com/wesovilabs/koazee
+  StreamLike, Immutable, Lazy Loading
+* [stm](https://github.com/anacrolix/stm)
+  software transactional memory in golang (but 5 times slower than using mutexes)
 
 #### Go libs for enterprise stuff
 
@@ -426,3 +438,10 @@ mapper
 ### Clang
 
 * https://eli.thegreenplace.net/2011/07/03/parsing-c-in-python-with-clang
+
+
+### Rust Lang
+
+* [What makes Rust so difficult to learn?](https://coffeebytes.dev/en/what-makes-rust-so-difficult-to-learn/)
+* [rustlings](https://github.com/rust-lang/rustlings)
+  small exercises to get you used to reading and writing Rust code

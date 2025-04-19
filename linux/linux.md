@@ -26,7 +26,7 @@
 * https://www.notebookcheck.com/
 * https://linuxtldr.com/
 
-## Fondations
+## Foundations
 
 * [NLnet 2024 project](https://nlnet.nl/news/2024/20240212-announcing-projects.html) featured!
 
@@ -35,6 +35,12 @@
 * https://www.sueddeutsche.de/thema/Open_Source
 * https://www.zdnet.de/
 * https://www.it-times.de/
+
+## Books
+
+* [how linux works](https://nostarch.com/howlinuxworks3)
+  modern description of linux
+  + https://dl.ebooksworld.ir/motoman/NSP.How.Linux.Works.What.Every.Superuser.Should.Know.2nd.Edition.www.EBooksWorld.ir.pdf
 
 ## Distributions
 
@@ -46,6 +52,8 @@
 * [airyx](https://airyx.org/) - freeBSD based trying to run cocoa and osx applications
 * [open source suse projects](https://opensource.suse.com/)
 * [open suse](https://www.opensuse.org/)
+* [FOG Project](https://fogproject.org/)
+  network desktop computer cloning and management solution (Linux, Windows, ...)
 
 ## Kernel
 
@@ -93,6 +101,7 @@
 * [Why is ZFS File System in Linux Ubuntu So Good?](https://datafloq.com/read/zfs-file-system-linux-ubuntu-good/)
 * [fedora root on ZFS](https://openzfs.github.io/openzfs-docs/Getting%20Started/Fedora/Root%20on%20ZFS.html)
 * [ZFS on debian](https://wiki.debian.org/ZFS%C2%A0)
+* [rsync.net: ZFS Replication to the cloud is finally here—and it’s fast](https://arstechnica.com/information-technology/2015/12/rsync-net-zfs-replication-to-the-cloud-is-finally-here-and-its-fast/)
 
 ## FUSE filesystems
 
@@ -390,6 +399,8 @@ alternative setup would need more work.
 * [Alibaba Cloud OSS](https://www.alibabacloud.com/de/product/object-storage-service) only partly compatible to S3
   + [compatibility to S3](https://www.alibabacloud.com/help/en/oss/developer-reference/compatibility-with-amazon-s3)
   + [differences to S3](https://medium.com/@arsenyspb/migrate-api-from-aws-s3-to-aliyun-oss-640dd1e74201)
+* [zsync](https://www.rsync.net/pricing.html)
+  _not_ S3 - but zsync
 
 ###### S3 based products
 
@@ -685,6 +696,15 @@ It is _not_ possible to recover the public key stored on nitro, see
 * [deepin](https://www.deepin.org/index/en)
   own desktop made from apps in golang
 
+## Linux Desktops
+
+* [fynedesk](https://github.com/FyshOS/fynedesk)
+  desktop environment in pure go lang
+  + [fyne](https://docs.fyne.io/started/)
+    cross platform UI toolkit for desktop and mobile for go lang
+  + https://github.com/fyne-io/fyne
+* [dde (deepin)](https://www.deepin.org/en/dde/)
+
 ### Firewall Distributions
 
 * http://www.koozali.org/home/about (SME Server)
@@ -818,19 +838,34 @@ It is _not_ possible to recover the public key stored on nitro, see
 
 This has some similiarities to nix software.
 
-* [qubes](https://www.qubes-os.org/) - most apps in it's own xen VM - super secure
+* [qubes](https://www.qubes-os.org/)
+  most apps in it's own xen VM - super secure
 * [mocaccino - docker and luet based](https://www.mocaccino.org/)
-* [suse microos](https://microos.opensuse.org/) - suse's coreos (includes kubic)
+* [suse microos](https://microos.opensuse.org/)
+  suse's coreos (includes kubic)
   + https://en.opensuse.org/Portal:MicroOS/Downloads
-* [flatcar linux](https://www.flatcar-linux.org/) - community successor of coreos
+* [flatcar linux](https://www.flatcar-linux.org/)
+  community successor of coreos
 * [rlxos - immutable desktop](https://rlxos.dev/)
   + https://tylerstech.me/2021/06/23/rlxos-a-new-and-unique-distribution/
-* [universal blue](https://github.com/ublue-os) fedora coreos experiments
+* [universal blue](https://github.com/ublue-os)
+  fedora coreos experiments, cloud native
+  + [universal](https://universal-blue.org/)
+    Aurora, Bluefin
+  + [bazzite](https://github.com/ublue-os/bazzite)
+    cloud native linux gaming
 * [AWS Bottlerocket](https://aws.amazon.com/de/bottlerocket/)
   + [bottlerocket nvidia support](https://aws.amazon.com/de/about-aws/whats-new/2022/03/bottlerocket-support-gpu-ec2-instance-types-powered-by-nvidia/)
   + https://aws.amazon.com/de/about-aws/whats-new/2022/06/bottlerocket-ecs-variant-nvidia-gpus/
   + https://aws.amazon.com/de/blogs/containers/announcing-nvidia-gpu-support-for-bottlerocket-on-amazon-ecs/
   + https://github.com/bottlerocket-os/bottlerocket
+* [Clear Linux Project](https://www.clearlinux.org/)
+  Intel-backed 'stateless' distribution optimised for speed
+  + [stateless in clearlinux](https://github.com/clearlinux/clear-linux-documentation/blob/master/source/guides/clear/stateless.rst#id48)
+  + [stateless in clearlinux II](https://github.com/clearlinux/clr-man-pages/blob/master/stateless.7.rst)
+  + https://github.com/clearlinux
+  + [Review: Intel’s own Clear Linux OS](https://arstechnica.com/gadgets/2020/02/linux-distro-review-intels-own-clear-linux-os/)
+
 
 #### Fedora Silverblue
 

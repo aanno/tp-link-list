@@ -219,10 +219,17 @@
 
 Also see `documenting-it.md`
 
-* https://docusaurus.io/docs spa/opa, react, mdx
-* https://github.com/shuding/nextra next.js, mdx
+* https://docusaurus.io/docs
+  spa/opa, react, mdx
+* https://github.com/shuding/nextra
+  next.js, mdx
 * https://docsify.js.org/#/
-* https://github.com/doczjs/docz/tree/new  gatsby, mdx
+* https://github.com/doczjs/docz/tree/new
+  gatsby, mdx
+* [Using Remark and Rehype plugins with MDX in Next.js](https://stackoverflow.com/questions/71864146/using-remark-and-rehype-plugins-with-mdx-in-next-js-with-next-mdx)
+  + [mdx in next.js](https://nextjs.org/docs/pages/building-your-application/configuring/mdx)
+* [mdx-bundler](https://github.com/kentcdodds/mdx-bundler)
+  Compile and bundle your MDX files and their dependencies. FAST.
 
 ## Rendering components for asciidoctor
 

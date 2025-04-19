@@ -2,6 +2,7 @@
 
 * https://www.ctheu.com/2015/02/12/how-to-communicate-between-react-components/
 * https://facebook.github.io/react/docs/components-and-props.html
+* [react hooks](https://react.dev/reference/react/hooks)
 
 * https://github.com/facebook/react/issues/3725
 * https://github.com/reactjs/redux/issues/749
@@ -21,6 +22,8 @@
 * https://www.sigient.com/blog/getting-rowdy-with-react-router (new version 4)
 * https://reacttraining.com/react-router/web/guides/dealing-with-update-blocking
 * https://github.com/reactjs/react-router-redux
+* [remix](https://remix.run/docs/en/main/discussion/introduction)
+  compiler, server and browser framework for react (based on react router)
 
 ## Authentication
 
@@ -44,6 +47,8 @@
 
 * https://github.com/reactjs/reselect
 * https://github.com/gajus/redux-immutable
+* [relay](https://relay.dev/)
+  fetch and update data with GraphQL
 
 ## Forms
 
@@ -138,4 +143,14 @@
   + https://reactnative.dev/docs/hermes
 * [static hermes: compile TS to native](https://medium.com/@gautam1168/compiling-typescript-to-native-code-0238d69ca582)
   + https://github.com/KusStar/benchmark-static-hermes
-* [NativeScript](https://docs.nativescript.org/) platform APIs directly to the JavaScript runtime (with strong types) 
+* [NativeScript](https://docs.nativescript.org/) platform APIs directly to the JavaScript runtime (with strong types)
+
+## next.js (and other technology for static sites with react)
+
+* https://dnlytras.com/blog/rewriting-with-next
+  + https://remix.run/
+  + https://dnlytras.com/blog/working-with-remix
+* [How To Parse Markdown In A Secure NextJS/React](https://smarative.com/blog/nextjs-libraries-for-render-markdown-in-a-secure-way)
+* [Best Next js Plugin](https://kapsys.io/user-experience/10-best-next-js-plugins-to-extend-your-application)
+* [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote)
+  allow MDX be loaded within `geStaticProps` to client from anywhere

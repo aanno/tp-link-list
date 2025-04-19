@@ -15,6 +15,8 @@
 
 ## Elastic and OpenSearch
 
+* [Elastic stack (ELK) on Docker](https://github.com/deviantony/docker-elk)
+  + https://www.elastic.co/elastic-stack/
 
 ## Other
 

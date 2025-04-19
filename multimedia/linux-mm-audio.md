@@ -18,6 +18,17 @@
 * [Pipewire Combine Streams](https://docs.pipewire.org/page_module_combine_stream.html)
   virtual sink that forwards audio to other sinks or new virtual source that combines audio from other source
 
+## Pulseaudio (API)
+
+* [pulse](https://github.com/jfreymuth/pulse)
+  PulseAudio client implementation in pure Go
+
+
+## ffmpeg, mpv, vlc, and the like
+
+* [avpipe](https://github.com/eluv-io/avpipe)
+  C/Go library on top of FFmpeg with very simple transcoding APIs
+
 ### Remove Pipewire sound
 
 * [How to stream audio through pipewire from one Linux system to another?](https://superuser.com/questions/1713253/how-to-stream-audio-through-pipewire-from-one-linux-system-to-another)

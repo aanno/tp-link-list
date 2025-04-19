@@ -322,6 +322,10 @@
 * http://crudl.io/
 * https://jackrabbit.apache.org/oak/ (content repository)
   + https://github.com/apache/jackrabbit-oak
+* [contentlayer](https://contentlayer.dev/)
+  validates and transforms your content into JSON data (markdown to browser)
+  + [table of contents in nextjs with contentlayer](https://medium.com/@rreocode/how-to-generate-or-create-table-of-contents-in-nextjs-with-contentlayer-rehype-plugin-c49594c690cf)
+    next.js contentlayer rehype
 
 #### Featured headless
 

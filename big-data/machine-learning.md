@@ -70,7 +70,9 @@
 * https://linuxnews.de/alpaca-ki-modelle-offline-lokal-betreiben/
   + [alpaca](https://github.com/Jeffser/Alpaca)
   + https://linuxtldr.com/setup-ollama-and-open-webui-on-linux/
-    The simplest way to run Alpaca (and other LLaMA-based local LLMs) on your own computer 
+    The simplest way to run Alpaca (and other LLaMA-based local LLMs) on your own computer
+  + [gnome search with alpaca](https://github.com/Jeffser/Alpaca/wiki/Gnome-Search-Integration)
+  + [why you should sandbox alpaca](https://github.com/Jeffser/Alpaca/wiki/Dangers-of-Code-Runner#how-does-code-running-work)
 * [alpaca electron](https://github.com/ItsPi3141/alpaca-electron)
 * [ollama](https://github.com/ollama/ollama)
   alpaca is based on ollama
@@ -211,3 +213,17 @@ state-of-the-art platform for statistical modeling and high-performance statisti
 
 * https://www.br.de/extra/br-data/index.html
 * [Deutsches Forschungszentrum für KI](https://www.dfki.de/web)
+
+## AI protocols (for programmers)
+
+* [MCP (Model Context Protocol)](https://modelcontextprotocol.io/introduction)
+  + https://github.com/modelcontextprotocol
+  + [Understand the Model Context Protocol](https://coffeebytes.dev/en/understand-the-model-context-protocol-or-mcp-once-and-for-all/)
+  + [GitHub MCP Server](https://github.com/github/github-mcp-server)
+  + [MCP for serverless](https://www.serverless.com/framework/docs/guides/mcp)
+  + [search machine for MCP server](https://mcp.so/)
+* [NotebookLM](https://notebooklm.google/)
+  your KI research assistant
+  + https://coffeebytes.dev/en/google-notebooklm-will-reshape-the-podcast-scenario-forever/
+* [book: Coding with AI](https://www.manning.com/books/coding-with-ai)
+* [How to Craft Innovative LLM Apps](https://dev.to/hyscaler/llm-native-alchemists-playbook-how-to-craft-innovative-ai-apps-k03)

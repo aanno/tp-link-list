@@ -21,6 +21,9 @@
 
 ## Workspaces
 
+* [Notion](https://www.notion.so/)
+  Write. Plan. Collaborate. With a little help from AI.
+
 ### Che
 
 * https://www.eclipse.org/che/docs/che-7/running-che-locally/
