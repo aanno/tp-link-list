@@ -276,6 +276,7 @@
 
 * https://go.dev/talks/2012/goforc.slide featured!
 * https://yourbasic.org/golang/go-java-tutorial/
+* [official go tutorials](https://go.dev/doc/tutorial/)
 * https://gobyexample.com/ simple
 * https://go.dev/tour/welcome/1 simple
 * https://golangdocs.com/ blog
@@ -297,12 +298,32 @@
 * [sync await](https://hackernoon.com/asyncawait-in-golang-an-introductory-guide-ol1e34sg)
   + https://github.com/Joker666/AsyncGoDemo
 
+#### Go Support
+
+* [Golangbridge Forum](https://forum.golangbridge.org/)
+
+## Go tools and concepts
+
+* [go modules](https://go.dev/blog/using-go-modules)
+  + [Why is GO111MODULE everywhere, and everything about Go Modules](https://maelvls.dev/go111module-everywhere/)
+* [go tool and go generate](https://www.jvt.me/posts/2025/01/27/go-tools-124/)
+* [more official go tools](https://pkg.go.dev/golang.org/x/tools)
+* [tutorial on workspaces](https://go.dev/doc/tutorial/workspaces)
+  + [What are go workspaces and how do I use them?](https://dev.to/gophers/what-are-go-workspaces-and-how-do-i-use-them-1643)
+  + [Get familiar with workspaces](https://go.dev/blog/get-familiar-with-workspaces)
+* [go mod cmd reference](https://go.dev/ref/mod)
+  + [How to identify dependency chain](https://stackoverflow.com/questions/65683782/how-to-identify-dependency-chain-using-go-modules)
+* [go cmd reference](https://pkg.go.dev/cmd/go)
+* [go vet cmd reference](https://pkg.go.dev/cmd/vet)
+
 ### Go concurrency, runtime model, memory model, and IPC
 
 * [Go: race conditions on goroutines and mutexes](https://coffeebytes.dev/en/go-race-conditions-on-goroutines-and-mutexes/)
 * [Go: Handling Signals for Closing Applications](https://coffeebytes.dev/en/go-handling-signals-for-closing-applications/)
 * [Go Concurrency Patterns: Pipelines and cancellation](https://go.dev/blog/pipelines)
 * [Applying Modern Go Concurrency Patterns to Data Pipelines](https://medium.com/amboss/applying-modern-go-concurrency-patterns-to-data-pipelines-b3b5327908d4)
+* [concurrency patterns](https://github.com/gobridge/concurrency-patterns)
+  old
 
 ### Go std lib
 
@@ -311,6 +332,8 @@
 * https://blog.xendit.engineer/streaming-an-avalanche-of-data-with-gos-io-package-d319226f645b
 * https://medium.com/learning-the-go-programming-language/streaming-io-in-go-d93507931185
 * https://zetcode.com/golang/string-format/
+* [go x](https://pkg.go.dev/golang.org/x)
+  part of the Go Project but outside the main Go tree
 
 ### Go build
 
@@ -333,6 +356,18 @@
   StreamLike, Immutable, Lazy Loading
 * [stm](https://github.com/anacrolix/stm)
   software transactional memory in golang (but 5 times slower than using mutexes)
+
+#### Audio with go lang
+
+* [go-mpv](https://github.com/gen2brain/go-mpv)
+  Go bindings for libmpv
+  + [fork](https://github.com/supersonic-app/go-mpv)
+    support for mpv_node APIs (needed for subsonic)
+
+#### UI with go lang
+
+* [miqt](https://github.com/mappu/miqt)
+  This is a straightforward binding of the Qt 5.15 / Qt 6.4+ API using CGO
 
 #### Go libs for enterprise stuff
 

@@ -96,7 +96,8 @@
 * https://sourceforge.net/projects/minidlna/files/minidlna/ (now ReadyMedia)
 * https://mopidy.com/ (mpd clone)
 * https://owntone.github.io/owntone-server/ (mpd and daap)
-* https://airsonic.github.io/ (subsonic fork)
+* https://airsonic.github.io/
+  subsonic fork, java and javascript
   + https://airsonic.github.io/docs/configure/introduction/
   + https://github.com/airsonic/airsonic-docs
   + https://github.com/airsonic-advanced/airsonic-advanced
@@ -279,6 +280,11 @@
 * [Macast - desktop menu bar app to use `mpv` as renderer](https://github.com/xfangfang/Macast)
 * [mpvDLNA - make `mpv` DLNA aware](https://github.com/chachmu/mpvDLNA)
 
+#### Subsonic clients
+
+* [audioling](https://github.com/audioling/audioling)
+  typescript, tauri
+
 #### DLNA tools
 
 * [simple-dlna-browser](https://github.com/javier-lopez/learn/blob/master/sh/tools/simple-dlna-browser) shell script to browse DLNA
@@ -323,6 +329,9 @@
 
 * [use ffmpeg (or ffprobe) to extract metadata](https://superuser.com/questions/1699035/ffmpeg-extract-metadata)
 * [MediaInfo](https://mediaarea.net/de/MediaInfo) CLI and library
+* [TagLib](https://taglib.org/)
+  C++, featured!
+  + https://github.com/taglib/taglib/blob/master/INSTALL.md
 
 ## Radio
 

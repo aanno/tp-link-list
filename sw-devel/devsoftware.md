@@ -263,7 +263,8 @@
 
 ### CMS cloud services
 
-* [prismic - make your website editable](https://prismic.io/) supports next.js, nuxt.js, gatsby
+* [prismic - make your website editable](https://prismic.io/)
+  supports next.js, nuxt.js, gatsby
 
 ### Git based CMS
 
@@ -297,7 +298,8 @@
   + [docs](https://docs.directus.io/getting-started/introduction.html)
 * [payload CMS](https://payloadcms.com/)
   + https://github.com/payloadcms/payload
-  + https://payloadcms.com/blog/30-beta-install-payload-into-any-nextjs-app-with-one-line payload 3.0 is next.js based
+  + https://payloadcms.com/blog/30-beta-install-payload-into-any-nextjs-app-with-one-line
+    payload 3.0 is next.js based
 * https://github.com/apostrophecms/apostrophe-headless
   + https://apostrophecms.org/docs/technical-overviews/technical-overview.html
   + https://apostrophecms.org/features

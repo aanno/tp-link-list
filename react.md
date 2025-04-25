@@ -149,8 +149,11 @@
 
 * https://dnlytras.com/blog/rewriting-with-next
   + https://remix.run/
+  + https://remix.guide/
   + https://dnlytras.com/blog/working-with-remix
 * [How To Parse Markdown In A Secure NextJS/React](https://smarative.com/blog/nextjs-libraries-for-render-markdown-in-a-secure-way)
 * [Best Next js Plugin](https://kapsys.io/user-experience/10-best-next-js-plugins-to-extend-your-application)
 * [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote)
   allow MDX be loaded within `geStaticProps` to client from anywhere
+* [next.js debugging](https://nextjs.org/docs/pages/building-your-application/configuring/debugging)
+  + [Debugger not binding breakpoints in VSCode in server components](https://github.com/vercel/next.js/issues/62008)

@@ -71,6 +71,10 @@
   + [system architecture](https://en.oceanbase.com/docs/community-observer-en-10000000000829641)
   + https://dev.to/waynes/create-a-headless-cms-using-oceanbase-and-typescript-a-step-by-step-tutorial-2bc2
 
+## SQL syntax and extensions
+
+* [common table expression (CTE)](https://learnsql.de/blog/was-ist-ein-cte/)
+
 ## No-SQL (nosql)
 
 * https://en.wikipedia.org/wiki/Comparison_of_OLAP_servers

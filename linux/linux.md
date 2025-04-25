@@ -206,6 +206,7 @@
   + https://docs.crowdsec.net/docs/bouncers/nginx/
   + https://www.crowdsec.net/blog/crowdsec-with-nginx-proxy-manager
   + https://goneuland.de/nextcloud-absichern-mit-crowdsec/
+  + [Linux-Server in 15 Minuten mit CrowdSec absichern](https://andersgood.de/blog/linux-server-in-15-minuten-mit-crowdsec-absichern)
 * https://iplists.firehol.org/
   
 #### Disk Usage

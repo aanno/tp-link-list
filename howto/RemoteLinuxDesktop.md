@@ -208,6 +208,15 @@ Fingerprint nun tatsächlich zum XRDP-Server gehört, erfährt man, indem man au
 - [Grundlagen](http://www.heise.de/ix/artikel/Gewuerzmischung-1748671.html)
 - [Homepage](http://www.spice-space.org/index.html)
 - [More clients and server](http://www.spice-space.org/download.html)
+- [Spice code](https://gitlab.freedesktop.org/spice/spice)
+- [Running graphic application in a container using Xspice](https://www.spice-space.org/demos.html)
+  docker or podman
+
+### Spice critics
+
+SPICE als Protokoll nicht für Zwecke gedacht ist, bei denen die Daten auch über latenzbehaftete Leitungen gehen (siehe FAQ von SPICE).
+
+* [Performanter Remote Desktop für Ubuntu und Co.](https://andersgood.de/kurz-notiert/performanter-remote-desktop-fuer-ubuntu-und-co)
 
 ### Spice Server on Linux
 

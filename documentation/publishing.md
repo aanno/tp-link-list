@@ -186,6 +186,10 @@
   + https://katex.org/
 * [asciidoctor-html5s](https://github.com/jirutka/asciidoctor-html5s)
 * https://www.data2type.de/xml-xslt-xslfo/docbook/block-elemente/gleichungen/einfache-formeln-mit-mathphras/ docbook minimal math support
+* [mathjax component](https://docs.mathjax.org/en/latest/web/components/misc.html)
+  + [mathjax lite adaptor](https://github.com/mathjax/MathJax-src/blob/master/ts/adaptors/liteAdaptor.ts)
+    adaptors/liteDOM component implements an alternative to the browser DOM 
+    that can be used to parse HTML pages outside of a browser, i.e. in node.js
   
 ## Diagramms
 

@@ -86,7 +86,6 @@
   + https://medialab.github.io/minivan/#/
 * http://sigmajs.org/ (js)
 * https://www.yworks.com/products/yed (commercial but free to use)
-* https://mermaid-js.github.io/mermaid/#/ (uml, flow, pie, gantt, sequence, mindmap)
 * [ggplot2](https://ggplot2.tidyverse.org/) R-lang
 
 #### Graph layouting

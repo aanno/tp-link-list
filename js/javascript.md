@@ -3,7 +3,13 @@
 ## Package registries
 
 * https://www.npmjs.com/
-* https://jsr.io/ open-source package registry 
+* https://jsr.io/ open-source package registry
+
+## VS Code (vscode)
+
+* [Debugging TypeScript](https://code.visualstudio.com/docs/typescript/typescript-debugging)
+* [Debug in Firefox](https://github.com/firefox-devtools/vscode-firefox-debug)
+  + [Debug React in Firefox](https://stackoverflow.com/questions/48059983/react-debug-using-vscode-and-firefox-instead-of-chrome)
 
 ## General and Language
 

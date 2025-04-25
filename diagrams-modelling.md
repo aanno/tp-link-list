@@ -34,10 +34,21 @@
   + [vizjs layout engine](https://plantuml.com/de/vizjs)
   + [non-uml diagrams](https://plantuml.com/de/dot)
   + [C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) fork for C4model support
-* https://kroki.io/#support (very many diagram types, including plantuml and c4 support)
+* https://kroki.io/#support
+  very many diagram types, including plantuml and c4 support
+  + https://github.com/yuzutech/kroki
   + https://github.com/mogztter/asciidoctor-kroki
 * https://github.com/prmr/JetUML
 * https://github.com/argouml-tigris-org/argouml
 * [class diagrams with idea](https://www.jetbrains.com/help/idea/class-diagram.html)
 * https://gaphor.org/ (eclipse based)
 * https://github.com/bpmn-io/bpmn-js (view and edit)
+* [drawio](https://www.drawio.com/)
+  now diagrams.net
+  + https://github.com/jgraph/drawio
+  + [drawio desktop](https://github.com/jgraph/drawio-desktop)
+    diagramming desktop app based on Electron that wraps the core draw.io editor
+* https://mermaid-js.github.io/mermaid/#/
+  uml, flow, pie, gantt, sequence, mindmap
+* https://github.com/excalidraw/excalidraw
+  + https://excalidraw.com/

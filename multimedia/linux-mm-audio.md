@@ -1,5 +1,8 @@
 # Linux Multimedia and Audio
 
+* [Audio API Quick Start Guide: Playing and Recording Sound on Linux, Windows, FreeBSD and macOS](https://habr.com/en/articles/663352/)
+  featured!
+
 ## Realtime Audio on Linux
 
 * [Fedora Pipewire Low Latency Audio Configuration Reference Guide](https://linuxmusicians.com/viewtopic.php?t=27121)
@@ -23,6 +26,13 @@
 * [pulse](https://github.com/jfreymuth/pulse)
   PulseAudio client implementation in pure Go
 
+## ALSA (API)
+
+* [PCM basics](https://vovkos.github.io/doxyrest/samples/alsa/page_pcm.html)
+* [ALSA library documentation](https://vovkos.github.io/doxyrest/samples/alsa/group_PCM_SubFormat.html)
+* [alsa-lib c interface API](https://www.alsa-project.org/alsa-doc/alsa-lib/index.html)
+* [complete guide of ALSA](https://embeddedprep.com/complete-guide-of-alsa-linux-audio/)
+  short overview, featured!
 
 ## ffmpeg, mpv, vlc, and the like
 

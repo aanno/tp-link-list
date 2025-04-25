@@ -1,4 +1,4 @@
-# Development mobile
+# Development Cross Platform mobile
 
 * https://www.codenameone.com/ (DnD, Java or Kotlin)
 * https://ionicframework.com/ (angular, react, vue)
@@ -19,11 +19,13 @@
 ## More Browser engines (Build desktop and mobile apps)
 
 * [tauri](https://github.com/tauri-apps/tauri)
+* [Tauri 2.0](https://v2.tauri.app/)
 * [sciter](https://sciter.com/) old
 
 ## Mobile Libs
 
 ### database
 
-* [realm-java](https://github.com/realm/realm-java) mobile database that runs directly inside phones (by mongodb)
+* [realm-java](https://github.com/realm/realm-java)
+  mobile database that runs directly inside phones (by mongodb)
   + https://realm.io/
