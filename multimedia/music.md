@@ -72,6 +72,12 @@
 
 ## DLNA and other music servers
 
+* [Upnp AV technical overview](https://upnp.org/resources/documents/UPnP_AV_tutorial_July2014.pdf)
+* [search content](https://stackoverflow.com/questions/4953521/filtering-parameters-on-dlna)
+  is "Search" UPnP-ContentDirectory action (`urn:schemas-upnp-org:service:ContentDirectory:1`) with
+  `objectID` and `filter` parameters
+  However, _not required by the UPnP specification_.
+
 ### Overview
 
 * https://circuitdigest.com/article/top-media-server-software-for-music-streaming-on-raspberry-pi

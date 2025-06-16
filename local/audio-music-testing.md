@@ -71,7 +71,7 @@ $ ldd navidrome
 
 ## upmpdcli
 
-1. I create packages (rpm) on my on. See https://github.com/aanno/linux-config/tree/master/build-with-docker
+1. I created packages (rpms) on my on. See https://github.com/aanno/linux-config/tree/master/build-with-docker
    for details.
 2. [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/) is a complex beast with 3 major functions.
 3. [Configuration file reference](https://www.lesbonscomptes.com/upmpdcli/pages/upmpdcli-manual.html#_upmpdcli_configuration)
@@ -134,20 +134,67 @@ plugins written in python. The net result is that you have another DLNA/Upnp Med
   + [libnpupnp documentation](https://www.lesbonscomptes.com/upmpdcli/npupnp-doc/refdoc/html/index.html)
     An almost compatible successor for the Portable UPnP reference library
   + [npupnp-samples](https://framagit.org/medoc92/npupnp-samples)
+* [Portable SDK for UPnP* Devices (libupnp) ](https://github.com/pupnp/pupnp)
+  This is the library that Jean-Francois Docker does not like.
 
 ### Code
 
 * [upmpdcli](https://framagit.org/medoc92/upmpdcli/)
+* [upmpdcli-docker](https://github.com/GioF71/upmpdcli-docker)
+  docker image of upmpdcli
 * [ohSongcast](https://github.com/openhome/ohSongcast) of [openhome](https://github.com/openhome?q=ohnetmon&type=all&language=&sort=)
 * [upplay](https://framagit.org/medoc92/upplay)
 
 ### Alternatives
 
+* [Front-end integration, Back-end integration](https://www.lesbonscomptes.com/upmpdcli/pages/upmpdcli-or-mpdupnp.html)
 * [MediaPlayer](https://github.com/PeteManchester/MediaPlayer) is an alternative for 
-  upmpdcli media renderer functionality
+  upmpdcli media renderer functionality (frontend integration)
+* [mpd-upnp](https://mpd.readthedocs.io/en/latest/plugins.html#upnp)
+  backend integration
 
 ### Jean-Francois Dockes
 
 * [projects](https://framagit.org/users/medoc92/projects)
   + [recoll-we](https://framagit.org/medoc92/recoll-we)
     Indexing Firefox visited pages with [Recoll](https://www.recoll.org/)
+
+## Minim
+
+Commercial DLNA/Upnp solution in Java.
+
+### License
+
+* [How to get a license](https://minimworld.com/license-info.html)
+* [Prices](https://minimworld.com/purchase-license.html)
+  3 devices GBP 28
+* [downloads](https://minimserver.com/downloads.html)
+* [forum/discussion/support](https://forum.minimserver.com/)
+
+### Minim Server - DLNA/Upnp server
+
+1. Unpack
+2. Setup with `./minimserver/bin/setup`
+   Options are: enable_desktop, disable_desktop, enable_autostart, disable_autostart
+3. Start (CLI) with `./minimserver/bin/startc`
+4. You have a command prompt now; type `help` for help.
+5. Look at http://192.168.10.145:9790 to active trial license (30 days)
+6. Communication between watch and server is on udp/1900
+7. Log is at `./minimserver/data/minimserver.log`
+
+* [features](https://minimserver.com/features.html)
+* [quickstart for linux](https://minimserver.com/quickstart-linux.html)
+* [Monitoring and control](https://minimserver.com/ug-control.html)
+
+### Minim Watch
+
+* [Minim Watch](https://minimserver.com/minimwatch.html)
+  manage and configure MinimServer from any computer on your local network
+* [quickstart on linux](https://minimserver.com/install-linux-mwatch.html)
+
+### Minim Streamer
+
+Only works with a purchased license!
+
+* [Minim Streamer](https://minimstreamer.com/index.html)
+  home hub for network audio streaming and audio stream processing (transcoding and web radio)
