@@ -109,6 +109,11 @@ plugins written in python. The net result is that you have another DLNA/Upnp Med
 ### Songcast - multi room solution (like snapcast)
 
 * [Upmpdcli and Songcast](https://www.lesbonscomptes.com/upmpdcli/pages/upmpdcli-manual.html#UPMPDCLI-SONGCAST)
+* [upplay](https://www.lesbonscomptes.com/upplay/)
+  Qt-based UPnP audio controller
+  + [Upplay downloads](https://www.lesbonscomptes.com/upplay/pages/downloads.html)
+* [BubbleDS](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleds2&hl=de)
+  Songcast/DLNA/Upnp controller for Android
 
 ### More documentation
 
@@ -119,8 +124,30 @@ plugins written in python. The net result is that you have another DLNA/Upnp Med
 
 * [OpenHome Player for Ubuntu 15.10](http://openhome.org/pages/use/downloads/linux.html)
 * [songcast](https://www.songcastmusic.com/)
+* [libupnpp](https://framagit.org/medoc92/libupnpp/)
+  Libupnpp provides a higher level C++ API over libnpupnp or libupnp
+  + [Libupnpp for Control Points](https://www.lesbonscomptes.com/upmpdcli/libupnpp-refdoc/libupnpp-ctl.html)
+  + [libupnpp-samples](https://framagit.org/medoc92/libupnpp-samples)
+* [npupnp](https://framagit.org/medoc92/npupnp/)
+  A C++ base UPnP library, derived from Portable UPnP, a.k.a libupnp
+  + [libnpupnp : replacing the venerable pupnp/libupnp](https://www.lesbonscomptes.com/upmpdcli/npupnp-doc/libnpupnp.html)
+  + [libnpupnp documentation](https://www.lesbonscomptes.com/upmpdcli/npupnp-doc/refdoc/html/index.html)
+    An almost compatible successor for the Portable UPnP reference library
+  + [npupnp-samples](https://framagit.org/medoc92/npupnp-samples)
 
 ### Code
 
 * [upmpdcli](https://framagit.org/medoc92/upmpdcli/)
 * [ohSongcast](https://github.com/openhome/ohSongcast) of [openhome](https://github.com/openhome?q=ohnetmon&type=all&language=&sort=)
+* [upplay](https://framagit.org/medoc92/upplay)
+
+### Alternatives
+
+* [MediaPlayer](https://github.com/PeteManchester/MediaPlayer) is an alternative for 
+  upmpdcli media renderer functionality
+
+### Jean-Francois Dockes
+
+* [projects](https://framagit.org/users/medoc92/projects)
+  + [recoll-we](https://framagit.org/medoc92/recoll-we)
+    Indexing Firefox visited pages with [Recoll](https://www.recoll.org/)
