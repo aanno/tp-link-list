@@ -68,3 +68,59 @@ $ ldd navidrome
         libz.so.1 => /lib64/libz.so.1 (0x00007fa798358000)
         /lib64/ld-linux-x86-64.so.2 (0x00007fa7984ef000)
 ```
+
+## upmpdcli
+
+1. I create packages (rpm) on my on. See https://github.com/aanno/linux-config/tree/master/build-with-docker
+   for details.
+2. [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/) is a complex beast with 3 major functions.
+3. [Configuration file reference](https://www.lesbonscomptes.com/upmpdcli/pages/upmpdcli-manual.html#_upmpdcli_configuration)
+
+### Media Renderer
+
+upmpdcli works as a DLNA/Upnp Media renderer. It will be controlled by a DLNA/Upnp Controller (like BubbleUPNP).
+The controller will point it to an music file (from a DLNA/Upnp Server) and upmpdcli will proxy it to a
+*MPD server* (could also be something like owntone). The net result is that you have enhanced your mpd server
+with DLNA/Upnp functionality.
+
+* [Upmpdcli Media Renderer](https://www.lesbonscomptes.com/upmpdcli/pages/upmpdcli-manual.html#UPMPDCLI-RENDERER)
+
+### Media Server
+
+* [Upmpdcli Media Server](https://www.lesbonscomptes.com/upmpdcli/pages/upmpdcli-manual.html#UPMPDCLI-MS)
+
+upmpdcli works as a DLNA/Upnp Media server. It will expose/serve content to play. This is implemented the
+plugins written in python. The net result is that you have another DLNA/Upnp Media server.
+
+* [Uprcl](https://www.lesbonscomptes.com/upmpdcli/pages/upmpdcli-manual.html#UPMPDCLI-MS-UPRCL) is for local music
+* [subsonic](https://www.lesbonscomptes.com/upmpdcli/pages/upmpdcli-manual.html#UPMPDCLI-MS-SUBSONIC) is for accessing content
+  of servers with subsonic compatible API.
+* [streaming service](https://www.lesbonscomptes.com/upmpdcli/pages/upmpdcli-manual.html#UPMPDCLI-MS-STR) is to access
+  + [Tidal](https://www.lesbonscomptes.com/upmpdcli/pages/upmpdcli-manual.html#UPMPDCLI-MS-STR-TIDAL)
+  + [Qobuz](https://www.lesbonscomptes.com/upmpdcli/pages/upmpdcli-manual.html#UPMPDCLI-MS-STR-QOBUZ)
+  + [radio-browser.info](https://www.lesbonscomptes.com/upmpdcli/pages/upmpdcli-manual.html#UPMPDCLI-MS-RADIO-BROWSER) 
+    is to access [Radio Browser](https://www.radio-browser.info/)
+  + similiar plugins for [Radio Paradise](https://www.radioparadise.com/), 
+    [Mother Earth Radio](https://www.motherearthradio.de/), and
+    [BBC sounds](https://www.bbc.co.uk/sounds)
+  + [Upradios radio list](https://www.lesbonscomptes.com/upmpdcli/pages/upmpdcli-manual.html#UPMPDCLI-MS-UPRADIOS)
+    is for configuring arbitrary internet radio stations
+
+### Songcast - multi room solution (like snapcast)
+
+* [Upmpdcli and Songcast](https://www.lesbonscomptes.com/upmpdcli/pages/upmpdcli-manual.html#UPMPDCLI-SONGCAST)
+
+### More documentation
+
+* [Libupnpp, Upmpdcli and Sc2mpd Documentation](https://www.lesbonscomptes.com/upmpdcli/pages/docs.html)
+* [Upmpdcli and associated libraries release notes](https://www.lesbonscomptes.com/upmpdcli/pages/releases.html)
+
+### Dependencies
+
+* [OpenHome Player for Ubuntu 15.10](http://openhome.org/pages/use/downloads/linux.html)
+* [songcast](https://www.songcastmusic.com/)
+
+### Code
+
+* [upmpdcli](https://framagit.org/medoc92/upmpdcli/)
+* [ohSongcast](https://github.com/openhome/ohSongcast) of [openhome](https://github.com/openhome?q=ohnetmon&type=all&language=&sort=)
