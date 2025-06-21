@@ -122,6 +122,9 @@
 * [simpleDLNA](https://nmaier.github.io/simpleDLNA/)
   zero-config DLNA media server for serving a media folder
 * [Music Caster](https://github.com/elibroftw/music-caster) modern music player with the ability to cast audio files
+* [jupnp](https://github.com/jupnp/jupnp)
+   Java UPnP library and has been forked from the no-longer maintained Cling project
+   + [jupnp docs](https://www.jupnp.org/docs/introduction/)
 
 ### Misc
 

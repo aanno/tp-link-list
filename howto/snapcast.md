@@ -22,7 +22,9 @@ pw-record -P stream.capture.sink=true --target alsa_output.platform-snd_aloop.0.
 source = pipe:///tmp/snapfifo?name=default
 source = pipe:///tmp/audio.pcm?name=vsnd
 source = tcp://127.0.0.1:1703?name=tcpserver&mode=server
-source = meta://default/vsnd/tcpserver?name=meta
+# source = meta://default/vsnd/tcpserver?name=meta
+source = pipewire://?name=pw-default
+source = pipewire://?capture_sink=true&target=alsa_output.platform-snd_aloop.0.analog-stereo&name=pw-sink
 ```
 
 ```bash
