@@ -598,6 +598,7 @@
 
 * https://buildpacks.io/
 * [openshift source-to-image (s2i)](https://github.com/openshift/source-to-image)
+  + [jkube](https://projects.eclipse.org/projects/ecd.jkube)
 * [jib](https://github.com/GoogleContainerTools/jib) cli, maven, gradle
 * [kaniko](https://github.com/GoogleContainerTools/kaniko) build images in kubernetes
 * [ko](https://ko.build/) build images for go-lang apps

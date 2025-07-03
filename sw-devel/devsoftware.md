@@ -701,6 +701,25 @@
   + https://www.znuny.org/de
   + https://www.heise.de/news/Ticketsystem-Znuny-7-als-Open-Source-Alternative-zu-OTRS-8969167.html
 
+## Feature flags, A/B testing
+
+* [unleash](https://github.com/Unleash/unleash) partly commercial
+  + https://www.getunleash.io
+  + [what is unleash](https://docs.getunleash.io/understanding-unleash/the-anatomy-of-unleash)
+  + [architecture](https://docs.getunleash.io/understanding-unleash/unleash-overview)
+  + [supported languages, SDKs](https://docs.getunleash.io/reference/sdks)
+  + [proxy layer between your Unleash API and SDKs](https://docs.getunleash.io/reference/unleash-edge)
+* [flagr](https://github.com/openflagr/flagr)
+  + https://openflagr.github.io/flagr/#/home
+* [flipper](https://github.com/flippercloud/flipper)
+  + https://www.flippercloud.io/docs/introduction
+* [flipt](https://flipt.io/)
+  + https://github.com/flipt-io/flipt
+* [flagsmith](https://www.flagsmith.com/)
+  + https://github.com/Flagsmith/flagsmith
+  + https://docs.flagsmith.com/basic-features/
+* [launchdarkly](https://launchdarkly.com/) commercial
+
 ## Automate everything
 
 * [stackstorm](https://stackstorm.com/)

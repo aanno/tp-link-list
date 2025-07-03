@@ -480,3 +480,7 @@ mapper
 * [What makes Rust so difficult to learn?](https://coffeebytes.dev/en/what-makes-rust-so-difficult-to-learn/)
 * [rustlings](https://github.com/rust-lang/rustlings)
   small exercises to get you used to reading and writing Rust code
+* [Graham King Blog](https://darkcoding.net/)
+  mainly about Rust, but also other languages
+* [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
+  collection of runnable examples that illustrate various Rust concepts and standard libraries

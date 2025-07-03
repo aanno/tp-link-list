@@ -103,11 +103,16 @@ Also see self-hosting in software.md
 * https://fedoramagazine.org/deploy-your-own-matrix-server-on-fedora-coreos/ matrix on fcos
 * [cloudogu](https://cloudogu.com/en/ecosystem/architecture/) cloud self-hosting - commercial
   + [smeagol wiki](https://github.com/cloudogu/smeagol)
+    - https://github.com/cloudogu/smeagol
+    - https://github.com/AustinWise/smeagol
+    - https://smeagol.dev/
   + [standalone smeagol wiki](https://github.com/schnatterer/smeagol-galore)
   + https://cloudogu.com/de/blog/smeagol-das-open-source-git-wiki
   + [agosense - project management](https://agosense.com/de/produkte/agosensefidelia) - commercial
   + [scm-manager](https://scm-manager.org/)
     - https://github.com/scm-manager/scm-manager
+  + https://github.com/orgs/cloudogu/repositories?type=all
+    Includes many kubernetes stuff as well
 * https://kinsta.com/ cloud self-hosting
 * https://ably.com/ commercial
 

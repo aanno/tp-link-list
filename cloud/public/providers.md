@@ -46,6 +46,8 @@
 * https://cloud.ibm.com/login
 * https://www.oracle.com/cloud
 * https://www.ovhcloud.com/de/
+* https://www.clever-cloud.com/
+  + https://www.clever-cloud.com/pricing/
 
 ## Rather server provider
 

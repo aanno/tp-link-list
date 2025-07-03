@@ -241,10 +241,62 @@ Only tools:
 
 ## SCM
 
-### multi scm solutions
+### forges
 
-* [rhodecode](https://rhodecode.com/open-source)
+* [heptapod](https://foss.heptapod.net/public)
+  git and hg forge, based on gitea
+* [gitea](https://gitea.io/en-US/)
+
+#### smaller forges
+
+* [gitbucket](https://gitbucket.github.io/)
+* [onedev](https://github.com/theonedev/onedev)
+  Git Server with CI/CD, Kanban, and Packages in Java
+  + https://code.onedev.io/ self hosted
+* [gogs](https://gogs.io/)
+
+#### multi scm solutions
+
+* [rhodecode](https://rhodecode.com/open-source) python
   + https://docs.rhodecode.com/RhodeCode-Control/ref/arch-overview.html
+  + https://rhodecode.com/open-source
+* https://scm-manager.org/ featured!, java
+  + https://scm-manager.org/docs/3.8.x/en/development/architecture-overview/
+
+### SCM tools
+
+* [watchman](https://github.com/facebook/watchman)
+  watch a file and trigger actions
+
+### hg mercurial
+
+* https://www.mercurial-scm.org/
+  + [evolve extension](https://www.mercurial-scm.org/doc/evolution/)
+    faster and safer mutable history
+    - https://wiki.mercurial-scm.org/ChangesetEvolution
+    - https://pypi.org/project/hg-evolve/
+    - https://repo.mercurial-scm.org/evolve/
+  + [CommandServer](https://wiki.mercurial-scm.org/CommandServer)
+    binding to hg by pipe
+    + https://wiki.mercurial-scm.org/PythonHglib
+    + https://wiki.mercurial-scm.org/CHg
+    + [javahg](https://foss.heptapod.net/mercurial/javahg)
+
+### evolving SCMs
+
+* [jujutsu](https://github.com/jj-vcs/jj)
+  + [git compatibility of jj](https://jj-vcs.github.io/jj/latest/git-compatibility/)
+  + [comparison with Sapling](https://jj-vcs.github.io/jj/latest/sapling-comparison/)
+  + [related work](https://jj-vcs.github.io/jj/latest/related-work/)
+* [pijul](https://pijul.org/)
+  darcs done right and in rust
+  + https://nest.pijul.com/pijul/pijul self-hosted pijul forge
+  + https://nest.pijul.com/
+* [darcs](https://darcs.net/)
+* [sapling](https://github.com/facebook/sapling) featured!
+  + [sapling vs git](https://sapling-scm.com/docs/sapling-vs-git)
+  + [sapling vs jj](https://jj-vcs.github.io/jj/latest/sapling-comparison/)
+  + [sapling vs mercurial](https://sapling-scm.com/docs/sapling-vs-mercurial)
 
 ### git (tips and tricks)
 
@@ -320,6 +372,8 @@ Only tools:
 * [git branchless](https://github.com/arxanas/git-branchless) misc extensions to git like `undo` or `move` subtree
 * [git-cache-meta](https://gist.github.com/andris9/1978266)
 * [jgit.sh comes with S3 repo support](https://metamug.com/article/productivity/jgit-host-git-repository-on-s3.html)
+* [ghcstack](https://github.com/ezyang/ghstack) 
+  managing stacks of patches in git, similar to `arc` from phabricator
 
 ##### git lfs
 
@@ -344,12 +398,14 @@ on the 'git server' (a git lfs server). This is included I all major git servers
 
 #### inspired by git
 
-* [jujutsu](https://github.com/martinvonz/jj)
-  + [git compatibility of jj](https://martinvonz.github.io/jj/v0.14.0/git-compatibility/)
 * [gitless](https://gitless.com/) simplified git in python
   + https://github.com/gitless-vcs/gitless
+* [git-branchless](https://github.com/arxanas/git-branchless)
+  High-velocity, monorepo-scale workflow for Git 
 * [radicle](https://radicle.xyz/) p2p dev network for developing with git (serverless)
-* [pijul](https://pijul.org/)
+* [breezy](https://github.com/breezy-team/breezy)
+  built-in support for the Git and Bazaar
+  + https://www.breezy-vcs.org/
 
 #### alternatives to git
 

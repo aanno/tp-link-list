@@ -366,6 +366,9 @@
 
 * [WiiM](https://wiimhome.com/) music streaming hardware
   + [WiiM Pro Plus](https://www.amazon.de/WiiM-Chromecast-Multiroom-Kompatibel-Assistant/dp/B0CC2HWC7N)
+* [Bluesound Node](https://www.bluesound.com/eur/node)
+  + https://github.com/pmeter/Bluebox
+  + https://github.com/venjum/bluesound old
 * [hifiberry](https://www.hifiberry.com/)
 * [volumio for raspberry](https://volumio.com/get-started/)
 

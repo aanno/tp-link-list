@@ -110,6 +110,10 @@
   + [jetbrains ai](https://www.jetbrains.com/ai/)
 * [amazon q](https://aws.amazon.com/de/q/)
 
+##### AI for programmers, IDE, post-IDE
+
+* https://cosine.sh/ Genie, AutoPM
+
 #### language identification
 
 * https://stackoverflow.com/questions/58319996/commands-to-predict-the-language-with-fasttext-in-linux
