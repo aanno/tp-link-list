@@ -343,6 +343,11 @@
   + https://developers.redhat.com/products/odo/overview
 * [debug with vscode](https://developers.redhat.com/blog/2020/02/28/debugging-components-in-openshift-using-vs-code#)
 
+#### Kubernetes IDEs
+
+* [k8slens](https://k8slens.dev/)
+  Popular IDE for Kubernetes, Now with Built-in AI
+
 #### programming
 
 #### special apps on openshift
@@ -414,6 +419,9 @@
 * https://docs.google.com/spreadsheets/d/1FCgqz1Ci7_VCz_wdh8vBitZ3giBtac_H8SBw4uxnrsE/edit#gid=0 featured!
 * [kubetools](https://collabnix.github.io/kubetools/) featured!
 * https://www.augmentedmind.de/2022/08/21/kubernetes-development-tools/
+* [k9s](https://k9scli.io/) featured!
+  + https://github.com/derailed/k9s
+* [devspace](https://www.devspace.sh/)
 
 ## kubernetes and openshift gitops
 
@@ -528,6 +536,7 @@
 * [oreilly book 2021](https://github.com/openshift-for-developers)
 * [openshift courses for developers](https://medium.com/javarevisited/6-best-openshift-courses-for-beginners-and-experienced-developers-d124edd2baff)
 * [Openshift Guide](https://github.com/mikeroyal/OpenShift-Guide/blob/main/README.md) featured!
+* [Comparing Local Kubernetes Development Tools](https://kubernetes.io/blog/2023/09/12/local-k8s-development-tools/)
 
 * [Openshift Dev Spaces](https://developers.redhat.com/products/openshift-dev-spaces/download) - eclipse che on the cluster
 * [Red Hat Openshift Dev Tools](https://developers.redhat.com/products/openshift/download)
@@ -542,6 +551,13 @@
 * [DevSpace](https://github.com/devspace-sh/devspace)
 * [draft](https://github.com/Azure/draft)
 * [garden](https://github.com/garden-io/garden) partly commercial
+* [telepresence](https://telepresence.io/)
+  Fast, local development for Kubernetes and OpenShift Microservices
+  + https://telepresence.io/docs/quick-start
+* [gefyra](https://gefyra.dev/)
+  Blazingly-fast, rock-solid, local application development with Kubernetes
+* [mirrord](https://metalbear.co/mirrord/) commercial
+  run your microservice locally with seamless access to everything in the cloud
 
 ### odo
 

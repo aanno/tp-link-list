@@ -69,6 +69,8 @@
 
 ## related technology (distros on docker/podman)
 
+* [devenv](https://devenv.sh/) featured!
+  Fast, Declarative, Reproducible and Composable Developer Environments using Nix 
 * [devbox](https://www.jetpack.io/devbox/) creates isolated, reproducible development environments that run anywhere
   + https://www.jetpack.io/
 * [home-manager](https://github.com/nix-community/home-manager) managing a user environment using the Nix package manager

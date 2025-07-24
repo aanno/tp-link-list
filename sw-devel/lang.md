@@ -484,3 +484,13 @@ mapper
   mainly about Rust, but also other languages
 * [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
   collection of runnable examples that illustrate various Rust concepts and standard libraries
+
+#### Rust development
+
+* [rustup](https://rustup.rs/)
+  installer for the systems programming language Rust
+
+#### Crates (rust libraries)
+
+* [panamax](https://github.com/panamax-rs/panamax)
+  mirror the Rust and crates.io repositories, for offline usage

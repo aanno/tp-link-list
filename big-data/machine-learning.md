@@ -57,6 +57,12 @@
 * [dynare - macroeconomics modeling for all](https://www.dynare.org/)
 * [nvidia NIM](https://developer.nvidia.com/blog/access-to-nvidia-nim-now-available-free-to-developer-program-members/) try many models in pre-built containers
 
+## SaaS
+
+### Claude.ai
+
+* [Claude desktop on fedora](https://github.com/bsneed/claude-desktop-fedora)
+
 ### Local AI
 
 #### Mozilla
@@ -113,6 +119,11 @@
 ##### AI for programmers, IDE, post-IDE
 
 * https://cosine.sh/ Genie, AutoPM
+
+##### Integrate AI in your apps
+
+* [langchain](https://python.langchain.com/docs/introduction/)
+  + https://www.meilisearch.com/with/langchain
 
 #### language identification
 

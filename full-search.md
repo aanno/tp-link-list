@@ -27,6 +27,17 @@
   + [normalizer](https://groonga.org/docs/reference/normalizers.html)
   + [gcs](https://github.com/groonga/gcs)  Amazon CloudSearch compatible open source full text search service
   + [runguba](https://ranguba.org/) groonga on ruby
+* [meilisearch](https://www.meilisearch.com/)
+  fast, open source, easy to use search engine in rust
+  + https://github.com/meilisearch/meilisearch
+  + [meilisearch on docker](https://hub.docker.com/r/meilisearch/meilisearch/)
+* [typesense](https://typesense.org/)
+  fast, open source, typo tolerant search engine in C++
+  + https://github.com/typesense/typesense
+  + [typesense on docker](https://hub.docker.com/r/typesense/typesense)
+* [bleve](https://blevesearch.com/)
+  modern indexing & search for Go
+  + https://github.com/blevesearch/bleve
 
 
 ### Front end
