@@ -22,6 +22,9 @@
 
 ### Chromecast and alternatives
 
+* [shanocast](https://github.com/rgerganov/shanocast)
+  + https://xakcop.com/post/shanocast/
+  + https://github.com/w3c/openscreenprotocol
 * https://developers.google.com/cast/
   + https://github.com/googlecast
 * [official multi-room group FAQ](https://support.google.com/chromecast/answer/6329016?hl=en)
@@ -54,7 +57,9 @@
 * http://strobe.audio/
 * [snapcast](https://github.com/badaix/snapcast) featured!
 * [fcast](https://fcast.org/)
-  + [grayjay-android](https://github.com/futo-org/grayjay-android) sender for fcast
+  + [grayjay-android](https://github.com/futo-org/grayjay-android) 
+    sender for fcast
+  + [fcast protocol spec](https://gitlab.futo.org/videostreaming/fcast/-/wikis/Protocol-version-3)
 * [NymphCast](http://nyanko.ws/nymphcast.php)
   + https://github.com/MayaPosch/NymphCast
 * http://georgielabs.net/ (stream _to_ android, commercial)
@@ -371,7 +376,9 @@
   + https://github.com/venjum/bluesound old
 * [hifiberry](https://www.hifiberry.com/)
 * [volumio for raspberry](https://volumio.com/get-started/)
-
+* [ottercast](https://cast.otter.jetzt/docs/overview/)
+  + [OtterCastAudioV2](https://github.com/Ottercast/OtterCastAudioV2)
+    Sochip S3 SoC, featuring a Webinterface, shairport-sync, snapcast, Spotify Connect and pulseaudio
 ## Multi-track recorder
 
 * [audacity](https://www.audacityteam.org/)

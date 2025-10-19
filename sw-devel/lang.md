@@ -25,6 +25,15 @@
   + [luajit](https://luajit.org/luajit.html)
 * [pony](https://www.ponylang.io/)
   object-oriented, actor-model, capabilities-secure, high-performance programming language
+* [koka](https://koka-lang.github.io/koka/doc/index.html)
+  Functional Language with Effect Types and Handlers
+  + https://lwn.net/Articles/1033050/
+* [hare](https://harelang.org/)
+  systems programming language designed to be simple, stable, and robust
+* [red](https://www.red-lang.org/)
+  + rebol inspired
+* [idris](https://www.idris-lang.org/)
+  Type-Driven Development
 
 ## JIT
 

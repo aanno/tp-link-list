@@ -49,6 +49,11 @@ the remotely sharing server to work on fedora.
   + https://github.com/rustdesk/rustdesk/wiki/Ideas
   + https://github.com/rustdesk/rustdesk/discussions/6302
 * [remotely](https://github.com/immense/Remotely)
+* [deskreen](https://deskreen.com/lang-de#features)
+  second screen over wifi - not remote desktop
+  + [echoscreen](https://github.com/rozsazoltan/echoscreen)
+    deskreen fork
+    
 
 ## Spice
 

@@ -73,6 +73,8 @@
   + https://en.wikipedia.org/wiki/Juju_(software)
 * [NixOps4](https://github.com/nixops4/nixops4)
   tool for deploying to NixOS machines in a network or the cloud
+* [bicep](https://github.com/Azure/bicep)
+  deploying Azure resources declaratively
 
 ### Pulumi
 
