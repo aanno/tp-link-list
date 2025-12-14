@@ -1,0 +1,15 @@
+[Unit]
+# adapt 1000 to your target UID
+Description=Monitor and fix podman socket permissions
+After=user@1000.service user-runtime-dir@1000.service
+Requires=user@1000.service
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/podman-socket-monitor.sh
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
+
