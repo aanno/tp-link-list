@@ -1,0 +1,14 @@
+[Unit]
+Description=Configure USB power settings at boot
+After=multi-user.target
+Wants=multi-user.target
+
+[Service]
+Type=oneshot
+ExecStartPre=/bin/sleep 20
+ExecStart=/usr/local/bin/usb-power-boot.sh
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
+
